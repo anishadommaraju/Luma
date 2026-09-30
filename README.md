@@ -55,6 +55,10 @@ Do not use a `VITE_` prefix for any of these values. Variables must exist before
 
 The Function enforces same-origin requests, input-size limits, a lightweight per-isolate request limit, required `file_search`, citation validation, and no-store responses. Before sharing the site widely, configure a Cloudflare rate-limiting rule for `/api/chat`; the in-code limit is useful but cannot enforce a single global quota across all Cloudflare isolates. Also review Cloudflare and OpenAI data-handling settings for the intended audience.
 
+### Cloudflare Workers Git deployment
+
+The repository also supports Cloudflare's current Workers Git workflow. `wrangler.jsonc` deploys the Vite `dist` directory as static assets, uses SPA fallback for direct routes, and runs `worker/index.js` first only for `/api/*`. Use `npm run build` as the build command and `npx wrangler deploy` as the deploy command. Configure `OPENAI_API_KEY`, `OPENAI_VECTOR_STORE_ID`, and `OPENAI_MODEL` under the Worker's **Settings → Variables and Secrets** before testing chat.
+
 API reference: https://developers.openai.com/api/docs/guides/tools-file-search
 
 
