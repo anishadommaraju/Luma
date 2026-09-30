@@ -1,0 +1,32 @@
+const docsPdf = 'https://cdn.vanderbilt.edu/t2-main/lab-prd/wp-content/uploads/sites/244/2025/12/Abramowitz-et-al.-2010-Assessment-of-Obsessive-Compulsive-Symptom-Dimensions-Development-and-Evaluation-of-the-Dimensional-Obsessive-Compulsive-Scale.pdf';
+
+export default function Methodology() {
+  return <section className="methodology" id="methodology" aria-labelledby="methodology-heading">
+    <div className="eyebrow dark">METHODOLOGY</div>
+    <h2 id="methodology-heading">How was the OCD Symptom Check developed?</h2>
+    <p>The OCD Compass Symptom Check is a research-informed educational questionnaire designed from established findings in OCD assessment literature. <strong>It is not a diagnostic or clinically validated instrument.</strong></p>
+    <p>We first identified the major symptom dimensions that have been repeatedly observed in OCD research. Abramowitz et al.'s development of the Dimensional Obsessive-Compulsive Scale (DOCS) identified four broadly supported dimensions: contamination and cleaning; responsibility for harm and checking; unacceptable intrusive thoughts and mental rituals; and symmetry/incompleteness and ordering. These dimensions also build on earlier factor-analytic research demonstrating that OCD symptoms cluster into recurring dimensions rather than representing a single uniform symptom pattern. <a href="#method-reference-1" aria-label="Reference 1: Abramowitz and colleagues">[1]</a> <a href="#method-reference-2" aria-label="Reference 2: Bloch and colleagues">[2]</a></p>
+    <p>For each dimension, OCD Compass uses original plain-language questions addressing three aspects of the experience: the unwanted concern or thought, the behavioral or mental response to it, and its persistence, avoidance, or recurrence. This structure reflects research showing that OCD dimensions often involve linked patterns of obsessions, compulsions, neutralizing behaviors, and avoidance rather than isolated symptoms. <a href="#method-reference-1">[1]</a></p>
+    <p>We then assess functional impact separately. Questions examine time occupied, distress, interference with everyday life, difficulty controlling or resisting the behavior, and avoidance. These constructs are widely used in established OCD severity assessment approaches.</p>
+    <p>Evidence-based assessment reviews emphasize symptom severity, impairment, and functioning, while established measures such as the Yale–Brown Obsessive Compulsive Scale (Y-BOCS) evaluate factors including time, distress, interference, resistance, and control. Avoidance has also been identified as an important component that can otherwise lead to underestimating OCD-related impairment. <a href="#method-reference-1">[1]</a> <a href="#method-reference-3">[3]</a></p>
+    <p>The resulting questionnaire is therefore intended to identify <strong>patterns worth exploring</strong>, not to determine whether someone has OCD. Clinical diagnosis requires a more comprehensive assessment by a qualified professional.</p>
+    <aside className="methodology-limit">These references inform the design; they do not validate OCD Compass's original questions, scoring rules, or professional-evaluation prompt. This check does not administer DOCS or Y-BOCS, and it does not apply their clinical cutoffs.</aside>
+    <h3>How the research dimensions connect</h3>
+    <p>The DOCS paper describes recurring links between concerns and responses. These are examples of patterns, not a checklist for diagnosis. <a href="#method-reference-1">[1]</a></p>
+    <dl className="dimension-map">
+      <div><dt>Contamination</dt><dd>Washing and cleaning</dd></div>
+      <div><dt>Responsibility for harm or mistakes</dt><dd>Checking</dd></div>
+      <div><dt>Order and symmetry</dt><dd>Ordering and arranging</dd></div>
+      <div><dt>Unwanted sexual, religious, or violent thoughts</dt><dd>Mental rituals and neutralizing responses</dd></div>
+    </dl>
+    <h3>Scientific methodology references</h3>
+    <ol className="methodology-references">
+      <li id="method-reference-1"><p>Abramowitz JS, Deacon BJ, Olatunji BO, et al. (2010). Assessment of obsessive-compulsive symptom dimensions: Development and evaluation of the Dimensional Obsessive-Compulsive Scale. <em>Psychological Assessment, 22</em>(1), 180–198. DOI: <a href="https://doi.org/10.1037/a0018260">10.1037/a0018260</a>.</p><p><strong>Primary foundation:</strong> supports the four symptom dimensions and multidimensional assessment of severity, including avoidance.</p><div className="reference-links"><a href="https://pubmed.ncbi.nlm.nih.gov/20230164/">PubMed →</a><a href={docsPdf}>Full paper (PDF) →</a></div></li>
+      <li id="method-reference-2"><p>Bloch MH, Landeros-Weisenberger A, Rosario MC, Pittenger C, Leckman JF. (2008). Meta-analysis of the symptom structure of obsessive-compulsive disorder. <em>American Journal of Psychiatry, 165</em>(12), 1532–1542. DOI: <a href="https://doi.org/10.1176/appi.ajp.2008.08020320">10.1176/appi.ajp.2008.08020320</a>.</p><p>Supports the idea that OCD is heterogeneous and that symptoms reliably cluster into dimensions rather than one generic OCD phenotype.</p><a href="https://pubmed.ncbi.nlm.nih.gov/18923068/">PubMed →</a></li>
+      <li id="method-reference-3"><p>Rapp AM, Bergman RL, Piacentini J, McGuire JF. (2016). Evidence-Based Assessment of Obsessive-Compulsive Disorder. <em>Journal of Central Nervous System Disease, 8</em>, 13–29. DOI: <a href="https://doi.org/10.4137/JCNSD.S38359">10.4137/JCNSD.S38359</a>.</p><p>Supports separating symptom identification from severity, impairment, and functioning, using evidence-based assessment principles rather than symptom presence alone.</p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4994744/">PubMed Central →</a></li>
+    </ol>
+    <h3>Public-facing clinical context</h3>
+    <p><a href="https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over">National Institute of Mental Health — Obsessive-Compulsive Disorder: When Unwanted Thoughts or Repetitive Behaviors Take Over →</a></p>
+    <p>Supports the public-facing explanation that OCD involves unwanted obsessions and compulsions that can be time-consuming, distressing, difficult to control, or interfere with daily life. This resource provides general clinical context alongside the three scientific methodology references above.</p>
+  </section>;
+}

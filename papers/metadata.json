@@ -1,0 +1,340 @@
+{
+  "Stein_2019_OCD_Primer.pdf": {
+    "title": "Obsessive–compulsive disorder",
+    "year": "2019",
+    "topic": "Foundations",
+    "evidence_type": "review",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7370844/",
+    "pmcid": "PMC7370844",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Dan J Stein",
+      "Daniel L C Costa",
+      "Christine Lochner",
+      "Euripedes C Miguel",
+      "Y C Janardhan Reddy",
+      "Roseli G Shavitt",
+      "Odile A van den Heuvel",
+      "H Blair Simpson"
+    ],
+    "citation_author": "Stein et al."
+  },
+  "Clinical_Guidelines_2025.pdf": {
+    "title": "Clinical practice guidelines for obsessive-compulsive disorder: 2025 update",
+    "year": "2026",
+    "topic": "Foundations",
+    "evidence_type": "clinical guideline",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12900050/",
+    "pmcid": "PMC12900050",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Shyam Sundar Arumugham",
+      "Janardhanan C Narayanaswamy",
+      "Srinivas Balachander",
+      "Eesha Sharma",
+      "TS Jaisoorya",
+      "Sai Chaitanya Reddy",
+      "Aleem M Siddiqui",
+      "Avinash Desouza",
+      "Parag S Shah",
+      "YC Janardhan Reddy"
+    ]
+  },
+  "Evidence_Based_Assessment_OCD.pdf": {
+    "title": "Evidence-Based Assessment of Obsessive–Compulsive Disorder",
+    "year": "2016",
+    "topic": "Assessment",
+    "evidence_type": "review",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4994744/",
+    "pmcid": "PMC4994744",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Amy M Rapp",
+      "R Lindsay Bergman",
+      "John Piacentini",
+      "Joseph F McGuire"
+    ]
+  },
+  "OCI_R_Psychometrics.pdf": {
+    "title": "A contemporary psychometric evaluation of the Obsessive Compulsive Inventory – Revised (OCI-R)",
+    "year": "2015",
+    "topic": "Assessment",
+    "evidence_type": "individual research study",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4530108/",
+    "pmcid": "PMC4530108",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Bethany M Wootton",
+      "Gretchen J Diefenbach",
+      "Laura B Bragdon",
+      "Gail Steketee",
+      "Randy O Frost",
+      "David F Tolin"
+    ]
+  },
+  "OCD_Symptom_Dimensions.pdf": {
+    "title": "Meta-Analysis of the Symptom Structure of Obsessive-Compulsive Disorder",
+    "year": "2008",
+    "topic": "Symptoms",
+    "evidence_type": "systematic review/meta-analysis",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3972003/",
+    "pmcid": "PMC3972003",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Michael H Bloch",
+      "Angeli Landeros-Weisenberger",
+      "Maria C Rosario",
+      "Christopher Pittenger",
+      "James F Leckman"
+    ]
+  },
+  "Taboo_Thoughts_Checking.pdf": {
+    "title": "Taboo thoughts and doubt/checking: a refinement of the factor structure for obsessive-compulsive disorder symptoms",
+    "year": "2007",
+    "topic": "Symptoms",
+    "evidence_type": "individual research study",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2039929/",
+    "pmcid": "PMC2039929",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Anthony Pinto",
+      "Jane L Eisen",
+      "Maria C Mancebo",
+      "Benjamin D Greenberg",
+      "Robert L Stout",
+      "Steven A Rasmussen"
+    ]
+  },
+  "Thought_Action_Fusion.pdf": {
+    "title": "Explanation of Obsessive-Compulsive Disorder and Major Depressive Disorder on the Basis of Thought-Action Fusion",
+    "year": "2013",
+    "topic": "Symptoms",
+    "evidence_type": "individual research study",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3939993/",
+    "pmcid": "PMC3939993",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Hossein Ghamari Kivi",
+      "Ne’mat Mohammadipour Rik",
+      "Fariba Sadeghi Movahhed"
+    ]
+  },
+  "Pediatric_OCD_Review.pdf": {
+    "title": "Obsessive-compulsive disorder in children and adolescents: epidemiology, diagnosis and management",
+    "year": "2020",
+    "topic": "Pediatric",
+    "evidence_type": "individual research study",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7082239/",
+    "pmcid": "PMC7082239",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Ahsan Nazeer",
+      "Finza Latif",
+      "Aisha Mondal",
+      "Muhammad Waqar Azeem",
+      "Donald E Greydanus"
+    ]
+  },
+  "Child_OCD_Assessment.pdf": {
+    "title": "Evidence-Based Assessment of Child Obsessive Compulsive Disorder: Recommendations for Clinical Practice and Treatment Research",
+    "year": "2010",
+    "topic": "Pediatric",
+    "evidence_type": "review",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2847172/",
+    "pmcid": "PMC2847172",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Adam B Lewin",
+      "John Piacentini"
+    ]
+  },
+  "Family_Accommodation.pdf": {
+    "title": "Family Accommodation in Pediatric Obsessive Compulsive Disorder",
+    "year": "2012",
+    "topic": "Pediatric",
+    "evidence_type": "review",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4011018/",
+    "pmcid": "PMC4011018",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Eli R Lebowitz",
+      "Michael Bloch"
+    ]
+  },
+  "ERP_Review.pdf": {
+    "title": "Exposure and response prevention for obsessive-compulsive disorder: A review and new directions",
+    "year": "2019",
+    "topic": "Treatment",
+    "evidence_type": "review",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6343408/",
+    "pmcid": "PMC6343408",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Dianne M Hezel",
+      "H Blair Simpson"
+    ]
+  },
+  "ERP_Current_Perspectives.pdf": {
+    "title": "Exposure and Response Prevention in the Treatment of Obsessive-Compulsive Disorder: Current Perspectives",
+    "year": "2019",
+    "topic": "Treatment",
+    "evidence_type": "review",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6935308/",
+    "pmcid": "PMC6935308",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Clara Law",
+      "Christina L Boisseau"
+    ]
+  },
+  "CBT_OCD.pdf": {
+    "title": "Cognitive-Behavioral Therapy for Obsessive-Compulsive Disorder",
+    "year": "2022",
+    "topic": "Treatment",
+    "evidence_type": "review",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11170287/",
+    "pmcid": "PMC11170287",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Samuel D Spencer",
+      "Jordan T Stiede",
+      "Andrew D Wiese",
+      "Wayne K Goodman",
+      "Andrew G Guzick",
+      "Eric A Storch"
+    ]
+  },
+  "SSRI_MetaAnalysis.pdf": {
+    "title": "Meta-Analysis of the Dose-Response Relationship of SSRI in Obsessive-Compulsive Disorder",
+    "year": "2009",
+    "topic": "Treatment",
+    "evidence_type": "systematic review/meta-analysis",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2888928/",
+    "pmcid": "PMC2888928",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Michael H Bloch",
+      "Joseph McGuire",
+      "Angeli Landeros-Weisenberger",
+      "James F Leckman",
+      "Christopher Pittenger"
+    ]
+  },
+  "OCD_Comorbidity_MetaAnalysis.pdf": {
+    "title": "Comorbidities in Obsessive-Compulsive Disorder Across the Lifespan: A Systematic Review and Meta-Analysis",
+    "year": "2021",
+    "topic": "Comorbidity",
+    "evidence_type": "systematic review/meta-analysis",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8631971/",
+    "pmcid": "PMC8631971",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Eesha Sharma",
+      "Lavanya P Sharma",
+      "Srinivas Balachander",
+      "Boyee Lin",
+      "Harshini Manohar",
+      "Puneet Khanna",
+      "Cynthia Lu",
+      "Kabir Garg",
+      "Tony Lazar Thomas",
+      "Anthony Chun Lam Au",
+      "Robert R Selles",
+      "Davíð R M A Højgaard",
+      "Gudmundur Skarphedinsson",
+      "S Evelyn Stewart"
+    ]
+  },
+  "Neurocircuit_Models.pdf": {
+    "title": "Neurocircuit models of obsessive-compulsive disorder: limitations and future directions for research",
+    "year": "2021",
+    "topic": "Neuroscience",
+    "evidence_type": "review",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9041967/",
+    "pmcid": "PMC9041967",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Elizabeth Shephard",
+      "Marcelo C Batistuzzo",
+      "Marcelo Q Hoexter",
+      "Emily R Stern",
+      "Pedro F Zuccolo",
+      "Carolina Y Ogawa",
+      "Renata M Silva",
+      "Andre R Brunoni",
+      "Daniel L Costa",
+      "Victoria Doretto",
+      "Leonardo Saraiva",
+      "Carolina Cappi",
+      "Roseli G Shavitt",
+      "H Blair Simpson",
+      "Odile A van den Heuvel",
+      "Euripedes C Miguel"
+    ]
+  },
+  "Neuroimaging_OCD.pdf": {
+    "title": "Neuroimaging findings in obsessive–compulsive disorder: A narrative review to elucidate neurobiological underpinnings",
+    "year": "2019",
+    "topic": "Neuroscience",
+    "evidence_type": "review",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6343409/",
+    "pmcid": "PMC6343409",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Nandita Hazari",
+      "Janardhanan C Narayanaswamy",
+      "Ganesan Venkatasubramanian"
+    ]
+  },
+  "OCD_Suicide_Risk.pdf": {
+    "title": "Suicide Risk in Obsessive-Compulsive Disorder and Exploration of Risk Factors: A Systematic Review",
+    "year": "2019",
+    "topic": "Safety",
+    "evidence_type": "systematic review/meta-analysis",
+    "retrieval_group": "safety",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7059158/",
+    "pmcid": "PMC7059158",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Umberto Albert",
+      "Diana De Ronchi",
+      "Giuseppe Maina",
+      "Maurizio Pompili"
+    ]
+  },
+  "eOCD_Technology_Review.pdf": {
+    "title": "How New Technologies Can Improve Prediction, Assessment, and Intervention in Obsessive-Compulsive Disorder (e-OCD): Review",
+    "year": "2019",
+    "topic": "Digital_Health",
+    "evidence_type": "review",
+    "retrieval_group": "general",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6930507/",
+    "pmcid": "PMC6930507",
+    "edition": "generated text reading copy",
+    "authors": [
+      "Florian Ferreri",
+      "Alexis Bourla",
+      "Charles-Siegfried Peretti",
+      "Tomoyuki Segawa",
+      "Nemat Jaafari",
+      "Stéphane Mouchabac"
+    ]
+  }
+}
