@@ -1,5 +1,5 @@
-import metadataByFilename from './_metadata.generated.js';
-import {SYSTEM_INSTRUCTIONS} from '../../server/instructions.mjs';
+import metadataByFilename from './citation-metadata.generated.js';
+import {SYSTEM_INSTRUCTIONS} from '../server/instructions.mjs';
 
 export const OUT_OF_SCOPE_MESSAGE='Im sorry i cant answer questions unrelated to OCD';
 

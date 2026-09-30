@@ -1,8 +1,8 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {onRequestGet as health} from './health.js';
-import {onRequestPost as chat} from './chat.js';
-import {OUT_OF_SCOPE_MESSAGE,parseResponse,requestBody} from './_shared.js';
+import {onRequestGet as health} from '../functions/api/health.js';
+import {onRequestPost as chat} from '../functions/api/chat.js';
+import {OUT_OF_SCOPE_MESSAGE,parseResponse,requestBody} from './shared.js';
 
 test('Cloudflare health reads only server-side bindings',async()=>{
   const response=health({env:{OPENAI_API_KEY:'secret',OPENAI_VECTOR_STORE_ID:'vs_test',OPENAI_MODEL:'model'}});

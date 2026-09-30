@@ -1,4 +1,4 @@
-import {json,openAI,parseResponse,requestBody,safetyCheck} from './_shared.js';
+import {json,openAI,parseResponse,requestBody,safetyCheck} from '../../cloudflare/shared.js';
 
 const requests=new Map();
 const encoder=new TextEncoder();

@@ -10,7 +10,7 @@
     "preview": "vite preview --host 127.0.0.1",
     "api": "node server/index.mjs",
     "ingest": "node scripts/ingest-papers.ts",
-    "test": "node --test server/rag.test.mjs scripts/screening.test.mjs functions/api/cloudflare.test.mjs"
+    "test": "node --test server/rag.test.mjs scripts/screening.test.mjs cloudflare/cloudflare.test.mjs"
   },
   "dependencies": {
     "react": "^19.1.0",
