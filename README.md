@@ -51,6 +51,8 @@ In the Pages project, open **Settings → Variables and Secrets** and configure 
 - `OPENAI_VECTOR_STORE_ID`: set to the existing OCD research vector-store ID
 - `OPENAI_MODEL`: set to `gpt-5.6-luna`
 
+`wrangler.jsonc` keeps the model and vector-store ID in source control and declares `OPENAI_API_KEY` as a required secret. Never add the API key to `vars`; set it as a Secret in the Cloudflare dashboard or with `wrangler secret put OPENAI_API_KEY`.
+
 Do not use a `VITE_` prefix for any of these values. Variables must exist before a deployment that uses them, so redeploy after saving them. The PDF files are not uploaded at application startup and are not required in the Pages output; the deployed chat reuses the configured OpenAI vector store. When `papers/metadata.json` changes, run `npm run prepare:cloudflare` and commit the refreshed `cloudflare/citation-metadata.generated.js` file.
 
 The Function enforces same-origin requests, input-size limits, a lightweight per-isolate request limit, required `file_search`, citation validation, and no-store responses. Before sharing the site widely, configure a Cloudflare rate-limiting rule for `/api/chat`; the in-code limit is useful but cannot enforce a single global quota across all Cloudflare isolates. Also review Cloudflare and OpenAI data-handling settings for the intended audience.
