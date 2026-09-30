@@ -2,7 +2,13 @@
   "name": "pelagic",
   "private": true,
   "version": "1.0.0",
+  "packageManager": "pnpm@10.11.1",
   "type": "module",
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
+  },
   "scripts": {
     "dev": "vite --host 127.0.0.1",
     "prepare:cloudflare": "node scripts/generate-cloudflare-metadata.mjs",
