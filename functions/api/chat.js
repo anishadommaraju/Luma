@@ -18,11 +18,12 @@ export async function onRequestPost({request,env}){
     const question=data.question;
     if(typeof question!=='string'||!question.trim()||question.length>2000)return json({error:'Enter a question of up to 2,000 characters.'},400);
     const history=Array.isArray(data.history)?data.history.filter(item=>typeof item==='string').slice(-3).map(item=>item.slice(0,2000)):[];
+    const audience=['kid','teen','caregiver'].includes(data.audience)?data.audience:'caregiver';
     const safety=safetyCheck(question);
     const notice=safety.relevant?'Safety guidance, separate from research: If you or someone else is in immediate danger, or you may act on thoughts of harm, contact local emergency services now and reach out to someone you trust. Move away from weapons or other means of harm if you can do so safely. This assistant cannot assess immediate risk.':null;
     if(safety.immediate)return json({segments:[],sources:[],retrieved:[],notice,insufficient:true});
     if(!env.OPENAI_API_KEY||!env.OPENAI_VECTOR_STORE_ID)return json({error:'Research library is not connected. Configure the required Cloudflare variables and secrets.'},503);
-    const result=await openAI(env,requestBody(question,history,env.OPENAI_VECTOR_STORE_ID,env.OPENAI_MODEL||'gpt-5.6-luna'));
+    const result=await openAI(env,requestBody(question,history,env.OPENAI_VECTOR_STORE_ID,env.OPENAI_MODEL||'gpt-5.6-luna',audience));
     return json({...parseResponse(result),notice});
   }catch(error){
     const message=error instanceof Error?error.message:'Unable to answer right now.';

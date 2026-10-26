@@ -1,0 +1,249 @@
+Mol Psychiatry. Author manuscript; available in PMC: 2011 Feb 1.
+Published in final edited form as: Mol Psychiatry. 2009 May 26;15(8):850–855. doi: 10.1038/mp.2009.50
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+Meta-Analysis of the Dose-Response Relationship of SSRI in Obsessive-Compulsive Disorder
+Michael H Bloch
+Michael H Bloch, MD, MS
+* Yale Child Study Center, Yale University School of Medicine, New Haven, CT
+Find articles by Michael H Bloch
+*, Joseph McGuire
+Joseph McGuire, BA
+* Yale Child Study Center, Yale University School of Medicine, New Haven, CT
+Find articles by Joseph McGuire
+*, Angeli Landeros-Weisenberger
+Angeli Landeros-Weisenberger, MD
+* Yale Child Study Center, Yale University School of Medicine, New Haven, CT
+Find articles by Angeli Landeros-Weisenberger
+*, James F Leckman
+James F Leckman, MD
+* Yale Child Study Center, Yale University School of Medicine, New Haven, CT
+Find articles by James F Leckman
+*, Christopher Pittenger
+Christopher Pittenger, MD, PhD
+# Department of Psychiatry, Yale University School of Medicine, New Haven, CT
+Find articles by Christopher Pittenger
+#
+Author information
+Article notes
+Copyright and License information
+* Yale Child Study Center, Yale University School of Medicine, New Haven, CT
+# Department of Psychiatry, Yale University School of Medicine, New Haven, CT
+✉
+Correspondence: Michael H. Bloch, MD, MS Child Study Center, Yale University School of Medicine, PO Box 20709, New Haven, CT 06520, Michael.bloch@yale.edu
+Issue date 2010 Aug.
+PMC Copyright notice
+PMCID: PMC2888928 NIHMSID: NIHMS154291 PMID: 19468281
+The publisher's version of this article is available at Mol Psychiatry
+Abstract
+We sought to determine differences in efficacy and tolerability between different doses of selective serotonin reuptake inhibitors in the treatment of obsessive-compulsive disorder (OCD) using meta-analysis.. We identified 9 studies involving 2268 subjects that were randomized, double-blind placebo-controlled clinical trials that compared multiple, fixed-doses of selective serotonin reuptake inhibitors (SSRIs) to each other and to placebo in the treatment of adults with OCD. Change in Y-BOCS score, proportion of treatment responders, and dropouts (all-cause and due to side-effects) were determined for each included study. Weighted mean difference was used to examine mean change in Y-BOCS score. Pooled absolute risk difference was used to examine dichotomous outcomes. Meta-analysis was performed using a fixed effects model in RevMan 4.2.8. We found that compared with either low or medium doses, higher doses of SSRIs were associated with improved treatment efficacy, using either Y-BOCS score or proportion of treatment responders as an outcome. Dose of SSRIs was not associated with the number of all-cause dropouts. Higher doses of SSRIs were associated with significantly higher proportion of dropouts due to side-effects. These results suggests that higher doses of SSRIs are associated with greater efficacy in the treatment of OCD. This SSRI efficacy pattern stands in contrast to other psychiatric disorders like Major Depressive Disorder. This greater treatment efficacy is somewhat counterbalanced by the greater side-effect burden with higher doses of SSRIs. At present, there are insufficient data to generalize these findings to children or adolescents with OCD.
+Keywords: Serotonin reuptake inhibitors, obsessive-compulsive disorder, meta-analysis
+INTRODUCTION
+Obsessive-Compulsive Disorder (OCD) is characterized by obsessions (unwanted, intrusive thoughts, impulses or images) and compulsions (mental or physical acts undertaken to relieve the anxiety of the obsession) that cause distress. OCD has several symptom dimensions, including hoarding, forbidden thoughts (aggression, sexual and religious obsessions), symmetry (symmetry obsessions and counting, ordering, repeating and arranging compulsions) and cleaning, that are stable across the lifespan.1, 2 OCD has a cross-sectional prevalence between 1% and 3% and is projected to become one of the top 10 leading causes of disability worldwide within the next 20 years.3–5
+Cognitive behavioral therapy and pharmacotherapy with selective serotonin reuptake inhibitors (SSRIs) are the first-line treatments for OCD.6 SSRIs have been demonstrated to have superior efficacy to placebo 7. A recent meta-analysis suggested that SSRIs have a number needed to treat (NNT) to achieve treatment response of 5.4 (95% CI: 3.9–8.2) when compared to placebo 7. Many OCD experts advocate the use of higher and quickly escalating doses of SSRI in the treatment of OCD, as compared to other conditions where antidepressants are effective, such as other anxiety disorders and major depressive disorder.6, 8 The American Psychiatric Association Practice Guidelines recommend higher target doses of SSRIs in the treatment of OCD than they do for depression.9, 10 The clinical definitions of treatment resistance and refractory OCD require patients to fail to experience improvement on multiple SSRI at the maximum tolerated dose for an adequate duration (at least 2 months) 8. Thus OCD patients are treated with higher doses of SSRI compared to many other conditions before progressing to alternative or augmentation therapies However, controlled studies have not consistently shown benefit from higher doses of SSRIs, which may carry a higher side effect burden. Indeed, a meta-analysis of antidepressant agents in the treatment of Major Depressive Disorder has demonstrated a significantly increased side-effect burden but no improvement in efficacy with higher doses.11 In OCD, some fixed-dose SSRI studies have demonstrated greater efficacy with higher doses of SSRIs12, 13 while most have not.14–19 No such meta-analyses have been conducted for the treatment of OCD.
+The goal of this current meta-analysis was to better quantify the dose-response relationship of SSRI in the treatment of adults with OCD. We examined double-blind, placebo-controlled, fixed-dose trials of SSRIs that included multiple drug dosages, to determine (1) if higher doses of SSRI are more effective in the treatment of OCD compared to lower doses and (2) the relative side effect burden of higher doses of SSRI compared to lower doses.
+MATERIALS AND METHODS
+Search Strategy for Identification of Studies
+Two reviewers (JM and MHB) searched PubMed on November 1, 2008 for relevant studies using the search ((serotonin uptake inhibitors or fluoxetine or sertraline or paroxetine or citalopram or escitalopram or fluvoxamine) and obsessive-compulsive disorder) and limited the search to randomized clinical trials. There was no language limitation on our search. The references of relevant review articles, (identified using the same search strategy but limited to review articles), were scanned for additional eligible trials. Additionally, the Food and Drug Administration website at http://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.Search_Drug_Name was searched for additional unpublished fixed dose drug trials used for FDA approval of serotonin reuptake inhibitors for OCD, using the generic names of the medications.
+Selection of Studies
+The titles and abstracts of studies obtained by this search strategy were scrutinized by two reviewers (JM and MHB) to determine if they were potentially eligible for inclusion in this review. Eligibility for the study was based upon scrutiny of the full articles for the following inclusion criteria (1) they were randomized clinical trials comparing at least two different fixed doses of a single selective serotonin reuptake inhibitor with each other and with placebo; (2) participants included were adults diagnosed with Obsessive-Compulsive Disorder by explicit criteria i.e. DSM-IV or ICD-10 criteria and (3) Obsessive-compulsive disorder symptom severity was measured before and after medication treatment using the Yale-Brown Obsessive-Compulsive Scale (Y-BOCS).20
+Outcome Measures
+Our primary outcome measure was mean change in Y-BOCS severity during the course of treatment. Secondary outcome measures included proportion of treatment responders (assessed by the original manuscript criteria), proportion of dropouts, and proportion of dropouts due to side effects. The latter two measures served as a proxy for medication tolerability. The trade-off between improved efficacy and increased side effect burden is important when considering dose increases of medication.
+Meta-Analytic Procedure Used
+All statistical analysis was performed using RevMan 4.2.8 and specially designed spreadsheets in Microsoft Excel. Our primary outcome (mean change in Y-BOCS score) was analyzed using weighted mean difference. Secondary outcome measures (proportion of treatment responders, proportion of dropouts and proportion of dropouts due to side effects) were analyzed using pooled absolute risk difference (ARD). Low, medium and high dose categories of SSRI of each available SSRI were calculated based on fluoxetine equivalents of SSRI medications used in previous meta-analytic studies of antidepressants and according to the APA dose recommendations for individual SSRI in OCD.9, 11 Table 1 depicts dose stratification categories of all eligible SSRIs, which were determined prior to identification of studies. The initial test of significance for continuous data was a one-way ANOVA. The Chi-Square Test for Trend was used for dichotomous outcomes. If this initial test was significant (p<0.05) then each of the SSRI dose categories (Low, Medium, High and placebo) was compared to each other in RevMan 4.2.8 to detect significant differences. For all outcome measures, 95% confidence intervals (CI) are reported. The number needed to treat or harm (NNT or NNH) is also reported, as this statistic is the most clinically relevant when considering the use of medications to treat OCD. Publication bias was analyzed by entering data from included trials into a funnel plot (trial effect size plotted against sample size).
+Table 1.
+Dose Classifications for Selective-Serotonin Reuptake Inhibitors. These dose categories were defined a priori and were calculated based on fluoxetine equivalents of SSRIs used in previous meta-analytic studies of antidepressants and according to the American Psychiatric Association dose recommendations for individual SSRIs in Obsessive-Compulsive Disorder.9, 11
+Medication
+Minimum
+Maximum
+Low
+Medium
+High
+Fluoxetine
+20mg
+80mg
+20–30mg
+40–50mg
+60–80mg
+Sertraline
+50mg
+200mg
+50–75mg
+100–175mg
+200mg
+Paroxetine
+20mg
+60mg
+20–30mg
+40–50mg
+60mg
+Fluvoxamine
+150mg
+300mg
+50–150mg
+200–250mg
+300–350mg
+Citalopram
+20mg
+60–80mg
+20–30mg
+40–50mg
+60–80mg
+Escitralopram
+10mg
+40mg
+10–15mg
+20–25mg
+30–40mg
+Open in a new tab
+Heterogeneity between trials was assessed visually from the forest plots and assessed using the I2 heterogeneity statistic and χ2 for homogeneity in RevMan. If heterogeneity was determined (p-value less than 0.1 for the χ2 for homogeneity in RevMan) for any of the analyses we planned several stratified meta-analyses to explore sources heterogeneity. In cases of significant heterogeneity we planned to stratify studies by (1) type of SSRI and (2) length of SSRI treatment (less than 6 weeks, 6–8 weeks, greater than 8 weeks of treatment with SSRI).
+RESULTS
+Included Studies
+Nine studies involving 2268 adult subjects are included in this meta-analysis.12–19, 21 Table 2 depicts the characteristics of included studies. None of the 9 studies demonstrated an SSRI dose-response curve with increasing improvement in Y-BOCS score for each dosing category. There were 3 included studies that examined fluoxetine, 2 studies examined sertraline and single studies that examined fluvoxamine, citalopram, escitalopram and paroxetine. One additional study was excluded from the meta-analysis because its data was part of another included study.22
+Table 2.
+Characteristics of Included Studies. We found 9 studies involving 2268 OCD patients in randomized, double-blind, placebo-controlled, fixed-dose studies of selective serotonin reuptake inhibitors in OCD. The results in the right-most column indicate statistically significant differences between SSRI dose categories for individual studies using the Y-BOCS scale.
+Study
+Year
+Medication
+Duration
+N
+Response Criteria
+LOW
+MEDIUM
+HIGH
+RESULTS
+Montgomery
+1993
+Fluoxetine
+8 weeks
+214
+25% Y-BOCS and CGI<3
+20mg
+40mg
+60mg
+HIGH = MEDIUM = LOW = PLACEBO
+Tollefson
+1994
+Fluoxetine
+13 weeks
+355
+CGI <3
+20mg
+40mg
+60mg
+HIGH = MEDIUM =LOW > PLACEBO
+Greist
+1995
+Sertaline
+12 weeks
+325
+CGI <3
+50mg
+100mg
+200mg
+HIGH = LOW > PLACEBO, MEDIUM not statistically different from other groups
+Nakajima
+1996
+Fluvoxamine
+8 weeks
+131
+CGI <3
+150mg
+300mg
+HIGH=LOW>PLACEBO
+Ushijima
+1997
+Sertaline
+8 weeks
+104
+CGI <3
+100mg
+200mg
+HIGH=MEDIUM>PLACEBO
+Zitterl
+1999
+Fluoxetine
+8 weeks
+53
+CGI <3
+20mg
+40mg
+60mg
+HIGH =MEDIUM > LOW = PLACEBO
+Montgomery
+2001
+Citalopram
+12 weeks
+401
+25% YBOCS
+20mg
+40mg
+60mg
+HIGH = MEDIUM =LOW > PLACEBO
+Hollander
+2003
+Paroxetine
+12 weeks
+348
+20mg
+40mg
+60mg
+HIGH > LOW = PLACEBO, MEDIUM > PLACEBO but MEDIUM = HIGH, LOW
+Stein
+2007
+Escitalopram
+12 weeks
+337
+25% YBOCS
+10mg
+20mg
+MEDIUM > PLACEBO, LOW not statistically different from other groups
+Open in a new tab
+SSRI Efficacy
+One-way ANOVA demonstrated a significant difference in mean change in Y-BOCS score with different SSRI doses (F=10.8, df=3, p<0.001). All three SSRI dose categories, Low (WMD=2.5, 95% confidence interval (CI): 1.6–3.4, z=5.6, p<0.001), Medium (WMD=2.6, 95% CI: 1.7–3.5, z=5.5, p<0.001) and High (WMD=3.9, 95% CI: 2.9–4.9, z=7.8, p<0.001) showed significantly greater improvement in Y-BOCS scores when compared to placebo. Furthermore, high dose SSRI pharmacotherapy showed significantly greater improvement in Y-BOCS score than low (WMD=2.1, 95% CI: 1.0–3.1, z=4.0, p<0.001) or medium (WMD=1.8, 95% CI: 0.7–2.9, z=3.3, p=0.001) dose SSRI pharmacotherapy. Medium dose SSRI pharmacotherapy failed to show significantly greater improvement in Y-BOCS score compared to low-dose SSRI pharmacotherapy (WMD=0.4, 95% CI: −0.5–1.4, z=0.9, p=0.4).
+The chi-square test for trend demonstrated a significantly increased likelihood of treatment response with higher doses of SSRI (χ2=27.1, df=1, p<0.001). All three dose categories of SSRI treatment, low (ARD=0.16 (95%CI: 0.11–0.22), NNT=6.3 (95%CI: 4.5–9.1), z=5.7, p<0.001), medium (ARD=0.16 (95%CI: 0.10–0.21), NNT=6.3 (95%CI: 4.8–10.0), z=5.4, p<0.001) and high (ARD=0.22 (95%CI: 0.16–0.28), NNT=4.5 (95%CI: 3.6–6.3), z=7.2, p<0.001) were statistically superior in terms of treatment response when compared to placebo. High doses of SSRI were statistically superior to medium dose pharmacotherapy (ARD=0.08 (95%CI: 0.01–0.15), NNT=12.5 (95%CI: 6.7–100), z=2.3, p=0.02) and low dose pharmacotherapy (ARD=0.07 (95%CI: 0.00–0.14), NNT=14.3 (95%CI: 7.1–∞), z=2.0, p<0.05). Medium dose SSRI did not show significant differences in likelihood of treatment response compared to low dose SSRI pharmacotherapy (ARD=0.01 (95%CI: −0.06–0.07), NNT=100 (95%CI: 14.3–∞), z=0.2, p=0.86). There was no evidence of heterogeneity or publication bias in either outcome of treatment efficacy. Figure 1 graphs the mean change in Y-BOCS score and proportion of treatment responders by SSRI dose category.
+Figure 1. SSRI Dose-Response Relationship.
+Open in a new tab
+Plots track changes in Y-BOCS ratings (blue) and Absolute Difference in Percentage Treatment Responders (red) of Selective Serotonin-Reuptake Inhibitors (SSRIs) when compared to placebo. *=statistically significantly greater response compared to placebo, #= statistically significantly greater response when compared to low-dose SSRI pharmacotherapy and ^= statistically significantly greater response when compared to medium-dose SSRI pharmacotherapy. Threshold for statistical significance is less than 0.05 and results apply to both measures of response
+SSRI Tolerability
+There was no significant trend in terms of the proportion of all-cause dropouts based on SSRI dose (χ2=1.6, df=1, p=0.20). None of the different SSRI dose categories differed from placebo or each other in proportion of all-cause dropouts.
+The chi-square test for trend demonstrated significantly increased likelihood for dropouts due to side-effects at higher doses of SSRI (χ2=13.6, df=1, p<0.001). High (ARD=0.07 (95%CI: 0.03–0.11), NNH=14.3 (95%CI: 9.9–50.0), z=3.5, p<0.001) and medium (ARD=0.06 (95%CI: 0.02–0.10), NNH=16.7 (95%CI: 10.0–50.0), z=3.1, p<0.001) doses of SSRI led to significantly more dropouts due to side-effects than the placebo. Low dose SSRI pharmacotherapy (ARD=0.02 (95%CI: −0.01–0.06), NNH=50.0 (95%CI: 16.7–∞), z=1.2, p=0.23) was not significantly different from placebo in this measure. High dose SSRI pharmacotherapy (ARD=0.05 (95%CI: 0.01–0.09), NNH=16.7 (95%CI: 11.1–100), z=2.2, p=0.03) had a greater proportion of dropouts due to side-effects than low-dose pharmacotherapy. High dose pharmacotherapy (ARD=0.01 (95%CI: −0.03–0.06), NNH=100 (95%CI: 16.7–∞), z=0.5, p=0.60) was not significantly different from medium dose SSRI pharmacotherapy in terms of dropouts due to side-effects Medium dose SSRI pharmacotherapy did not separate from low-dose SSEI pharmacotherapy in terms of dropouts due to side-effects (ARD=0.04 (95%CI: −0.01–0.08), NNH=25.0 (95%CI: 12.5–∞), z=1.6, p=0.11). There was no evidence of heterogeneity or publication bias in either outcome of treatment tolerability. Figure 2 graphs the proportion of all-cause dropouts and dropouts due to side-effects by SSRI dose category.
+Figure 2. SSRI Dose-Tolerability Relationship.
+Open in a new tab
+plots absolute risk of dropout, all-cause (blue) and attributable to side-effects (red) of Selective Serotonin-Reuptake Inhibitor (SSRI) dose categories when compared to placebo. *=statistically significantly greater dropout due to side-effects compared to placebo, #= statistically significantly greater dropout rate due to side-effects when compared to low-dose SSRI pharmacotherapy. Threshold for statistical significance was less than 0.05 and there were no significant findings related to all-cause dropouts.
+DISCUSSION
+In this meta-analysis we demonstrated that higher doses of SSRI are more effective than lower doses of SSRI in the treatment of adults with OCD. Although all doses of SSRI pharmacotherapy were more effective than placebo, high-dose SSRI treatment resulted in a significantly greater Y-BOCS reduction compared to low and medium dose SSRI treatment. The proportion of treatment responders was also associated with increased SSRI dosage. For every 13–15 OCD patients treated with high as opposed to low or medium dose SSRI pharmacotherapy, 1 will respond to treatment who would not have responded at the lower doses of treatment. Additionally, a typical OCD patient seeking treatment (Y-BOCS=24) on average would experience a 9% or 7% greater decline in OCD symptoms on high-dose SSRI compared to low and medium SSRI treatment respectively. These results support the APA practice guidelines that set higher target doses of SSRI use in OCD when compared with those recommended for depression.6, 9 This contrasts with a meta-analysis examining the dose-response relationship for antidepressant medications for the treatment of major depressive disorder, which failed to demonstrate any improved efficacy with higher doses, in striking contrast to our results in OCD.11
+All-cause dropouts were not significantly related to SSRI dose. However, higher doses of SSRI were associated with increased dropouts due to side-effects, compared to lower doses of SSRIs or placebo. For every 17 OCD patients treated with high rather than low-dose SSRI pharmacotherapy one will drop out due to side-effect who would not have at lower doses. These results together suggest that the increased side-effect burden of SSRIs at higher doses may be counterbalanced by the increased treatment efficacy, at least as measured by all-cause discontinuation.
+There are several limitations to this meta-analysis. Although we demonstrated no heterogeneity between studies, there were likely too few eligible studies in our meta-analysis to powerfully address dose-response differences between individual SSRIs. A recent meta-analysis examining the efficacy of different agents in the treatment of OCD found no significant differences between SSRI agents; but dosage was not addressed in this analysis.7 There were also too few studies in the current meta-analysis to examine treatment duration, which influences SSRI efficacy. However, all trials included in this meta-analysis had a fairly similar duration of treatment of 8–13 weeks. Although there was no evidence of publication bias in funnel plots of standard error of studies versus treatment effects, we cannot entirely exclude the possibility of publication bias below the level we are able to detect.
+The results of this meta-analysis support expert opinion that higher doses of SSRI are more effective in the treatment of adults with OCD Higher doses of SSRIs than those used in these studies may be of additional benefit to some patients. A double-blind study examining supratherapeutic doses of sertraline (up to 400mg/day) in non-responders to a maximal recommended dose of sertraline (200mg/day) reported significant improvement at even these higher doses of treatment.23 Further research is needed to rigorously address the utility of these higher doses of SSRIs in the treatment of OCD. Further research is also needed to examine the dose-response relationship in specific populations; in particular, no fixed dose studies have been published in pediatric patients with OCD.
+Acknowledgments
+We wish to thank Fumiaki Imamura for his help with Japanese translation. The authors acknowledge the National Institute of Mental Health support of the Yale Child Study Center Research Training Program (MHB, JFL), K05MH076273 (JFL), the National Institutes of Health Loan Repayment Program (MHB), the Doris Duke Charitable Foundation (CP), the support of the Tourette’s Syndrome Association Inc. (JFL, CP), the APIRE/Eli Lilly Psychiatric Research Fellowship (MHB), and the APA/NIMH PMRTP Program (ALW).
+Footnotes
+Prior Presentation: None
+Disclosures: The authors have no conflicts of interest to disclose.
+References
+1.Bloch MH, Landeros-Weisenberger A, Rosario MC, Pittenger C, Leckman JF. Meta-Analysis of the Symptom Structure of Obsessive-Compulsive Disorder. American Journal of Psychiatry. doi: 10.1176/appi.ajp.2008.08020320. in press. [DOI] [PMC free article] [PubMed] [Google Scholar]
+2.Mataix-Cols D, Rosario-Campos MC, Leckman JF. A multidimensional model of obsessive-compulsive disorder. Am J Psychiatry. 2005;162(2):228–238. doi: 10.1176/appi.ajp.162.2.228. [DOI] [PubMed] [Google Scholar]
+3.Murray C, Lopez A, editors. The global burden of disease: a comprehensive assessment of mortality and disability from diseases, injuries, and risk factors in 1990 and projected to 2020. Harvard University Press; Cambridge, MA: 1996. [Google Scholar]
+4.Bebbington PE. Epidemiology of obsessive-compulsive disorder. Br J Psychiatry Suppl. 1998;35:2–6. [PubMed] [Google Scholar]
+5.Ruscio AM, Stein DJ, Chiu WT, Kessler RC. The epidemiology of obsessive-compulsive disorder in the National Comorbidity Survey Replication. Mol Psychiatry. 2008 doi: 10.1038/mp.2008.94. [DOI] [PMC free article] [PubMed] [Google Scholar]
+6.Treatment of obsessive-compulsive disorder. The Expert Consensus Panel for obsessive-compulsive disorde. J Clin Psychiatry. 1997;58(Suppl 4):2–72. [PubMed] [Google Scholar]
+7.Soomro GM, Altman D, Rajagopal S, Oakley-Browne M. Selective serotonin re-uptake inhibitors (SSRIs) versus placebo for obsessive compulsive disorder (OCD) Cochrane Database Syst Rev. 2008;(1):CD001765. doi: 10.1002/14651858.CD001765.pub3. [DOI] [PMC free article] [PubMed] [Google Scholar]
+8.Pallanti S, Hollander E, Bienstock C, Koran L, Leckman J, Marazziti D, et al. Treatment non-response in OCD: methodological issues and operational definitions. Int J Neuropsychopharmacol. 2002;5(2):181–191. doi: 10.1017/S1461145702002900. [DOI] [PubMed] [Google Scholar]
+9.American_Psychiatric_Association. Practice guideline for the treatment of patients with obsessive-compulsive disorder. American Psychiatric Association; Arlington, VA: 2007. [PubMed] [Google Scholar]
+10.American_Psychiatric_Association. Practice Guideline for the Treatment of Patients with Major Depression. American Psychiatric Association; Arlington, VA: 2000. [Google Scholar]
+11.Bollini P, Pampallona S, Tibaldi G, Kupelnick B, Munizza C. Effectiveness of antidepressants. Meta-analysis of dose-effect relationships in randomised clinical trials. Br J Psychiatry. 1999;174:297–303. doi: 10.1192/bjp.174.4.297. [DOI] [PubMed] [Google Scholar]
+12.Zitterl W, Meszaros K, Hornik K, Twaroch T, Dossenbach M, Zitterl-Eglseer K, et al. Efficacy of fluoxetine in Austrian patients with obsessive-compulsive disorder. Wien Klin Wochenschr. 1999;111(11):439–442. [PubMed] [Google Scholar]
+13.Hollander E, Allen A, Steiner M, Wheadon DE, Oakes R, Burnham DB. Acute and long-term treatment and prevention of relapse of obsessive-compulsive disorder with paroxetine. J Clin Psychiatry. 2003;64(9):1113–1121. doi: 10.4088/jcp.v64n0919. [DOI] [PubMed] [Google Scholar]
+14.Nakajima T, Kudo Y, Yamashita I. Clinical usefulness of Fluvoxamine Maleate (SME3110), a selective serotonin reuptake inhibitor, in the treatment of obsessive compulsive disorder: A dopuble blind, placebo-controlled study investigating the therapeutic dose range and the efficacy of SME3110. Journal of clinical therapeutics & medicine. 1996;12:409–437. [Google Scholar]
+15.Ushijima S, Kamajima K, Asai M, Murasaki M, Nakajima T, Kudo Y, et al. Clinical evaluation of sertraline hydrochloride, a selective serotonin reuptake inhibitor in the treatment of obsessive-compulsive disorder - A double-blind, placebo controlled trial. Japanese Journal of Neuropsychopharmacology. 1997;19:603–623. [Google Scholar]
+16.Montgomery SA, McIntyre A, Osterheider M, Sarteschi P, Zitterl W, Zohar J, et al. A double-blind, placebo-controlled study of fluoxetine in patients with DSM-III-R obsessive-compulsive disorder. The Lilly European OCD Study Group. Eur Neuropsychopharmacol. 1993;3(2):143–152. doi: 10.1016/0924-977x(93)90266-o. [DOI] [PubMed] [Google Scholar]
+17.Montgomery SA, Kasper S, Stein DJ, Bang Hedegaard K, Lemming OM. Citalopram 20 mg, 40 mg and 60 mg are all effective and well tolerated compared with placebo in obsessive-compulsive disorder. Int Clin Psychopharmacol. 2001;16(2):75–86. doi: 10.1097/00004850-200103000-00002. [DOI] [PubMed] [Google Scholar]
+18.Greist J, Chouinard G, DuBoff E, Halaris A, Kim SW, Koran L, et al. Double-blind parallel comparison of three dosages of sertraline and placebo in outpatients with obsessive-compulsive disorder. Arch Gen Psychiatry. 1995;52(4):289–295. doi: 10.1001/archpsyc.1995.03950160039008. [DOI] [PubMed] [Google Scholar]
+19.Tollefson GD, Rampey AH, Jr, Potvin JH, Jenike MA, Rush AJ, kominguez RA, et al. A multicenter investigation of fixed-dose fluoxetine in the treatment of obsessive-compulsive disorder. Arch Gen Psychiatry. 1994;51(7):559–567. doi: 10.1001/archpsyc.1994.03950070051010. [DOI] [PubMed] [Google Scholar]
+20.Goodman WK, Price LH, Rasmussen SA, Mazure C, Fleischmann RL, Hill CL, et al. The Yale-Brown Obsessive Compulsive Scale. I. Development, use, and reliability. Arch Gen Psychiatry. 1989;46(11):1006–1011. doi: 10.1001/archpsyc.1989.01810110048007. [DOI] [PubMed] [Google Scholar]
+21.Stein DJ, Andersen EW, Tonnoir B, Fineberg N. Escitalopram in obsessive-compulsive disorder: a randomized, placebo-controlled, paroxetine-referenced, fixed-dose, 24-week study. Curr Med Res Opin. 2007;23(4):701–711. doi: 10.1185/030079907x178838. [DOI] [PubMed] [Google Scholar]
+22.Dominguez RA. Serotonergic antidepressants and their efficacy in obsessive compulsive disorder. J Clin Psychiatry. 1992;53(Suppl):56–59. [PubMed] [Google Scholar]
+23.Ninan PT, Koran LM, Kiev A, Davidson JR, Rasmussen SA, Zajecka JM, et al. High-dose sertraline strategy for nonresponders to acute treatment for obsessive-compulsive disorder: a multicenter double-blind trial. J Clin Psychiatry. 2006;67(1):15–22. doi: 10.4088/jcp.v67n0103. [DOI] [PubMed] [Google Scholar]

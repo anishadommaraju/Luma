@@ -1,0 +1,227 @@
+Psychiatry Res. Author manuscript; available in PMC: 2008 Jun 30.
+Published in final edited form as: Psychiatry Res. 2007 Mar 21;151(3):255–258. doi: 10.1016/j.psychres.2006.09.005
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+Taboo thoughts and doubt/checking
+a refinement of the factor structure for obsessive-compulsive disorder symptoms
+Anthony Pinto
+Anthony Pinto
+1Department of Psychiatry and Human Behavior, Brown Medical School, Providence, RI 02906, USA
+Find articles by Anthony Pinto
+1,*, Jane L Eisen
+Jane L Eisen
+1Department of Psychiatry and Human Behavior, Brown Medical School, Providence, RI 02906, USA
+Find articles by Jane L Eisen
+1, Maria C Mancebo
+Maria C Mancebo
+1Department of Psychiatry and Human Behavior, Brown Medical School, Providence, RI 02906, USA
+Find articles by Maria C Mancebo
+1, Benjamin D Greenberg
+Benjamin D Greenberg
+1Department of Psychiatry and Human Behavior, Brown Medical School, Providence, RI 02906, USA
+Find articles by Benjamin D Greenberg
+1, Robert L Stout
+Robert L Stout
+1Department of Psychiatry and Human Behavior, Brown Medical School, Providence, RI 02906, USA
+Find articles by Robert L Stout
+1, Steven A Rasmussen
+Steven A Rasmussen
+1Department of Psychiatry and Human Behavior, Brown Medical School, Providence, RI 02906, USA
+Find articles by Steven A Rasmussen
+1
+Author information
+Article notes
+Copyright and License information
+1Department of Psychiatry and Human Behavior, Brown Medical School, Providence, RI 02906, USA
+*
+Corresponding author. Butler Hospital, 345 Blackstone Blvd., Providence, RI 02906, USA. Tel.: +1-401-455-6299; fax: +1-401-455-6442; e-mail address: Anthony_Pinto@brown.edu.
+Issue date 2007 Jun 30.
+PMC Copyright notice
+PMCID: PMC2039929 NIHMSID: NIHMS25721 PMID: 17368563
+The publisher's version of this article is available at Psychiatry Res
+Abstract
+The purpose of this report was to improve upon earlier factor analyses of obsessive-compulsive disorder (OCD) symptom categories by minimizing the heterogeneity in the aggressive obsessions category. An exploratory factor analysis was conducted on data from 293 adults with primary OCD. The resulting five factors (Symmetry/Ordering, Hoarding, Doubt/Checking, Contamination/Cleaning, and Taboo Thoughts) are phenomenologically more homogeneous than prior category-based factors and are consistent with those derived in previous item-level analyses.
+Keywords: obsessive compulsive disorder, symptoms, factor analysis
+1. Introduction
+Factor analysis has been used to delineate the heterogeneous symptoms of obsessive-compulsive disorder (OCD) into clinically meaningful dimensions associated with separable patterns of comorbidity, treatment response, and neural correlates (Mataix-Cols et al., 2005). These dimensions represent quantitative traits crucial to advancing understanding of OCD genetics, etiopathogenesis, and treatment outcome. A comprehensive dimensional structure has not been agreed upon, with the number of factors reported in the past decade ranging from three to six (Mataix-Cols et al., 2005).
+Since item-level analyses require very large samples, most factorial studies to date have used composite scores on the rationally derived a priori categories of the Yale-Brown Obsessive-Compulsive Scale Symptom Checklist (YBOCS-SC) (Goodman et al., 1989). The validity of categorical analyses depends on the homogeneity of symptoms within those categories. However, the aggressive obsessions category includes symptoms that are phenomenologically distinct: fear of aggressive impulses (e.g., “I have violent or horrific images in my mind”) and pathological doubt (e.g., “I fear that I’ll harm others because I’m not careful enough”). These symptoms did not covary in item-level factor analyses (Summerfeldt et al., 1997; Denys et al., 2004) where aggressive impulse fears loaded with sexual and religious obsessions, while pathological doubt items loaded with checking compulsions. In contrast, results of category-level factorial studies have been variable, with some reporting separate aggressive/checking and sexual/religious dimensions (Mataix-Cols et al., 1999) while others group all these categories on a single factor (Leckman et al., 1997; Cavallini et al., 2002). An item-level confirmatory factor analysis (Summerfeldt et al., 1999) found considerable heterogeneity within the obsessions and checking factor proposed by Leckman et al. (1997).
+This study was designed to address limitations of the a priori categories of the YBOCS-SC in a new category-level exploratory factor analysis. We predicted that adding a pathological doubt category would result in a factor solution that approximates those obtained in previous item-level analyses and better reflects the underlying structure of OCD symptoms.
+2. Methods
+2.1. Subjects
+Subjects were the first 293 consecutive adult participants of an ongoing NIMH-funded naturalistic study of OCD course and outcome. This report includes data from the intake assessment only. The sample includes 55% females and 96% Caucasians, with a mean age of 40.5 years (S.D. = 12.9). Forty-six percent of the participants are college-educated and 44% are married (36% never married). The detailed sample characteristics and methods are described elsewhere (Pinto et al., 2006). Patients were included in the study based on the following criteria: age 19 or older, had a primary diagnosis of DSM-IV OCD (determined by the Structured Clinical Interview for DSM-IV Axis I Disorders - Patient version (SCID-I/P) (First et al., 1996)), had sought treatment for the disorder, and were willing to participate in annual interviews. There were no exclusions for comorbidity; 42% of the sample met criteria for another current Axis I disorder (most commonly social phobia (19%), major depressive disorder (15%), impulse-control disorders (11%)) and 38% met criteria for a personality disorder (most commonly obsessive-compulsive (25%), avoidant (15%), borderline (6%)). Participants were recruited from psychiatric treatment settings, including consecutive admissions to an outpatient OCD specialty clinic, inpatient units of a private psychiatric hospital, community mental health centers, general outpatient psychiatric clinics, and the private practices of experts in cognitive-behavioral therapy (CBT) for OCD. At the time of interview, 78% were being treated with serotonin reuptake inhibitors (SRI); an additional 6% were being treated with other psychotropic medications. Twenty-eight percent reported receiving CBT in the year before the interview (Mancebo et al., in press). The mean intake YBOCS total score was 20.3 (S.D. = 8.4), indicating overall severity of OCD in the moderate range.
+2.2. Procedures
+After complete description of the study, written informed consent was obtained. Participants were interviewed in person by trained research assistants. [Before the independent administration of study instruments, interviewers were required to demonstrate a high degree of interrater reliability with both trainers and other raters (intraclass correlation coefficients > 0.85 for SCID diagnoses and YBOCS total score).] Cases were presented to OCD experts to confirm diagnosis and to ensure consistency of ratings. Senior staff reviewed data for clinical and clerical accuracy before database entry.
+2.3. Clinical interview
+Interviewers administered the YBOCS-SC to gather information on current symptoms. Two of the aggressive obsessions, “fear will harm others because not careful enough” and “fear will be responsible for something terrible happening,” were treated as a separate category (pathological doubt). To ensure consistency with prior studies (Leckman et al., 1997; Mataix-Cols et al., 1999), “miscellaneous” categories were excluded from analysis.
+2.4. Data analysis
+In the exploratory factor analysis, symptoms present at interview were coded 1; those not currently present as 0. Scores were computed for each of 14 categories as the number of symptoms endorsed divided by the number of symptoms in that category. We used an interval scoring system, rather than a dichotomous (present/absent) or a 3-point ordinal rating (Mataix-Cols et al., 1999), to increase the range of category scores and to maximize the variance in our dataset. Proportions, unlike the total scores used in Leckman et al. (1997), do not give undue weight to categories composed of numerous items. Criteria for retention of factors were eigenvalue greater than 1 (Kaiser’s criterion), factor interpretability, and Cattell’s Scree test. The initial factors were extracted using the principal components method, followed by varimax rotation. (Promax rotation yielded the same solution.) Loadings ≥ 0.45 were considered significant. Analyses were conducted using SPSS 11.0.
+3. Results
+Table 1 presents frequencies of the YBOCS-SC categories and the principal components factor structure after varimax rotation. Contamination obsessions, checking compulsions, and cleaning compulsions were most frequently endorsed. Factor analysis yielded a five-factor solution, accounting for 65.6% of the total variance: Symmetry/Ordering (obsessions of symmetry, and repeating, counting and ordering/arranging compulsions); Hoarding (hoarding obsessions and compulsions); Doubt/Checking (pathological doubt, somatic obsessions, and checking compulsions); Contamination/Cleaning (contamination obsessions and cleaning compulsions); and Taboo Thoughts (aggressive, sexual, and religious obsessions). All symptom categories except counting compulsions loaded highly (>0.50) on their respective factors, with little overlap between dimensions. As expected, the new pathological doubt category remained distinct from the aggressive obsessions category and loaded on a separate factor.
+Table 1.
+Frequency of current OCD symptoms by YBOCS-SC Category and Varimax-rotated factor structure (n = 293)
+Frequency
+Factor loading
+Symptom category
+n
+%
+Symmetry/Ordering
+Hoarding
+Doubt/Check
+Contam/Cleaning
+Taboo Thoughts
+Aggressive obsessions
+133
+45.4
+0.02
+0.07
+0.27
+0.01
+0.69
+Pathological doubt
+164
+56.0
+0.03
+0.17
+0.63
+0.09
+0.24
+Contamination obsessions
+169
+57.7
+0.01
+<0.01
+0.22
+0.89
+0.12
+Sexual obsessions
+39
+13.3
+0.02
+-0.02
+-0.09
+-0.10
+0.69
+Hoarding obsessions
+86
+29.4
+0.11
+0.97
+0.08
+0.03
+0.05
+Religious obsessions
+77
+26.3
+0.01
+0.03
+0.08
+0.15
+0.69
+Obsessions of symmetry
+140
+47.8
+0.87
+0.13
+-0.08
+0.10
+-0.01
+Somatic obsessions
+77
+26.3
+0.07
+-0.11
+0.66
+0.13
+-0.09
+Cleaning compulsions
+176
+60.1
+0.11
+0.05
+0.13
+0.91
+-0.06
+Checking compulsions
+202
+68.9
+0.12
+0.14
+0.77
+0.19
+0.15
+Repeating rituals
+165
+56.3
+0.59
+0.09
+0.28
+-0.04
+0.21
+Counting compulsions
+76
+25.9
+0.45
+-0.04
+0.29
+-0.07
+-0.03
+Ordering and arranging
+127
+43.3
+0.86
+0.07
+-0.05
+0.16
+-0.05
+Hoarding compulsions
+83
+28.3
+0.09
+0.97
+0.05
+0.03
+0.03
+Percentage of variance explained
+--
+--
+22.5%
+13.3%
+12.2%
+10.3%
+7.4%
+Open in a new tab
+Loadings ≥0.45 are printed in bold underline. Symmetry/Ordering: Obsessions of symmetry, and repeating, counting and ordering/arranging compulsions; Hoarding: Hoarding obsessions and compulsions; Doubt/Checking: Pathological doubt, somatic obsessions, and checking compulsions; Contamination/Cleaning: Contamination obsessions and cleaning compulsions; Taboo Thoughts: Aggressive, sexual, and religious obsessions.
+4. Discussion
+The resulting five factors correspond to widely accepted and long held OCD symptom themes, dating back to Janet’s descriptions in 1903 of incompleteness (“les sentiments d’incomplétude”), forbidden thoughts, and doubt (“folie du doute”) (Pitman, 1987). While Symmetry/Ordering, Hoarding, and Contamination/Cleaning mirror factors reported in previous YBOCS-SC category-level analyses (Leckman et al., 1997; Mataix-Cols et al., 1999), Taboo Thoughts and Doubt/Checking are phenomenologically more homogeneous than corresponding factors in these prior studies. The latter factors are supported by item-level analyses (Summerfeldt et al., 1997; Denys et al., 2004), and Taboo Thoughts is consistent with the “pure obsessions” factor reported in two category-level analyses (Baer, 1994; Hantouche and Lancrenon, 1996). Beyond the YBOCS-SC, the proposed model corresponds to five-factor solutions derived from two self-report measures of OCD symptoms, the 42-item Obsessive-Compulsive Inventory (Wu andWatson, 2003) and the Schedule of Compulsions, Obsessions, and Pathological Impulses (Watson and Wu, 2005).
+The separation of the Taboo Thoughts and Doubt/Checking factors is clinically useful since these domains have been associated with differing treatment responses. High scores on the sexual/religious dimension (Mataix-Cols et al., 1999) predicted poorer long-term outcome with SRI and behavior therapy (Alonso et al., 2001) and poorer response to CBT in a controlled trial (Mataix-Cols et al., 2002). Several studies have shown better behavior therapy outcomes for patients with checking rituals (not defined as a factor) (Drummond, 1993; Ball et al., 1996) while others suggest a poorer response (Basoglu et al., 1988).
+Our finding that pathological doubt is distinct from the other aggressive obsessions highlights a weakness of the YBOCS-SC’s a priori symptom categories and questions their utility in factor analytic studies. The authors of the new edition of the YBOCS, the YBOCS-II (Goodman et al., in preparation), have dispensed with the a priori symptom headings. Instead, a research version of the YBOCS-II symptom checklist will allow interviewers to assign specific symptoms to underlying thematic categories (similar to the factors presented here) based on functional assessment. This new instrument promises to further research in the structure of OCD symptoms.
+The current sample has a number of advantages over most previous factorial study samples in that it is large, diagnostically well characterized (with OCD as the primary diagnosis), recruited from multiple settings, and treatment seeking. There are also several limitations to the present study. Though widely used, principal components analysis is sensitive to scaling and lacks a probability model. The variable decision rules for retaining factors and scoring the YBOCS-SC have led to discrepancies in the number of factors reported. The proposed factors are also limited to the manifest items available on the YBOCS-SC. Finally, by not including the miscellaneous YBOCS-SC categories in this analysis, several prevalent symptoms, such as mental rituals and reassurance seeking, are not considered in the proposed factor structure.
+The utility of this factor solution, over previous solutions, remains in question until it can be validated with other clinical, genetic, or physiological measures. Since the subjects in the current sample are part of a longitudinal study, follow-up data will allow us to evaluate the temporal stability of the factors and their ability to predict course. Such converging evidence will increase confidence in these dimensions as useful subphenotypes in the search for underlying genes and neural substrates.
+Acknowledgments
+This research was supported by an NIMH grant (R01MH060218) to Dr. Rasmussen.
+Footnotes
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+References
+Alonso P, Menchon JM, Pifarre J, Mataix-Cols D, Torres L, Salgado P, Vallejo J. Long-term follow-up and predictors of clinical outcome in obsessive-compulsive patients treated with serotonin reuptake inhibitors and behavioral therapy. Journal of Clinical Psychiatry. 2001;62:535–540. doi: 10.4088/jcp.v62n07a06. [DOI] [PubMed] [Google Scholar]
+Baer L. Factor analysis of symptom subtypes of obsessive compulsive disorder and their relation to personality and tic disorders. Journal of Clinical Psychiatry. 1994;55(Suppl):18–23. [PubMed] [Google Scholar]
+Ball SG, Baer L, Otto MW. Symptom subtypes of obsessive-compulsive disorder in behavioral treatment studies: a quantitative review. Behaviour Research and Therapy. 1996;34:47–51. doi: 10.1016/0005-7967(95)00047-2. [DOI] [PubMed] [Google Scholar]
+Basoglu M, Lax T, Kasvikis Y, Marks I. Predictors of improvement in obsessive compulsive disorder. Journal of Anxiety Disorders. 1988;2:299–317. [Google Scholar]
+Cavallini MC, Di Bella D, Siliprandi F, Malchiodi F, Bellodi L. Exploratory factor analysis of obsessive-compulsive patients and association with 5-HTTLPR polymorphism. American Journal of Medical Genetics. 2002;114:347–353. doi: 10.1002/ajmg.1700. [DOI] [PubMed] [Google Scholar]
+Denys D, de Geus F, van Megen HJ, Westenberg HG. Use of factor analysis to detect potential phenotypes in obsessive-compulsive disorder. Psychiatry Research. 2004;128:273–280. doi: 10.1016/j.psychres.2003.11.005. [DOI] [PubMed] [Google Scholar]
+Drummond LM. The treatment of severe, chronic, resistant obsessive-compulsive disorder. An evaluation of an in-patient programme using behavioural psychotherapy in combination with other treatments. British Journal of Psychiatry. 1993;163:223–229. doi: 10.1192/bjp.163.2.223. [DOI] [PubMed] [Google Scholar]
+First MB, Spitzer RL, Gibbon M, Williams JBW. Structured Clinical Interview for DSM-IV Axis I Disorders - Patient Edition (SCID-I/P, version 2.0) Biometrics Research Department, New York State Psychiatric Institute; New York, NY: 1996. [Google Scholar]
+Goodman WK, Price LH, Rasmussen SA, Mazure C, Fleischman RL, Hill CL, Heninger GR, Charney DS. The Yale-Brown Obsessive Compulsive Scale: I. Deveopment, use, and reliability. Archives of General Psychiatry. 1989;46:1006–1011. doi: 10.1001/archpsyc.1989.01810110048007. [DOI] [PubMed] [Google Scholar]
+Hantouche EG, Lancrenon S. Modern typology of symptoms and obsessive-compulsive syndromes: Results of a large French study of 615 patients. Encephale. 1996;22(1):9–21. [PubMed] [Google Scholar]
+Leckman JF, Grice DE, Boardman J, Zhang H, Vitale A, Bondi C, Alsobrook J, Peterson BS, Cohen DJ, Rasmussen SA, Goodman WK, McDougle CJ, Pauls DL. Symptoms of obsessive-compulsive disorder. American Journal of Psychiatry. 1997;154:911–917. doi: 10.1176/ajp.154.7.911. [DOI] [PubMed] [Google Scholar]
+Mancebo MC, Eisen JL, Pinto A, Greenberg B, Dyck IR, Rasmussen SA. The Brown Longitudinal Obsessive Compulsive Study: Treatments received and patient impressions of improvement. Journal of Clinical Psychiatry. doi: 10.4088/jcp.v67n1107. in press. [DOI] [PubMed] [Google Scholar]
+Mataix-Cols D, Marks IM, Greist JH, Kobak KA, Baer L. Obsessive-compulsive symptom dimensions as predictors of compliance with and response to behaviour therapy: results from a controlled trial. Psychotherapy and Psychosomatics. 2002;71:255–262. doi: 10.1159/000064812. [DOI] [PubMed] [Google Scholar]
+Mataix-Cols D, Rauch SL, Manzo PA, Jenike MA, Baer L. Use of factor-analyzed symptom dimensions to predict outcome with serotonin reuptake inhibitors and placebo in the treatment of obsessive-compulsive disorder. American Journal of Psychiatry. 1999;156:1409–1416. doi: 10.1176/ajp.156.9.1409. [DOI] [PubMed] [Google Scholar]
+Mataix-Cols D, Rosario-Campos MC, Leckman JF. A multidimensional model of obsessive-compulsive disorder. American Journal of Psychiatry. 2005;162:228–238. doi: 10.1176/appi.ajp.162.2.228. [DOI] [PubMed] [Google Scholar]
+Pinto A, Mancebo MC, Eisen JL, Pagano ME, Rasmussen SA. The Brown Longitudinal Obsessive Compulsive Study: Clinical features and symptoms of the sample at intake. Journal of Clinical Psychiatry. 2006;67:703–711. doi: 10.4088/jcp.v67n0503. [DOI] [PMC free article] [PubMed] [Google Scholar]
+Pitman RK. Pierre Janet on obsessive-compulsive disorder (1903): Review and commentary. Archives of General Psychiatry. 1987;44:226–232. doi: 10.1001/archpsyc.1987.01800150032005. [DOI] [PubMed] [Google Scholar]
+Summerfeldt LJ, Richter MA, Antony MM, Huta VM, Swinson RP. Symptom structure in OCD: Factor analytic evidence for subgroups; 1997 Annual Meeting New Research Program and Abstracts; Washington, DC: American Psychiatric Association. 1997. [Google Scholar]
+Summerfeldt LJ, Richter MA, Antony MM, Swinson RP. Symptom structure in obsessive-compulsive disorder: A confirmatory factor-analytic study. Behaviour Research and Therapy. 1999;37:297–311. doi: 10.1016/s0005-7967(98)00134-x. [DOI] [PubMed] [Google Scholar]
+Watson D, Wu KD. Development and validation of the Schedule of Compulsions, Obsessions, and Pathological Impulses (SCOPI) Assessment. 2005;12:50–65. doi: 10.1177/1073191104271483. [DOI] [PubMed] [Google Scholar]
+Wu KD, Watson D. Further investigation of the obsessive-compulsive inventory: psychometric analysis in two non-clinical samples. Journal of Anxiety Disorders. 2003;17:305–319. doi: 10.1016/s0887-6185(02)00234-7. [DOI] [PubMed] [Google Scholar]

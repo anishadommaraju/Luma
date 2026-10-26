@@ -1,0 +1,45 @@
+[
+  {
+    "pmcid": "PMC7059158",
+    "requested_items": [
+      17
+    ],
+    "title": "Suicide Risk in Obsessive-Compulsive Disorder and Exploration of Risk Factors: A Systematic Review",
+    "authors": [
+      "Umberto Albert",
+      "Diana De Ronchi",
+      "Giuseppe Maina",
+      "Maurizio Pompili"
+    ],
+    "journal": "Current Neuropharmacology",
+    "publication_date": "2019 Aug",
+    "doi": "10.2174/1570159X16666180620155941",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7059158/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7059158/pdf/CN-17-681.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "Systematic review of suicidality and associated risk factors in OCD.",
+    "interpretation_notes": "Restricted to safety-related retrieval. Population findings must not equate intrusive harm thoughts with intent or predict individual risk.",
+    "tags": [
+      "suicide-risk",
+      "self-harm",
+      "hopelessness",
+      "severe-depression",
+      "crisis"
+    ],
+    "retrieval_group": "safety",
+    "include_in_general_retrieval": false,
+    "html_file": "papers/PMC7059158.html",
+    "text_file": "papers/PMC7059158.txt",
+    "text_characters": 85606,
+    "sha256_html": "ae49e31abb0aed2b75f0c84dd5fc3958deb4a2711f241f8a99389a1f4088bf4f",
+    "sha256_text": "5f23f10c5d09dbaa9757533fadc2e054d48191c8c68df276b8d8eeaa5ed81af7",
+    "pdf_status": "Not downloaded; full-text HTML and extracted text stored.",
+    "retrieval_triggers": [
+      "hopelessness",
+      "suicide",
+      "self-harm",
+      "severe depression",
+      "crisis situations"
+    ]
+  }
+]

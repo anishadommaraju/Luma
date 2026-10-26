@@ -18,7 +18,9 @@
       "Odile A van den Heuvel",
       "H Blair Simpson"
     ],
-    "citation_author": "Stein et al."
+    "citation_author": "Stein et al.",
+    "population": "mixed",
+    "audience": "all"
   },
   "Clinical_Guidelines_2025.pdf": {
     "title": "Clinical practice guidelines for obsessive-compulsive disorder: 2025 update",
@@ -40,7 +42,9 @@
       "Avinash Desouza",
       "Parag S Shah",
       "YC Janardhan Reddy"
-    ]
+    ],
+    "population": "mixed",
+    "audience": "clinician_caregiver"
   },
   "Evidence_Based_Assessment_OCD.pdf": {
     "title": "Evidence-Based Assessment of Obsessive–Compulsive Disorder",
@@ -56,7 +60,9 @@
       "R Lindsay Bergman",
       "John Piacentini",
       "Joseph F McGuire"
-    ]
+    ],
+    "population": "mixed",
+    "audience": "clinician_researcher"
   },
   "OCI_R_Psychometrics.pdf": {
     "title": "A contemporary psychometric evaluation of the Obsessive Compulsive Inventory – Revised (OCI-R)",
@@ -74,7 +80,9 @@
       "Gail Steketee",
       "Randy O Frost",
       "David F Tolin"
-    ]
+    ],
+    "population": "adult",
+    "audience": "clinician_researcher"
   },
   "OCD_Symptom_Dimensions.pdf": {
     "title": "Meta-Analysis of the Symptom Structure of Obsessive-Compulsive Disorder",
@@ -91,7 +99,9 @@
       "Maria C Rosario",
       "Christopher Pittenger",
       "James F Leckman"
-    ]
+    ],
+    "population": "mixed",
+    "audience": "all"
   },
   "Taboo_Thoughts_Checking.pdf": {
     "title": "Taboo thoughts and doubt/checking: a refinement of the factor structure for obsessive-compulsive disorder symptoms",
@@ -109,7 +119,9 @@
       "Benjamin D Greenberg",
       "Robert L Stout",
       "Steven A Rasmussen"
-    ]
+    ],
+    "population": "adult",
+    "audience": "clinician_researcher"
   },
   "Thought_Action_Fusion.pdf": {
     "title": "Explanation of Obsessive-Compulsive Disorder and Major Depressive Disorder on the Basis of Thought-Action Fusion",
@@ -124,7 +136,9 @@
       "Hossein Ghamari Kivi",
       "Ne’mat Mohammadipour Rik",
       "Fariba Sadeghi Movahhed"
-    ]
+    ],
+    "population": "adult",
+    "audience": "clinician_researcher"
   },
   "Pediatric_OCD_Review.pdf": {
     "title": "Obsessive-compulsive disorder in children and adolescents: epidemiology, diagnosis and management",
@@ -141,7 +155,9 @@
       "Aisha Mondal",
       "Muhammad Waqar Azeem",
       "Donald E Greydanus"
-    ]
+    ],
+    "population": "pediatric",
+    "audience": "caregiver_clinician"
   },
   "Child_OCD_Assessment.pdf": {
     "title": "Evidence-Based Assessment of Child Obsessive Compulsive Disorder: Recommendations for Clinical Practice and Treatment Research",
@@ -155,7 +171,9 @@
     "authors": [
       "Adam B Lewin",
       "John Piacentini"
-    ]
+    ],
+    "population": "pediatric",
+    "audience": "caregiver_clinician"
   },
   "Family_Accommodation.pdf": {
     "title": "Family Accommodation in Pediatric Obsessive Compulsive Disorder",
@@ -169,7 +187,9 @@
     "authors": [
       "Eli R Lebowitz",
       "Michael Bloch"
-    ]
+    ],
+    "population": "pediatric",
+    "audience": "caregiver_clinician"
   },
   "ERP_Review.pdf": {
     "title": "Exposure and response prevention for obsessive-compulsive disorder: A review and new directions",
@@ -183,7 +203,9 @@
     "authors": [
       "Dianne M Hezel",
       "H Blair Simpson"
-    ]
+    ],
+    "population": "mixed",
+    "audience": "all"
   },
   "ERP_Current_Perspectives.pdf": {
     "title": "Exposure and Response Prevention in the Treatment of Obsessive-Compulsive Disorder: Current Perspectives",
@@ -197,7 +219,9 @@
     "authors": [
       "Clara Law",
       "Christina L Boisseau"
-    ]
+    ],
+    "population": "mixed",
+    "audience": "all"
   },
   "CBT_OCD.pdf": {
     "title": "Cognitive-Behavioral Therapy for Obsessive-Compulsive Disorder",
@@ -215,7 +239,9 @@
       "Wayne K Goodman",
       "Andrew G Guzick",
       "Eric A Storch"
-    ]
+    ],
+    "population": "mixed",
+    "audience": "all"
   },
   "SSRI_MetaAnalysis.pdf": {
     "title": "Meta-Analysis of the Dose-Response Relationship of SSRI in Obsessive-Compulsive Disorder",
@@ -232,7 +258,9 @@
       "Angeli Landeros-Weisenberger",
       "James F Leckman",
       "Christopher Pittenger"
-    ]
+    ],
+    "population": "adult",
+    "audience": "clinician_researcher"
   },
   "OCD_Comorbidity_MetaAnalysis.pdf": {
     "title": "Comorbidities in Obsessive-Compulsive Disorder Across the Lifespan: A Systematic Review and Meta-Analysis",
@@ -258,7 +286,9 @@
       "Davíð R M A Højgaard",
       "Gudmundur Skarphedinsson",
       "S Evelyn Stewart"
-    ]
+    ],
+    "population": "mixed",
+    "audience": "clinician_researcher"
   },
   "Neurocircuit_Models.pdf": {
     "title": "Neurocircuit models of obsessive-compulsive disorder: limitations and future directions for research",
@@ -286,7 +316,9 @@
       "H Blair Simpson",
       "Odile A van den Heuvel",
       "Euripedes C Miguel"
-    ]
+    ],
+    "population": "mixed",
+    "audience": "researcher_clinician"
   },
   "Neuroimaging_OCD.pdf": {
     "title": "Neuroimaging findings in obsessive–compulsive disorder: A narrative review to elucidate neurobiological underpinnings",
@@ -301,7 +333,9 @@
       "Nandita Hazari",
       "Janardhanan C Narayanaswamy",
       "Ganesan Venkatasubramanian"
-    ]
+    ],
+    "population": "adult",
+    "audience": "researcher_clinician"
   },
   "OCD_Suicide_Risk.pdf": {
     "title": "Suicide Risk in Obsessive-Compulsive Disorder and Exploration of Risk Factors: A Systematic Review",
@@ -317,7 +351,9 @@
       "Diana De Ronchi",
       "Giuseppe Maina",
       "Maurizio Pompili"
-    ]
+    ],
+    "population": "mixed",
+    "audience": "clinician_researcher"
   },
   "eOCD_Technology_Review.pdf": {
     "title": "How New Technologies Can Improve Prediction, Assessment, and Intervention in Obsessive-Compulsive Disorder (e-OCD): Review",
@@ -335,6 +371,8 @@
       "Tomoyuki Segawa",
       "Nemat Jaafari",
       "Stéphane Mouchabac"
-    ]
+    ],
+    "population": "adult",
+    "audience": "researcher_clinician"
   }
 }

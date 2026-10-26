@@ -1,0 +1,909 @@
+Curr Neuropharmacol. 2019 Aug;17(8):681–696. doi: 10.2174/1570159X16666180620155941
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+Suicide Risk in Obsessive-Compulsive Disorder and Exploration of Risk Factors: A Systematic Review
+Umberto Albert
+Umberto Albert
+1Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy; , 2Rita Levi Montalcini
+Department of Neuroscience, University of Torino, Torino, Italy; , 3Department of Neurosciences, Mental Health and Sensory Organs, Suicide Prevention Center, Sant'Andrea Hospital, Sapienza University of Rome, Rome, Italy
+Find articles by Umberto Albert
+1,*, Diana De Ronchi
+Diana De Ronchi
+1Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy; , 2Rita Levi Montalcini
+Department of Neuroscience, University of Torino, Torino, Italy; , 3Department of Neurosciences, Mental Health and Sensory Organs, Suicide Prevention Center, Sant'Andrea Hospital, Sapienza University of Rome, Rome, Italy
+Find articles by Diana De Ronchi
+1, Giuseppe Maina
+Giuseppe Maina
+1Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy; , 2Rita Levi Montalcini
+Department of Neuroscience, University of Torino, Torino, Italy; , 3Department of Neurosciences, Mental Health and Sensory Organs, Suicide Prevention Center, Sant'Andrea Hospital, Sapienza University of Rome, Rome, Italy
+Find articles by Giuseppe Maina
+2, Maurizio Pompili
+Maurizio Pompili
+1Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy; , 2Rita Levi Montalcini
+Department of Neuroscience, University of Torino, Torino, Italy; , 3Department of Neurosciences, Mental Health and Sensory Organs, Suicide Prevention Center, Sant'Andrea Hospital, Sapienza University of Rome, Rome, Italy
+Find articles by Maurizio Pompili
+3
+Author information
+Article notes
+Copyright and License information
+1Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy; , 2Rita Levi Montalcini
+Department of Neuroscience, University of Torino, Torino, Italy; , 3Department of Neurosciences, Mental Health and Sensory Organs, Suicide Prevention Center, Sant'Andrea Hospital, Sapienza University of Rome, Rome, Italy
+*
+Address correspondence to this author at the Department of Biomedical and Neuromotor Science, Section of Psychiatry, University of Bologna, Viale C. Pepoli 5 – 40123, Bologna, Italy; Tel: +39-(0)51-2083058; Fax: +39- (0)51-521030; E-mail: umberto.albert@unibo.it
+Issue date 2019 Aug.
+© 2019 Bentham Science Publishers
+This is an open access article licensed under the terms of the Creative Commons Attribution-Non-Commercial 4.0 International Public License (CC BY-NC 4.0) (https://creativecommons.org/licenses/by-nc/4.0/legalcode), which permits unrestricted, non-commercial use, distribution and reproduction in any medium, provided the work is properly cited.
+PMC Copyright notice
+PMCID: PMC7059158 PMID: 29929465
+Abstract
+Background
+Historically, OCD has been considered to be associated with a relatively low risk of suicide. Recent studies, on the contrary, revealed a significant association between OCD and suicide attempts and ideation. A huge variation in prevalence rates, however, is reported.
+Objective
+To estimate prevalence rates of suicide attempts and suicidal ideation in individuals with OCD, and to identify predictors of suicide risk among subjects with OCD.
+Method
+We systematically reviewed the literature on suicide risk (ideation and/or attempts) and OCD. We included studies with appropriate definition of OCD, cross-sectional or prospective design, separating clinical samples from epidemiological studies, that employed a quantitative measure of suicidality and/or reported an outcome measure of the association between suicidality and OCD or examined factors associated with suicidality.
+Results
+In clinical samples, the mean rate of lifetime suicide attempts is 14.2% (31 studies: range 6- 51.7%). Suicidal ideation is referred by 26.3-73.5% of individuals (17 studies, mean 44.1%); current suicidal ideation rate ranges between 6.4 and 75% (13 studies, mean 25.9). Epidemiological studies found that OCD increases significantly the odds of having a lifetime suicidal ideation as compared to the general population (OR: 1.9-10.3) and a history of lifetime suicide attempts (OR: 1.6- 9.9). Predictors of greater suicide risk are severity of OCD, the symptom dimension of unacceptable thoughts, comorbid Axis I disorders, severity of comorbid depressive and anxiety symptoms, past history of suicidality and some emotion-cognitive factors such as alexithymia and hopelessness.
+Conclusion
+Overall, suicidality appears a relevant phenomenon in OCD.
+Keywords: Obsessive-compulsive disorder, suicidal ideation, suicide attempts, deaths by suicide, prevalence rates, predictors, risk factors
+1. INTRODUCTION
+Historically, Obsessive-Compulsive Disorder (OCD) has been considered to be associated with a relatively low risk of suicide [1-3].
+However, recent systematic reviews and meta-analyses have questioned this historical prejudice; Harris and colleagues [4] estimated, for example, that suicide risk in OCD is 10 times higher than expected in the general population, although this estimate was based on only two single studies. A subsequent meta-analysis [5] of suicide risk among patients with different anxiety disorders found in OCD a crude death rate due to suicide of 0.08% among 9776 individuals
+with OCD, with an estimated incidence of suicide attempts of 4%; these relatively low rates are however derived from the FDA database of patients participating in clinical trials evaluating the efficacy of antidepressants, and we may argue that severe patients could not have been enrolled in these trials due to exclusion criteria (the presence of suicide risk was often an exclusion criterion). Another meta-analysis on the association between anxiety disorders and suicidal behaviors found that the increase in the risk of suicide was demonstrated for each subtype of anxiety disorders except OCD [6]; again, results concerning the risk of suicidality in OCD were based on only 4 cohorts, thus raising doubts about the validity of these results.
+More recently, Angelakis and colleagues [7] analyzed results of 48 studies on the association between suicidality and OCD (although they included and not differentiated studies performed in samples of patients with disorders other than OCD but with OC symptoms); the estimated pooled effect size revealed a moderate to high, significant association between OCD and two different types of suicidality (suicide attempts and suicidal ideation). This result is of highly clinical relevance, as clinicians could underestimate the risk of suicide in individuals with OCD based on previous historical prejudices, leading to underdiagnosing and undertreating of this disorder.
+This systematic review, however, has some limitations: it did not differentiate between studies performed in clinical, presumably more severe, samples from those performed in the general population (epidemiological studies), mixing together results. Moreover, it didn’t restrict the inclusion to subjects with a primary diagnosis of OCD; thus, it included samples of schizophrenic or bipolar patients where the authors analyzed the contribution of comorbid obsessive-compulsive symptoms to suicide risk of the primary non-OCD diagnosis. This could have inflated the estimate of suicide risk. Moreover, several other papers have since then been published, some of them including huge numbers of subjects diagnosed with OCD.
+In addition, the exploration of which factors could contribute to suicide risk among OCD individuals is of particular relevance, since clinicians need to have potential indicators to screen and identify those patients who could benefit from specific interventions. Since the general opinion of psychiatrists is that OCD is not at risk for suicide, and since some meta-analyses on the topic supported this opinion [5, 6], another systematic review on this topic is, to our opinion, a valid contribution to both research and the clinical practice.
+In providing the present paper we also want to stress that a phenomenological approach should guide clinicians in the assessment of suicide risk [8, 9]. The focus should be on what patients feel rather than on how they can be categorized. Maltsberger [10] reported that, “intense desperation is a mental emergency.…Many unfortunate patients may quickly take their lives because they cannot wait for relief. Most desperate patients, enraged patients or intensely anxious patients show what they feel on their faces, body movements and demeanor”. We therefore prefer the view that psychiatric disorders are contributor factors to suicide risk rather than explaining such risk in a given individual.
+The aims of the present systematic review were: 1. to estimate prevalence rates of suicide attempts and suicidal ideation in individuals with a principal diagnosis of OCD; 2. to identify predictors of suicide risk among subjects with OCD. We clearly differentiated studies performed in clinical settings from epidemiological studies performed in the general population or prospective, cohort studies on nationwide registers. We also aimed at examining whether specific interventions were developed for treating individuals with OCD at higher risk for suicide (specific interventions aimed at reducing suicide risk or treating suicidality in OCD).
+2. METHODS
+2.1. Search Strategy
+The systematic review was conducted using the PRISMA guidelines [11, 12] by searching PubMed from the date of the first available article to January 8, 2018. The search terms [suicide] OR [suicidality] OR [suicide attempts] OR [suicidal ideation] OR [suicidal thoughts] were combined with [OCD] OR [obsessive*compulsive disorder] OR [obsessive*compulsive symptoms].
+2.2. Article Selection and Review Strategy
+Articles were identified and assessed for eligibility by two independent reviewers (UA and GM), who independently decided which identified articles to include according to clinical importance and eligibility criteria. In case of disagreement, a third author (MP) was consulted to mediate consensual decisions. Duplicate studies were excluded. Cross-references from the articles identified were also examined. Unpublished studies, conference abstracts or poster presentations were not included. The database search was restricted to English language papers.
+2.3. Eligibility Criteria
+The inclusion criteria for the studies were the following: 1) studies with appropriate definition of OCD (diagnosis made through specific structured interviews and/or established international criteria); 2) adolescents and/or adults; 3) cross-sectional or prospective designs; 4) performed in clinical samples or in the general population (epidemiological studies); 5) employed a quantitative measure of suicidality in order to derive prevalence rates of current/lifetime suicide attempts, suicidal ideation and/or family history of suicide attempts/completed suicide; and/or 6) reported an outcome measure of the association between suicidality and OCD (e.g. odds ratios) or examined factors associated with suicidality. We deliberately excluded studies performed in samples other than OCD patients (e.g. individuals with Bipolar Disorder or Schizophrenia) even when they assessed the impact of obsessive-compulsive symptoms on suicidality in these patients.
+3. RESULTS
+3.1. Search Results
+The flowchart of studies selected and included in the systematic review is provided inFig. (1)
+. In total, sixty-three studies were included in the qualitative synthesis.
+Fig. (1).
+Open in a new tab
+Flow chart showing the selection of studies.
+For the analysis of results of the studies, we separately examined studies performed in clinical samples from epidemiological ones.
+3.2. Suicide Risk in OCD: Studies in Clinical Samples
+Table 1 reports results of the individual studies performed in order to assess suicide risk in clinical samples [13-48].
+Table 1. Suicidality in OCD: studies in clinical samples.
+Authors
+Country
+Design
+OCD
+Diagnosis
+Screening for Suicidality
+Mode of Suicidality
+Sample N
+Suicidality (%)
+Family History
+Mean Age
+% Males
+Suicide Attempts
+Suicidal Ideation
+Chia 1996 [13]
+Singapore
+Cross-sectional
+DSM-III criteria
+n/r
+Lifetime suicide attempts & committed suicide
+283n/r58%
+6(committed suicide: 1)
+-
+-
+Apter et al. 2003 [14]
+Israel
+Cross-sectional
+K-SADS
+CSPS
+6-Month suicide attempts
+4016.4±2.171%
+10.3(6-month)
+-
+-
+Hantouche et al. 2003 [15]
+France
+Cross-sectional
+Self-assessment questionnaire
+n/r
+Lifetime suicide ideation & attempts
+574n/r43.9%
+16.2
+73.5
+Suicide attempts: 22.1
+Maina et al. 2006 [16]
+Italy
+Cross-sectional
+SCID-IYBOCS
+HDRS item 3
+Current suicidal ideation
+16735.512.148.5%
+-
+26.3
+-
+Kamath et al. 2007 [17]
+India
+Cross-sectional
+SCID-IYBOCS
+SSI
+Lifetime suicide attempts & current and lifetime suicidal ideation
+10027.3±9.959%
+27
+28 (current)59 (lifetime)
+-
+Maina et al. 2007 [18]
+Italy
+Cross-sectional
+SCID-IYBOCS
+HDRS item 3
+Lifetime suicide attempts & current suicidal ideation
+58 pure OCD*31.8±11.956.9%
+8.6
+13.8 (current)
+-
+58 OCD+MDD38.1±14.648.3%
+6.9
+50.0
+Phillips et al. 2007 [19]
+USA
+Cross-sectional
+SCID-IYBOCS
+Specific questionnaire
+Lifetime suicide ideation & attempts
+21039.8±12.641.4%
+15.9
+54.8(due to OCD: 44.3)
+-
+Gentil et al. 20092 [20]
+BrazilC-TOC
+Cross-sectional
+SCID-IYBOCSD-YBOCS
+BDI, BAI
+Lifetime suicide ideation & attempts
+630n/r43.7%
+10.2
+33.3
+-
+Alonso et al. 2010 [21]
+Spain
+Prospective
+SCID-IYBOCS
+HDRS item 3Beck SIS
+Lifetime suicide ideation & attempts
+21831.3±10.857.3%
+8.2
+34.4
+-
+Balci & Sevincok 2010 [22]
+Turkey
+Cross-sectional
+SCID-IYBOCS
+SSI
+Lifetime suicide attemptscurrent suicidal ideation
+4433.7±11.522.7%
+22.7
+52.7 (current)
+Suicide attempts: 18.2
+Hung et al. 2010 [23]
+Taiwan
+Cross-sectional
+YBOCS
+BSS
+Current suicidal ideation
+7030.6±10.867.1%
+-
+35.7
+-
+Sallet et al. 20102 [24]
+BrazilC-TOC
+Cross-sectional
+SCID-IYBOCSD-YBOCS
+BDI, BAI
+Lifetime suicide attempts
+815n/r41.7%
+10.3
+-
+-
+Mahasuar et al. 2011 [25]
+India
+Cross-sectional
+SCID-IYBOCS
+SSI
+Lifetime suicide attempts
+91n/r72.5%
+15.4
+-
+Suicide attempts: 18.7
+Authors
+Country
+Design
+OCD Diagnosis
+Screening for Suicidality
+Mode of Suicidality
+Sample N
+Suicidality (%)
+Family History
+Mean Age
+% Males
+Suicide Attempts
+Suicidal Ideation
+Torres et al. 20112 [26]
+BrazilC-TOC
+Cross-sectional
+SCID-IYBOCSD-YBOCS
+Specifically designed questionnaire
+Lifetime suicide ideation & attempts
+58234.7±10.543.6%
+11.0
+10.0 (current)36.1 (lifetime)(20.1 suicidal plans)
+Suicide attempts: 19.1completed: 16.1
+Chakraborty et al. 2012 [27]
+India
+Cross-sectional
+MINIYBOCS
+n/r
+Lifetime suicide attempts
+200n/r53%
+7
+-
+-
+Fontenelle et al. 2012 [28]
+Brazil
+Cross-sectional
+SCID-IYBOCSD-YBOCS
+BDI, BAI, BABS
+Lifetime suicide attempts & current and lifetime suicidal ideation
+957n/r43.1%
+10.6
+10.0 (current)34.3 (lifetime)
+Suicide attempts: 17.7completed: 15.9
+Tavares et al. 2012 [29]
+Brazil
+Cross-sectional
+MINI
+MINI
+Lifetime suicide risk (suicidal ideation or attempts)
+48 post-partum womenn/r0%
+39.6
+-
+Viswanath et al. 2012 [30]
+India
+Cross-sectional
+MINIYBOCS
+n/r
+Lifetime suicide attempts & current suicidal ideation
+54529.3±10.661%
+6.2
+15.6 (current)
+-
+Dell’Osso et al. 20131 [31]
+multi-nationalICOCS
+Cross-sectional
+YBOCS
+n/r
+Lifetime suicide attempts
+37642.7±12.839.9%
+7.7
+-
+-
+Moreira et al. 20132 [32]
+BrazilC-TOC
+Cross-sectional
+SCID-IYBOCSD-YBOCS
+item from the BDI
+Lifetime suicide ideation & attempts
+455n/r0%
+13.2
+35.6
+Suicide attempts: 15.4%
+Torres et al. 20132 [33]
+BrazilC-TOC
+Cross-sectional
+SCID-IYBOCSD-YBOCS
+specifically designed questionnaire
+Lifetime suicide ideation & attempts
+95535.8±12.441.9%
+10.6
+10.9 (current)36.4 (lifetime)(20.6 suicidal plans)
+-
+Torresan et al. 20132 [34]
+BrazilC-TOC
+Cross-sectional
+SCID-IYBOCSD-YBOCS
+specifically designed questionnaire
+Lifetime suicide ideation & attempts
+85835.4±12.141.3%
+11.0
+37.8 (lifetime)(21.6 suicidal plans)
+-
+De Berardis et al. 20143 [35]
+Italy
+Cross-sectional
+SCID-IYBOCS
+SSI
+Lifetime suicide attempts
+7928.7±8.054.4%
+6.3
+-
+Completed suicide: 8.9
+Gupta et al. 2014 [36]
+India
+Cross-sectional
+SCID-IYBOCS
+SSIC-SSRS
+Lifetime suicide attempts & current and lifetime suicidal ideation
+13031.6±9.453.8%
+7.7
+46.1 (current)62.3 (lifetime)
+-
+De Berardis et al. 20153 [37]
+Italy
+Cross-sectional
+SCID-IYBOCS
+SSI
+Lifetime suicide attemptscurrent suicidal ideation
+10432.1±8.050%
+8.7
+28.8(current)
+Suicide: 11.5
+Dell’Osso et al. 20151 [38]
+multi-nationalICOCS
+Cross-sectional
+YBOCS
+n/r
+Lifetime suicide attempts
+50443.3±13.140%
+13.2
+-
+-
+Authors
+Country
+Design
+OCD Diagnosis
+Screening for
+Suicidality
+Mode of Suicidality
+Sample N
+Suicidality (%)
+Family History
+Mean Age
+% Males
+Suicide Attempts
+Suicidal Ideation
+Storch et al. 2015 [39]
+USA
+Cross-sectional
+K-SADS
+SIQ-JR
+Current suicidal ideation
+5411.9±3.261.1%
+-
+13 (current)
+-
+Chandhary et al. 2016 [40]
+India
+Cross-sectional
+YBOCS
+C-SSRS
+Lifetime suicide ideation & attemptssuicidal behavior
+50n/r60%
+18.024.0 suicidal behavior
+52
+-
+Kim et al. 2016 [41]
+South Korea
+Cross-sectional
+SCID-IYBOCSD-YBOCS
+SSI
+Lifetime suicide attemptscurrent suicidal ideation
+8128.9±7.962%
+37.0
+26.8 (current)
+-
+Velloso et al. 20162 [42]
+BrazilC-TOC
+Cross-sectional
+SCID-IYBOCSD-YBOCS
+specifically designed questionnaire
+Lifetime suicide ideation & attempts
+54834.3±11.346%
+19.4
+61(made suicidal plans: 32)
+Suicide attempts: 27.1%
+Aguglia et al. 2017 [43]
+Italy
+Cross-sectional
+SCID-IYBOCS
+open question
+Lifetime suicide attempts
+10435.9±14.059.6%
+8.7
+-
+-
+Brakoulias et al. 2017 [44]
+multi-national
+Cross-sectional
+SCID-I or MINI or ADISYBOCS
+open question
+Suicidal ideation in the past monthlifetime suicidal attempts
+371135.2±11.949.2%
+9
+6.4 (past month)
+-
+Dell’Osso et al. 20171 [45]
+multi-nationalICOCS
+Cross-sectional
+YBOCS
+n/r
+Lifetime suicide attempts
+42542.9±12.642%
+14.6
+-
+-
+Khosravani et al. 2017 [46]
+Iran
+Cross-sectional
+SCID-IYBOCSD-YBOCS
+SSI
+Lifetime suicide attemptscurrent suicidal ideation
+6033.9±12.748.3%
+51.7
+75 (current)
+Suicide attempts: 11.7
+Saraf et al. 2017 [47]
+India
+Cross-sectional
+MINIYBOCS
+open question
+Lifetime suicide attempts
+17128.9±9.567%
+15.8
+-
+-
+Dhyani et al. 2018 [48]
+India
+Cross-sectional
+SCID-IYBOCS
+SSI
+Lifetime suicide attemptscurrent suicidal ideation
+52n/r65.4%
+19.2
+26.9
+-
+Open in a new tab
+Abbreviations: n/r: not reported; * pure OCD: no lifetime comorbidities allowed. 1partially overlapping samples; 2partially overlapping samples from the Brazilian Research Consortium on Obsessive-Compulsive Spectrum Disorders; 3partially overlapping samples. ICOCS: International College of Obsessive-Compulsive Spectrum Disorders; C-TOC: Brazilian Research Consortium on Obsessive-Compulsive Spectrum Disorders. SCID-I: Structured Clinical Interview for DSM-IV Axis I Disorders; MINI: Mini International Neuropsychiatry Interview YBOCS: Yale-Brown Obsessive-Compulsive Scale; D-YBOCS: Dimensional YBOCS; ADIS: Anxiety Disorders Interview Schedule; K-SADS: Schedule for Affective Disorders and Schizophrenia for School-Age Children. CSPS: Childhood Suicide Potential Scale; HDRS: Hamilton Depression Rating Scale; SSI: Scale for Suicidal Ideation; BDI: Beck Depression Inventory; BAI: Beck Anxiety Inventory; BABS: Brown Assessment of Beliefs Scale; BSS: Beck Scale for Suicidal Ideation; Beck SIS: Beck Suicide Intent Scale; C-SSRS: Columbia Suicide Severity Rating Scale; SIQ-JR: Suicidal Ideation Questionnaire Junior.
+Thirty-six studies contributed to the analysis of prevalence rates of suicide attempts and suicidal ideation in individuals with a primary diagnosis of OCD. The vast majority of them employed a cross-sectional design and used the Structured Clinical Interview for DSM-IV Axis I Disorders (SCID-I) and the Yale-Brown Obsessive-Compulsive Scale (YBOCS) to confirm the diagnosis and assess the severity of OCD. Although a wide variability exists in sample sizes, several studies enrolled several hundred patients.
+Nine studies reported family history rates for suicide attempts/completed suicides; across the studies, the overall rates of suicide attempts range between 11.5% to 27.1% (mean 17.9%, median 18.2%). Family history rates of completed suicide are reported by three studies only, ranging from 8.9% to 16.1%.
+Prevalence rates of lifetime suicide attempts in individuals with OCD are reported by 31 studies, and range between 6% and 51.7%, with a mean of 14.2% (median 10.8%). Lifetime suicidal ideation is referred by 26.3-to-73.5% of individuals with OCD, as from 17 studies (mean 44.1%; median 36.4%); current suicidal ideation rate is reported by 13 studies, ranging from 6.4% to 75%, with a mean of 25.9% and a median of 15.6%.
+Overall, suicidality appears a relevant phenomenon in OCD, as from our analysis of studies performed in clinical samples. It is possible, however, that this result of abnormally high prevalence rates of suicidality (attempts and ideation) is biased by the fact that clinical studies may have enrolled severe patients referring to specialized, tertiary centers for the treatment of resistant patients. We then examined whether epidemiological studies, enrolling all patients with a diagnosis of OCD independently from the severity of the disorder and regardless of them being treated or not, confirmed that OCD is at greater risk for suicide than the general population.
+3.3. Suicide Risk in OCD: Epidemiological Studies
+Table 2 presents results of epidemiological studies [49-62]. Fourteen studies provided data on the association in the general population between a baseline diagnosis of OCD (whether or not comorbid with other disorders) and suicidality (suicide attempts and/or suicidal ideation); two studies [59, 60] have been performed on National Registers (Danish Registers and Swedish National Patient Register, respectively), recruiting a huge sample of subjects diagnosed with OCD (10155 and 36788 individual affected by OCD, respectively) and providing data on the longitudinal association between OCD and death by suicide and lifetime suicide attempts over a follow-up of 9.7 and 44 years, respectively.
+Table 2. Suicidality in OCD: Studies in the general population.
+Authors
+Country
+Design
+OCD
+Diagnosis
+Screening for Suicidality
+Mode of
+Suicidality
+OCD Sample§ N=
+Suicidality (%)
+Mean Age
+% Males
+Suicide Attempts
+Suicidal Ideation
+Hollander et al. 1996-97 [49]
+USAECA Study
+Cross-sectional
+DIS (DSM-III criteria)
+Open question
+Self-reported lifetime suicide attempts
+140 OCD w/t comorbiditiesn/r32.9%
+3.6 vs. 0.9 (no disorders)OR: 3.2(CI: 1.3-8.1)
+-
+266 with comorbiditiesn/r38.2%
+15 vs. 7.0(other disorders) OR: 2.2(CI: 1.5-3.2)
+-
+Goodwin et al. 2002 [50]
+USA
+Cross-sectional
+Screening questionnaire
+n/r
+Past-month suicidal ideation
+3069range 21-55+31%
+-
+27.8%(past month)
+Angst et al. 2004 [51]
+SwitzerlandZurich Study
+Prospective
+SPIKE
+Open question
+Lifetime suicide attempts
+30 OCD81 OCSmean: 2036.7%
+OCD: 26.7OCS: 13.6Risk ratio (OCD+OCS vs. no OCD/OCS): 1.6(CI: 1.0-2.6)
+-
+Angst et al. 2005 [52]
+SwitzerlandZurich Study
+Prospective
+SPIKE
+Open question
+Lifetime suicide attempts
+32 pure OCS*mean: 2075%
+3.1 vs. 2.3controlsno difference
+-
+Sareen et al. 2005 [53]
+NetherlandsNEMESIS
+Prospective (follow-up: 3 yrs)
+CIDI
+CIDI
+Lifetime suicide attempts & ideation
+61n/rn/r
+21.3
+55.7
+First ever incidence of suicidal ideation & attempts
+61n/rn/r
+AOR: 1.57(CI: 0.15-16.33) n.s.
+AOR: 6.33(CI: 1.11-35.96)
+Torres et al. 2006 [54]
+UKBritish National Psychiatric Morbidity Survey
+Cross-sectional
+CIS
+n/r
+Self-reported lifetime suicide ideation & attempts
+114range 16-7439.71%
+25.7 vs. 2.3 controlssignificant difference
+63.5 vs. 10.0 controlssignificant difference
+Nock et al. 2009 [55]
+WHO World Mental Health Survey
+Cross-sectional
+CIDI
+CIDI
+Subsequent lifetime suicide ideation & attempts
+n/r
+OR: 3.4(CI: 2.0-6.1)pure OCD OR: 2.3 (CI: 1.3-4.2)
+OR 1.9(CI: 1.3-2.8)
+ten Have et al. 2009 [56]
+Netherlands NEMESIS
+Prospective (follow-up: 3 yrs)
+CIDI
+CIDI
+First ever incidence of suicide attempts
+n/r
+0.4 (3-yrs)AOR 4.98(CI: 0.64-38.53)n.s.
+-
+Jaisoorya et al. 2015 [57]
+India
+Cross-sectional
+CIS-RCIDI
+Open questions
+Lifetime suicide ideation & attempts
+6115.5±1.570.5%
+24.6 vs. 3.8 controlsAOR: 3.9(CI:2.6-5.7)
+59 vs. 16.3 controlsAOR: 3.8 (CI:2.8-5.1)
+Cho et al. 2016 [58]
+South Korea
+Cross-sectional
+CIDI
+Open questions
+Lifetime suicide ideation & attempts
+40n/rn/r
+20OR: 9.9(CI: 4.5-21.8)AOR°: 2.36(CI: 0.79-7.04), n.s.
+65OR: 10.3(CI: 5.37-19.8)AOR°: 5.58(CI: 2.70-11.6)
+Authors
+Country
+Design
+OCD Diagnosis
+Screening for Suicidality
+Mode of Suicidality
+OCD Sample§ N=
+Suicidality (%)
+Mean Age
+% Males
+Suicide Attempts
+Suicidal Ideation
+Meier et al. 2016 [59]
+DenmarkDanish Registers
+Prospective(mean follow-up: 9.7 yrs)
+ICD
+Death by suicide
+Death by suicide
+1015529.1±11.341.5%
+Death by suicides AOR: 3.02(CI: 1.85-4.63)
+-
+Fernandez de la Cruz et al. 2017 [60]
+SwedenSwedish National Patient Register
+Matched case-cohort design(44 yrs)
+ICD
+Death by suicide (through the Cause of Death Register)lifetime suicide attempts (hospital admissions or outpatient consultations due to suicide attempts)
+Death by suicidelifetime suicide attempts
+36788n/r43.5%
+Attempts:11.68OR: 5.45(CI: 5.24-5.67)death by suicide:1.48OR: 9.83(CI: 8.72-11.08)
+-
+10155 pure OCD (no lifetime comorbidities)
+attempts:OR: 1.59(CI: 1.36-1.87)death by suicide: OR: 13.18(CI: 10.76-16.16),
+-
+Jaisoorya et al. 2018 [61]
+India
+Cross-sectional
+CIS-R
+Open question
+Lifetime suicide attempts and ideation
+164n/r (students)37.2%
+9.8 vs. 3.4(no OCD)p<.001
+45.7 vs. 19.1 (no OCD)p<.001
+Veisani et al. 2018 [62]
+Iran
+Cross-sectional
+GHQ-28SCID-I
+open question
+Current suicidal ideation
+93n/rn/r
+-
+OR in males vs. general population: 5.13 (CI: 2.02-16.25)OR in females vs. general population: 6.02 (CI: 2.08-20.0)
+Open in a new tab
+Abbreviations: §N of OCD patients from the general population; *pure OCS: obsessive-compulsive syndrome (including OCD) without lifetime comorbidities. °Adjusted Odds Ratio for psychiatric comorbidities and demographic variables; n/r: not reported. DIS: Diagnostic Interview Schedule; SIPKE: Structured Psychopathological Interview, Rating of the Social Consequences for Epidemiology; CIDI: Composite International Diagnostic Interview; CIS: Clinical Interview Schedule; NEMESIS: Netherland Mental Health Survey and Incidence Study; GHQ-28: 28-item General Health Questionnaire; SCID-I: Structured Clinical Interview for DSM-IV Axis I Disorders.
+All studies which examined the issue found that OCD increases significantly the odds of having a lifetime suicidal ideation as compared to the general population (OR ranging between 1.9 and 10.3); the increased risk remains significant even after controlling for demographic variables and comorbid disorders (Adjusted Odds Ratio ranging from 3.8 to 5.58).
+Concerning the association between OCD and lifetime suicide attempts in the general population, results are more controversial; the majority of studies found that the odds of having a history of lifetime suicide attempts is significantly higher in individuals with OCD (OR ranging from 1.6 to 9.9) [49, 51, 54, 55, 57, 58, 61]. However, controversy exists about the influence of psychiatric comorbidities on such risk: while two studies confirmed that this risk is significantly higher even in pure OCD subjects (without lifetime comorbidities) [55, 60], two other epidemiological studies were negative (no increased risk in pure OCD versus controls) [52, 58]. Moreover, the NEMESIS study [53, 56] found that the AOR for first ever incidence of suicide attempts in individuals with a baseline diagnosis of OCD was not significantly higher than that of comparison subjects over the 3-year follow-up period.
+The odds ratio of dying by suicide in the two prospective studies performed in Denmark and Sweden is significantly higher (3.02-9.83) than expected, and remained significant even in pure OCD (13.18) [59, 60].
+3.4. Factors Associated with Increased Suicide Risk in OCD
+Given that individuals with OCD seem more at risk of suicidal ideation and (to a lesser degree) suicide attempts over their lifetimes, it is crucial to determine which patients should be considered at higher risk than others. Preventive strategies, in fact, consist primarily in identifying predictors of suicidality and intervening on modifiable risk factors. At the moment, the only pharmacological effective agents used to treat suicidality appear to be lithium in affective disorders and clozapine in schizophrenia [63-65]. No other pharmacological compound seems to have anti-suicidal properties beyond the specific effect on the psychiatric disorder for which it has an indication, that is no other drug seems to possess independent anti-suicidal effect. Early recognition and diagnosis of OCD and effective pharmacological and psychological treatments of the disorder remain then essential for the prevention of suicidality.
+We then reviewed all studies which examined factors associated with suicide risk in OCD to tentatively identify predictors of suicidality. Results are presented in Table 3 [66-70]. Thirty-two studies provided data on the association between suicidality and socio-demographic and clinical variables. The most significant predictors of greater suicidality (those confirmed by several Authors) are the severity of OCD (as from the total score of the YBOCS), the symptom dimension of unacceptable thoughts (aggressive, sexual,
+religious obsessions), the presence of comorbid Axis I disorders, mainly depressive and/or bipolar disorders but also substance use disorders, the severity of comorbid depressive and anxiety symptoms (as from the Beck Depression Inventory and the Beck Anxiety Inventory or other rating scales), a past history of suicidality (previous suicide attempts, previous or current suicidal ideation), and some emotion-cognitive factors such as alexithymia and hopelessness.
+Table 3. Predictors of suicidality in OCD.
+Predictors
+-
+Current/Lifetime Suicidal Ideation
+Lifetime Suicide Attempts
+Death by Suicide
+Socio-demographic variables or personal factors
+Male gender
+Maina et al. 2006 [16]
+Fernandez de la Cruz et al. 2017 [60]
+Female gender
+Fernandez de la Cruz et al. 2017 [60]
+Older age
+Maina et al. 2006 [16]
+Marital status: single
+Torres et al. 2011 [26]
+Alonso et al 2010 [21]
+No children
+Torres et al. 2011 [26]
+Poor educational levellower social class
+Maina et al. 2006 [16]Torres et al. 2011 [26]
+Childhood trauma (childhood sexual abuse)
+Ay & Erbay 2018 [66]
+Khosravani et al. 2017 [46]
+Disorder-specific (OCD-related) variables
+Severity of OCD: YBOCS total scores
+Maina et al. 2006 [16]Balci & Sevincok 2010 [22]Hung et al. 2010 [23]Gupta et al. 2014 [36]
+Velloso et al. 2016 [42]Dhyani et al. 2018 [48]
+Contamination/washing dimension
+Gupta et al. 2014 [36]
+Symmetry/ordering dimension
+De Berardis et al. 2014 [35]Gupta et al. 2014 [36]
+Alonso et al. 2010 [21]
+Unacceptable thoughts (aggressive/sexual/religious obsessions)
+Balci & Sevincok 2010 [22]Torres et al. 2011 [26]Kim et al. 2016 [41]Velloso et al. 2016 [42]Khosravani et al. 2017 [46]
+Velloso et al. 2016 [42]Khosravani et al. 2017 [46]
+Hoarding dimension
+Chakraborty et al. 2012 [27]
+Poor insight
+Gupta et al. 2014 [36]De Berardis et al. 2015 [37]
+Premenstrual worsening of OC symptoms
+Moreira et al. 2013 [32]
+Moreira et al. 2013 [32]
+Comorbidities
+Current/lifetime comorbid psychiatric disorders
+Torres et al. 2013 [33]
+Torres et al. 2013 [33]Velloso et al. 2016 [42]Dell’Osso et al. 2017 [45]Fernandez de la Cruz et al. 2017 [60]
+Comorbid Bipolar Disorder
+Fineberg et al. 2013 [68]
+Fineberg et al. 2013 [68]Ozdemiroglu et al. 2015 [69]Saraf et al. 2017 [47]
+Comorbid mood disorders/comorbid Major Depressive Disorder
+Maina et al. 2006 [16]Kamath et al. 2007 [17]Maina et al. 2007 [18]Balci & Sevincok 2010 [22]Torres et al. 2011 [26]Viswanath et al. 2012 [30]
+Kamath et al. 2007 [17]Alonso et al. 2010 [21]Torres et al. 2011 [26]Viswanath et al. 2012 [30]
+Severity of comorbid depressive symptoms
+Maina et al. 2006 [16]Kamath et al. 2007 [17]Balci & Sevincok 2010 [22]Hung et al. 2010 [23]Torres et al. 2011 [26]Gupta et al. 2014 [36]Kim et al. 2016 [41]Khosravani et al. 2017 [46]
+Kamath et al. 2007 [17]Alonso et al. 2010 [21]Velloso et al. 2016 [42]
+Predictors
+-
+Current/Lifetime Suicidal Ideation
+Lifetime Suicide Attempts
+Death by Suicide
+Comorbidities
+Comorbid PTSD/GAD (and other anxiety disorders)
+Torres et al. 2011 [26]Fontenelle et al. 2012 [28]
+Torres et al. 2011 [26]Fontenelle et al. 2012 [28]
+Fernandez de la Cruz et al. 2017 [60]
+Severity of comorbid anxiety symptoms
+Maina et al. 2006 [16]Balci & Sevincok 2010 [22]Hung et al. 2010 [23]Torres et al. 2011 [26]Gupta et al. 2014 [36]Weingarden et al. 2016 [70]
+Torres et al. 2011 [26]Velloso et al. 2016 [42]Weingarden et al. 2016 [70]
+Substance/alcohol use disorders
+Gentil et al. 2009 [20]Torres et al. 2011 [26]Fineberg et al. 2013 [68]
+Gentil et al. 2009 [20]Fineberg et al. 2013 [68]Fernandez de la Cruz et al. 2017 [60]
+Fernandez de la Cruz et al. 2017 [60]
+Cigarette smoking (former)
+Dell’Osso et al. 2015 [38]
+Comorbid eating disorders
+Sallet et al. 2010 [24]
+Personality disorders
+Fernandez de la Cruz et al. 2017 [60]
+Fernandez de la Cruz et al. 2017 [60]
+Lifetime psychiatric hospitalizations
+Dell’Osso et al. 2017 [45]
+Suicidal ideation
+Kamath et al. 2007 [17]Dhyani et al. 2018 [48]
+Previous suicide attempts
+Kamath et al. 2007 [17]
+Kamath et al. 2007 [17]Alonso et al. 2010 [21]
+Fernandez de la Cruz et al. 2017 [60]
+Family history for suicide attempts
+Velloso et al. 2016 [42]
+Velloso et al. 2016 [42]
+Medical comorbidities
+Dell’Osso et al. 2017
+Emotion-cognitive factors
+Inflated responsibility
+De Berardis et al. 2015 [37]
+Ego-dystonic perfectionism
+Kim et al. 2016 [41]
+Kim et al. 2016 [41]
+Alexithymia
+Kim et al. 2016 [41]De Berardis et al. 2014 [35]De Berardis et al. 2015 [37]
+Kim et al. 2016 [41]
+Shame
+Weingarden et al. 2016 [70]
+Hopelessness
+Kamath et al. 2007 [17]Balci & Sevincok 2010 [22]Gupta et al. 2014 [36]
+Dhyani et al. 2018 [48]
+Hostility
+Gupta et al. 2014 [36]
+Early maladaptive (mistrust/abuse) schemas
+Khosravani et al. 2017 [67]
+Khosravani et al. 2017 [67]
+Biological variables
+Lower HDL-C levels, high triglycerides
+De Berardis et al. 2014 [35]
+Aguglia et al. 2017 [43]
+Open in a new tab
+Few studies examined the relative weight of each risk factor in contributing to suicidality; results from the Brazilian Research Consortium on Obsessive-Compulsive Spectrum Disorders [42] found with logistic regression analyses that the most important contributor to suicidality risk is a family history for suicidality, that increases that risk by 78% (as compared to an increase of 6.7% for each point in the BDI score, for example). The other significant risk factor is a previous suicide attempt; in the Swedish study that used a matched case-cohort design with a follow-up of 44 years, a previous suicide attempt resulted to be the most influential risk factor for death by suicide in OCD: it increased the risk by 4.7 times (32.8% of those OCD subjects who died by suicide had a record of a previous suicide attempt) [60]. The third major contributor to suicidality is comorbid depression: in the study by Torres and colleagues [26] comorbid MDD increased by 28.75 times the risk of suicide attempt.
+3.5. Methods of Suicidal Behaviour
+Fernandez de la Cruz et al. [60] examined the specific methods used in those who died by suicide over a period of 44 years and compared the odds of using that method relative to the general population (those who died by suicide and were not diagnosed with OCD): individual with OCD who died by suicide used more frequently poisoning (OR 4.00 vs. the general population; 46.1%) and less frequently self-injury (e.g. hanging, strangulation, suffocation) (OR 0.25 vs. the general population). The same result is evident when examining those who attempted suicide: self-poisoning was significantly associated with OCD (OR 2.33 vs. the general population) while self-injury was not (OR 0.78) [60].
+4. DISCUSSION
+4.1. Suicide Risk in OCD
+The first aim of our study was to systematically review literature data on suicidality in OCD in order to tentatively
+estimate prevalence rates of suicidal ideation and suicide attempts in individuals with OCD.
+Our results confirm recent findings of a greater risk of suicidality in OCD as compared to the general population [7]. Each mode of suicidality seems to be more prevalent among patients with OCD referring for treatment: the mean rate of lifetime suicide attempts in individuals with OCD is 14.2% (median 10.8%); the mean rates of current and lifetime suicidal ideation are 25.9% (median 15.6%) and 44.1% (median 36.4%), respectively. These rates are higher than expected in the general population: for example, in the World Health Organization (WHO) World Mental Health (WMH) Survey, in which 108705 adults from 21 countries were interviewed, 12-month prevalence estimates of suicide ideation, plans, and attempts are 2.0%, 0.6%, and 0.3%, respectively, for developed countries and 2.1%, 0.7%, and 0.4%, respectively, for developing countries [71]. Our estimates of suicidality among help-seeking individuals with OCD referring to specialized centers worldwide are consistent with previous estimates of a recent meta-analysis [7], which however mixed results from clinical and epidemiological samples, included samples of individuals with disorders other than OCD (e.g. schizophrenic patients with OC symptoms, where suicidality risk might be more related to schizophrenia than to comorbid OC symptoms): median rates of suicidal ideation found in their meta-analysis is 27.9% (vs. 36.4% in our study which included several recent papers published since the publication of their study), median rates of suicide attempts is 10.3% (vs. 10.8% in our study).
+The evidence to date, then, is that suicidality is a relevant phenomenon in individuals with OCD; clinicians should then actively inquire about suicidality when interviewing a patient with OCD, keeping in mind that early recognition/diagnosis of the disorder and immediate setting of an appropriate treatment plan are essential elements for the prevention of suicidality. The direct inquire should include all aspects of suicidality, including suicidal ideation, plans, personal history of previous suicide attempts and family history of suicidality, since it is possible that most patients with OCD (as well as most patients with other psychiatric disorders) may not spontaneously report suicidality.
+The analysis of data coming from epidemiological studies and from the two prospective cohort studies on nationwide registers confirms in the general population that individuals with OCD are at greater risk of dying by suicide (that risk is tripled over a period of 10 years of follow-up and x9.8 over 44 years of follow-up) [59, 60], having a lifetime suicidal ideation (up to 10 times that of the general population) and attempting suicide during their lifetime (up to 10 times more).
+The risk of having lifetime suicidal ideation remains significantly higher even when adjusting for socio-demographic variables and for comorbidities (in primis MDD): this implies that OCD in its own right is associated with significant risk of suicidal ideation, probably expression of the disability associated with this disorder. The clinical implication of this finding is again that clinicians should actively inquire about past or present suicidal ideation, independently from the presence of current MDD; as a past history of suicidality (previous suicide attempts, but also previous or current suicidal ideation) [17, 48, 60] as well as a family history for suicidality (increased risk by 78%) [42] are both predictors of suicidality, the proper identification of subjects at greater risk will result in the prevention of some deaths. More controversy exists about the association between pure OCD (without lifetime comorbid disorders) and suicide attempts: some [55, 60] but not all studies [52, 53, 56, 58] found an increased risk among individuals with OCD drawn from the general population. More studies may be needed in order to clarify this issue; however, clinicians should, in our opinion, assume an attitude of prudence and consider anyway OCD at risk of attempting suicide and then constantly monitor suicidality during the follow-up of their patients.
+4.2. Implications for the Treatment: Risk Identification
+Risk identification remains a crucial factor for the establishment of preventive strategies: identifying predictors of suicidality and intervening on modifiable risk factors could result in the reduction of suicidality rates.
+As previously stated, the only pharmacological effective agents used to treat suicidality appear to be lithium in affective disorders and clozapine in schizophrenia [63-65]. No other pharmacological compound seems to have anti-suicidal properties beyond the specific effect on the psychiatric disorder for which it has an indication, that is no other drug seems to possess independent anti-suicidal effect. Several psychotherapies appear also effective in reducing suicidality, including cognitive-behavioural therapy, dialectical behavioural therapy and problem-solving therapy, in different patient populations (but mainly they were tested in borderline personality disorder or in people referring to emergency departments for suicide attempts independently of the primary diagnosis) [72].
+Early recognition and diagnosis of OCD and effective pharmacological and psychological treatments of the disorder remain then essential for the prevention of suicidality, as for all mental disorders [73-75]. For OCD, it should be highlighted that effective pharmacological treatment encompasses serotonergic drugs (SSRIs and clomipramine) with the following specificities: the use of moderate-to-high doses [76] and the need to wait several weeks (usually 12 weeks is the time required) in order to have a response (which is defined as a reduction of 25-35% of baseline symptoms) [77]. Then, other strategies, including the augmentation with CBT or some (but not all) atypical antipsychotics could be used for resistant patients [78, 79]. It is essential, then, for psychiatrists to remember these guidelines and appropriately (and aggressively) treat their patients affected by OCD.
+Moreover, early and aggressive treatment of patients with any single phenomenon within the suicidality continuum may result in the prevention of deaths; a study found that suicidal ideators and suicidal attempters do not differ in any clinical characteristics and that there is a strong correlation between all suicidal phenomena (specifically, suicide risk increases significantly even when a patient wishes to be dead) [42]. Moreover, our review of risk factors found that the same variables predicted both suicidal ideation and suicide attempts.
+From our review of the literature it emerges that some predictors may be identified and modified; comorbid disorders (and, specifically, comorbid depression – both in major depressive disorder but also in bipolar disorder) should be aggressively treated, and this is clinically feasible and quite easy to do.
+It is very important for clinicians to keep in mind the possibility that comorbid bipolar disorder is present when, under pharmacological treatment, an individual with OCD develops aggressive behaviors and suicidal thoughts; these features of mood switching under anti-OCD drugs were reported, for example, by a significant proportion of members of the French OCD Association [80]. Moreover, a huge literature confirms that OCD is often comorbid with bipolar disorder, and that when subjects with bipolar disorder have current or lifetime OCD (or other current or lifetime anxiety disorders) the risk of suicidal behaviors increases significantly [81-86]. Given that bipolar depression is associated with significantly higher rates of suicide risk than unipolar depression [81-86], clinicians should always inquire longitudinally history of bipolar disorder when dealing with an individual with OCD who is also with depression.
+The severity of comorbid anxiety symptoms (including insomnia) is also a predictor of suicide risk in subjects with OCD, and this confirms previous studies suggesting that this is a general risk factor in several psychiatric disorders [87].
+Hopelessness and personality traits such as alexithymia, ego-dystonic perfectionism should also be considered when planning interventions. Regretfully, it is not common in clinical practice to screen for the presence of cognitive-emotional factors, such as hopelessness or alexithymia among others, in individuals with OCD, nor is it routine clinical practice to distinguish between ego-dystonic perfectionism from OCD symptoms. Some clinicians with a cognitive-behavioral background may assess cognitive constructs such as inflated responsibility and evaluate its impact on the severity of the disorder (including suicide risk); however, our opinion is again that it is not so common in clinical practice. Given that suicide risk is higher in people with these cognitive-emotional risk factors, we strongly suggest adding their evaluation in the baseline assessment of individuals presenting with severe OCD. We could not find studies investigating in OCD whether aggressive and specific treatment of these emotion-cognitive factors could result in a reduction of suicidality, although specific psychological interventions focused at reducing hopelessness or other cognitive distortions have been studied. We found only one specific intervention in OCD addressing anxiety sensitivity cognitive concerns as a way of reducing suicidality [88]; anxiety sensitivity reflects the fear of the autonomic arousal due to the belief that there will be adverse physical, cognitive and/or social consequences associated with this arousal. Anxiety sensitivity, in particular the cognitive domain, has been associated with suicidality in non-OCD samples; thus, reducing anxiety sensitivity could be beneficial also in individuals with OCD reducing their risk of suicide. This randomized clinical trial found that a one-session anxiety sensitivity cognitive concerns intervention produced significantly greater reduction in anxiety sensitivity and that changes in anxiety sensitivity cognitive concerns mediated the changes in suicidality at one-month follow-up [88].
+This study can be considered as an example of future trials investigating specifically among individuals with OCD whether specific interventions aimed at reducing risk factors for suicidality (e.g. comorbid major depression, comorbid SUD, hopelessness, alexithymia, etc.) could really be beneficial for patients with higher suicidal risk. Unfortunately, we don’t have yet any direct evidence from longitudinal studies showing that successful pharmacotherapy of pure OCD or successful pharmacotherapy of OCD comorbid with depression reduces suicide risk. We can only speculate that addressing risk factors and appropriately treating them (e.g. comorbid depression, whether unipolar or bipolar) would probably result in a reduction of suicide risk among individuals with OCD.
+Another potential modifiable risk factor for suicidality in OCD is cigarette smoking [38]; it has been found to be an independent risk factor for suicide in patients suffering from several disorders other than OCD and it may be that the influence of nicotine exposure with suicidality is mediated by impulsive features. Interventions aimed at smoking cessation could then also reduce suicidality in OCD patients.
+One interesting and clinically useful result that emerges from our systematic review is that childhood trauma/early adversities are risk factors for suicidality in OCD as they are for suicide in general [75] specifically, childhood sexual abuse was associated with suicidal ideation and attempts among individual with OCD [46, 66]. Moreover, early maladaptive schemas (mistrust/abuse schema) were associated with suicidality; as interpreted by the Authors, mistrust/abuse schema refers to an attitude recognized by avoidance of relationships with others for fear of being betrayed or misled, which in turn may be related to having suffered from physical and/or sexual abuse experiences, severe punishments or living in an emotionally or physically unsafe environment [67]. Finally, comorbid PTSD with OCD onset after PTSD (named post-traumatic OCD) was also associated with a greater risk for suicidality [28]; since the mean age of the traumatic event was 14.7 years, greater suicidality rates may represent general effects of early trauma, confirming results of the other two studies. It may be, then, that addressing adverse childhood experiences in these patients at higher risk for suicide because of having suffered a childhood trauma could result in reducing suicides.
+Finally, unacceptable thoughts (aggressive, sexual or religious obsessions) are associated with suicidality [22, 26, 41, 42, 67] this may have a therapeutic implication, since the use of specific cognitive-behavior techniques such as exposure and response prevention or acceptance and commitment therapy rather than suppressing of these thoughts may prevent suicide [89].
+4.3. Limitations
+Our systematic review suffers from several limitations, intrinsic in the way the studies included in this review were conducted. First of all, different instruments were used to assess suicidality (from open questions, to the generic use of item 3 of the HAM-D, to specific scales such as the SSI or even better the C-SSRS) and most studies assessed suicidality cross-sectionally only; suicidality is a dynamic and dimensional phenomenon that requires active inquiring through specific instruments/rating scales specifically designed to evaluate all aspects of suicidality (from generic ideas that life is not worth living, to suicidal ideation with or without an intent to act, specific plans, to actual, interrupted and aborted previous attempts; intensity of the ideation, lethality of prior attempts and protective factors should also be assessed and registered). Studies included, moreover, are heterogeneous in terms of characteristics of samples included (e.g. in terms of percentage of subjects with comorbid disorders, gender distribution or mean age); these socio-demographic and clinical characteristics could influence our estimates of the true risk associated with OCD, but are more influential when trying to identify predictors of suicidality. The vast majority of studies did not use adequate statistical analyses (e.g. logistic regression analyses) when investigating predictors/factors associated with suicidality, so that we cannot evaluate the independent contribution of each postulated predictor of suicidality. Another source of heterogeneity is that each study compared a set of clinical and demographic variables different from other studies; the result is that for some variables (e.g. comorbid MDD, severity of OCD as from YBOCS total score, severity of depressive symptoms) we have enough information to tentatively conclude that these are actually contributing to the increased risk, while for others (e.g. emotion-cognitive factors, for example) data are scant. Another limitation is that we included in the present review several papers from the same group of researchers, which included partially overlapping samples (e.g. studies from the International College of Obsessive-Compulsive Spectrum Disorders or the Brazilian Research Consortium on Obsessive-Compulsive Spectrum Disorders).
+Being aware of these limitations, we clearly separated results of studies performed in clinical settings from those of epidemiological ones, and we clearly reported in our tables the instruments used to assess OCD, suicidality, the mode of suicidality inquires in each study, together with the principal characteristics (when available) of the samples included. We also marked all studies which included overlapping samples. When possible, finally, we included among predictors only those emerging from adequate statistical analyses.
+CONCLUSION
+A history-based bias, based on psychoanalytical models likely to confound obsessive-compulsive personality disorder and obsessive character traits with obsessive-compulsive disorder, may have prompted clinicians to consider people with OCD not at risk of committing suicide. This bias possibly led to underestimate this risk in clinical practice.
+Our systematic review clearly showed that OCD is at a greater suicide risk, compared to the general population. Hence, clinicians should actively inquire about suicidal thoughts and attempts when interviewing a patient with OCD, keeping in mind that risk identification remains a crucial factor for establishing preventive strategies. The recognition that specific risk factors, such as content of obsessions, former Axis I comorbidity and other clinical features, are associated with suicidal ideation and attempts among individuals with OCD, could potentially lead to saving lives in the future.
+ACKNOWLEDGEMENTS
+Declared none.
+CONSENT FOR PUBLICATION
+Not applicable.
+STANDARD OF REPORTING
+PRISMA guidelines and methodology were followed.
+FUNDING
+None.
+CONFLICT OF INTEREST
+The authors declare no conflict of interest, financial or otherwise.
+REFERENCES
+1.Coryell W. Obsessive-compulsive disorder and primary unipolar depression. Comparisons of background, family history, course, and mortality. J. Nerv. Ment. Dis. 1981;169(4):220–224. doi: 10.1097/00005053-198104000-00003. [http:// dx.doi.org/10.1097/00005053-198104000-00003]. [PMID: 7217927]. [DOI] [PubMed] [Google Scholar]
+2.Goodwin D.W., Guze S.B., Robins E. Follow-up studies in obsessional neurosis. Arch. Gen. Psychiatry. 1969;20(2):182–187. doi: 10.1001/archpsyc.1969.01740140054006. [http://dx.doi.org/10.1001/archpsyc.1969.01740140054006]. [PMID: 5763526]. [DOI] [PubMed] [Google Scholar]
+3.Kringlen E. Obsessional neurotics: A long-term follow-up. Br. J. Psychiatry. 1965;111:709–722. doi: 10.1192/bjp.111.477.709. [http://dx.doi.org/10.1192/bjp.111. 477.709]. [PMID: 14337420]. [DOI] [PubMed] [Google Scholar]
+4.Harris E.C., Barraclough B. Suicide as an outcome for mental disorders. A meta-analysis. Br. J. Psychiatry. 1997;170:205–228. doi: 10.1192/bjp.170.3.205. [http://dx.doi.org/10.1192/bjp.170.3.205]. [PMID: 9229027]. [DOI] [PubMed] [Google Scholar]
+5.Khan A., Leventhal R.M., Khan S., Brown W.A. Suicide risk in patients with anxiety disorders: A meta-analysis of the FDA database. J. Affect. Disord. 2002;68(2-3):183–190. doi: 10.1016/s0165-0327(01)00354-8. [http://dx.doi.org/ 10.1016/S0165-0327(01)00354-8]. [PMID: 12063146]. [DOI] [PubMed] [Google Scholar]
+6.Kanwar A., Malik S., Prokop L.J., Sim L.A., Feldstein D., Wang Z., Murad M.H. The association between anxiety disorders and suicidal behaviors: A systematic review and meta-analysis. Depress. Anxiety. 2013;30(10):917–929. doi: 10.1002/da.22074. [PMID: 23408488]. [DOI] [PubMed] [Google Scholar]
+7.Angelakis I., Gooding P., Tarrier N., Panagioti M. Suicidality in obsessive compulsive disorder (OCD): a systematic review and meta-analysis. Clin. Psychol. Rev. 2015;39:1–15. doi: 10.1016/j.cpr.2015.03.002. [http://dx.doi. org/10.1016/j.cpr.2015.03.002]. [PMID: 25875222]. [DOI] [PubMed] [Google Scholar]
+8.Pompili M. In: Phenomenology of suicide: unlocking the suicidal mind. Pompili M., editor. US: Springer; 2018. [http://dx.doi.org/ 10.1007/978-3-319-47976-7] [Google Scholar]
+9.Pompili M. Exploring the phenomenology of suicide. Suicide Life Threat. Behav. 2010;40(3):234–244. doi: 10.1521/suli.2010.40.3.234. [http://dx.doi.org/10.1521/ suli.2010.40.3.234]. [PMID: 20560745]. [DOI] [PubMed] [Google Scholar]
+10.Maltsberger J.T. The descent into suicide. Int. J. Psychoanal. 2004;85(Pt 3):653–667. doi: 10.1516/002075704774200799. [http://dx.doi.org/10.1516/3C96-URET-TLWX-6LWU]. [PMID: 15228702]. [DOI] [PubMed] [Google Scholar]
+11.Moher D., Liberati A., Tetzlaff J., Altman D.G. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. PLoS Med. 2009;6(7):e1000097. doi: 10.1371/journal.pmed.1000097. [http://dx.doi.org/ 10.1371/journal.pmed.1000097]. [PMID: 19621072]. [DOI] [PMC free article] [PubMed] [Google Scholar]
+12.Moher D., Liberati A., Tetzlaff J., Altman D.G. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. Int. J. Surg. 2010;8(5):336–341. doi: 10.1016/j.ijsu.2010.02.007. [http://dx.doi.org/10. 1016/j.ijsu.2010.02.007]. [PMID: 20171303]. [DOI] [PubMed] [Google Scholar]
+13.Chia B.H. A Singapore study of obsessive compulsive disorder. Singapore Med. J. 1996;37(4):402–406. [PMID: 8993143]. [PubMed] [Google Scholar]
+14.Apter A., Horesh N., Gothelf D., Zalsman G., Erlich Z., Soreni N., Weizman A. Depression and suicidal behavior in adolescent inpatients with obsessive compulsive disorder. J. Affect. Disord. 2003;75(2):181–189. doi: 10.1016/s0165-0327(02)00038-1. [http://dx.doi.org/10.1016/S0165-0327(02) 00038-1]. [PMID: 12798258]. [DOI] [PubMed] [Google Scholar]
+15.Hantouche E.G., Angst J., Demonfaucon C., Perugi G. [Google Scholar]; Lancrenon S., Akiskal H.S. Cyclothymic OCD: A distinct form? J. Affect. Disord. 2003;75(1):1–10. doi: 10.1016/s0165-0327(02)00461-5. [http://dx.doi.org/10.1016/S0165-0327(02)00461-5]. [PMID: 12781344]. [DOI] [PubMed] [Google Scholar]
+16.Maina G., Albert U., Rigardetto S., Tiezzi M.N., Bogetto F. Suicidio e disturbo ossessivo-compulsivo. Giornale Italiano di Psicopatologia. 2006;12:31–37. [Google Scholar]
+17.Kamath P., Reddy Y.C., Kandavel T. Suicidal behavior in obsessive-compulsive disorder. J. Clin. Psychiatry. 2007;68(11):1741–1750. doi: 10.4088/jcp.v68n1114. [http://dx.doi.org/10.4088/JCP.v68n1114]. [PMID: 18052568]. [DOI] [PubMed] [Google Scholar]
+18.Maina G., Salvi V., Tiezzi M.N., Albert U., Bogetto F. Is OCD at risk for suicide? A case-control study. Clin. Neuropsychiatry. 2007;4(3):117–121. [Google Scholar]
+19.Phillips K.A., Pinto A., Menard W., Eisen J.L., Mancebo M., Rasmussen S.A. Obsessive-compulsive disorder versus body dysmorphic disorder: A comparison study of two possibly related disorders. Depress. Anxiety. 2007;24(6):399–409. doi: 10.1002/da.20232. [http://dx.doi.org/ 10.1002/da.20232]. [PMID: 17041935]. [DOI] [PMC free article] [PubMed] [Google Scholar]
+20.Gentil A.F., de Mathis M.A., Torresan R.C., Diniz J.B., Alvarenga P., do Rosário M.C., Cordioli A.V., Torres A.R., Miguel E.C. Alcohol use disorders in patients with obsessive-compulsive disorder: the importance of appropriate dual-diagnosis. Drug Alcohol Depend. 2009;100(1-2):173–177. doi: 10.1016/j.drugalcdep.2008.09.010. [http://dx.doi.org/10.1016/ j.drugalcdep.2008.09.010]. [PMID: 19004577]. [DOI] [PubMed] [Google Scholar]
+21.Alonso P., Segalàs C., Real E., Pertusa A., Labad J., Jiménez-Murcia S., Jaurrieta N., Bueno B., Vallejo J., Menchón J.M. Suicide in patients treated for obsessive-compulsive disorder: A prospective follow-up study. J. Affect. Disord. 2010;124(3):300–308. doi: 10.1016/j.jad.2009.12.001. [http://dx.doi.org/10.1016/j.jad.2009.12.001]. [PMID: 20060171]. [DOI] [PubMed] [Google Scholar]
+22.Balci V., Sevincok L. Suicidal ideation in patients with obsessive-compulsive disorder. Psychiatry Res. 2010;175(1-2):104–108. doi: 10.1016/j.psychres.2009.03.012. [http:// dx.doi.org/10.1016/j.psychres.2009.03.012]. [PMID: 19923009]. [DOI] [PubMed] [Google Scholar]
+23.Hung T.C., Tang H.S., Chiu C.H., Chen Y.Y., Chou K.R., Chiou H.C., Chang H.J. Anxiety, depressive symptom and suicidal ideation of outpatients with obsessive compulsive disorders in Taiwan. J. Clin. Nurs. 2010;19(21-22):3092–3101. doi: 10.1111/j.1365-2702.2010.03378.x. [http://dx.doi. org/10.1111/j.1365-2702.2010.03378.x]. [PMID: 21040015]. [DOI] [PubMed] [Google Scholar]
+24.Sallet P.C., de Alvarenga P.G., Ferrão Y., de Mathis M.A., Torres A.R., Marques A., Hounie A.G., Fossaluza V., do Rosario M.C., Fontenelle L.F., Petribu K., Fleitlich-Bilyk B. Eating disorders in patients with obsessive-compulsive disorder: prevalence and clinical correlates. Int. J. Eat. Disord. 2010;43(4):315–325. doi: 10.1002/eat.20697. [PMID: 19424977]. [DOI] [PubMed] [Google Scholar]
+25.Mahasuar R., Janardhan Reddy Y.C., Math S.B. Obsessive-compulsive disorder with and without bipolar disorder. Psychiatry Clin. Neurosci. 2011;65(5):423–433. doi: 10.1111/j.1440-1819.2011.02247.x. [http://dx.doi.org/10.1111/j. 1440-1819.2011.02247.x]. [PMID: 21851451]. [DOI] [PubMed] [Google Scholar]
+26.Torres A.R., Ramos-Cerqueira A.T., Ferrão Y.A., Fontenelle L.F., do Rosário M.C., Miguel E.C. Suicidality in obsessive-compulsive disorder: Prevalence and relation to symptom dimensions and comorbid conditions. J. Clin. Psychiatry. 2011;72(1):17–26. doi: 10.4088/JCP.09m05651blu. [http://dx.doi.org/10.4088/JCP.09m05651blu]. [PMID: 21272513]. [DOI] [PubMed] [Google Scholar]
+27.Chakraborty V., Cherian A.V., Math S.B., Venkatasubramanian G., Thennarasu K., Mataix-Cols D., Reddy Y.C. Clinically significant hoarding in obsessive-compulsive disorder: results from an Indian study. Compr. Psychiatry. 2012;53(8):1153–1160. doi: 10.1016/j.comppsych.2012.05.006. [http:// dx.doi.org/10.1016/j.comppsych.2012.05.006]. [PMID: 22796017]. [DOI] [PubMed] [Google Scholar]
+28.Fontenelle L.F., Cocchi L., Harrison B.J., Shavitt R.G., do Rosário M.C., Ferrão Y.A., de Mathis M.A., Cordioli A.V., Yücel M., Pantelis C. Mari, Jde.J.; Miguel, E.C.; Torres, A.R. Towards a post-traumatic subtype of obsessive-compulsive disorder. J. Anxiety Disord. 2012;26(2):377–383. doi: 10.1016/j.janxdis.2011.12.001. [http://dx.doi.org/10. 1016/j.janxdis.2011.12.001]. [PMID: 22230220]. [DOI] [PubMed] [Google Scholar]
+29.Tavares D., Quevedo L., Jansen K., Souza L., Pinheiro R., Silva R. Prevalence of suicide risk and comorbidities in postpartum women in Pelotas. Rev. Bras. Psiquiatr. 2012;34(3):270–276. doi: 10.1016/j.rbp.2011.12.001. [http://dx.doi.org/10.1016/j.rbp.2011.12.001]. [PMID: 23429772]. [DOI] [PubMed] [Google Scholar]
+30.Viswanath B., Narayanaswamy J.C., Rajkumar R.P., Cherian A.V., Kandavel T., Math S.B., Reddy Y.C. Impact of depressive and anxiety disorder comorbidity on the clinical expression of obsessive-compulsive disorder. Compr. Psychiatry. 2012;53(6):775–782. doi: 10.1016/j.comppsych.2011.10.008. [http://dx.doi.org/10.1016/j.comppsych.2011.10.008]. [PMID: 22136738]. [DOI] [PubMed] [Google Scholar]
+31.Dell’Osso B., Benatti B., Buoli M., Altamura A.C., Marazziti D., Hollander E., Fineberg N., Stein D.J., Pallanti S., Nicolini H., Van Ameringen M., Lochner C., Hranov G., Karamustafalioglu O., Hranov L., Menchon J.M., Zohar J. The influence of age at onset and duration of illness on long-term outcome in patients with obsessive-compulsive disorder: A report from the International College of Obsessive Compulsive Spectrum Disorders (ICOCS). Eur. Neuropsychopharmacol. 2013;23(8):865–871. doi: 10.1016/j.euroneuro.2013.05.004. [http://dx.doi. org/10.1016/j.euroneuro.2013.05.004]. [PMID: 23791074]. [DOI] [PubMed] [Google Scholar]
+32.Moreira L., Bins H., Toressan R., Ferro C., Harttmann T., Petribú K., Juruena M.F., do Rosário M.C., Ferrão Y.A. An exploratory dimensional approach to premenstrual manifestation of obsessive-compulsive disorder symptoms: A multicentre study. J. Psychosom. Res. 2013;74(4):313–319. doi: 10.1016/j.jpsychores.2012.12.004. [http://dx.doi.org/10.1016/ j.jpsychores.2012.12.004]. [PMID: 23497833]. [DOI] [PubMed] [Google Scholar]
+33.Torres A.R., Shavitt R.G., Torresan R.C., Ferrão Y.A., Miguel E.C., Fontenelle L.F. Clinical features of pure obsessive-compulsive disorder. Compr. Psychiatry. 2013;54(7):1042–1052. doi: 10.1016/j.comppsych.2013.04.013. [http://dx. doi.org/10.1016/j.comppsych.2013.04.013]. [PMID: 23746710]. [DOI] [PubMed] [Google Scholar]
+34.Torresan R.C., Ramos-Cerqueira A.T., Shavitt R.G., do Rosário M.C., de Mathis M.A., Miguel E.C., Torres A.R. Symptom dimensions, clinical course and comorbidity in men and women with obsessive-compulsive disorder. Psychiatry Res. 2013;209(2):186–195. doi: 10.1016/j.psychres.2012.12.006. [http://dx.doi.org/10.1016/j.psychres.2012.12.006]. [PMID: 23298952]. [DOI] [PubMed] [Google Scholar]
+35.De Berardis D., Serroni N., Marini S., Rapini G., Carano A., Valchera A., Iasevoli F., Mazza M., Signorelli M., Aguglia E., Perna G., Martinotti G., Varasano P.A., Pressanti G.L., Di Giannantonio M. Alexithymia, suicidal ideation, and serum lipid levels among drug-naïve outpatients with obsessive-compulsive disorder. Rev. Bras. Psiquiatr. 2014;36(2):125–130. doi: 10.1590/1516-4446-2013-1189. [http://dx.doi.org/10. 1590/1516-4446-2013-1189]. [PMID: 24554275]. [DOI] [PubMed] [Google Scholar]
+36.Gupta G., Avasthi A., Grover S., Singh S.M. Factors associated with suicidal ideations and suicidal attempts in patients with obsessive compulsive disorder. Asian J. Psychiatr. 2014;12:140–146. doi: 10.1016/j.ajp.2014.09.004. [http://dx.doi.org/10.1016/j.ajp.2014.09.004]. [PMID: 25446904]. [DOI] [PubMed] [Google Scholar]
+37.De Berardis D., Serroni N., Campanella D., Rapini G., Olivieri L., Feliziani B., Carano A., Valchera A., Iasevoli F., Tomasetti C., Mazza M., Fornaro M., Perna G., Di Nicola M., Martinotti G., Di Giannantonio M. Alexithymia, responsibility attitudes and suicide ideation among outpatients with obsessive-compulsive disorder: an exploratory study. Compr. Psychiatry. 2015;58:82–87. doi: 10.1016/j.comppsych.2014.12.016. [http://dx.doi.org/10.1016/j.comppsych.2014.12.016]. [PMID: 25591904]. [DOI] [PubMed] [Google Scholar]
+38.Dell’Osso B., Nicolini H., Lanzagorta N., Benatti B., Spagnolin G., Palazzo M.C., Marazziti D., Hollander E., Fineberg N., Stein D.J., Pallanti S., Van Ameringen M., Lochner C., Hranov G., Karamustafalioglu O., Hranov L., Zohar J., Denys D. doi: 10.1017/S1092852915000565. [DOI] [PubMed] [Google Scholar]; Altamura A.C., Menchon J.M. Cigarette smoking in patients with obsessive compulsive disorder: a report from the International College of Obsessive Compulsive Spectrum Disorders (ICOCS). CNS Spectr. 2015;20(5):469–473. doi: 10.1017/S1092852915000565. [http://dx.doi.org/10.1017/ S1092852915000565]. [PMID: 26349811]. [DOI] [PubMed] [Google Scholar]
+39.Storch E.A., Bussing R., Jacob M.L., Nadeau J.M., Crawford E., Mutch P.J., Mason D., Lewin A.B., Murphy T.K. Frequency and correlates of suicidal ideation in pediatric obsessive-compulsive disorder. Child Psychiatry Hum. Dev. 2015;46(1):75–83. doi: 10.1007/s10578-014-0453-7. [http://dx.doi.org/10.1007/s10578-014-0453-7]. [PMID: 24682580]. [DOI] [PMC free article] [PubMed] [Google Scholar]
+40.Chaudhary R.K., Kumar P., Mishra B.P. Depression and risk of suicide in patients with obsessive-compulsive disorder: A hospital-based study. Ind. Psychiatry J. 2016;25(2):166–170. doi: 10.4103/ipj.ipj_63_16. [http:// dx.doi.org/10.4103/ipj.ipj_63_16]. [PMID: 28659695]. [DOI] [PMC free article] [PubMed] [Google Scholar]
+41.Kim H., Seo J., Namkoong K., Hwang E.H., Sohn S.Y., Kim S.J., Kang J.I. Alexithymia and perfectionism traits are associated with suicidal risk in patients with obsessive-compulsive disorder. J. Affect. Disord. 2016;192:50–55. doi: 10.1016/j.jad.2015.12.018. [http://dx.doi.org/10.1016/j.jad. 2015.12.018]. [PMID: 26707347]. [DOI] [PubMed] [Google Scholar]
+42.Velloso P., Piccinato C., Ferrão Y., Aliende Perin E., Cesar R., Fontenelle L., Hounie A.G., do Rosário M.C. The suicidality continuum in a large sample of obsessive-compulsive disorder (OCD) patients. Eur. Psychiatry. 2016;38:1–7. doi: 10.1016/j.eurpsy.2016.05.003. [http://dx.doi.org/ 10.1016/j.eurpsy.2016.05.003]. [PMID: 27606439]. [DOI] [PubMed] [Google Scholar]
+43.Aguglia A., Albert U., Maina G. Serum lipids and lifetime suicide attempts in patients with obsessive-compulsive disorder. J. Obsessive Compuls. Relat. Disord. 2017;15:1–6. [http://dx.doi. org/10.1016/j.jocrd.2017.07.003]. [Google Scholar]
+44.Brakoulias V., Starcevic V., Belloch A., Brown C., Ferrao Y.A., Fontenelle L.F., Lochner C., Marazziti D., Matsunaga H., Miguel E.C., Reddy Y.C.J., do Rosario M.C., Shavitt R.G., Shyam Sundar A., Stein D.J., Torres A.R., Viswasam K. Comorbidity, age of onset and suicidality in obsessive-compulsive disorder (OCD): An international collaboration. Compr. Psychiatry. 2017;76:79–86. doi: 10.1016/j.comppsych.2017.04.002. [http://dx.doi.org/10.1016/j.comppsych.2017.04.002]. [PMID: 28433854]. [DOI] [PubMed] [Google Scholar]
+45.Dell’Osso B., Benatti B., Arici C., Palazzo C., Altamura A.C., Hollander E., Fineberg N., Stein D.J., Nicolini H., Lanzagorta N., Marazziti D., Pallanti S., van Ameringen M., Lochner C., Karamustafalioglu O., Hranov L., Figee M., Drummond L., Rodriguez C.I., Grant J., Denys D., Menchon J.M., Zohar J. Prevalence of suicide attempt and clinical characteristics of suicide attempters with obsessive-compulsive disorder: a report from the International College of Obsessive-Compulsive Spectrum Disorders (ICOCS). CNS Spectr. 2017:1–8. doi: 10.1017/S1092852917000177. [PMID: 28300008]. [DOI] [PubMed] [Google Scholar]
+46.Khosravani V., Kamali Z., Jamaati A.R., Samimi A.M. The relation of childhood trauma to suicide ideation in patients suffering from obsessive-compulsive disorder with lifetime suicide attempts. Psychiatry Res. 2017;255:139–145. doi: 10.1016/j.psychres.2017.05.032. [http://dx. doi.org/10.1016/j.psychres.2017.05.032]. [PMID: 28549337]. [DOI] [PubMed] [Google Scholar]
+47.Saraf G., Paul I., Viswanath B., Narayanaswamy J.C., Math S.B., Reddy Y.C. Bipolar disorder comorbidity in patients with a primary diagnosis of OCD. Int. J. Psychiatry Clin. Pract. 2017;21(1):70–74. doi: 10.1080/13651501.2016.1233344. [http://dx.doi.org/10.1080/13651501.2016.1233344]. [PMID: 27646489]. [DOI] [PubMed] [Google Scholar]
+48.Dhyani M., Trivedi J.K., Nischal A., Sinha P.K., Verma S. Suicidal behaviour of Indian patients with obsessive compulsive disorder. Indian J. Psychiatry. 2013;55(2):161–166. doi: 10.4103/0019-5545.111455. [http://dx.doi. org/10.4103/0019-5545.111455]. [PMID: 23825851]. [DOI] [PMC free article] [PubMed] [Google Scholar]
+49.Hollander E., Greenwald S., Neville D., Johnson J., Hornig C.D., Weissman M.M. Uncomplicated and comorbid obsessive-compulsive disorder in an epidemiologic sample. Depress. Anxiety. 1996-1997;4(3):111–119. doi: 10.1002/(SICI)1520-6394(1996)4:3<111::AID-DA3>3.0.CO;2-J. [http://dx.doi.org/10.1002/(SICI)1520-6394(1996)4:3<111:AID-DA3>3.0.CO;2-J]. [PMID: 9166639]. [DOI] [PubMed] [Google Scholar]
+50.Goodwin R., Koenen K.C., Hellman F., Guardino M., Struening E. Helpseeking and access to mental health treatment for obsessive-compulsive disorder. Acta Psychiatr. Scand. 2002;106(2):143–149. doi: 10.1034/j.1600-0447.2002.01221.x. [http://dx.doi.org/10.1034/j.1600-0447.2002.01221.x]. [PMID: 12121213]. [DOI] [PubMed] [Google Scholar]
+51.Angst J., Gamma A., Endrass J., Goodwin R., Ajdacic V., Eich D., Rössler W. Obsessive-compulsive severity spectrum in the community: prevalence, comorbidity, and course. Eur. Arch. Psychiatry Clin. Neurosci. 2004;254(3):156–164. doi: 10.1007/s00406-004-0459-4. [http://dx.doi.org/ 10.1007/s00406-004-0459-4]. [PMID: 15205969]. [DOI] [PubMed] [Google Scholar]
+52.Angst J., Gamma A., Endrass J., Hantouche E., Goodwin R., Ajdacic V., Eich D., Rössler W. Obsessive-compulsive syndromes and disorders: Significance of comorbidity with bipolar and anxiety syndromes. Eur. Arch. Psychiatry Clin. Neurosci. 2005;255(1):65–71. doi: 10.1007/s00406-005-0576-8. [http://dx.doi.org/10.1007/s00406-005-0576-8]. [PMID: 15711895]. [DOI] [PubMed] [Google Scholar]
+53.Sareen J., Cox B.J., Afifi T.O., de Graaf R., Asmundson G.J., ten Have M., Stein M.B. Anxiety disorders and risk for suicidal ideation and suicide attempts: A population-based longitudinal study of adults. Arch. Gen. Psychiatry. 2005;62(11):1249–1257. doi: 10.1001/archpsyc.62.11.1249. [http://dx.doi.org/10.1001/archpsyc.62.11.1249]. [PMID: 16275812]. [DOI] [PubMed] [Google Scholar]
+54.Torres A.R., Prince M.J., Bebbington P.E., Bhugra D., Brugha T.S., Farrell M., Jenkins R., Lewis G., Meltzer H., Singleton N. Obsessive-compulsive disorder: prevalence, comorbidity, impact, and help-seeking in the British National Psychiatric Morbidity Survey of 2000. Am. J. Psychiatry. 2006;163(11):1978–1985. doi: 10.1176/ajp.2006.163.11.1978. [http:// dx.doi.org/10.1176/ajp.2006.163.11.1978]. [PMID: 17074950]. [DOI] [PubMed] [Google Scholar]
+55.Nock M.K., Hwang I., Sampson N., Kessler R.C., Angermeyer M., Beautrais A., Borges G., Bromet E., Bruffaerts R., de Girolamo G., de Graaf R., Florescu S., Gureje O., Haro J.M., Hu C., Huang Y., Karam E.G., Kawakami N., Kovess V., Levinson D., Posada-Villa J., Sagar R., Tomov T., Viana M.C., Williams D.R. Cross-national analysis of the associations among mental disorders and suicidal behavior: Findings from the WHO World Mental Health Surveys. PLoS Med. 2009;6(8):e1000123. doi: 10.1371/journal.pmed.1000123. [http://dx. doi.org/10.1371/journal.pmed.1000123]. [PMID: 19668361]. [DOI] [PMC free article] [PubMed] [Google Scholar]
+56.ten Have M., de Graaf R., van Dorsselaer S., Verdurmen J., van ’t Land H., Vollebergh W., Beekman A. Incidence and course of suicidal ideation and suicide attempts in the general population. Can. J. Psychiatry. 2009;54(12):824–833. doi: 10.1177/070674370905401205. [http://dx.doi.org/10. 1177/070674370905401205]. [PMID: 20047721]. [DOI] [PubMed] [Google Scholar]
+57.Jaisoorya T.S., Janardhan R.Y.C., Thennarasu K., Beena K.V., Beena M., Jose D.C. An epidemological study of obsessive compulsive disorder in adolescents from India. Compr. Psychiatry. 2015;61:106–114. doi: 10.1016/j.comppsych.2015.05.003. [http://dx.doi.org/10.1016/j.comppsych.2015. 05.003]. [PMID: 26038283]. [DOI] [PubMed] [Google Scholar]
+58.Cho S.J., Hong J.P., Lee J.Y. Im, J.S.; Na, K.S.; Park, J.E.; Cho, M.J. Association between DSM-IV anxiety disorders and suicidal behaviors in a community sample of south korean adults. Psychiatry Investig. 2016;13(6):595–600. doi: 10.4306/pi.2016.13.6.595. [http://dx.doi.org/10. 4306/pi.2016.13.6.595]. [PMID: 27909449]. [DOI] [PMC free article] [PubMed] [Google Scholar]
+59.Meier S.M., Mattheisen M., Mors O., Schendel D.E., Mortensen P.B., Plessen K.J. Mortality among persons with obsessive-compulsive disorder in denmark. JAMA Psychiatry. 2016;73(3):268–274. doi: 10.1001/jamapsychiatry.2015.3105. [http://dx.doi.org/10.1001/jamapsychiatry.2015.3105]. [PMID: 26818216]. [DOI] [PMC free article] [PubMed] [Google Scholar]
+60.Fernández de la Cruz L., Rydell M., Runeson B., D’Onofrio B.M., Brander G., Rück C., Lichtenstein P., Larsson H., Mataix-Cols D. Suicide in obsessive-compulsive disorder: A population-based study of 36 788 Swedish patients. Mol. Psychiatry. 2017;22(11):1626–1632. doi: 10.1038/mp.2016.115. [http://dx.doi.org/10.1038/mp.2016.115]. [PMID: 27431293]. [DOI] [PMC free article] [PubMed] [Google Scholar]
+61.Jaisoorya T.S., Janardhan Reddy Y.C., Nair B.S., Rani A., Menon P.G., Revamma M., Jeevan C.R., Radhakrishnan K.S., Jose V., Thennarasu K. Prevalence and correlates of obsessive-compulsive disorder and subthreshold obsessive-compulsive disorder among college students in Kerala, India. Indian J. Psychiatry. 2017;59(1):56–62. doi: 10.4103/0019-5545.204438. [http://dx.doi.org/10.4103/0019-5545.204438]. [PMID: 28529361]. [DOI] [PMC free article] [PubMed] [Google Scholar]
+62.Veisani Y., Mohamadian F., Delpisheh A. Prevalence and comorbidity of common mental disorders and associations with suicidal ideation in the adult population. Epidemiol. Health. 2017;39:e2017031. doi: 10.4178/epih.e2017031. [http://dx.doi.org/10.4178/epih.e2017031]. [PMID: 28774163]. [DOI] [PMC free article] [PubMed] [Google Scholar]
+63.Frogley C., Taylor D., Dickens G., Picchioni M. A systematic review of the evidence of clozapine’s anti-aggressive effects. Int. J. Neuropsychopharmacol. 2012;15(9):1351–1371. doi: 10.1017/S146114571100201X. [http://dx.doi. org/10.1017/S146114571100201X]. [PMID: 22339930]. [DOI] [PubMed] [Google Scholar]
+64.Zalsman G., Hawton K., Wasserman D., van Heeringen K., Arensman E., Sarchiapone M., Carli V., Höschl C., Barzilay R., Balazs J., Purebl G., Kahn J.P., Sáiz P.A., Lipsicas C.B., Bobes J., Cozman D., Hegerl U., Zohar J. Suicide prevention strategies revisited: 10-year systematic review. Lancet Psychiatry. 2016;3(7):646–659. doi: 10.1016/S2215-0366(16)30030-X. [http://dx.doi.org/10.1016/S2215-0366(16)30030-X]. [PMID: 27289303]. [DOI] [PubMed] [Google Scholar]
+65.Smith K.A., Cipriani A. Lithium and suicide in mood disorders: Updated meta-review of the scientific literature. Bipolar Disord. 2017;19(7):575–586. doi: 10.1111/bdi.12543. [http://dx.doi.org/10.1111/bdi.12543]. [PMID: 28895269]. [DOI] [PubMed] [Google Scholar]
+66.Ay R., Erbay L.G. Relationship between childhood trauma and suicide probability in obsessive-compulsive disorder. Psychiatry Res. 2018;261:132–136. doi: 10.1016/j.psychres.2017.12.054. [http://dx.doi.org/10.1016/j.psychres. 2017.12.054]. [PMID: 29304426]. [DOI] [PubMed] [Google Scholar]
+67.Khosravani V., Sharifi B.F., Samimi A.M., Jamaati A.R. Early maladaptive schemas and suicidal risk in an Iranian sample of patients with obsessive-compulsive disorder. Psychiatry Res. 2017;255:441–448. doi: 10.1016/j.psychres.2017.06.080. [http://dx.doi.org/10.1016/j.psychres.2017.06.080]. [PMID: 28686949]. [DOI] [PubMed] [Google Scholar]
+68.Fineberg N.A., Hengartner M.P., Bergbaum C., Gale T., Rössler W., Angst J. Lifetime comorbidity of obsessive-compulsive disorder and sub-threshold obsessive-compulsive symptomatology in the community: Impact, prevalence, socio-demographic and clinical characteristics. Int. J. Psychiatry Clin. Pract. 2013;17(3):188–196. doi: 10.3109/13651501.2013.777745. [http://dx.doi.org/10.3109/13651501.2013.777745]. [PMID: 23428236]. [DOI] [PubMed] [Google Scholar]
+69.Ozdemiroglu F., Sevincok L., Sen G., Mersin S., Kocabas O., Karakus K., Vahapoglu F. Comorbid obsessive-compulsive disorder with bipolar disorder: A distinct form? Psychiatry Res. 2015;230(3):800–805. doi: 10.1016/j.psychres.2015.11.002. [http://dx.doi.org/10.1016/j.psychres.2015.11.002]. [PMID: 26561371]. [DOI] [PubMed] [Google Scholar]
+70.Weingarden H., Renshaw K.D., Wilhelm S., Tangney J.P., DiMauro J. Anxiety and shame as risk factors for depression, suicidality, and functional impairment in body dysmorphic disorder and obsessive compulsive disorder. J. Nerv. Ment. Dis. 2016;204(11):832–839. doi: 10.1097/NMD.0000000000000498. [http://dx.doi.org/10.1097/NMD.0000000000000498]. [PMID: 26998694]. [DOI] [PMC free article] [PubMed] [Google Scholar]
+71.Borges G., Nock M.K., Haro A.J.M., Hwang I., Sampson N.A., Alonso J., Andrade L.H., Angermeyer M.C., Beautrais A., Bromet E., Bruffaerts R., de Girolamo G., Florescu S., Gureje O., Hu C., Karam E.G., Kovess-Masfety V., Lee S., Levinson D., Medina-Mora M.E., Ormel J., Posada-Villa J., Sagar R., Tomov T., Uda H., Williams D.R., Kessler R.C. Twelve-month prevalence of and risk factors for suicide attempts in the World Health Organization World Mental Health Surveys. J. Clin. Psychiatry. 2010;71(12):1617–1628. doi: 10.4088/JCP.08m04967blu. [http://dx.doi.org/10.4088/ JCP.08m04967blu]. [PMID: 20816034]. [DOI] [PMC free article] [PubMed] [Google Scholar]
+72.Brown G.K., Jager-Hyman S. Evidence-based psychotherapies for suicide prevention: future directions. Am. J. Prev. Med. 2014;47(3) Suppl. 2:S186–S194. doi: 10.1016/j.amepre.2014.06.008. [http://dx.doi.org/10.1016/j.amepre. 2014.06.008]. [PMID: 25145738]. [DOI] [PubMed] [Google Scholar]
+73.While D., Bickley H., Roscoe A., Windfuhr K., Rahman S., Shaw J., Appleby L., Kapur N. Implementation of mental health service recommendations in England and Wales and suicide rates, 1997-2006: A cross-sectional and before-and-after observational study. Lancet. 2012;379(9820):1005–1012. doi: 10.1016/S0140-6736(11)61712-1. [http://dx.doi.org/10. 1016/S0140-6736(11)61712-1]. [PMID: 22305767]. [DOI] [PubMed] [Google Scholar]
+74.Bolton J.M., Gunnell D., Turecki G. Suicide risk assessment and intervention in people with mental illness. BMJ. 2015;351:h4978. doi: 10.1136/bmj.h4978. [http://dx.doi.org/10.1136/bmj.h4978]. [PMID: 26552947]. [DOI] [PubMed] [Google Scholar]
+75.Turecki G., Brent D.A. Suicide and suicidal behaviour. Lancet. 2016;387(10024):1227–1239. doi: 10.1016/S0140-6736(15)00234-2. [http://dx.doi.org/10.1016/S0140-6736(15)00234-2]. [PMID: 26385066]. [DOI] [PMC free article] [PubMed] [Google Scholar]
+76.Bloch M.H., McGuire J., Landeros-Weisenberger A., Leckman J.F., Pittenger C. Meta-analysis of the dose-response relationship of SSRI in obsessive-compulsive disorder. Mol. Psychiatry. 2010;15(8):850–855. doi: 10.1038/mp.2009.50. [http://dx.doi.org/10.1038/mp.2009.50]. [PMID: 19468281]. [DOI] [PMC free article] [PubMed] [Google Scholar]
+77.Albert U., Marazziti D., Di Salvo G., Solia F., Rosso G., Maina G. A systematic review of evidence-based treatment strategies for obsessive-compulsive disorder resistant to first-line pharmacotherapy. Curr. Med. Chem. 2017 doi: 10.2174/0929867325666171222163645. [http://dx.doi.org/10.2174/ 0929867325666171222163645]. [PMID: 29278206]. [DOI] [PubMed] [Google Scholar]
+78.Albert U., Carmassi C., Cosci F., De Cori D., Di Nicola M., Ferrari S., Poloni N., Tarricone I., Fiorillo A. Role and clinical implications of atypical antipsychotics in anxiety disorders, obsessive-compulsive disorder, trauma-related, and somatic symptom disorders: a systematized review. Int. Clin. Psychopharmacol. 2016;31(5):249–258. doi: 10.1097/YIC.0000000000000127. [http://dx.doi.org/10.1097/YIC.0000000000000127]. [PMID: 26974213]. [DOI] [PubMed] [Google Scholar]
+79.Albert U., Salvo G.D., Solia F., Rosso G., Maina G. Combining drug and psychological treatments for Obsessive-Compulsive Disorder: what is the evidence, when and for whom. Curr. Med. Chem. 2018;25(41):5632–5646. doi: 10.2174/0929867324666170712114445. [http://dx.doi.org/10.2174/ 0929867324666170712114445]. [PMID: 28707590]. [DOI] [PubMed] [Google Scholar]
+80.Hantouche E.G., Kochman F., Demonfaucon C., Barrot I., Millet B., Lancrenon S., Akiskal H.S. Bipolar obsessive-compulsive disorder: Confirmation of results of the “ABC-OCD” survey in 2 populations of patient members versus non-members of an association. Encephale. 2002;28(1):21–28. [PMID: 11963340]. [PubMed] [Google Scholar]
+81.D’Ambrosio V., Albert U., Bogetto F., Maina G. Obsessive-compulsive disorder and cyclothymic temperament: An exploration of clinical features. J. Affect. Disord. 2010;127(1-3):295–299. doi: 10.1016/j.jad.2010.06.007. [http://dx.doi.org/10.1016/j.jad.2010.06.007]. [PMID: 20591494]. [DOI] [PubMed] [Google Scholar]
+82.Maina G., Albert U., Pessina E., Bogetto F. Bipolar obsessive-compulsive disorder and personality disorders. Bipolar Disord. 2007;9(7):722–729. doi: 10.1111/j.1399-5618.2007.00508.x. [http://dx.doi.org/10.1111/j.1399-5618.2007. 00508.x]. [PMID: 17988362]. [DOI] [PubMed] [Google Scholar]
+83.Mucci F., Toni C., Favaretto E., Vannucchi G., Marazziti D., Perugi G. Obsessive-compulsive disorder with comorbid bipolar disorders: clinical features and treatment implications. Curr. Med. Chem. 2018;25(41):5722–5730. doi: 10.2174/0929867324666171108145127. [http://dx.doi.org/10.2174/ 0929867324666171108145127]. [PMID: 29119914]. [DOI] [PubMed] [Google Scholar]
+84.Perugi G., Toni C., Frare F., Travierso M.C., Hantouche E., Akiskal H.S. Obsessive-compulsive-bipolar comorbidity: A systematic exploration of clinical features and treatment outcome. J. Clin. Psychiatry. 2002;63(12):1129–1134. [http://dx.doi.org/10. 4088/JCP.v63n1207]. [PMID: 12523872]. [PubMed] [Google Scholar]
+85.Timpano K.R., Rubenstein L.M., Murphy D.L. Phenomenological features and clinical impact of affective disorders in OCD: a focus on the bipolar disorder and OCD connection. Depress. Anxiety. 2012;29(3):226–233. doi: 10.1002/da.20908. [http://dx.doi.org/10.1002/da.20908]. [PMID: 22109969]. [DOI] [PMC free article] [PubMed] [Google Scholar]
+86.Simon N.M., Otto M.W., Wisniewski S.R., Fossey M., Sagduyu K., Frank E., Sachs G.S., Nierenberg A.A., Thase M.E., Pollack M.H. Anxiety disorder comorbidity in bipolar disorder patients: data from the first 500 participants in the Systematic Treatment Enhancement Program for Bipolar Disorder (STEP-BD). Am. J. Psychiatry. 2004;161(12):2222–2229. doi: 10.1176/appi.ajp.161.12.2222. [http://dx.doi.org/10.1176/ appi.ajp.161.12.2222]. [PMID: 15569893]. [DOI] [PubMed] [Google Scholar]
+87.Fawcett J., Scheftner W.A., Fogg L., Clark D.C., Young M.A., Hedeker D., Gibbons R. Time-related predictors of suicide in major affective disorder. Am. J. Psychiatry. 1990;147(9):1189–1194. doi: 10.1176/ajp.147.9.1189. [http://dx.doi.org/10.1176/ajp.147.9.1189]. [PMID: 2104515]. [DOI] [PubMed] [Google Scholar]
+88.Raines A.M., Short N., Allan N.P., Oglesby M.E., Schmidt N.B. Examination of a brief anxiety sensitivity cognitive concerns intervention on suicidality among individuals with obsessive-compulsive symptoms. Contemp. Clin. Trials. 2015;45(Pt B):191–195. doi: 10.1016/j.cct.2015.09.006. [http://dx.doi.org/10.1016/j.cct.2015.09.006] [DOI] [PubMed] [Google Scholar]
+89.Abramowitz J.S., Taylor S., McKay D. Potentials and limitations of cognitive treatments for obsessive-compulsive disorder. Cogn. Behav. Ther. 2005;34(3):140–147. doi: 10.1080/16506070510041202. [http://dx.doi.org/10.1080/ 16506070510041202]. [PMID: 16195053]. [DOI] [PubMed] [Google Scholar]
+Articles from Current Neuropharmacology are provided here courtesy of Bentham Science Publishers

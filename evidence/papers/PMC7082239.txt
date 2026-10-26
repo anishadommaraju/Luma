@@ -1,0 +1,886 @@
+Transl Pediatr. 2020 Feb;9(Suppl 1):S76–S93. doi: 10.21037/tp.2019.10.02
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+Obsessive-compulsive disorder in children and adolescents: epidemiology, diagnosis and management
+Ahsan Nazeer
+Ahsan Nazeer
+1Department of Psychiatry, Division of Child and Adolescent Psychiatry, Sidra Medicine, Doha, Qatar;
+Find articles by Ahsan Nazeer
+1,✉, Finza Latif
+Finza Latif
+2Division of Psychiatry and Behavioral Sciences, George Washington University, Children’s National Medical Center, Washington, DC, USA;
+Find articles by Finza Latif
+2, Aisha Mondal
+Aisha Mondal
+2Division of Psychiatry and Behavioral Sciences, George Washington University, Children’s National Medical Center, Washington, DC, USA;
+Find articles by Aisha Mondal
+2, Muhammad Waqar Azeem
+Muhammad Waqar Azeem
+3Department of Psychiatry, Sidra Medicine, Doha, Qatar;
+Find articles by Muhammad Waqar Azeem
+3, Donald E Greydanus
+Donald E Greydanus
+4Department of Pediatric and Adolescent Medicine, Western Michigan University Homer Stryker M.D. School of Medicine, Kalamazoo, MI, USA
+Find articles by Donald E Greydanus
+4
+Author information
+Article notes
+Copyright and License information
+1Department of Psychiatry, Division of Child and Adolescent Psychiatry, Sidra Medicine, Doha, Qatar;
+2Division of Psychiatry and Behavioral Sciences, George Washington University, Children’s National Medical Center, Washington, DC, USA;
+3Department of Psychiatry, Sidra Medicine, Doha, Qatar;
+4Department of Pediatric and Adolescent Medicine, Western Michigan University Homer Stryker M.D. School of Medicine, Kalamazoo, MI, USA
+Contributions: (I) Conception and design: All authors; (II) Administrative support: None; (III) Provision of study materials or patients: All authors; (IV) Collection and assembly of data: All authors; (V) Data analysis and interpretation: All authors; (VI) Manuscript writing: All authors; (VII) Final approval of manuscript: All authors.
+✉
+Correspondence to: Ahsan Nazeer, MD. Division Chief, Child and Adolescent Mental Health Services (CAMHS), Sidra Medicine, Doha, Qatar. Email: anazeer@sidra.org.
+✉
+Corresponding author.
+Received 2019 Sep 25; Accepted 2019 Oct 4; Issue date 2020 Feb.
+2020 Translational Pediatrics. All rights reserved.
+Open Access Statement: This is an Open Access article distributed in accordance with the Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License (CC BY-NC-ND 4.0), which permits the non-commercial replication and distribution of the article with the strict proviso that no changes or edits are made and the original work is properly cited (including links to both the formal publication through the relevant DOI and the license). See: https://creativecommons.org/licenses/by-nc-nd/4.0.
+PMC Copyright notice
+PMCID: PMC7082239 PMID: 32206586
+Abstract
+Obsessive-compulsive disorder (OCD) can be found in about 4% of the general population and is characterized by various compulsions and obsessions that interfere with the person’s quality of life from a mild to severe degree. The following discussion reflects on current concepts in this condition, including its epidemiology and etiologic underpinnings (behavioral, neurological, immunological, gastroenterological, as well as genetic). The interplay of PANS and PANDAS are included in this review. In addition, the core concepts of OCD diagnosis, differential diagnosis, and co-morbidities are considered. It is stressed that the quality of life for persons with pediatric OCD as well as for family members can be quite limited and challenged. Thus, principles of management are presented as a guide to improve the quality of life for these persons as much as possible.
+Keywords: Obsessions, compulsions, diagnosis, co-morbidities, quality of life, psychological therapy, selective serotonin reuptake inhibitors
+Introduction
+The presence of obsessions and compulsions with or without the obsessive-compulsive disorder (OCD) has been observed and suggested in human beings for eons of time with considerable impact on human history as well as world religions (“religious scrupulosity”) (1-5). Scrupulosity focusing on morality was noted in the American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders (DSM) IV-TR that identified it as a symptom of obsessive-compulsive personality disorder (6,7). Medical attention on obsessive-compulsive traits and disorder in children and adolescents—apart from that found in adults—gradually began in the 20th century and has continued into the 21st century as well (8-11). This discussion considers the current understanding of pediatric OCD with special focus on its epidemiology, etiology, diagnosis, differential diagnosis, co-morbidities, and management (12-15).
+Overview
+OCD is currently identified by the American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders, 5th edition (DSM-5) as a condition with obsessions (repeating urges or ideas that are irrational, intrusive) combined with compulsions (behaviors) interfering with the person’s quality of life and often in association with other neurodevelopmental or psychiatric conditions (16,17). As research on OCD continues, the question can be raised whether the core aspect is the person’s compulsions that lead to various obsessions, or do the obsessions stimulate the compulsions in a way to minimize anxiety caused by irrational fears (18). Other symptomatic features which may arise include impulsivity, rage episodes, aggressive behavior, sexual obsessions, religious rituals (scrupulosity), and eating obsessions in eating disorders (19-25). Various fears may arise about hygiene, contamination, cleanliness, the need for continuous checking and establishment of constant symmetry in their lives (10-15).
+OCD is a chronic condition that impacts humans from early childhood through adulthood with a continuum between obsessive-compulsive traits to overt OCD (26,27). OCD is often under-diagnosed and is often found with minimal insight in those who have OCD as well as considerable family accommodation that they enjoy from their families (28,29). Older parental age increases risks for some neurodevelopmental disorders like OCD and autism spectrum disorder (30).
+Epidemiology
+Studies over the past decades note that OCD is variably found in 1% to 4% of persons (children, adolescents, adults) throughout the world often with a seriously negative impact on their lives; approximately 4 in 10 with OCD develop it as a chronic condition, and many seek to conceal their OCD from others (31-38). The World Health Organization (WHO) places OCD in the top ten of the most handicapping disorders of humans (36). OCD can begin in childhood, and approximately 8 in 10 of those developing OCD initiate it by 18 years of age (37). The research seeks to find various OCD subtypes based on concepts of etiology; there is, for example, OCD in children called Early Onset OCD that reflects a neurodevelopmental perspective (39).
+Etiology
+Research reveals a variety of underlying etiologic factors in the development of OCD in humans of various ages. These include inter-connecting issues based on behavioral, neurological, infectious, and immunological underpinnings (11-16).
+Behavioral etiology
+Various psychological and neuropsychological models of etiology describe a complex process in which the OCD person learns or is driven to determine what are perceived as errors in their thinking patterns in order to cope with deep-seated anxiety (40). The role of over-protective parenting styles with rigid rules, a person’s perspective that their actions are never acceptable to others and various other adverse childhood experiences continue to be debated, especially in light of 20th and 21st century methods of studying the central nervous system (41,42).
+Neurological etiology
+Changes leading to neurological dysfunctions are noted in various studies of the central nervous system leading to OCD and its identification as a complex, heterogeneous condition. These brain studies included brain scans, magnetic resonance imaging (MRI), functional magnetic resonance imaging (fMRI), whole-brain voxel-based morphometry (VBM), and diffusion tensor imaging (DTI) (43). These changes are noted in the cortico-striato-thalamocortical circuits of the brain and brain white matter (44). This frontal-striatal-thalamic model of neurological dysfunction has been a center point of brain imaging OCD research for the past several decades showing diffuse changes including frontoparietal-limbic dysfunction, orbitofrontal dysfunction, brain volume reduction, basal ganglia dysfunction, and error-related brain activity (45-59).
+Studies also reveal alterations in the hippocampus (60), and serotonergic-dopaminergic pathways as well as the glutamatergic system (61,62). Brain changes (i.e., asymmetry or thickness of subcortical structures, parietal cortex thickness, others) can be influenced by various factors such as genetics, age, anti-OCD medication effects and others (63,64). Obsessive-compulsive behavior has been anecdotally reported in some taking the anti-epileptic drug, levetiracetam, possibly because of effects on the glutamatergic system (65).
+Immunological etiology
+Immunological mechanisms are postulated as being involved in pediatric OCD as noted by research linking this condition with pro-inflammatory cytokines such as TNF-alpha and IL-12 (66). Inflammatory damage to monocytes can be noted in persons with OCD and modified by effects of OCD-medication as seen with measurements of pro-inflammatory cytokines (67). The role of the immune system and infection continues to be studied as seen with a report of a pediatric person developing OCD after developing acute disseminated encephalomyelitis (ADEM) which targeted the cerebral white matter (68).
+PANDAS/PANS
+Further intriguing links of pediatric OCD with immuno-infectious underpinnings is found in the association of OCD symptomatology (1–10%) with the proposed [1998] PANDAS (pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections) with positive antistreptolysin O as well as anti-DNase B antibody titers and PANS (pediatric acute-onset neuropsychiatric syndrome) (67,69-76). Though PANDAS remained a proposed syndrome and was not listed as a distinct entity in the 2013 DSM-V, proposed links with OCD remain an on-going research efforts (77).
+Gastrointestinal (GI) microbiome etiology
+Another intriguing area of research in the etio-pathogenesis of psychiatric disease is the microbiome-gut-brain axis in which gastrointestinal (GI) microbes influence the brain to affect human behavior via GI inflammation and immunological effects (77). The presence of various GI microbes, as influenced by various internal and external factors (stressors), can induce or influence such conditions as depression, OCD, PANS, PANDAS and others (77-79). Bacteria under study include group A beta-hemolytic streptococcus, and Bacteroidetes (i.e., Bacteroides, Odoribacter, and Oscillospira) (80-82).
+Genetic etiology
+If a person has OCD, this condition is increased two-times in first-degree relatives; this is increased ten-times if the OCD has a childhood-onset (15). The concordance rate noted for monozygotic twins is 0.57 versus 0.22 described in dizygotic twins (15). The genetic contribution to OCD is part of the overall research looking at genetic correlations with a wide variety of psychiatric and immunological disorders (83). Various genes are under study for OCD and one example is the SLC6A4 gene (serotonin transporter gene) that has been noted to influence OCD transmission via both genetic and epigenetic effects; epigenetic influences include DNA methylation (84). Other serotonin system genes under study for their role in OCD, in addition to SLC6A4, include HTR2A, HTR1B, and HTR2C (85).
+Links with OCD have been found, for example, with serotonin transporter polymorphism 5-HTTLPR and HTR2A polymorphism rs6311 (or rs6313) (85). Serotonin system gene variants have been linked with changes in brain volumes in pediatric persons with OCD (86). Research is occurring on SLC1A1 that encodes the glutamate transporter (epithelial and neuronal) and potential association with OCD (87). Research on genetic links in OCD also looks at finding copy number variations (CNVs), suggesting that CNVs can be part of the underlying etiologic mechanism for OCD (88).
+The complexities of genetic contributions to OCD and other neuropsychiatric/ neurodevelopmental disorders continue to be unraveled by research. One report noted deletions at two chromosomes (18q22.1 and 13q12.3-q13.1) in a person with OCD along with Tourette syndrome and dysmorphism (89). Given the enormous entanglements of genetic influence on OCD and the difficulties of OCD itself, genetic counseling is recommended for families (i.e., parents, others) to help them deal with OCD in a family member (i.e., a child or others) (90).
+Diagnosis
+A diagnosis of OCD is based on a thorough medical history (including family history) along with a physical examination and diagnostic interviews with psychological assessments; these include such measures as the Children’s Yale-Brown Obsessive-Compulsive Scale (CY-BOCS), the Children’s Yale-Brown Obsessive-Compulsive Scale, Second Edition (CY-BOCS-II), the Yale-Brown Obsessive-Compulsive Scale (Y-BOCS), the Y-BOCS self-report instrument (Y-BOCS-SR), the Yale-Brown Obsessive-Compulsive Scale Check List (Y-BOCS CL), the Anxiety Disorders Interview Schedule for DSM-IV, the Family Accommodation Scale for Obsessive-Compulsive Disorder-Patient Version (FAS-PV), Short Mood and Feelings Questionnaire, the Screen for Child Anxiety-Related Emotional Disorders, the Child Behavior Checklist-Obsessive-Compulsive Subscale (CBCL-OCS), the Child Obsessive-Compulsive Externalizing/Internalizing Scale (COCEIS) and other screening measures (91-103).
+Clinicians should inquire about such symptoms as rituals or behaviors that are repeated over and over, things or situations (locations) that are carefully evaded, and acknowledgment of invasive thoughts or ideas (92). The use of transcranial sonography as a diagnostic modality revealing subcortical echogenicity in OCD and other psychiatric disorders remains in research (104). Studies on eye-tracking measurement have not proven diagnostic in OCD (105).
+Testing for the neurocognitive deficits can be useful for the identification of trait markers in those with OCD (106). Also, potentially valuable are the use of computer vision tools to find behavioral markers in those with pediatric OCD (46). Research is not definitive but continues in identifying potential subtypes of pediatric OCD based on executive functioning, aggressive traits, social reciprocity, and other features (107-110).
+Differential diagnosis
+An essential aspect of the OCD patient assessment is to separate the OCD diagnosis from other disorders that may be the cause of the patient’s symptomatology instead of OCD. A careful assessment including, thorough medical and psychological evaluations, is critical in this regard. For example, this person may have other anxiety disorders including generalized anxiety disorder, panic disorder, and different phobias. Other disorders to consider, depending on the presentation and history include depressive disorder, anorexia nervosa, bulimia nervosa, bipolar disorder, psychosis, tic disorders, substance use disorder, hoarding disorder, body dysmorphic disorder, trichotillomania, paraphilia, gambling disorder, and personality disorder (i.e., obsessive-compulsive personality disorder).
+Comorbidity
+Another aspect of the evaluation is to know that OCD is well-known to co-exist with a wide variety of other disorders and an understanding of the full patient picture is critical to developing effective management strategies. Research notes that those with a pediatric-onset OCD have increased co-morbidities and, the comorbidities are similar, to some extent, with the differential diagnosis list (99).
+As indicated above, a number of psychiatric disorders can co-exist with OCD including Tourette’s disorder, eating disorders (i.e., anorexia nervosa, bulimia nervosa, others), major depressive disorder (lifetime co-existence in 75% of OCD persons), bipolar disorder, social phobia, panic disorder, impulse control disorders, personality disorders (i.e., obsessive-compulsive personality disorder [OCPD]), oppositional defiant disorder (ODD) and others (111-118). Suicidality can be a worrisome co-morbidity from the viewpoint of the patient, family and healthcare givers (119).
+OCD is commonly co-morbid with autism spectrum disorder (ASD) and, attention-deficit/hyperactivity disorder (ADHD) (120-126). Clinicians should also be cognizant of and observant for potential OCD co-morbidity with enuresis (non-monosymptomatic primary nocturnal enuresis), self-induced dermatoses, immunoglobulin A dysgammaglobulinemia, and sleep dysfunction [insomnia, disorders of sleep initiation and maintenance (DIMS), delayed sleep phase disorder (DSPD)] (120-130). Also complicating management plans can be other complex psychiatric comorbid disorders as hoarding, psychosis, and obsessive-compulsive personality disorder (OCPD). Issues of PANS and PANDAS have been considered before (vida supra).
+Quality of life in OCD
+The quality of life for those with OCD can be compromised to a considerable extent depending on various factors including the age of onset, severity of the OCD symptomatology, complications of family accommodation, failure for the OCD diagnosis (often under-diagnosed), co-morbidities, and others (131,132). In light of such factors, effective management plans for pediatric OCD is considered at this time.
+Management
+This section reviews the current evidence for the treatments of OCD in children and adolescents, including psychotherapy and medications, with a focus on randomized controlled trials in the pediatric population. As discussed below substantial evidence supports the use of Serotonin Reuptake Inhibitors (SSRIs) and Cognitive-Behavioral Therapy (CBT) in the treatment of OCD in children and adolescents and are often used together in clinical practice.
+Psychotherapeutic management
+Cognitive behavioral therapy (CBT) is widely regarded as the first-line treatment of OCD for mild-moderate cases in children and adolescents. CBT has shown comparable and, at times, superior results to medication management for treatment of OCD (133-136). These studies are summarized in Table 1. There is minimal evidence for the use of other forms of psychotherapies for pediatric OCD.
+Table 1. Evidence for psychotherapy treatments for pediatric OCD.
+Authors, country, year
+N
+Outcome measures
+Subjects
+Study design, duration
+Outcomes
+Therapy vs. waitlist/placebo control
+March, USA, 1998, (135)
+112
+CY-BOCS
+Male and female patients ages 7–17 with DSM-IV diagnosis of OCD and CY-BOCS >16
+Randomized to pill placebo, CBT, sertraline, or CBT and sertraline combination for 12 weeks
+The CBT, sertraline, and combination group had a statistically significant response over placebo group. Combination treatment was more efficacious than either only CBT or only sertraline. Results of CBT alone group did not differ significantly from sertraline alone group
+Williams, UK, 2010, (137)
+21
+CY-BOCS
+Male and female outpatients ages 9–18 with DSM-IV diagnosis of OCD
+10 sessions of manualized cognitive behavioral treatment with a 12-week waiting list. Assessments completed at baseline, 3 months, and 6 months
+The group who received treatment improved more than the comparison group who waited for 3 months. The original waitlist group subsequently received the same treatment and made similar gains
+Frequency/duration
+Storch, USA, 2007, (138)
+40
+CYBOCS, remission status, CGI-S, CGI-I
+Male and female outpatients ages 7–17 with DSM-IV diagnosis of OCD and CY-BOCS >16
+Randomized to 14 sessions of either weekly or daily family-based CBT. Symptoms were evaluated before treatment, immediately after treatment, and at 3 months post-treatment
+Daily and weekly CBT were equally effective with no statistical differences seen during follow-up and improvements in symptoms maintained over time
+Bolton, UK, 2011, (139)
+96
+CY-BOCS
+Male and female patients ages 8–17 with DSM-IV diagnosis of OCD
+Randomized to full CBT course (12 sessions with therapist), brief CBT course (5 sessions with therapist, use of a therapist-guided workbook), or waitlist control group for 12 weeks
+Compared to the waitlist group, both treatment groups experienced a statistically significant improvement in symptoms. Between the two treatment groups, there were no significant differences. At 14-week follow-up, improvement in symptoms was maintained
+Torp, Norway, 2015, (136)
+50
+CYBOCS, remission status
+Male and female outpatients ages 7–17, DSM-IV diagnosis of OCD who did not respond to initial 14-week course of individual CBT
+Randomized to sertraline or ongoing CBT for an additional 16 weeks
+No significant difference between the treatments (P=0.351). In CBT group, 50.0% response rate. In sertraline group, 45.4% response rate
+Family involvement
+Piacentini, USA, 2011, (140)
+71
+CY-BOCS, CGI-I, Child Obsessive Compulsive Impact Scale-Revised (COIS-R)
+Male and female outpatients ages 8–17 at pediatric OCD specialty clinic; primary DSM-IV diagnosis of OCD with CY-BOCS >15, on no medication
+Randomized to 12 sessions of family CBT (FCBT) or PRT (psychoeducation + relaxation training) for 14 weeks
+FCBT group had remission rate of 43%, while PRT remission rate was 18%
+Peris, USA, 2013, (141)
+21
+CGI-I
+Male and female patients ages 8-17 with DSM-IV diagnosis of OCD with CY-BOCS >15 and “high levels of family distress” defined by scales of measure for level of family cohesion, conflict, and blame
+Randomized to individual child CBT (with weekly parent check-ins) or Positive Family Interaction Therapy (PFIT), which was structured as individual child CBT with six additional family sessions focused on family dynamics. Both treatments delivered for 12 weeks
+Both treatment groups reported high level of satisfaction. 95% of the PFIT family sessions were attended by both parents. Patients in individual CBT only experienced a 40% response rate on their CGI-I, while those in PFIT arm experienced a 79% response rate. Improvement in symptoms was maintained at 3-month follow-up for both groups
+Reynolds, UK, 2013, (142)
+50
+CYBOCS
+Male and female patients ages 12–17 with DSM-IV diagnosis of OCD
+Randomized to individual CBT (with parental involvement in three sessions) or “parent-enhanced CBT” with parental involvement at all sessions. Treatments were delivered for 14 sessions
+Both groups demonstrated improvement in OCDsymptoms
+Group format
+Barrett, Australia, 2004, (143)
+77
+The Anxiety Disorders Interview Schedule for Children-Parent version (ADIS-P), The National Institute of Mental Health Global Obsessive-Compulsive Scale (NIMH GOCS), CY-BOCS
+Male and female patients ages 7-17, with DSM-IV diagnosis of OCD, on stable medication regimen or no medications
+Randomized to individual CBFT, group CBFT, or a 4- to 6-week waitlist control condition. Assessments completed pre- and post-treatment, 3-month follow-up, and 6-month follow-up
+Individual CBFT demonstrated 88% response rate vs. 76% in group CBFT vs. 0% in waitlist group. There were no significant differences in symptom improvement between the two groups receiving treatment
+Asbahr, Brazil, 2005, (133)
+40
+CY-BOCS
+Male and female patients ages 9–17 years old with DSM-IV diagnosis of OCD with NIMH GOCS >7
+Randomized to receive group CBT or sertraline. Group CBT was manual-based program lasting 12 weeks. Assessments completed pre-treatment, during treatment, and post-treatment (1, 3, 6, and 9 months following treatment)
+Both Group CBT and sertraline conditions had significant improvement CY-BOCS total scores (both groups: P<0.001) at conclusion of treatment. Those in group CBT experienced a significantly lower rate of symptom relapse at the 9-month follow-up compared to those in sertraline group
+Telephone and web-based format
+Storch, USA, 2011, (144)
+31
+CY-BOCS, CGI-I, remission status
+Male and female patients ages 7–16 with DSM-IV diagnosis of OCD and CY-BOCS >16
+Randomized to family-based CBT provided through web-camera (W-CBT) or waitlist control. Assessments performed before treatment, after treatment, and at 3-month follow-up
+Those receiving W-CBT had statistically significant improvements in all outcome measures over those in waitlist control group. 56% of W-CBT vs. 13% of waitlist showed remission response, maintained at 3-month follow-up
+Turner, UK, 2014, (145)
+72
+CYBOCS
+Male and female outpatients ages 11–17 with DSM-IV diagnosis of OCD
+Randomized to telephone-based or in-person CBT with exposure and response prevention for 14 sessions
+There was no significant difference in response rate between the two groups at post-treatment (90.6% for in-person vs. 87.5% for TCBT) or at follow-ups (3-, 6-, 12-month)
+Age of participants
+Freeman, USA, 2012, (146)
+127
+CGI-I, CY-BOCS.
+Male and female outpatients ages 5–8, with DSM-IV diagnosis of OCD with CY-BOCS >16
+Randomized to FB-RT (family-based relaxation training) or FB-CBT (family-based CBT) with exposure and response prevention for 14 weeks
+At 14 weeks, 72% of FB-CBT participants and 41% of FB-RT participants were scored as much improved or very much improved based on CGI-I
+Variations on CBT format
+Merlo, USA, 2010, (147)
+16
+CY-BOCS
+Male and female patients ages 6–17 with DSM-IV diagnosis of OCD with CY-BOCS >16 who were already participating in intensive family-based CBT for OCD
+Randomized to CBT plus motivational interviewing (MI) or CBT plus extra psychoeducation (PE) sessions
+Average CY-BOCS score for the CBT + MI group was significantly lower than the CBT + PE group at 4 weeks, but at post-treatment, these scores were not significantly different
+Open in a new tab
+CY-BOCS, Children’s Yale-Brown Obsessive-Compulsive Scale; CGI-S, Clinical Global Impression-Severity scale; CGI-I, Clinical Global Impression -Improvement scale; NIMH GOCS: The National Institute of Mental Health Global Obsessive-Compulsive Scale; CBFT, cognitive-behavioral family therapy.
+Studies demonstrating positive benefit from CBT for OCD in children typically include components of psychoeducation, cognitive retraining, and exposure response prevention. Other specific components for successful CBT for use in pediatric OCD have also been evaluated. A program as short as five weeks in duration has shown to lead to significant improvements in the Children’s Yale-Brown Obsessive Compulsive Scale (CY-BOCS) score and functional improvement (139). Weekly CBT sessions were found to be as effective as daily sessions (138). Parental involvement is often heavily incorporated into the CBT model. The Positive Family Interaction Therapy model involves both individual CBT with the child or adolescent patient as well as additional family sessions demonstrated a 70% response rate compared to the more traditional model of individual CBT with parent check-ins and psychoeducation (141). Given the concerns about accessibility of high-quality CBT in the community, research into the telephone- and web-based programs have yielded positive results (144,145). The modalities have found to be superior to placebo and equivalent to traditional office-based CBT. CBT can also be administered in group format without compromising its effectiveness (133,143). In the Pediatric Obsessive-Compulsive Disorder Treatment Study for Young Children (146), investigators reviewed the relative efficacy of family-based CBT, involving exposure and response prevention (ERP), to family-based relaxation treatment in children 5 to 8 years old and demonstrated improvement in clinical symptoms and functional impairment.
+Pharmacotherapy of OCD
+Pharmacological treatment of OCD in children and adolescents has grown over the past thirty years. Clomipramine was the first medication to be studied that showed clinical efficacy in treating pediatric OCD (148), followed shortly by fluoxetine (149), but subsequent trials have also demonstrated the efficacy of fluvoxamine (150,151), sertraline (135), and paroxetine (152). Serotonergic medications are generally well-tolerated often with higher rates of mild side effects, most commonly nausea, but rarely serious adverse effects. Response rates, however, vary between 40–60% leaving a substantial number of non-responders. Study design often excludes children and adolescents with comorbid psychiatric conditions, including tic disorders, other primary mood disorders, and autism spectrum disorders. The studies are summarized in Table 2.
+Table 2. Evidence for pharmacological treatments for pediatric OCD.
+Authors, country, year
+N
+Outcome measures
+Gender, ages
+Study design, duration
+Outcomes
+Clomipramine
+DeVeaugh-Geiss, USA, 1992, (148)
+60
+CY-BOCS
+Male and female patients ages 10–17 with DSM-III diagnosis of OCD with CY-BOCS >16
+Randomized to 8-week trial of clomipramine vs. placebo
+Average decrease in CY-BOCS of 37% of clomipramine vs. 8% in the placebo group
+de Haan, Holland, 1998, (134)
+22
+CY-BOCS and Leyton Obsessional Inventory-Child Version (LOI-CV)
+Male and female patients ages 8–18 with DSM-III diagnosis of OCD
+Randomized to behavior therapy or clomipramine (mean dose of 2.5 mg/kg) for 12 weeks. Behavior therapy involved weekly sessions of exposure and response prevention
+Participants in behavior therapy arm had 59.9% mean improvement from baseline CY-BOCS total compared to 33.4% in clomipramine group. No significant difference on the LOI-CV between the two treatments
+Fluoxetine
+Riddle, USA, 1992, (149)
+14
+CY-BOCS
+Male and female patients ages 8–15 with DSM-III diagnosis of OCD and CGI-S >4
+Randomized to fixed dose of fluoxetine (20 mg daily) or placebo. Study lasted 20 weeks with crossover at 8 weeks
+At 8 weeks, fluoxetine treatment group had an average decrease in CY-BOCS total score of 44% compared to 27% in placebo group
+Geller, USA, 2001, (153)
+103
+CY-BOCS
+Male and female patients ages 7–17 with DSM-IV diagnosis of OCD and CY-BOCS >16
+Randomized to fluoxetine (10 mg daily x 2 weeks, then 20 mg daily) or placebo. At 4 weeks and at 7 weeks, fluoxetine dose was increased by 20 mg daily for non-responders
+Fluoxetine group had a significant reduction in OCD severity over the placebo group. Fluoxetine and placebo groups had a similar rate of discontinuation due to adverse effects
+Liebowitz, USA, 2002, (154)
+43
+CY-BOCS, CGI-I
+Male and female patients ages 6–18 with DSM-IV diagnosis of OCD and CY-BOCS >16
+Randomized to fluoxetine or placebo for 8 weeks. Responders continued treatment for an additional 8-week maintenance period
+No statistical difference in CY-BOCS at 8 weeks, but by 16 weeks, fluoxetine group had significantly lower CY-BOCS compared to placebo. At 16 weeks, 57% of fluoxetine and 27% of placebo patients were much or very much improved per CGI-I scale. No patients withdrew from the study due to adverse effects
+Fluvoxamine
+Neziroglu, USA, 2000, (150)
+10
+CY-BOCS
+Male and female patients ages 10–17 with DSM-IV diagnosis of OCD
+All patients started on fluvoxamine for 10 weeks. After initial 10 weeks, patients randomized to continue on fluvoxamine alone or continue on fluvoxamine and receive 20 sessions of behavioral therapy. Both groups received treatment for 1 year
+By week 10, 80% patients had significant improvement on CY-BOCS. Patients in combination treatment demonstrated significantly more improvement vs. patients on fluvoxamine alone
+Riddle, USA, 2001, (151)
+14
+CY-BOCS
+Male and female patients ages 8–17 with DSM-III diagnosis of OCD and CY-BOCS >16
+Randomized to fluvoxamine (50–200 mg/day) or placebo for 10 weeks. At 6 weeks, non-responders could choose to withdraw from double-blind phase and enter open-label trial of fluvoxamine
+Significant difference in percentage of responders (defined as 25% or greater reduction in CY-BOCS)—42% of fluvoxamine group vs. 26% of placebo group
+Paroxetine
+Geller, USA, 2004, (152)
+203
+CY-BOCS
+Male and female patients aged 7–17 with DSM-IV diagnosis of OCD
+Randomized to Paroxetine (10–50 mg/day) vs. placebo for 10 weeks
+−8.78 vs. −5.34 points on CY-BOCS at week 10 (P=0.002)
+Sertraline
+March, USA, 1998, (135)
+187
+CY-BOCS. NIMH GOCS. CGI-S. CGI-I
+Male and female patients ages 6–17 with DSM-III diagnosis of OCD and GOCS >7
+Randomized to sertraline (up to 200 mg daily) or placebo. Sertraline dose was titrated during the first 4 weeks of treatment, then sertraline recipients were maintained on the same dose for an additional 8 weeks
+Sertraline patients had significantly greater improvement compared to placebo patients on all measures—on CY-BOCS (adjusted mean, −6.8 vs. −3.4, P=0.005), on NIMH GOCS (−2.2 vs. −1.3, P=0.02), and on CGI-I (2.7 vs. 3.3, P=0.002)
+March, USA, 2006, (155)
+112
+CY-BOCS
+Male and female patients ages 7–17 with DSM-IV diagnosis of OCD and CY-BOCS >16
+Randomized to pill placebo, CBT, sertraline, or combined CBT and sertraline for 12 weeks
+The CBT, sertraline, and combination group had a significantly significant response over the placebo group. Combination treatment was more efficacious than either only CBT or only sertraline. Results of CBT alone group did not differ significantly from sertraline alone group
+Open in a new tab
+CY-BOCS, Children’s Yale-Brown Obsessive-Compulsive Scale; CGI-S, Clinical Global Impression-Severity scale; CGI-I, Clinical Global Impression-Improvement scale; NIMH GOCS, The National Institute of Mental Health Global Obsessive-Compulsive Scale.
+Combination treatment
+Published in 2004, the Pediatric OCD Treatment Study (POTS) was a randomized placebo-controlled trial of 112 patients, ages 7–17 years, and was designed to evaluate the efficacy of an SSRI (sertraline), CBT, and the combination across 12 weeks. Outcomes were based on the change in CY-BOCS score over the 12 weeks with remission defined as a CY-BOCS score of <10 (155). Significant improvements were noticed in all three groups in the CY-BOCS score compared to the placebo group, with the greatest improvement in the combination group (53.6% remission compared to 39.3% for CBT alone, 21.4% for sertraline alone, and 3.6% for placebo). Outcomes with CBT alone did not differ significant from SSRI alone (P=0.24) but did separate from placebo (P=0.002). Sertraline alone did not differ significantly from placebo (P=0.10). No serious adverse effects were noted, but minor side effects, including nausea and diarrhea, were significantly higher in treatment groups.
+POTS II, a follow-up study completed in 2011 was a randomized controlled trial of 124 pediatric patients, ages 7–17, with OCD as their primary diagnosis (156). Participants were randomized to 12 weeks of medication (SSRI) only, medication and CBT “instruction”, and medication management with CBT. “Instruction” in CBT was described as extended sessions with the psychiatrist providing medication management during which CBT principles including psychoeducation, reviewing stimulus hierarchy and identifying ERP targets were introduced, and subjects were instructed to implement these skills between sessions with assigned homework. CBT instruction did not include the therapist-assisted exposure and imaginal exposure. Didactic parent sessions were included in the third treatment group. This group had 14 visits, each being 1-hour long, over 12 weeks with a participating psychologist in addition to the medication provider. Outcomes were based on improvement in CY-BOCS score with response defined >30% change from baseline to week 12. Medication management with CBT yielded a significantly greater proportion of participants who responded to treatment (68.6% for medications + CBT, 34.0% for medications + instruction in CBT, and 30.0% for medication alone).
+Augmentation strategies
+Despite adequate treatment trials, 40% of patients with OCD continue to have impairing symptoms. Augmentation strategies should be considered for patients who fail to respond to two or more trials of SSRIs or clomipramine of adequate dose and duration, in addition to failure to respond to CBT.
+Atypical antipsychotics
+Augmentation of serotonergic agents with antipsychotics is the most commonly used strategy in clinical practice. Antipsychotic augmentation can effectively treat approximately 30% of treatment-refractory adults without significant differences in efficacy between typical or atypical medications (157). While efficacy has been demonstrated in adults (158,159), this has not been evaluated systematically in the pediatric population aside from case series and open trials.
+Other augmentation approaches
+Other augmentation strategies, for example, novel medications and neuro-modulatory approaches, including Repetitive Transcranial Magnetic Stimulation (rTMS) and more invasive Deep Brain Stimulation (DBS) have also been studied. A body of evidence shows that the efficacy of DBS exists in adults (160). Non-surgical techniques e.g., rTMS has a limited body of evidence and questionable efficacy for OCD in adults (161). No randomized controlled trials exist for these approaches in children and adolescents.
+Novel medications that have been studied in children and adolescents are discussed below. None have shown a statistically significant benefit.
+D-cycloserine (DCS)
+DCS is a partial NMDA receptor agonist, which has been used in adult trials to enhance the efficacy of exposure therapy with an anxiety disorder. In one study of 30 children and adolescents ages 8–17 (162), participants were randomized to either CBT and placebo or CBT and DCS (weighted doses of either 25 or 50 mg). CBT consisted of seven ERP sessions. DCS or the placebo was administered one hour before each session. While no adverse effects were documented, there was no significant difference between the placebo and the DCS group. In 2016, a larger RCT of 142 children and adolescents ages 7–17 with a primary diagnosis of OCD were randomized to receive CBT and DCS or CBT and placebo; however, there was once again no significant additional benefit to the addition of DCS (163).
+Riluzole
+The glutamate pathway has also been considered as a target for modulation in the treatment of OCD. Riluzole is an anti-glutamatergic agent that has been studied. In an open-label trial of riluzole (164) in six children ages 8–16 years old who had failed previous pharmacotherapy for OCD, four children had a significant reduction (of greater than 46%) of their baseline CY-BOCS score and a CGI-I score of “much improved” or “very much improved.” Riluzole was well-tolerated. This study was followed up by a 12-week placebo-controlled trial of 60 treatment-resistant children and adolescents with moderate to severe OCD (165). Seventeen of these participants have a diagnosis of autism spectrum disorder. Subjects were randomized to receive riluzole (titrated to 100 mg/day) or placebo in addition to their existing treatment regimen. This study failed to demonstrate a significant difference between placebo and riluzole and also resulted in more drop-outs related to adverse side effects (one case of pancreatitis, five patients with elevated transaminases).
+N-acetylcysteine (NAC)
+NAC has also been considered as an adjuvant treatment to SRIs for OCD in children and adolescents. In a 10-week placebo-controlled randomized double-blind trial, 34 patients were randomized, to receive either citalopram and NAC or citalopram and placebo (166). The CYBOCS and Pediatric Quality of Life Inventory were used as primary outcomes. The YBOCS of NAC group significantly decreased from 21.0 to 11.3 during the study, but no statistically significant decrease of YBOCS was found in the placebo group. In the Quality of Life inventory, a similar pattern was found. There were no serious adverse effects in either group.
+Conclusions
+Pediatric OCD is a chronic remitting relapsing condition that often persists into adulthood. The field has advanced significantly during the last decade and we have a better understanding of neurological and genetic underpinnings of this disease. Despite the fact that medications have a significant role in the treatment, current literature continues to converge in support of CBT as a first line treatment, which has long-term positive outcomes for pediatric OCD.
+Acknowledgments
+Funding: None.
+Ethical Statement: The authors are accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+Footnotes
+Conflicts of Interest: The authors have no conflicts of interest to declare.
+References
+1.Abramowitz JS, Jacoby RJ. Scrupulosity: A cognitive-behavioral analysis and implications for treatment.
+J Obsessive Compuls Relat Disord
+2014;3:140-9. 10.1016/j.jocrd.2013.12.007 [DOI] [Google Scholar]
+2.Avgoustidis AG. Obsessions from the past: a study of the chapter on "blasphemous thoughts" in "The Ladder of Divine Ascent" (7th century AD).
+Asian J Psychiatr
+2013;6:595-8. 10.1016/j.ajp.2013.08.072 [DOI] [PubMed] [Google Scholar]
+3.Cefalu P.
+The doubting disease: religious scrupulosity and obsessive-compulsive disorder in historical context.
+J Med Humanit
+2010;31:111-25. 10.1007/s10912-010-9107-3 [DOI] [PubMed] [Google Scholar]
+4.Hill J.
+Did Evagrius Ponticus (AD 346-99) have obsessive-compulsive disorder?
+J Med Biogr
+2010;18:49-56. 10.1258/jmb.2009.009056 [DOI] [PubMed] [Google Scholar]
+5.Miller CH, Hedges DW. Scrupulosity disorder: an overview and introductory analysis.
+J Anxiety Disord
+2008;22:1042-58. 10.1016/j.janxdis.2007.11.004 [DOI] [PubMed] [Google Scholar]
+6.Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR). American Psychiatric Association, 2000.
+7.Nelson EA, Abramowitz JS, Whiteside SP, et al.
+Scrupulosity in patients with obsessive-compulsive disorder: relationship to clinical and cognitive phenomena.
+J Anxiety Disord
+2006;20:1071-86. 10.1016/j.janxdis.2006.02.001 [DOI] [PubMed] [Google Scholar]
+8.Dreikurs R.
+A child with compulsive neurosis.
+Individ Psychol Bull
+1947;6:137-41. [PubMed] [Google Scholar]
+9.Glaser K.
+Problems in school attendance; school phobia and related conditions.
+Pediatrics
+1959;23:371-83. [PubMed] [Google Scholar]
+10.Milman DH. School phobia in older children and adolescents: diagnostic implications and prognosis.
+Pediatrics
+1961;28:462-71. [PubMed] [Google Scholar]
+11.Swedo SE, Leonard HL, Rapoport JL. Childhood-onset obsessive compulsive disorder.
+Psychiatr Clin North Am
+1992;15:767-75. 10.1016/S0193-953X(18)30207-7 [DOI] [PubMed] [Google Scholar]
+12.Nazeer A, Calles JL. Anxiety disorders. In: Greydanus DE, Patel DR, Omar HA, et al. editors. Adolescent Medicine: Pharmacotherapeutics in General, Mental and Sexual Health. Berlin, Germany: De Gruyter, 2012:255-67. [Google Scholar]
+13.Patel DR, Brown KA, Greydanus DE. Anxiety disorders in children and adolescents. In: Greydanus DE, Calles JL, Nazeer A, et al. editors. Clinical Aspects of Psychopharmacology in Childhood and Adolescence. Second Edition. NY: Nova Science Publishers, 2017:117-27. [Google Scholar]
+14.Boydston L, French WP, Varley CK. Obsessive Compulsive Disorder. In: Greydanus DE, Calles JL, Nazeer A, et al. editors. Behavioral Pediatrics. New York: Nova Science Publishers, 2015:277-87. [Google Scholar]
+15.American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders. 5th ed. Washington, DC: American Psychiatric Publishing, 2013. [Google Scholar]
+16.Drubach DA. Obsessive-Compulsive Disorder.
+Continuum (Minneap Minn)
+2015;21:783-8. 10.1212/01.CON.0000466666.12779.07 [DOI] [PubMed] [Google Scholar]
+17.Shavitt RG, de Mathis MA, Oki F, et al.
+Phenomenology of OCD: Lessons from a large multicenter study and implications for ICD-11.
+J Psychiatr Res
+2014;57:141-8. 10.1016/j.jpsychires.2014.06.010 [DOI] [PMC free article] [PubMed] [Google Scholar]
+18.Gillan CM, Sahakian BJ. Which Is the Driver, the Obsessions or the Compulsions, in OCD?
+Neuropsychopharmacology
+2015;40:247-8. 10.1038/npp.2014.201 [DOI] [PMC free article] [PubMed] [Google Scholar]
+19.Fernández de la Cruz L, Barrow F, Bolhuis K, et al.
+Sexual obsessions in pediatric obsessive-compulsive disorder: clinical characteristics and treatment outcomes.
+Depress Anxiety
+2013;30:732-40. 10.1002/da.22097 [DOI] [PubMed] [Google Scholar]
+20.Hollander E, Doernberg E, Shavitt R, et al.
+The cost and impact of compulsivity: A research perspective.
+Eur Neuropsychopharmacol
+2016;26:800-9. 10.1016/j.euroneuro.2016.02.006 [DOI] [PubMed] [Google Scholar]
+21.Lewis YD, Gilon Mann T, Enoch-Levy A, et al.
+Obsessive-compulsive symptomatology in female adolescent inpatients with restrictive compared with binge-purge eating disorders.
+Eur Eat Disord Rev
+2019;27:224-35. 10.1002/erv.2638 [DOI] [PubMed] [Google Scholar]
+22.Rozenman M, Peris T, Bergman RL, et al.
+Distinguishing Fear Versus Distress Symptomatology in Pediatric OCD.
+Child Psychiatry Hum Dev
+2017;48:63-72. 10.1007/s10578-016-0653-4 [DOI] [PMC free article] [PubMed] [Google Scholar]
+23.Wu MS, Rozenman M, Peris TS, et al.
+Comparing OCD-affected youth with and without religious symptoms: Clinical profiles and treatment response.
+Compr Psychiatry
+2018;86:47-53. 10.1016/j.comppsych.2018.07.009 [DOI] [PMC free article] [PubMed] [Google Scholar]
+24.Wu MS, Storch EA. Rage outbursts in adult obsessive-compulsive disorder.
+Ann Clin Psychiatry
+2015;27:304-5. [PubMed] [Google Scholar]
+25.Yamamuro K, Ota T, Iida J, et al.
+Persistence of impulsivity in pediatric and adolescent patients with obsessive-compulsive disorder.
+Psychiatry Clin Neurosci
+2017;71:36-43. 10.1111/pcn.12465 [DOI] [PubMed] [Google Scholar]
+26.Alvarenga PG, do Rosario MC, Cesar RC, et al.
+Obsessive-compulsive symptoms are associated with psychiatric comorbidities, behavioral and clinical problems: a population-based study of Brazilian school children.
+Eur Child Adolesc Psychiatry
+2016;25:175-82. 10.1007/s00787-015-0723-3 [DOI] [PubMed] [Google Scholar]
+27.Skriner LC, Freeman J, Garcia A, et al.
+Characteristics of Young Children with Obsessive-Compulsive Disorder: Baseline Features from the POTS Jr. Sample.
+Child Psychiatry Hum Dev
+2016;47:83-93. 10.1007/s10578-015-0546-y [DOI] [PubMed] [Google Scholar]
+28.Nissen JB, Parner E. The importance of insight, avoidance behavior, not-just-right perception and personality traits in pediatric obsessive-compulsive disorder (OCD): a naturalistic clinical study.
+Nord J Psychiatry
+2018;72:489-96. 10.1080/08039488.2018.1486454 [DOI] [PubMed] [Google Scholar]
+29.Selles RR, Højgaard DRMA, Ivarsson T, et al.
+Symptom Insight in Pediatric Obsessive-Compulsive Disorder: Outcomes of an International Aggregated Cross-Sectional Sample.
+J Am Acad Child Adolesc Psychiatry
+2018;57:615-9.e5. 10.1016/j.jaac.2018.04.012 [DOI] [PMC free article] [PubMed] [Google Scholar]
+30.Janecka M, Hansen SN, Modabbernia A, et al.
+Parental Age and Differential Estimates of Risk for Neuropsychiatric Disorders: Findings From the Danish Birth Cohort.
+J Am Acad Child Adolesc Psychiatry
+2019;58:618-27. 10.1016/j.jaac.2018.09.447 [DOI] [PMC free article] [PubMed] [Google Scholar]
+31.Keeley ML, Storch EA, Dhungana P, et al.
+Pediatric obsessive-compulsive disorder: a guide to assessment and treatment.
+Issues Ment Health Nurs
+2007;28:555-74. 10.1080/01612840701354570 [DOI] [PubMed] [Google Scholar]
+32.Kiejna A, Rymaszewska J, Kantorska-Janiec M, et al.
+Epidemiology of obsessive-compulsive disorder.
+Psychiatr Pol
+2002;36:539-48. [PubMed] [Google Scholar]
+33.Osland S, Arnold PD, Pringsheim T. The prevalence of diagnosed obsessive compulsive disorder and associated comorbidities: A population-based Canadian study.
+Psychiatry Res
+2018;268:137-42. 10.1016/j.psychres.2018.07.018 [DOI] [PubMed] [Google Scholar]
+34.Rasmussen SA, Eisen JL. The Epidemiology and Differential Diagnosis of Obsessive-Compulsive Disorder. Zwangsstörungen/Obsessive-Compulsive Disorders: Springer Berlin Heidelberg, 1992:1-14.
+35.Sasson Y, Lustig M, Iancu I, et al. Pharmacotherapy of Obsessive Compulsive Disorder. New Therapeutic Indications of Antidepressants: KARGER, 1997:32-40. [Google Scholar]
+36.Westwell-Roper C, Stewart SE. Challenges in the diagnosis and treatment of pediatric obsessive-compulsive disorder.
+Indian J Psychiatry
+2019;61:S119-30. 10.4103/psychiatry.IndianJPsychiatry_524_18 [DOI] [PMC free article] [PubMed] [Google Scholar]
+37.Veale D, Roberts A. Obsessive-compulsive disorder. BMJ 2014;348:g2183-g. [DOI] [PubMed]
+38.Walitza S, Melfsen S, Jans T, et al. Obsessive-Compulsive Disorder in Children and Adolescents. Deutsches Aerzteblatt Online 2011. [DOI] [PMC free article] [PubMed] [Google Scholar]
+39.Burchi E, Pallanti S.
+Diagnostic Issues in Early-Onset Obsessive-Compulsive Disorder and their Treatment Implications.
+Curr Neuropharmacol
+2019;17:672-80. 10.2174/1570159X16666180426151746 [DOI] [PMC free article] [PubMed] [Google Scholar]
+40.Fitzgerald KD, Taylor SF. Error-processing abnormalities in pediatric anxiety and obsessive compulsive disorders.
+CNS Spectr
+2015;20:346-54. 10.1017/S1092852915000036 [DOI] [PMC free article] [PubMed] [Google Scholar]
+41.Collins LM, Coles ME. A Preliminary Investigation of Pathways to Inflated Responsibility Beliefs in Children with Obsessive Compulsive Disorder.
+Behav Cogn Psychother
+2018;46:374-9. 10.1017/S1352465817000844 [DOI] [PubMed] [Google Scholar]
+42.Rosso IM, Olson EA, Britton JC, et al.
+Brain white matter integrity and association with age at onset in pediatric obsessive-compulsive disorder.
+Biol Mood Anxiety Disord
+2014;4:13. 10.1186/s13587-014-0013-6 [DOI] [PMC free article] [PubMed] [Google Scholar]
+43.Glahn A, Prell T, Grosskreutz J, et al.
+Obsessive-compulsive disorder is a heterogeneous disorder: evidence from diffusion tensor imaging and magnetization transfer imaging.
+BMC Psychiatry
+2015;15:135. 10.1186/s12888-015-0535-5 [DOI] [PMC free article] [PubMed] [Google Scholar]
+44.Zarei M, Mataix-Cols D, Heyman I, et al.
+Changes in Gray Matter Volume and White Matter Microstructure in Adolescents with Obsessive-Compulsive Disorder.
+Biol Psychiatry
+2011;70:1083-90. 10.1016/j.biopsych.2011.06.032 [DOI] [PubMed] [Google Scholar]
+45.Anticevic A, Hu S, Zhang S, et al.
+Global Resting-State Functional Magnetic Resonance Imaging Analysis Identifies Frontal Cortex, Striatal, and Cerebellar Dysconnectivity in Obsessive-Compulsive Disorder.
+Biol Psychiatry
+2014;75:595-605. 10.1016/j.biopsych.2013.10.021 [DOI] [PMC free article] [PubMed] [Google Scholar]
+46.Bernstein GA, Hadjiyanni T, Cullen KR, et al.
+Use of Computer Vision Tools to Identify Behavioral Markers of Pediatric Obsessive-Compulsive Disorder: A Pilot Study.
+J Child Adolesc Psychopharmacol
+2017;27:140-7. 10.1089/cap.2016.0067 [DOI] [PubMed] [Google Scholar]
+47.Eng GK, Sim K, Chen SH. Meta-analytic investigations of structural grey matter, executive domain-related functional activations, and white matter diffusivity in obsessive compulsive disorder: An integrative review.
+Neurosci Biobehav Rev
+2015;52:233-57. 10.1016/j.neubiorev.2015.03.002 [DOI] [PubMed] [Google Scholar]
+48.Fitzgerald KD, Liu Y, Johnson TD, et al.
+Development of Posterior Medial Frontal Cortex Function in Pediatric Obsessive-Compulsive Disorder.
+J Am Acad Child Adolesc Psychiatry
+2018;57:397-406. 10.1016/j.jaac.2018.02.016 [DOI] [PMC free article] [PubMed] [Google Scholar]
+49.Gürsel DA, Avram M, Sorg C, et al.
+Frontoparietal areas link impairments of large-scale intrinsic brain networks with aberrant fronto-striatal interactions in OCD: a meta-analysis of resting-state functional connectivity.
+Neurosci Biobehav Rev
+2018;87:151-60. 10.1016/j.neubiorev.2018.01.016 [DOI] [PubMed] [Google Scholar]
+50.Hanna GL, Liu Y, Isaacs YE, et al.
+Withdrawn/Depressed Behaviors and Error-Related Brain Activity in Youth With Obsessive-Compulsive Disorder.
+J Am Acad Child Adolesc Psychiatry
+2016;55:906-13.e2. 10.1016/j.jaac.2016.06.012 [DOI] [PMC free article] [PubMed] [Google Scholar]
+51.Hao H, Chen C, Mao W, et al.
+Alterations in resting-state local functional connectivity in obsessive-compulsive disorder.
+J Affect Disord
+2019;245:113-9. 10.1016/j.jad.2018.10.112 [DOI] [PubMed] [Google Scholar]
+52.Jung WH, Yücel M, Yun J-Y, et al.
+Altered functional network architecture in orbitofronto-striato-thalamic circuit of unmedicated patients with obsessive-compulsive disorder.
+Hum Brain Mapp
+2017;38:109-19. 10.1002/hbm.23347 [DOI] [PMC free article] [PubMed] [Google Scholar]
+53.Lázaro L, Ortiz AG, Calvo A, et al.
+White matter structural alterations in pediatric obsessive-compulsive disorder: Relation to symptom dimensions.
+Prog Neuropsychopharmacol Biol Psychiatry
+2014;54:249-58. 10.1016/j.pnpbp.2014.06.009 [DOI] [PubMed] [Google Scholar]
+54.MacMaster FP, O'Neill J, Rosenberg DR. Brain Imaging in Pediatric Obsessive-Compulsive Disorder.
+J Am Acad Child Adolesc Psychiatry
+2008;47:1262-72. 10.1097/CHI.0b013e318185d2be [DOI] [PMC free article] [PubMed] [Google Scholar]
+55.Park SE, Jeong GW. Cerebral white matter volume changes in patients with obsessive-compulsive disorder: Voxel-based morphometry.
+Psychiatry Clin Neurosci
+2015;69:717-23. 10.1111/pcn.12317 [DOI] [PubMed] [Google Scholar]
+56.Piras F, Piras F, Chiapponi C, et al.
+Widespread structural brain changes in OCD: A systematic review of voxel-based morphometry studies.
+Cortex
+2015;62:89-108. 10.1016/j.cortex.2013.01.016 [DOI] [PubMed] [Google Scholar]
+57.Tang W, Zhu Q, Gong X, et al.
+Cortico-striato-thalamo-cortical circuit abnormalities in obsessive-compulsive disorder: A voxel-based morphometric and fMRI study of the whole brain.
+Behav Brain Res
+2016;313:17-22. 10.1016/j.bbr.2016.07.004 [DOI] [PubMed] [Google Scholar]
+58.Yang X, Hu X, Tang W, et al.
+Intrinsic brain abnormalities in drug-naive patients with obsessive-compulsive disorder: A resting-state functional MRI study.
+J Affect Disord
+2019;245:861-8. 10.1016/j.jad.2018.11.080 [DOI] [PubMed] [Google Scholar]
+59.Gonçalves OF, Sousa S, Carvalho S, et al.
+Alterations of gray and white matter morphology in obsessive compulsive disorder.
+Psicothema
+2017;29:35-42. [DOI] [PubMed] [Google Scholar]
+60.Zhang L, Hu X, Lu L, et al.
+Abnormalities of hippocampal shape and subfield volumes in medication-free patients with obsessive-compulsive disorder.
+Hum Brain Mapp
+2019;40:4105-13. 10.1002/hbm.24688 [DOI] [PMC free article] [PubMed] [Google Scholar]
+61.Goodman WK, Grice DE, Lapidus KAB, et al.
+Obsessive-Compulsive Disorder.
+Psychiatr Clin North Am
+2014;37:257-67. 10.1016/j.psc.2014.06.004 [DOI] [PubMed] [Google Scholar]
+62.Kariuki-Nyuthe C, Gomez-Mancilla B, Stein DJ. Obsessive compulsive disorder and the glutamatergic system.
+Current Opinion in Psychiatry
+2014;27:32-7. 10.1097/YCO.0000000000000017 [DOI] [PubMed] [Google Scholar]
+63.Boedhoe P, Schmaal L, Thompson PM, et al.
+Working Group E-O. Neuroimaging of Cortical Brain Alterations in Adult and Pediatric Obsessive-Compulsive disorder: Preliminary Findings from the ENIGMA Obsessive-Compulsive Disorder Working Group.
+Biol Psychiatry
+2017;81:S41. 10.1016/j.biopsych.2017.02.109 [DOI] [Google Scholar]
+64.Kong XZ, Boedhoe PSW, Abe Y, et al.
+Mapping Cortical and Subcortical Asymmetry in Obsessive-Compulsive Disorder: Findings From the ENIGMA Consortium.
+Biol Psychiatry
+2019. [Epub ahead of print]. 10.1016/j.biopsych.2019.04.022 [DOI] [PMC free article] [PubMed] [Google Scholar]
+65.Fujikawa M, Kishimoto Y, Kakisaka Y, et al.
+Obsessive-Compulsive Behavior Induced by Levetiracetam.
+J Child Neurol
+2015;30:942-4. 10.1177/0883073814541471 [DOI] [PubMed] [Google Scholar]
+66.Çolak Sivri R, Bilgiç A, Kılınç İ.
+Cytokine, chemokine and BDNF levels in medication-free pediatric patients with obsessive-compulsive disorder.
+European Child & Adolescent Psychiatry
+2018;27:977-84. 10.1007/s00787-017-1099-3 [DOI] [PubMed] [Google Scholar]
+67.Jaspers-Fayer F, Han SHJ, Chan E, et al.
+Prevalence of Acute-Onset Subtypes in Pediatric Obsessive-Compulsive Disorder.
+J Child Adolesc Psychopharmacol
+2017;27:332-41. 10.1089/cap.2016.0031 [DOI] [PubMed] [Google Scholar]
+68.Muir KE, McKenney KS, Connolly MB, et al.
+A Case Report of Obsessive-Compulsive Disorder Following Acute Disseminated Encephalomyelitis.
+Pediatrics
+2013;132:e771-4. 10.1542/peds.2012-2876 [DOI] [PubMed] [Google Scholar]
+69.Cox CJ, Zuccolo AJ, Edwards EV, et al.
+Antineuronal Antibodies in a Heterogeneous Group of Youth and Young Adults with Tics and Obsessive-Compulsive Disorder.
+J Child Adolesc Psychopharmacol
+2015;25:76-85. 10.1089/cap.2014.0048 [DOI] [PMC free article] [PubMed] [Google Scholar]
+70.Gilbert DL. Inflammation in Tic Disorders and Obsessive-Compulsive Disorder: Are PANS and PANDAS a Path Forward?
+J Child Neurol
+2019;34:598-611. 10.1177/0883073819848635 [DOI] [PMC free article] [PubMed] [Google Scholar]
+71.Gromark C, Harris RA, Wickström R, et al.
+Establishing a Pediatric Acute-Onset Neuropsychiatric Syndrome Clinic: Baseline Clinical Features of the Pediatric Acute-Onset Neuropsychiatric Syndrome Cohort at Karolinska Institutet.
+J Child Adolesc Psychopharmacol
+2019;29:625-33. 10.1089/cap.2018.0127 [DOI] [PMC free article] [PubMed] [Google Scholar]
+72.Lamothe H, Baleyte JM, Smith P, et al.
+Individualized Immunological Data for Precise Classification of OCD Patients.
+Brain Sci
+2018;8:149. 10.3390/brainsci8080149 [DOI] [PMC free article] [PubMed] [Google Scholar]
+73.Lepri G, Rigante D, Bellando Randone S, et al.
+Clinical-Serological Characterization and Treatment Outcome of a Large Cohort of Italian Children with Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococcal Infection and Pediatric Acute Neuropsychiatric Syndrome.
+J Child Adolesc Psychopharmacol
+2019;29:608-14. 10.1089/cap.2018.0151 [DOI] [PubMed] [Google Scholar]
+74.Marazziti D, Mucci F, Fontenelle LF. Immune system and obsessive-compulsive disorder.
+Psychoneuroendocrinology
+2018;93:39-44. 10.1016/j.psyneuen.2018.04.013 [DOI] [PubMed] [Google Scholar]
+75.Stagi S, Rigante D, Lepri G, et al.
+Evaluation of autoimmune phenomena in patients with pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (PANDAS).
+Autoimmun Rev
+2014;13:1236-40. 10.1016/j.autrev.2014.08.009 [DOI] [PubMed] [Google Scholar]
+76.Wilbur C, Bitnun A, Kronenberg S, et al.
+PANDAS/PANS in childhood: Controversies and evidence.
+Paediatrics & Child Health
+2019;24:85-91. 10.1093/pch/pxy145 [DOI] [PMC free article] [PubMed] [Google Scholar]
+77.Chiarello F, Spitoni S, Hollander E, et al.
+An expert opinion on PANDAS/PANS: highlights and controversies.
+Int J Psychiatry Clin Pract
+2017;21:91-8. 10.1080/13651501.2017.1285941 [DOI] [PubMed] [Google Scholar]
+78.Rees JC. Obsessive-compulsive disorder and gut microbiota dysregulation.
+Med Hypotheses
+2014;82:163-6. 10.1016/j.mehy.2013.11.026 [DOI] [PubMed] [Google Scholar]
+79.Sherwin E, Rea K, Dinan TG, et al.
+A gut (microbiome) feeling about the brain.
+Curr Opin Gastroenterol
+2016;32:96-102. 10.1097/MOG.0000000000000244 [DOI] [PubMed] [Google Scholar]
+80.Quagliariello A, Del Chierico F, Russo A, et al.
+Gut Microbiota Profiling and Gut-Brain Crosstalk in Children Affected by Pediatric Acute-Onset Neuropsychiatric Syndrome and Pediatric Autoimmune Neuropsychiatric Disorders Associated With Streptococcal Infections.
+Front Microbiol
+2018;9:675. 10.3389/fmicb.2018.00675 [DOI] [PMC free article] [PubMed] [Google Scholar]
+81.Turna J, Grosman Kaplan K, Anglin R, et al.
+“What's bugging the gut in ocd?” a review of the gut microbiome in obsessive-compulsive disorder.
+Depress Anxiety
+2016;33:171-8. 10.1002/da.22454 [DOI] [PubMed] [Google Scholar]
+82.Van Ameringen M, Turna J, Patterson B, et al.
+The gut microbiome in psychiatry: A primer for clinicians.
+Depress Anxiety
+2019. [Epub ahead of print]. [DOI] [PubMed] [Google Scholar]
+83.Tylee DS, Sun J, Hess JL, et al.
+Genetic correlations among psychiatric and immune-related phenotypes based on genome-wide association data.
+Am J Med Genet B Neuropsychiatr Genet
+2018;177:641-57. 10.1002/ajmg.b.32652 [DOI] [PMC free article] [PubMed] [Google Scholar]
+84.Grünblatt E, Marinova Z, Roth A, et al.
+Combining genetic and epigenetic parameters of the serotonin transporter gene in obsessive-compulsive disorder.
+J Psychiatr Res
+2018;96:209-17. 10.1016/j.jpsychires.2017.10.010 [DOI] [PubMed] [Google Scholar]
+85.Sinopoli VM, Burton CL, Kronenberg S, et al.
+A review of the role of serotonin system genes in obsessive-compulsive disorder.
+Neurosci Biobehav Rev
+2017;80:372-81. 10.1016/j.neubiorev.2017.05.029 [DOI] [PubMed] [Google Scholar]
+86.Sinopoli VM, Erdman L, Burton CL, et al.
+Serotonin system gene variants and regional brain volume differences in pediatric OCD.
+Brain Imaging Behav
+2019. [Epub ahead of print]. 10.1007/s11682-019-00092-w [DOI] [PMC free article] [PubMed] [Google Scholar]
+87.Wang Y, Adamczyk A, Shugart YY, et al.
+A screen of SLC1A1 for OCD-related alleles.
+Am J Med Genet B Neuropsychiatr Genet
+2010;153B:675-9. 10.1002/ajmg.b.31001 [DOI] [PubMed] [Google Scholar]
+88.Gazzellone MJ, Zarrei M, Burton CL, et al.
+Uncovering obsessive-compulsive disorder risk genes in a pediatric cohort by high-resolution analysis of copy number variation.
+J Neurodev Disord
+2016;8:36. 10.1186/s11689-016-9170-9 [DOI] [PMC free article] [PubMed] [Google Scholar]
+89.Bhatti D, Balasetti V, Malgireddy K, et al.
+Tourette syndrome, obsessive compulsive behavior, and dysmorphic features in a patient with deletions at chromosome 18q22.1 and chromosome 13q12.3-q13.1.
+Parkinsonism Relat Disord
+2016;32:133-4. 10.1016/j.parkreldis.2016.09.002 [DOI] [PubMed] [Google Scholar]
+90.Andrighetti H, Semaka A, Stewart SE, et al.
+Obsessive-Compulsive Disorder: The Process of Parental Adaptation and Implications for Genetic Counseling.
+J Genet Couns
+2016;25:912-22. 10.1007/s10897-015-9914-9 [DOI] [PMC free article] [PubMed] [Google Scholar]
+91.Atli A, Boysan M, Çetinkaya N, et al.
+Latent class analysis of obsessive-compulsive symptoms in a clinical sample.
+Compr Psychiatry
+2014;55:604-12. 10.1016/j.comppsych.2013.08.029 [DOI] [PubMed] [Google Scholar]
+92.Deacon BJ, Abramowitz JS. The Yale-Brown Obsessive Compulsive Scale: factor analysis, construct validity, and suggestions for refinement.
+J Anxiety Disord
+2005;19:573-85. 10.1016/j.janxdis.2004.04.009 [DOI] [PubMed] [Google Scholar]
+93.Gist L, Mathews C, Williams KN, et al.
+A 9-Year-Old Girl With Persistent Obsessive and Compulsive Behaviors in a Primary Care Pediatric Practice.
+J Dev Behav Pediatr
+2015;36:203-6. 10.1097/DBP.0000000000000150 [DOI] [PubMed] [Google Scholar]
+94.Grabill K, Merlo L, Duke D, et al.
+Assessment of obsessive-compulsive disorder: A review.
+J Anxiety Disord
+2008;22:1-17. 10.1016/j.janxdis.2007.01.012 [DOI] [PubMed] [Google Scholar]
+95.Guzick AG, Cooke DL, McNamara JPH, et al.
+Parents’ Perceptions of Internalizing and Externalizing Features in Childhood OCD.
+Child Psychiatry Hum Dev
+2019;50:692-701. 10.1007/s10578-019-00873-w [DOI] [PubMed] [Google Scholar]
+96.Merlo LJ, Storch EA. Obsessive-compulsive disorder: tools for recognizing its many expressions.
+J Fam Pract
+2006;55:217-22. [PubMed] [Google Scholar]
+97.Merlo LJ, Storch EA, Murphy TK, et al.
+Assessment of Pediatric Obsessive-Compulsive Disorder: A Critical Review of Current Methodology.
+Child Psychiatry Hum Dev
+2005;36:195-214. 10.1007/s10578-005-4079-7 [DOI] [PubMed] [Google Scholar]
+98.Rotberg B, Zalsman G, Weizman A. Obsessive-compulsive disorder in children and adolescents. Harefuah 2008;147:324-9, 74, 73. [PubMed]
+99.Saad LO, do Rosario MC, Cesar RC, et al.
+The Child Behavior Checklist—Obsessive-Compulsive Subscale Detects Severe Psychopathology and Behavioral Problems Among School-Aged Children.
+J Child Adolesc Psychopharmacol
+2017;27:342-8. 10.1089/cap.2016.0125 [DOI] [PMC free article] [PubMed] [Google Scholar]
+100.Storch EA, McGuire JF, Wu MS, et al. Development and Psychometric Evaluation of the Children’s Yale-Brown Obsessive-Compulsive Scale Second Edition. J Am Acad Child Adolesc Psychiatry 2019;58:92-8. [DOI] [PMC free article] [PubMed] [Google Scholar]
+101.Storch EA, Nadeau JM, De Nadai AS, et al.
+Symptom correspondence between clinicians and patients on the Yale-Brown Obsessive Compulsive Scale.
+Compr Psychiatry
+2017;73:105-10. 10.1016/j.comppsych.2016.11.011 [DOI] [PubMed] [Google Scholar]
+102.Wu MS, McGuire JF, Horng B, et al. Further psychometric properties of the Yale-Brown Obsessive Compulsive Scale — Second Edition. Compr Psychiatry 2016;66:96-103. [DOI] [PubMed] [Google Scholar]
+103.Wu MS, Pinto A, Horng B, et al.
+Psychometric properties of the Family Accommodation Scale for Obsessive-Compulsive Disorder-Patient Version.
+Psychological Assessment
+2016;28:251-62. 10.1037/pas0000165 [DOI] [PubMed] [Google Scholar]
+104.Drepper C, Geißler J, Pastura G, et al.
+Transcranial sonography in psychiatry as a potential tool in diagnosis and research.
+World J Biol Psychiatry
+2018;19:484-96. 10.1080/15622975.2017.1386325 [DOI] [PubMed] [Google Scholar]
+105.Ray A, Subramanian A, Chhabra H, et al.
+Eye movement tracking in pediatric obsessive compulsive disorder.
+Asian J Psychiatr
+2019;43:9-16. 10.1016/j.ajp.2019.04.003 [DOI] [PubMed] [Google Scholar]
+106.Suhas S, Rao NP. Neurocognitive deficits in obsessive-compulsive disorder: A selective review.
+Indian J Psychiatry
+2019;61:S30-6. 10.4103/psychiatry.IndianJPsychiatry_517_18 [DOI] [PMC free article] [PubMed] [Google Scholar]
+107.Hybel KA, Mortensen EL, Lambek R, et al.
+Cool and Hot Aspects of Executive Function in Childhood Obsessive-Compulsive Disorder.
+J Abnorm Child Psychol
+2017;45:1195-205. 10.1007/s10802-016-0229-6 [DOI] [PubMed] [Google Scholar]
+108.Sturm A, Rozenman M, Chang S, et al.
+Are the components of social reciprocity transdiagnostic across pediatric neurodevelopmental disorders? Evidence for common and disorder-specific social impairments.
+Psychiatry Res
+2018;264:119-23. 10.1016/j.psychres.2018.03.063 [DOI] [PMC free article] [PubMed] [Google Scholar]
+109.Wu MS, Storch EA. A Case Report of Harm-Related Obsessions in Pediatric Obsessive-Compulsive Disorder.
+J Clin Psychol
+2016;72:1120-8. 10.1002/jclp.22392 [DOI] [PubMed] [Google Scholar]
+110.Zijlmans J, Marhe R, van der Ende J, et al.
+Children with Obsessive-Compulsive Symptomology in the General Population.
+J Dev Behav Pediatr
+2017;38:476-82. 10.1097/DBP.0000000000000467 [DOI] [PubMed] [Google Scholar]
+111.Anagnostopoulos DC, Korlou S, Sakellariou K, et al.
+Comorbid psychopathology and clinical symptomatology in children and adolescents with obsessive-compulsive disorder.
+Psychiatriki
+2016;27:27-36. [PubMed] [Google Scholar]
+112.Baup N.
+Clinical aspects of obsessive-compulsive disorder.
+Rev Prat
+2007;57:27-36. [PubMed] [Google Scholar]
+113.Dell'Osso B, Altamura AC, Mundo E, et al.
+Diagnosis and treatment of obsessive-compulsive disorder and related disorders.
+Int J Clin Pract
+2007;61:98-104. 10.1111/j.1742-1241.2006.01167.x [DOI] [PubMed] [Google Scholar]
+114.Ivarsson T, Melin K, Wallin L. Categorical and dimensional aspects of co-morbidity in obsessive-compulsive disorder (OCD).
+European Child & Adolescent Psychiatry
+2008;17:20-31. 10.1007/s00787-007-0626-z [DOI] [PubMed] [Google Scholar]
+115.March JS, Leonard HL. Obsessive-Compulsive Disorder in Children and Adolescents: A Review of the Past 10 Years.
+J Am Acad Child Adolesc Psychiatry
+1996;35:1265-73. 10.1097/00004583-199610000-00012 [DOI] [PubMed] [Google Scholar]
+116.Pigott TA, L'Heureux F, Dubbert B, et al.
+Obsessive compulsive disorder: comorbid conditions.
+J Clin Psychiatry
+1994;55
+Suppl:15-27; discussion 28-32. [PubMed] [Google Scholar]
+117.Tanidir C, Adaletli H, Gunes H, et al.
+Impact of Gender, Age at Onset, and Lifetime Tic Disorders on the Clinical Presentation and Comorbidity Pattern of Obsessive-Compulsive Disorder in Children and Adolescents.
+J Child Adolesc Psychopharmacol
+2015;25:425-31. 10.1089/cap.2014.0120 [DOI] [PMC free article] [PubMed] [Google Scholar]
+118.Wu MS, Geller DA, Schneider SC, et al.
+Comorbid Psychopathology and the Clinical Profile of Family Accommodation in Pediatric OCD.
+Child Psychiatry Hum Dev
+2019;50:717-26. 10.1007/s10578-019-00876-7 [DOI] [PMC free article] [PubMed] [Google Scholar]
+119.Storch EA, Kay B, Wu MS, et al.
+Suicidal and death ideation among adults with obsessive-compulsive disorder presenting for intensive intervention.
+Ann Clin Psychiatry
+2017;29:46-53. [PubMed] [Google Scholar]
+120.Abramovitch A, Dar R, Mittelman A, et al.
+Comorbidity Between Attention Deficit/Hyperactivity Disorder and Obsessive-Compulsive Disorder Across the Lifespan.
+Harv Rev Psychiatry
+2015;23:245-62. 10.1097/HRP.0000000000000050 [DOI] [PMC free article] [PubMed] [Google Scholar]
+121.Arildskov TW, Højgaard DRMA, Skarphedinsson G, et al.
+Subclinical autism spectrum symptoms in pediatric obsessive-compulsive disorder.
+Eur Child Adolesc Psychiatry
+2016;25:711-23. 10.1007/s00787-015-0782-5 [DOI] [PubMed] [Google Scholar]
+122.Flygare O, Andersson E, Ringberg H, et al.
+Adapted cognitive behavior therapy for obsessive-compulsive disorder with co-occurring autism spectrum disorder: A clinical effectiveness study.
+Autism
+2020;24:190-9. [DOI] [PubMed] [Google Scholar]
+123.Guzick AG, McNamara JPH, Reid AM, et al.
+The link between ADHD-like inattention and obsessions and compulsions during treatment of youth with OCD.
+J Obsessive Compuls Relat Disord
+2017;12:1-8. 10.1016/j.jocrd.2016.11.004 [DOI] [PMC free article] [PubMed] [Google Scholar]
+124.Okazaki K, Yamamuro K, Iida J, et al.
+Intra-individual variability across cognitive task in drug-naïve pediatric patients with obsessive compulsive disorder.
+Psychiatry Res
+2018;264:421-6. 10.1016/j.psychres.2018.04.024 [DOI] [PubMed] [Google Scholar]
+125.Postorino V, Kerns CM, Vivanti G, et al.
+Anxiety Disorders and Obsessive-Compulsive Disorder in Individuals with Autism Spectrum Disorder.
+Curr Psychiatry Rep
+2017;19:92. 10.1007/s11920-017-0846-y [DOI] [PMC free article] [PubMed] [Google Scholar]
+126.Stewart E, Cancilliere MK, Freeman J, et al.
+Elevated Autism Spectrum Disorder Traits in Young Children with OCD.
+Child Psychiatry Hum Dev
+2016;47:993-1001. 10.1007/s10578-016-0629-4 [DOI] [PMC free article] [PubMed] [Google Scholar]
+127.Gupta MA, Gupta AK. Self-induced dermatoses: A great imitator.
+Clinics in Dermatology
+2019;37:268-77. 10.1016/j.clindermatol.2019.01.006 [DOI] [PubMed] [Google Scholar]
+128.Jaspers-Fayer F, Lin SY, Belschner L, et al.
+A case-control study of sleep disturbances in pediatric obsessive-compulsive disorder.
+J Anxiety Disord
+2018;55:1-7. 10.1016/j.janxdis.2018.02.001 [DOI] [PubMed] [Google Scholar]
+129.Sevilla-Cermeño L, Andrén P, Hillborg M, et al.
+Insomnia in pediatric obsessive-compulsive disorder: prevalence and association with multimodal treatment outcomes in a naturalistic clinical setting.
+Sleep Med
+2019;56:104-10. 10.1016/j.sleep.2018.12.024 [DOI] [PubMed] [Google Scholar]
+130.Williams K, Shorser-Gentile L, Sarvode Mothi S, et al.
+Immunoglobulin A Dysgammaglobulinemia Is Associated with Pediatric-Onset Obsessive-Compulsive Disorder.
+J Child Adolesc Psychopharmacol
+2019;29:268-75. 10.1089/cap.2018.0043 [DOI] [PMC free article] [PubMed] [Google Scholar]
+131.Stewart SE, Hu YP, Leung A, et al.
+A Multisite Study of Family Functioning Impairment in Pediatric Obsessive-Compulsive Disorder.
+J Am Acad Child Adolesc Psychiatry
+2017;56:241-9.e3. 10.1016/j.jaac.2016.12.012 [DOI] [PMC free article] [PubMed] [Google Scholar]
+132.Zaboski BA, Gilbert A, Hamblin R, et al.
+Quality of life in children and adolescents with obsessive-compulsive disorder: The Pediatric Quality of Life Enjoyment and Satisfaction Questionnaire (PQ-LES-Q).
+Bull Menninger Clin
+2019;83:377-97. [DOI] [PubMed] [Google Scholar]
+133.Asbahr FR, Castillo AR, Ito LM, et al.
+Group Cognitive-Behavioral Therapy Versus Sertraline for the Treatment of Children and Adolescents With Obsessive-Compulsive Disorder.
+J Am Acad Child Adolesc Psychiatry
+2005;44:1128-36. 10.1097/01.chi.0000177324.40005.6f [DOI] [PubMed] [Google Scholar]
+134.de Haan E, Hoogduin KAL, Buitelaar JK, et al.
+Behavior Therapy Versus Clomipramine for the Treatment of Obsessive-Compulsive Disorder in Children and Adolescents.
+J Am Acad Child Adolesc Psychiatry
+1998;37:1022-9. 10.1097/00004583-199810000-00011 [DOI] [PubMed] [Google Scholar]
+135.March JS, Biederman J, Wolkow R, et al.
+Sertraline in Children and Adolescents With Obsessive-Compulsive Disorder.
+JAMA
+1998;280:1752-6. 10.1001/jama.280.20.1752 [DOI] [PubMed] [Google Scholar]
+136.Torp NC, Dahl K, Skarphedinsson G, et al.
+Effectiveness of cognitive behavior treatment for pediatric obsessive-compulsive disorder: Acute outcomes from the Nordic Long-term OCD Treatment Study (NordLOTS).
+Behav Res Ther
+2015;64:15-23. 10.1016/j.brat.2014.11.005 [DOI] [PubMed] [Google Scholar]
+137.Williams TI, Salkovskis PM, Forrester L, et al.
+A randomised controlled trial of cognitive behavioural treatment for obsessive compulsive disorder in children and adolescents.
+Eur Child Adolesc Psychiatry
+2010;19:449-56. 10.1007/s00787-009-0077-9 [DOI] [PubMed] [Google Scholar]
+138.Storch EA, Geffken GR, Merlo LJ, et al.
+Family-Based Cognitive-Behavioral Therapy for Pediatric Obsessive-Compulsive Disorder.
+J Am Acad Child Adolesc Psychiatry
+2007;46:469-78. 10.1097/chi.0b013e31803062e7 [DOI] [PubMed] [Google Scholar]
+139.Bolton D, Williams T, Perrin S, et al.
+Randomized controlled trial of full and brief cognitive-behaviour therapy and wait-list for paediatric obsessive-compulsive disorder.
+J Child Psychol Psychiatry
+2011;52:1269-78. 10.1111/j.1469-7610.2011.02419.x [DOI] [PubMed] [Google Scholar]
+140.Piacentini J, Bergman RL, Chang S, et al.
+Controlled Comparison of Family Cognitive Behavioral Therapy and Psychoeducation/Relaxation Training for Child Obsessive-Compulsive Disorder.
+J Am Acad Child Adolesc Psychiatry
+2011;50:1149-61. 10.1016/j.jaac.2011.08.003 [DOI] [PMC free article] [PubMed] [Google Scholar]
+141.Peris TS, Piacentini J. Optimizing Treatment for Complex Cases of Childhood Obsessive Compulsive Disorder: A Preliminary Trial.
+J Clin Child Adolesc Psychol
+2013;42:1-8. 10.1080/15374416.2012.673162 [DOI] [PMC free article] [PubMed] [Google Scholar]
+142.Reynolds SA, Clark S, Smith H, et al.
+Randomized controlled trial of parent-enhanced CBT compared with individual CBT for obsessive-compulsive disorder in young people.
+J Consult Clin Psychol
+2013;81:1021-6. 10.1037/a0034429 [DOI] [PubMed] [Google Scholar]
+143.Barrett P, Healy-Farrell L, March JS. Cognitive-Behavioral Family Treatment of Childhood Obsessive-Compulsive Disorder: A Controlled Trial.
+J Am Acad Child Adolesc Psychiatry
+2004;43:46-62. 10.1097/00004583-200401000-00014 [DOI] [PubMed] [Google Scholar]
+144.Storch EA, Caporino NE, Morgan JR, et al.
+Preliminary investigation of web-camera delivered cognitive-behavioral therapy for youth with obsessive-compulsive disorder.
+Psychiatry Res
+2011;189:407-12. 10.1016/j.psychres.2011.05.047 [DOI] [PubMed] [Google Scholar]
+145.Turner CM, Mataix-Cols D, Lovell K, et al.
+Telephone Cognitive-Behavioral Therapy for Adolescents With Obsessive-Compulsive Disorder: A Randomized Controlled Non-inferiority Trial.
+J Am Acad Child Adolesc Psychiatry
+2014;53:1298-307.e2. 10.1016/j.jaac.2014.09.012 [DOI] [PMC free article] [PubMed] [Google Scholar]
+146.Freeman J, Garcia A, Benito K, et al.
+The pediatric obsessive compulsive disorder treatment study for young children (POTS Jr): Developmental considerations in the rationale, design, and methods.
+J Obsessive Compuls Relat Disord
+2012;1:294-300. 10.1016/j.jocrd.2012.07.010 [DOI] [PMC free article] [PubMed] [Google Scholar]
+147.Merlo LJ, Storch EA, Lehmkuhl HD, et al.
+Cognitive Behavioral Therapy Plus Motivational Interviewing Improves Outcome for Pediatric Obsessive-Compulsive Disorder: A Preliminary Study.
+Cogn Behav Ther
+2010;39:24-7. 10.1080/16506070902831773 [DOI] [PMC free article] [PubMed] [Google Scholar]
+148.DeVeaugh-Geiss J, Moroz G, Biederman J, et al.
+Clomipramine Hydrochloride in Childhood and Adolescent Obsessive-Compulsive Disorder—a Multicenter Trial.
+J Am Acad Child Adolesc Psychiatry
+1992;31:45-9. 10.1097/00004583-199201000-00008 [DOI] [PubMed] [Google Scholar]
+149.Riddle MA, Scahill L, King RA, et al.
+Double-Blind, Crossover Trial of Fluoxetine and Placebo in Children and Adolescents with Obsessive-Compulsive Disorder.
+J Am Acad Child Adolesc Psychiatry
+1992;31:1062-9. 10.1097/00004583-199211000-00011 [DOI] [PubMed] [Google Scholar]
+150.Neziroglu F, Yaryura-Tobias JA, Walz J, et al.
+The Effect of Fluvoxamine and Behavior Therapy on Children and Adolescents with Obsessive-Compulsive Disorder.
+J Child Adolesc Psychopharmacol
+2000;10:295-306. 10.1089/cap.2000.10.295 [DOI] [PubMed] [Google Scholar]
+151.Riddle MA, Reeve EA, Yaryura-Tobias JA, et al.
+Fluvoxamine for Children and Adolescents With Obsessive-Compulsive Disorder: A Randomized, Controlled, Multicenter Trial.
+J Am Acad Child Adolesc Psychiatry
+2001;40:222-9. 10.1097/00004583-200102000-00017 [DOI] [PubMed] [Google Scholar]
+152.Geller DA, Wagner KD, Emslie G, et al.
+Paroxetine Treatment in Children and Adolescents With Obsessive-Compulsive Disorder: A Randomized, Multicenter, Double-Blind, Placebo-Controlled Trial.
+J Am Acad Child Adolesc Psychiatry
+2004;43:1387-96. 10.1097/01.chi.0000138356.29099.f1 [DOI] [PubMed] [Google Scholar]
+153.Geller DA, Hoog SL, Heiligenstein JH, et al.
+Fluoxetine Treatment for Obsessive-Compulsive Disorder in Children and Adolescents: A Placebo-Controlled Clinical Trial.
+J Am Acad Child Adolesc Psychiatry
+2001;40:773-9. 10.1097/00004583-200107000-00011 [DOI] [PubMed] [Google Scholar]
+154.Liebowitz MR, Turner SM, Piacentini J, et al.
+Fluoxetine in Children and Adolescents With OCD: A Placebo-Controlled Trial.
+J Am Acad Child Adolesc Psychiatry
+2002;41:1431-8. 10.1097/00004583-200212000-00014 [DOI] [PubMed] [Google Scholar]
+155.Stockman JA. Cognitive-Behavior Therapy, Sertraline, and Their Combination for Children and Adolescents With Obsessive-Compulsive Disorder: The Pediatric OCD Treatment Study (POTS) Randomized Controlled Trial.
+Yearbook of Pediatrics
+2006;2006:360-2. 10.1016/S0084-3954(07)70217-8 [DOI] [PubMed] [Google Scholar]
+156.Franklin ME, Sapyta J, Freeman JB, et al.
+Cognitive Behavior Therapy Augmentation of Pharmacotherapy in Pediatric Obsessive-Compulsive Disorder.
+JAMA
+2011;306:1224-32. 10.1001/jama.2011.1344 [DOI] [PMC free article] [PubMed] [Google Scholar]
+157.Hirschtritt ME, Bloch MH, Mathews CA. Obsessive-Compulsive Disorder.
+JAMA
+2017;317:1358-67. 10.1001/jama.2017.2200 [DOI] [PubMed] [Google Scholar]
+158.Dold M, Aigner M, Lanzenberger R.
+Antipsychotic Augmentation of Serotonin Reuptake Inhibitors in Treatment-Resistant Obsessive-Compulsive Disorder: An Update Meta-Analysis of Double-Blind, Randomized, Placebo-Controlled Trials.
+Int J Neuropsychopharmacol
+2015;18:pyv047. 10.1093/ijnp/pyv047 [DOI] [PMC free article] [PubMed] [Google Scholar]
+159.Skapinakis P, Papatheodorou T, Mavreas V. Antipsychotic augmentation of serotonergic antidepressants in treatment-resistant obsessive-compulsive disorder: A meta-analysis of the randomized controlled trials.
+Eur Neuropsychopharmacol
+2007;17:79-93. 10.1016/j.euroneuro.2006.07.002 [DOI] [PubMed] [Google Scholar]
+160.Alonso P, Cuadras D, Gabriëls L, et al.
+Deep Brain Stimulation for Obsessive-Compulsive Disorder: A Meta-Analysis of Treatment Outcome and Predictors of Response.
+PLos One
+2015;10:e0133591. 10.1371/journal.pone.0133591 [DOI] [PMC free article] [PubMed] [Google Scholar]
+161.Trevizol AP, Shiozawa P, Cook IA, et al.
+Transcranial Magnetic Stimulation for Obsessive-Compulsive Disorder.
+J ECT
+2016;32:262-6. 10.1097/YCT.0000000000000335 [DOI] [PubMed] [Google Scholar]
+162.Storch EA, McKay D, Reid JM, et al.
+D-Cycloserine Augmentation of Cognitive-Behavioral Therapy: Directions for Pilot Research in Pediatric Obsessive-Compulsive Disorder.
+Child & Youth Care Forum
+2010;39:101-12. 10.1007/s10566-010-9094-6 [DOI] [Google Scholar]
+163.Storch EA, Wilhelm S, Sprich S, et al.
+Efficacy of Augmentation of Cognitive Behavior Therapy With Weight-Adjustedd-Cycloserine vs Placebo in Pediatric Obsessive-Compulsive Disorder.
+JAMA Psychiatry
+2016;73:779-88. 10.1001/jamapsychiatry.2016.1128 [DOI] [PMC free article] [PubMed] [Google Scholar]
+164.Grant P, Lougee L, Hirschtritt M, et al.
+An Open-Label Trial of Riluzole, a Glutamate Antagonist, in Children with Treatment-Resistant Obsessive-Compulsive Disorder.
+J Child Adolesc Psychopharmacol
+2007;17:761-7. 10.1089/cap.2007.0021 [DOI] [PubMed] [Google Scholar]
+165.Grant PJ, Joseph LA, Farmer CA, et al.
+12-Week, Placebo-Controlled Trial of Add-on Riluzole in the Treatment of Childhood-Onset Obsessive-Compulsive Disorder.
+Neuropsychopharmacology
+2014;39:1453-9. 10.1038/npp.2013.343 [DOI] [PMC free article] [PubMed] [Google Scholar]
+166.Ghanizadeh A, Mohammadi MR, Bahraini S, et al.
+Efficacy of N-Acetylcysteine Augmentation on Obsessive Compulsive Disorder: A Multicenter Randomized Double Blind Placebo Controlled Clinical Trial.
+Iran J Psychiatry
+2017;12:134-41. [PMC free article] [PubMed] [Google Scholar]
+Articles from Translational Pediatrics are provided here courtesy of AME Publications

@@ -14,9 +14,9 @@ export function safetyCheck(question){
   return {relevant:relevant||otherDanger,immediate:immediate||otherDanger};
 }
 
-export function requestBody(question,history,store,model){
+export function requestBody(question,history,store,model,audience='caregiver'){
   const safety=safetyCheck(question);
-  return {model,store:false,instructions:SYSTEM_INSTRUCTIONS,input:JSON.stringify({question,previousQuestions:history}),tools:[{type:'file_search',vector_store_ids:[store],max_num_results:10,filters:safety.relevant?{type:'in',key:'retrieval_group',value:['general','safety']}:{type:'eq',key:'retrieval_group',value:'general'}}],tool_choice:'required',include:['file_search_call.results'],max_output_tokens:2200};
+  return {model,store:false,instructions:SYSTEM_INSTRUCTIONS,input:JSON.stringify({question,previousQuestions:history,audience}),tools:[{type:'file_search',vector_store_ids:[store],max_num_results:10,filters:safety.relevant?{type:'in',key:'retrieval_group',value:['general','safety']}:{type:'eq',key:'retrieval_group',value:'general'}}],tool_choice:'required',include:['file_search_call.results'],max_output_tokens:2200};
 }
 
 function sourceDetails(id,hits,annotations){

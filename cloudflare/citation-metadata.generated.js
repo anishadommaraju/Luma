@@ -3,6 +3,10 @@ export default {
   "Stein_2019_OCD_Primer.pdf": {
     "title": "Obsessive–compulsive disorder",
     "year": "2019",
+    "population": "mixed",
+    "topic": "Foundations",
+    "evidence_type": "review",
+    "audience": "all",
     "authors": [
       "Dan J Stein",
       "Daniel L C Costa",
@@ -19,6 +23,10 @@ export default {
   "Clinical_Guidelines_2025.pdf": {
     "title": "Clinical practice guidelines for obsessive-compulsive disorder: 2025 update",
     "year": "2026",
+    "population": "mixed",
+    "topic": "Foundations",
+    "evidence_type": "clinical guideline",
+    "audience": "clinician_caregiver",
     "authors": [
       "Shyam Sundar Arumugham",
       "Janardhanan C Narayanaswamy",
@@ -36,6 +44,10 @@ export default {
   "Evidence_Based_Assessment_OCD.pdf": {
     "title": "Evidence-Based Assessment of Obsessive–Compulsive Disorder",
     "year": "2016",
+    "population": "mixed",
+    "topic": "Assessment",
+    "evidence_type": "review",
+    "audience": "clinician_researcher",
     "authors": [
       "Amy M Rapp",
       "R Lindsay Bergman",
@@ -47,6 +59,10 @@ export default {
   "OCI_R_Psychometrics.pdf": {
     "title": "A contemporary psychometric evaluation of the Obsessive Compulsive Inventory – Revised (OCI-R)",
     "year": "2015",
+    "population": "adult",
+    "topic": "Assessment",
+    "evidence_type": "individual research study",
+    "audience": "clinician_researcher",
     "authors": [
       "Bethany M Wootton",
       "Gretchen J Diefenbach",
@@ -60,6 +76,10 @@ export default {
   "OCD_Symptom_Dimensions.pdf": {
     "title": "Meta-Analysis of the Symptom Structure of Obsessive-Compulsive Disorder",
     "year": "2008",
+    "population": "mixed",
+    "topic": "Symptoms",
+    "evidence_type": "systematic review/meta-analysis",
+    "audience": "all",
     "authors": [
       "Michael H Bloch",
       "Angeli Landeros-Weisenberger",
@@ -72,6 +92,10 @@ export default {
   "Taboo_Thoughts_Checking.pdf": {
     "title": "Taboo thoughts and doubt/checking: a refinement of the factor structure for obsessive-compulsive disorder symptoms",
     "year": "2007",
+    "population": "adult",
+    "topic": "Symptoms",
+    "evidence_type": "individual research study",
+    "audience": "clinician_researcher",
     "authors": [
       "Anthony Pinto",
       "Jane L Eisen",
@@ -85,6 +109,10 @@ export default {
   "Thought_Action_Fusion.pdf": {
     "title": "Explanation of Obsessive-Compulsive Disorder and Major Depressive Disorder on the Basis of Thought-Action Fusion",
     "year": "2013",
+    "population": "adult",
+    "topic": "Symptoms",
+    "evidence_type": "individual research study",
+    "audience": "clinician_researcher",
     "authors": [
       "Hossein Ghamari Kivi",
       "Ne’mat Mohammadipour Rik",
@@ -95,6 +123,10 @@ export default {
   "Pediatric_OCD_Review.pdf": {
     "title": "Obsessive-compulsive disorder in children and adolescents: epidemiology, diagnosis and management",
     "year": "2020",
+    "population": "pediatric",
+    "topic": "Pediatric",
+    "evidence_type": "individual research study",
+    "audience": "caregiver_clinician",
     "authors": [
       "Ahsan Nazeer",
       "Finza Latif",
@@ -107,6 +139,10 @@ export default {
   "Child_OCD_Assessment.pdf": {
     "title": "Evidence-Based Assessment of Child Obsessive Compulsive Disorder: Recommendations for Clinical Practice and Treatment Research",
     "year": "2010",
+    "population": "pediatric",
+    "topic": "Pediatric",
+    "evidence_type": "review",
+    "audience": "caregiver_clinician",
     "authors": [
       "Adam B Lewin",
       "John Piacentini"
@@ -116,6 +152,10 @@ export default {
   "Family_Accommodation.pdf": {
     "title": "Family Accommodation in Pediatric Obsessive Compulsive Disorder",
     "year": "2012",
+    "population": "pediatric",
+    "topic": "Pediatric",
+    "evidence_type": "review",
+    "audience": "caregiver_clinician",
     "authors": [
       "Eli R Lebowitz",
       "Michael Bloch"
@@ -125,6 +165,10 @@ export default {
   "ERP_Review.pdf": {
     "title": "Exposure and response prevention for obsessive-compulsive disorder: A review and new directions",
     "year": "2019",
+    "population": "mixed",
+    "topic": "Treatment",
+    "evidence_type": "review",
+    "audience": "all",
     "authors": [
       "Dianne M Hezel",
       "H Blair Simpson"
@@ -134,6 +178,10 @@ export default {
   "ERP_Current_Perspectives.pdf": {
     "title": "Exposure and Response Prevention in the Treatment of Obsessive-Compulsive Disorder: Current Perspectives",
     "year": "2019",
+    "population": "mixed",
+    "topic": "Treatment",
+    "evidence_type": "review",
+    "audience": "all",
     "authors": [
       "Clara Law",
       "Christina L Boisseau"
@@ -143,6 +191,10 @@ export default {
   "CBT_OCD.pdf": {
     "title": "Cognitive-Behavioral Therapy for Obsessive-Compulsive Disorder",
     "year": "2022",
+    "population": "mixed",
+    "topic": "Treatment",
+    "evidence_type": "review",
+    "audience": "all",
     "authors": [
       "Samuel D Spencer",
       "Jordan T Stiede",
@@ -156,6 +208,10 @@ export default {
   "SSRI_MetaAnalysis.pdf": {
     "title": "Meta-Analysis of the Dose-Response Relationship of SSRI in Obsessive-Compulsive Disorder",
     "year": "2009",
+    "population": "adult",
+    "topic": "Treatment",
+    "evidence_type": "systematic review/meta-analysis",
+    "audience": "clinician_researcher",
     "authors": [
       "Michael H Bloch",
       "Joseph McGuire",
@@ -168,6 +224,10 @@ export default {
   "OCD_Comorbidity_MetaAnalysis.pdf": {
     "title": "Comorbidities in Obsessive-Compulsive Disorder Across the Lifespan: A Systematic Review and Meta-Analysis",
     "year": "2021",
+    "population": "mixed",
+    "topic": "Comorbidity",
+    "evidence_type": "systematic review/meta-analysis",
+    "audience": "clinician_researcher",
     "authors": [
       "Eesha Sharma",
       "Lavanya P Sharma",
@@ -189,6 +249,10 @@ export default {
   "Neurocircuit_Models.pdf": {
     "title": "Neurocircuit models of obsessive-compulsive disorder: limitations and future directions for research",
     "year": "2021",
+    "population": "mixed",
+    "topic": "Neuroscience",
+    "evidence_type": "review",
+    "audience": "researcher_clinician",
     "authors": [
       "Elizabeth Shephard",
       "Marcelo C Batistuzzo",
@@ -212,6 +276,10 @@ export default {
   "Neuroimaging_OCD.pdf": {
     "title": "Neuroimaging findings in obsessive–compulsive disorder: A narrative review to elucidate neurobiological underpinnings",
     "year": "2019",
+    "population": "adult",
+    "topic": "Neuroscience",
+    "evidence_type": "review",
+    "audience": "researcher_clinician",
     "authors": [
       "Nandita Hazari",
       "Janardhanan C Narayanaswamy",
@@ -222,6 +290,10 @@ export default {
   "OCD_Suicide_Risk.pdf": {
     "title": "Suicide Risk in Obsessive-Compulsive Disorder and Exploration of Risk Factors: A Systematic Review",
     "year": "2019",
+    "population": "mixed",
+    "topic": "Safety",
+    "evidence_type": "systematic review/meta-analysis",
+    "audience": "clinician_researcher",
     "authors": [
       "Umberto Albert",
       "Diana De Ronchi",
@@ -233,6 +305,10 @@ export default {
   "eOCD_Technology_Review.pdf": {
     "title": "How New Technologies Can Improve Prediction, Assessment, and Intervention in Obsessive-Compulsive Disorder (e-OCD): Review",
     "year": "2019",
+    "population": "adult",
+    "topic": "Digital_Health",
+    "evidence_type": "review",
+    "audience": "researcher_clinician",
     "authors": [
       "Florian Ferreri",
       "Alexis Bourla",

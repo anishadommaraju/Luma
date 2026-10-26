@@ -1,0 +1,688 @@
+[
+  {
+    "pmcid": "PMC7370844",
+    "title": "Obsessive–compulsive disorder",
+    "authors": [
+      "Dan J Stein",
+      "Daniel L C Costa",
+      "Christine Lochner",
+      "Euripedes C Miguel",
+      "Y C Janardhan Reddy",
+      "Roseli G Shavitt",
+      "Odile A van den Heuvel",
+      "H Blair Simpson"
+    ],
+    "journal": "Nature reviews. Disease primers",
+    "publication_date": "2019 Aug 1",
+    "doi": "10.1038/s41572-019-0102-3",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7370844/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7370844/pdf/nihms-1573139.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "General OCD overview: symptoms, epidemiology, mechanisms, diagnosis and treatment.",
+    "html_file": "papers/PMC7370844.html",
+    "text_file": "papers/PMC7370844.txt",
+    "text_characters": 135018,
+    "sha256_html": "63a18dfb132f21dc00dfc06ef6167fc01a1426c44adfb42e3381994df70ce702",
+    "sha256_text": "3e23c7e2d866b64d66523cd2691944fae34a958e6c7ef4a891af4ef1c24653c8",
+    "pdf_status": "Not stored: download endpoint returned a non-PDF browser-check response.",
+    "requested_items": [
+      1
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true
+  },
+  {
+    "pmcid": "PMC12900050",
+    "title": "Clinical practice guidelines for obsessive-compulsive disorder: 2025 update",
+    "authors": [
+      "Shyam Sundar Arumugham",
+      "Janardhanan C Narayanaswamy",
+      "Srinivas Balachander",
+      "Eesha Sharma",
+      "TS Jaisoorya",
+      "Sai Chaitanya Reddy",
+      "Aleem M Siddiqui",
+      "Avinash Desouza",
+      "Parag S Shah",
+      "YC Janardhan Reddy"
+    ],
+    "journal": "Indian Journal of Psychiatry",
+    "publication_date": "2026 Jan 27",
+    "doi": "10.4103/indianjpsychiatry_1259_25",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12900050/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12900050/pdf/IJPsy-68-44.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "Clinical practice guidance: assessment, differential diagnosis and management.",
+    "html_file": "papers/PMC12900050.html",
+    "text_file": "papers/PMC12900050.txt",
+    "text_characters": 152287,
+    "sha256_html": "a916d5e722a59d85d334904dba2871cbae9f79a42b2616ac20656ee64292d7d5",
+    "sha256_text": "3b71dd63ca10a3477c32fd8a91dd61b7fc72a8a9853e43e9b731c7583ddd7e95",
+    "pdf_status": "Not stored: download endpoint returned a non-PDF browser-check response.",
+    "requested_items": [
+      2,
+      14
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true,
+    "tags": [
+      "guidelines",
+      "differential-diagnosis",
+      "management"
+    ],
+    "differential_diagnosis_topics": [
+      "generalized anxiety disorder",
+      "depression",
+      "body dysmorphic disorder",
+      "hoarding disorder",
+      "eating disorders",
+      "tic disorders",
+      "psychotic disorders"
+    ]
+  },
+  {
+    "pmcid": "PMC4994744",
+    "title": "Evidence-Based Assessment of Obsessive–Compulsive Disorder",
+    "authors": [
+      "Amy M Rapp",
+      "R Lindsay Bergman",
+      "John Piacentini",
+      "Joseph F McGuire"
+    ],
+    "journal": "Journal of Central Nervous System Disease",
+    "publication_date": "2016 Aug 21",
+    "doi": "10.4137/JCNSD.S38359",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4994744/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4994744/pdf/jcnsd-8-2016-013.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "Assessment methods and the strengths and limitations of OCD measures.",
+    "html_file": "papers/PMC4994744.html",
+    "text_file": "papers/PMC4994744.txt",
+    "text_characters": 104236,
+    "sha256_html": "273f5dd3c9ac84a03468d8b7add35caeaf1a858d70c0356c0e540f4ecf9407f1",
+    "sha256_text": "61b527a9796cc7180a38a931c2eb2851fe7fa1df106142e215421a786cd5d606",
+    "pdf_status": "Not stored: download endpoint returned a non-PDF browser-check response.",
+    "requested_items": [
+      3
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true
+  },
+  {
+    "pmcid": "PMC4530108",
+    "title": "A contemporary psychometric evaluation of the Obsessive Compulsive Inventory – Revised (OCI-R)",
+    "authors": [
+      "Bethany M Wootton",
+      "Gretchen J Diefenbach",
+      "Laura B Bragdon",
+      "Gail Steketee",
+      "Randy O Frost",
+      "David F Tolin"
+    ],
+    "journal": "Psychological assessment",
+    "publication_date": "2015 Feb 9",
+    "doi": "10.1037/pas0000075",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4530108/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4530108/pdf/nihms662199.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "OCI-R psychometric evidence, reliability, validity and screening characteristics.",
+    "html_file": "papers/PMC4530108.html",
+    "text_file": "papers/PMC4530108.txt",
+    "text_characters": 45083,
+    "sha256_html": "404a35d2179dd38e05cc8b6f43d004b88b6eb26662010cdbb13f0c8a882e0cde",
+    "sha256_text": "1eb2f67af271bf96649f5417c2fa5aea574b8ff75337a609dc502d1f079ce4d4",
+    "pdf_status": "Not stored: download endpoint returned a non-PDF browser-check response.",
+    "requested_items": [
+      4
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true
+  },
+  {
+    "pmcid": "PMC3972003",
+    "requested_items": [
+      5
+    ],
+    "title": "Meta-Analysis of the Symptom Structure of Obsessive-Compulsive Disorder",
+    "authors": [
+      "Michael H Bloch",
+      "Angeli Landeros-Weisenberger",
+      "Maria C Rosario",
+      "Christopher Pittenger",
+      "James F Leckman"
+    ],
+    "journal": "The American journal of psychiatry",
+    "publication_date": "2008 Oct 15",
+    "doi": "10.1176/appi.ajp.2008.08020320",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3972003/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3972003/pdf/nihms562960.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "Meta-analysis of OCD symptom structure.",
+    "interpretation_notes": "Historical factor models include hoarding; distinguish historical constructs from current diagnostic classifications.",
+    "tags": [
+      "symptom-dimensions"
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true,
+    "html_file": "papers/PMC3972003.html",
+    "text_file": "papers/PMC3972003.txt",
+    "text_characters": 58613,
+    "sha256_html": "44f959bdcc5e4281015fa7d2d043a224708393245fd68f8e195aed590e697e0f",
+    "sha256_text": "c79db978a689e1a24a2f0ad3f15f2323162c216000b733512b3b6a9cfd6b5d30",
+    "pdf_status": "Not downloaded; full-text HTML and extracted text stored."
+  },
+  {
+    "pmcid": "PMC6343408",
+    "requested_items": [
+      6
+    ],
+    "title": "Exposure and response prevention for obsessive-compulsive disorder: A review and new directions",
+    "authors": [
+      "Dianne M Hezel",
+      "H Blair Simpson"
+    ],
+    "journal": "Indian Journal of Psychiatry",
+    "publication_date": "2019 Jan",
+    "doi": "10.4103/psychiatry.IndianJPsychiatry_516_18",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6343408/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6343408/pdf/IJPsy-61-85.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "ERP rationale, exposure, response prevention and research directions.",
+    "interpretation_notes": "Review-level evidence; not a personalized exposure plan.",
+    "tags": [
+      "ERP",
+      "psychotherapy"
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true,
+    "html_file": "papers/PMC6343408.html",
+    "text_file": "papers/PMC6343408.txt",
+    "text_characters": 50621,
+    "sha256_html": "dc285c49600f9bb8cd5a090cc5ca0a5372c961a6f2bd9a1d53a275cc5ead70d7",
+    "sha256_text": "d099cbc6c8ca7c6211f876d9242d87669f64344a1611d00f452b1d7763fbd9f7",
+    "pdf_status": "Not downloaded; full-text HTML and extracted text stored."
+  },
+  {
+    "pmcid": "PMC6935308",
+    "requested_items": [
+      7
+    ],
+    "title": "Exposure and Response Prevention in the Treatment of Obsessive-Compulsive Disorder: Current Perspectives",
+    "authors": [
+      "Clara Law",
+      "Christina L Boisseau"
+    ],
+    "journal": "Psychology Research and Behavior Management",
+    "publication_date": "2019 Dec 24",
+    "doi": "10.2147/PRBM.S211117",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6935308/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6935308/pdf/prbm-12-1167.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "ERP evidence, mechanisms, outcomes and implementation.",
+    "interpretation_notes": "Interpret population and treatment-setting differences.",
+    "tags": [
+      "ERP",
+      "psychotherapy"
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true,
+    "html_file": "papers/PMC6935308.html",
+    "text_file": "papers/PMC6935308.txt",
+    "text_characters": 48376,
+    "sha256_html": "fa8e5c74a4f761980dab593b126f2b62eaa62a3ea6d2e634269a7ad114480c63",
+    "sha256_text": "d5e0c548d0a157b264caf255af5919c045b4d2dca4a924aed9d2ea71d244f4ee",
+    "pdf_status": "Not downloaded; full-text HTML and extracted text stored."
+  },
+  {
+    "pmcid": "PMC11170287",
+    "requested_items": [
+      8
+    ],
+    "title": "Cognitive-Behavioral Therapy for Obsessive-Compulsive Disorder",
+    "authors": [
+      "Samuel D Spencer",
+      "Jordan T Stiede",
+      "Andrew D Wiese",
+      "Wayne K Goodman",
+      "Andrew G Guzick",
+      "Eric A Storch"
+    ],
+    "journal": "The Psychiatric clinics of North America",
+    "publication_date": "2022 Dec 26",
+    "doi": "10.1016/j.psc.2022.10.004",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11170287/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11170287/pdf/nihms-1997195.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "Cognitive-behavioral models and treatment of OCD.",
+    "interpretation_notes": "Use as broader context for specific cognitive mechanisms.",
+    "tags": [
+      "CBT",
+      "cognitive-model",
+      "uncertainty",
+      "reassurance"
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true,
+    "html_file": "papers/PMC11170287.html",
+    "text_file": "papers/PMC11170287.txt",
+    "text_characters": 47190,
+    "sha256_html": "02df4cf92092c6123f9809713fe2c90f08346ecd90437aee2312b2aa3c0a4a60",
+    "sha256_text": "d3df652f3e60183966fe0cb146dcbb91bef542d1d04f9546169cf8bb3bd28c46",
+    "pdf_status": "Not downloaded; full-text HTML and extracted text stored."
+  },
+  {
+    "pmcid": "PMC2888928",
+    "requested_items": [
+      9
+    ],
+    "title": "Meta-Analysis of the Dose-Response Relationship of SSRI in Obsessive-Compulsive Disorder",
+    "authors": [
+      "Michael H Bloch",
+      "Joseph McGuire",
+      "Angeli Landeros-Weisenberger",
+      "James F Leckman",
+      "Christopher Pittenger"
+    ],
+    "journal": "Molecular psychiatry",
+    "publication_date": "2009 May 26",
+    "doi": "10.1038/mp.2009.50",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2888928/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2888928/pdf/nihms154291.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "Meta-analysis of SSRI dose-response in OCD.",
+    "interpretation_notes": "Historical trial synthesis, not individualized dosing advice; pair with current guidelines.",
+    "tags": [
+      "SSRIs",
+      "dose-response",
+      "medication"
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true,
+    "html_file": "papers/PMC2888928.html",
+    "text_file": "papers/PMC2888928.txt",
+    "text_characters": 28301,
+    "sha256_html": "7dcce2bb8599e145f63b32700510ba318b60c01b8f81ae3a8b5908c233b7c82e",
+    "sha256_text": "9ba09de33eac6ff2b23e529e5ed5fe7c4a9fd3b899b54048613ecdb920c2373c",
+    "pdf_status": "Not downloaded; full-text HTML and extracted text stored."
+  },
+  {
+    "pmcid": "PMC7082239",
+    "requested_items": [
+      10
+    ],
+    "title": "Obsessive-compulsive disorder in children and adolescents: epidemiology, diagnosis and management",
+    "authors": [
+      "Ahsan Nazeer",
+      "Finza Latif",
+      "Aisha Mondal",
+      "Muhammad Waqar Azeem",
+      "Donald E Greydanus"
+    ],
+    "journal": "Translational Pediatrics",
+    "publication_date": "2020 Feb",
+    "doi": "10.21037/tp.2019.10.02",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7082239/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7082239/pdf/tp-09-S1-S76.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "Pediatric epidemiology, diagnosis and management.",
+    "interpretation_notes": "Do not automatically generalize adult findings to children.",
+    "tags": [
+      "pediatric",
+      "diagnosis",
+      "management"
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true,
+    "html_file": "papers/PMC7082239.html",
+    "text_file": "papers/PMC7082239.txt",
+    "text_characters": 81185,
+    "sha256_html": "255c3792553fa461d7d9d920f73e3e09fc181f06282d30a3faea1e20b8fe8c0e",
+    "sha256_text": "c9335ee396aef2345c5f78624ffbcd115fedb8e604c1994b29c4595374053e7c",
+    "pdf_status": "Not downloaded; full-text HTML and extracted text stored."
+  },
+  {
+    "pmcid": "PMC2847172",
+    "requested_items": [
+      11
+    ],
+    "title": "Evidence-Based Assessment of Child Obsessive Compulsive Disorder: Recommendations for Clinical Practice and Treatment Research",
+    "authors": [
+      "Adam B Lewin",
+      "John Piacentini"
+    ],
+    "journal": "Child & Youth Care Forum",
+    "publication_date": "2010 Jan 8",
+    "doi": "10.1007/s10566-009-9092-8",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2847172/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2847172/pdf/10566_2009_Article_9092.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "Evidence-based pediatric OCD assessment.",
+    "interpretation_notes": "Clinician-rated tools are not equivalent to self-screening.",
+    "tags": [
+      "pediatric",
+      "assessment",
+      "CY-BOCS"
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true,
+    "html_file": "papers/PMC2847172.html",
+    "text_file": "papers/PMC2847172.txt",
+    "text_characters": 70365,
+    "sha256_html": "5c6a5f4eb3c8979175299733890810ef251bde7e21379dabaf26d4605dbede72",
+    "sha256_text": "f66504b7e81a7e1b86320dbc35e95e2417538cbaf1085698924955d683795fd8",
+    "pdf_status": "Not downloaded; full-text HTML and extracted text stored."
+  },
+  {
+    "pmcid": "PMC4011018",
+    "requested_items": [
+      12
+    ],
+    "title": "Family Accommodation in Pediatric Obsessive Compulsive Disorder",
+    "authors": [
+      "Eli R Lebowitz",
+      "Michael Bloch"
+    ],
+    "journal": "Expert review of neurotherapeutics",
+    "publication_date": "2012 Feb",
+    "doi": "10.1586/ern.11.200",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4011018/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4011018/pdf/nihms-454626.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "Family accommodation in pediatric OCD.",
+    "interpretation_notes": "Explain family patterns without blaming caregivers.",
+    "tags": [
+      "pediatric",
+      "family-accommodation"
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true,
+    "html_file": "papers/PMC4011018.html",
+    "text_file": "papers/PMC4011018.txt",
+    "text_characters": 29758,
+    "sha256_html": "ef7ff9700f3e1b792fed16f381cd28e5327ea53ffd66463d8b4fb962c4ae31a8",
+    "sha256_text": "935308fafd442fcb782bf5f71c9d4e0ae4b94ac551ff7816d4b46dd7fb45ac05",
+    "pdf_status": "Not downloaded; full-text HTML and extracted text stored."
+  },
+  {
+    "pmcid": "PMC8631971",
+    "requested_items": [
+      13
+    ],
+    "title": "Comorbidities in Obsessive-Compulsive Disorder Across the Lifespan: A Systematic Review and Meta-Analysis",
+    "authors": [
+      "Eesha Sharma",
+      "Lavanya P Sharma",
+      "Srinivas Balachander",
+      "Boyee Lin",
+      "Harshini Manohar",
+      "Puneet Khanna",
+      "Cynthia Lu",
+      "Kabir Garg",
+      "Tony Lazar Thomas",
+      "Anthony Chun Lam Au",
+      "Robert R Selles",
+      "Davíð R M A Højgaard",
+      "Gudmundur Skarphedinsson",
+      "S Evelyn Stewart"
+    ],
+    "journal": "Frontiers in Psychiatry",
+    "publication_date": "2021 Nov 11",
+    "doi": "10.3389/fpsyt.2021.703701",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8631971/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8631971/pdf/fpsyt-12-703701.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "Comorbidities across the lifespan.",
+    "interpretation_notes": "Group prevalence estimates do not establish an individual diagnosis.",
+    "tags": [
+      "comorbidity",
+      "lifespan",
+      "meta-analysis"
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true,
+    "html_file": "papers/PMC8631971.html",
+    "text_file": "papers/PMC8631971.txt",
+    "text_characters": 86747,
+    "sha256_html": "e0ef6593fb625bbc8d872006003f80dd6811489521f22b8b71566b1cba3d6712",
+    "sha256_text": "a4102e8464634b1f3b885d45c7979b367c91ae48a86fee9c0f61953e5c1ea509",
+    "pdf_status": "Not downloaded; full-text HTML and extracted text stored."
+  },
+  {
+    "pmcid": "PMC2039929",
+    "requested_items": [
+      15
+    ],
+    "title": "Taboo thoughts and doubt/checking: a refinement of the factor structure for obsessive-compulsive disorder symptoms",
+    "authors": [
+      "Anthony Pinto",
+      "Jane L Eisen",
+      "Maria C Mancebo",
+      "Benjamin D Greenberg",
+      "Robert L Stout",
+      "Steven A Rasmussen"
+    ],
+    "journal": "Psychiatry research",
+    "publication_date": "2007 Mar 21",
+    "doi": "10.1016/j.psychres.2006.09.005",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2039929/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2039929/pdf/nihms-25721.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "Refinement of taboo-thought and doubt/checking factors.",
+    "interpretation_notes": "Factor dimensions are not independent diagnoses; the original model also includes hoarding.",
+    "tags": [
+      "symptom-dimensions",
+      "taboo-thoughts",
+      "doubt-checking"
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true,
+    "html_file": "papers/PMC2039929.html",
+    "text_file": "papers/PMC2039929.txt",
+    "text_characters": 21054,
+    "sha256_html": "8933ccec8088b9022eb6d655e20fee3fdd1d3a7ed04b75520554e1ff6ecf085d",
+    "sha256_text": "90ebe96e200652321b663e24edfa75a1f4d4390c13867b492f6b57243967343d",
+    "pdf_status": "Not downloaded; full-text HTML and extracted text stored."
+  },
+  {
+    "pmcid": "PMC3939993",
+    "requested_items": [
+      16
+    ],
+    "title": "Explanation of Obsessive-Compulsive Disorder and Major Depressive Disorder on the Basis of Thought-Action Fusion",
+    "authors": [
+      "Hossein Ghamari Kivi",
+      "Ne’mat Mohammadipour Rik",
+      "Fariba Sadeghi Movahhed"
+    ],
+    "journal": "Iranian Journal of Psychiatry and Behavioral Sciences",
+    "publication_date": "2013 Autumn-Winter",
+    "doi": "",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3939993/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3939993/pdf/ijpbs-7-044.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "Thought-action fusion in OCD and major depressive disorder.",
+    "interpretation_notes": "Not exclusive to OCD. Always pair with the CBT review (PMC11170287); do not use alone.",
+    "tags": [
+      "thought-action-fusion",
+      "cognitive-model"
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true,
+    "html_file": "papers/PMC3939993.html",
+    "text_file": "papers/PMC3939993.txt",
+    "text_characters": 27263,
+    "sha256_html": "820b7a539abe673ec63ce85d71e3ad0c36616c272e8f401f494549582423ed68",
+    "sha256_text": "dd564873825cdc272d794d77eb974251d85f91cf9fb68ac966bb9866f14e7c3f",
+    "pdf_status": "Not downloaded; full-text HTML and extracted text stored.",
+    "required_companion_pmcids": [
+      "PMC11170287"
+    ]
+  },
+  {
+    "pmcid": "PMC7059158",
+    "requested_items": [
+      17
+    ],
+    "title": "Suicide Risk in Obsessive-Compulsive Disorder and Exploration of Risk Factors: A Systematic Review",
+    "authors": [
+      "Umberto Albert",
+      "Diana De Ronchi",
+      "Giuseppe Maina",
+      "Maurizio Pompili"
+    ],
+    "journal": "Current Neuropharmacology",
+    "publication_date": "2019 Aug",
+    "doi": "10.2174/1570159X16666180620155941",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7059158/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7059158/pdf/CN-17-681.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "Systematic review of suicidality and associated risk factors in OCD.",
+    "interpretation_notes": "Restricted to safety-related retrieval. Population findings must not equate intrusive harm thoughts with intent or predict individual risk.",
+    "tags": [
+      "suicide-risk",
+      "self-harm",
+      "hopelessness",
+      "severe-depression",
+      "crisis"
+    ],
+    "retrieval_group": "safety",
+    "include_in_general_retrieval": false,
+    "html_file": "papers/PMC7059158.html",
+    "text_file": "papers/PMC7059158.txt",
+    "text_characters": 85606,
+    "sha256_html": "ae49e31abb0aed2b75f0c84dd5fc3958deb4a2711f241f8a99389a1f4088bf4f",
+    "sha256_text": "5f23f10c5d09dbaa9757533fadc2e054d48191c8c68df276b8d8eeaa5ed81af7",
+    "pdf_status": "Not downloaded; full-text HTML and extracted text stored.",
+    "retrieval_triggers": [
+      "hopelessness",
+      "suicide",
+      "self-harm",
+      "severe depression",
+      "crisis situations"
+    ]
+  },
+  {
+    "pmcid": "PMC9041967",
+    "requested_items": [
+      18
+    ],
+    "title": "Neurocircuit models of obsessive-compulsive disorder: limitations and future directions for research",
+    "authors": [
+      "Elizabeth Shephard",
+      "Marcelo C Batistuzzo",
+      "Marcelo Q Hoexter",
+      "Emily R Stern",
+      "Pedro F Zuccolo",
+      "Carolina Y Ogawa",
+      "Renata M Silva",
+      "Andre R Brunoni",
+      "Daniel L Costa",
+      "Victoria Doretto",
+      "Leonardo Saraiva",
+      "Carolina Cappi",
+      "Roseli G Shavitt",
+      "H Blair Simpson",
+      "Odile A van den Heuvel",
+      "Euripedes C Miguel"
+    ],
+    "journal": "Brazilian Journal of Psychiatry",
+    "publication_date": "2021 Jun 11",
+    "doi": "10.1590/1516-4446-2020-1709",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9041967/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9041967/pdf/bjp-44-02-187.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "Neurocircuit models, their limitations and future research.",
+    "interpretation_notes": "Models are hypotheses and simplifications. Do not attribute OCD to a single brain region or infer individual causation from group findings.",
+    "tags": [
+      "neuroscience",
+      "CSTC",
+      "cognitive-control",
+      "habits",
+      "model-limitations"
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true,
+    "html_file": "papers/PMC9041967.html",
+    "text_file": "papers/PMC9041967.txt",
+    "text_characters": 101477,
+    "sha256_html": "2a3fd160994b26afccc5f47b4d806e13af0f634b9a10e4dbf5fefc94e974fd45",
+    "sha256_text": "d16d85fabfdbf2f13c4d8fbbb7bd7730518731d3adf9da9b8b5f85eefbb8e175",
+    "pdf_status": "Not downloaded; full-text HTML and extracted text stored."
+  },
+  {
+    "pmcid": "PMC6343409",
+    "requested_items": [
+      19
+    ],
+    "title": "Neuroimaging findings in obsessive–compulsive disorder: A narrative review to elucidate neurobiological underpinnings",
+    "authors": [
+      "Nandita Hazari",
+      "Janardhanan C Narayanaswamy",
+      "Ganesan Venkatasubramanian"
+    ],
+    "journal": "Indian Journal of Psychiatry",
+    "publication_date": "2019 Jan",
+    "doi": "10.4103/psychiatry.IndianJPsychiatry_525_18",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6343409/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6343409/pdf/IJPsy-61-9.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "Narrative review of neuroimaging findings and implicated circuits.",
+    "interpretation_notes": "Distinguish association from causation and group research from individual diagnosis. Pair with the neurocircuit limitations review.",
+    "tags": [
+      "neuroimaging",
+      "CSTC",
+      "fMRI",
+      "PET",
+      "structural-MRI"
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true,
+    "html_file": "papers/PMC6343409.html",
+    "text_file": "papers/PMC6343409.txt",
+    "text_characters": 65811,
+    "sha256_html": "d1e9b4f1fec5e025af981c2ea6fba463367389eeea9b819dac54be182122e46b",
+    "sha256_text": "46c40f62cc704c8b2f0e82576ffaf5fb8eb927459e07d579f851d0dd382a626a",
+    "pdf_status": "Not downloaded; full-text HTML and extracted text stored.",
+    "required_companion_pmcids": [
+      "PMC9041967"
+    ]
+  },
+  {
+    "pmcid": "PMC6930507",
+    "requested_items": [
+      20
+    ],
+    "title": "How New Technologies Can Improve Prediction, Assessment, and Intervention in Obsessive-Compulsive Disorder (e-OCD): Review",
+    "authors": [
+      "Florian Ferreri",
+      "Alexis Bourla",
+      "Charles-Siegfried Peretti",
+      "Tomoyuki Segawa",
+      "Nemat Jaafari",
+      "Stéphane Mouchabac"
+    ],
+    "journal": "JMIR Mental Health",
+    "publication_date": "2019 Dec 10",
+    "doi": "10.2196/11643",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6930507/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6930507/pdf/mental_v6i12e11643.pdf",
+    "retrieved_on": "2026-09-28",
+    "intended_use": "Technology for OCD prediction, assessment and intervention.",
+    "interpretation_notes": "Research potential does not establish clinical validation of this website or any particular app. Preserve publication-era limitations; consider privacy, generalizability and external validation.",
+    "tags": [
+      "digital-mental-health",
+      "e-OCD",
+      "digital-assessment",
+      "machine-learning",
+      "remote-monitoring"
+    ],
+    "retrieval_group": "general",
+    "include_in_general_retrieval": true,
+    "html_file": "papers/PMC6930507.html",
+    "text_file": "papers/PMC6930507.txt",
+    "text_characters": 76839,
+    "sha256_html": "09b63097ff35dfd877576707cc3dbe3efd04ae7a5591d8ccd087be3d83304fdd",
+    "sha256_text": "b6f761970c45b6a05c76e224d30cd519fb004349ff68803782dbec142649781d",
+    "pdf_status": "Not downloaded; full-text HTML and extracted text stored."
+  }
+]

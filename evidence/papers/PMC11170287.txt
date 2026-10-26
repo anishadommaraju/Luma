@@ -1,0 +1,321 @@
+Psychiatr Clin North Am. Author manuscript; available in PMC: 2024 Jun 13.
+Published in final edited form as: Psychiatr Clin North Am. 2022 Dec 26;46(1):167–180. doi: 10.1016/j.psc.2022.10.004
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+Cognitive-Behavioral Therapy for Obsessive-Compulsive Disorder
+Samuel D Spencer
+Samuel D Spencer, MA
+aBaylor College of Medicine, One Baylor Plaza, MS:350, Houston, TX 77030, USA
+Find articles by Samuel D Spencer
+a,*, Jordan T Stiede
+Jordan T Stiede, MS
+aBaylor College of Medicine, One Baylor Plaza, MS:350, Houston, TX 77030, USA
+Find articles by Jordan T Stiede
+a, Andrew D Wiese
+Andrew D Wiese, PhD
+aBaylor College of Medicine, One Baylor Plaza, MS:350, Houston, TX 77030, USA
+Find articles by Andrew D Wiese
+a, Wayne K Goodman
+Wayne K Goodman, MD
+aBaylor College of Medicine, One Baylor Plaza, MS:350, Houston, TX 77030, USA
+Find articles by Wayne K Goodman
+a, Andrew G Guzick
+Andrew G Guzick, PhD
+aBaylor College of Medicine, One Baylor Plaza, MS:350, Houston, TX 77030, USA
+Find articles by Andrew G Guzick
+a, Eric A Storch
+Eric A Storch, PhD
+bOne Baylor Plaza, MS:350, 1977 Butler Boulevard, Houston, TX 77030, USA
+Find articles by Eric A Storch
+b
+Author information
+Article notes
+Copyright and License information
+aBaylor College of Medicine, One Baylor Plaza, MS:350, Houston, TX 77030, USA
+bOne Baylor Plaza, MS:350, 1977 Butler Boulevard, Houston, TX 77030, USA
+*
+Corresponding author. samuel.spencer@bcm.edu
+Issue date 2023 Mar.
+Keywords: Obsessive-compulsive disorder, OCD, Cognitive behavioral therapy, CBT, Exposure and response prevention, Case vignette
+PMC Copyright notice
+PMCID: PMC11170287 NIHMSID: NIHMS1997195 PMID: 36740350
+The publisher's version of this article is available at Psychiatr Clin North Am
+Obsessive-compulsive disorder (OCD) is characterized by the presence of obsessions (ie, unwanted and intrusive thoughts, images, or impulses that lead to anxiety and distress) and compulsions (ie, repetitive behaviors or mental acts in response to obsessions that serve to reduce distress or prevent feared outcomes).1 OCD has an estimated lifetime prevalence of approximately 1% to 3%,2–4 and most individuals are also diagnosed with comorbid conditions.5–7 The Yale-Brown Obsessive-Compulsive Scale (Y-BOCS)8 and its revised version (Y-BOCS-II)9 are considered the gold standard instruments for assessing the presence and severity of OCD symptoms in adults. A corresponding pediatric version of the YBOCS-II has also been developed (ie, CY-BOCS-II).10 Individuals with OCD often experience significant functional impairment in social, occupational, and familial domains, which leads to decreased quality of life.11–13 OCD is also associated with interpersonal relationship difficulties, loss of work, and increased family burden.12 The substantial impairment in functioning, restricted autonomy, and significant distress experienced by individuals with OCD necessitates the importance of developing efficacious treatments. As articulated below, cognitive-behavioral therapy (CBT) is the front-line psychotherapeutic treatment of OCD supported by a substantial body of theoretic and empirical support.
+THEORETIC FOUNDATIONS
+Within CBT, several empirically supported conceptual and applied models of OCD exist that share an emphasis on the role of cognitive processes and behavioral learning principles in the cause, maintenance, and treatment of OCD. These include the cognitive model,14 which lays the foundation for modern CBT approaches for OCD and provides a theoretic explanation for the emergence and maintenance of OCD symptoms. Additional models include emotional processing theory,15 and the inhibitory learning model,16 which offer direct implications for treatment by explicating the mechanisms underlying exposure and response/ritual prevention (E/RP), the active ingredient of CBT treatment of OCD.
+Cognitive Model
+Consistent with traditional Beckian cognitive therapy,17 the cognitive model of OCD posits maladaptive beliefs and distorted interpretations concerning intrusive mental content (ie, obsessions) as critical maintenance factors.18 According to this perspective, it is not the inherent presence of unwanted intrusive thoughts per se that is problematic (survey research has indicated that intrusive, unwanted thoughts are ubiquitous in individuals with and without OCD).19 Rather, it is the interpretation of such threatening thoughts as excessively salient (ie, automatic negative thoughts about intrusions), along with the equation of such intrusive thoughts with the actual behavior being enacted (ie, thought–action fusion) and an excessive need for certainty concerning the feared content of obsessive thoughts (ie, intolerance of uncertainty) that are at the core of OCD from a cognitive perspective.14,20 Additional dysfunctional biases or assumptions within the cognitive model include (a) failure to prevent harm to self or others is equivalent to having actually caused harm, (b) failure to neutralize intrusive thoughts through rituals is equivalent to desiring the worst-case scenario specified in the intrusive thought to actually occur, and (c) that one should be able to exert continuous control over one’s thoughts.20 Treatment of OCD from this perspective involves restructuring or modifying automatic negative thoughts (ie, interpretations) related to the intrusive obsessive content, along with a similar focus on modifying the core beliefs/dysfunctional cognitive biases mentioned above.21 In cognitively specialized CBT for OCD, cognitive exercises are focused on challenging these underlying beliefs rather than the rationality of specific obsessive thoughts, which can actually be harmful for individuals with OCD, to the extent that these exercises lead to compulsive self-reassurance or thought-stopping.22
+Behavioral models
+Behavioral learning principles have been used to conceptualize OCD and offer key treatment implications in terms of explaining the mechanism of action in E/RP—the active ingredient in CBT for OCD. From this perspective, classic conditioning processes explain how a neutral stimulus (intrusive thoughts) becomes paired with a heightened anxiety/fear response. Operant learning principles suggest that compulsive behaviors, which function to attenuate or neutralize anxious distress from the obsessive thoughts, are negatively reinforced and thus more likely to occur in the future in the presence of obsessions.23 Passive and active avoidance of obsessive triggers are also negatively reinforced via reduced frequency of OCD-related distress. Both compulsions and avoidance behaviors narrow adaptive behavioral repertoires and contribute to the functional impairment associated with OCD.24 Although these negatively reinforced behaviors result in fleeting relief from obsessions, this behavioral process paradoxically strengthens the salience of intrusive thoughts (ie, fear networks), denies an opportunity for corrective learning about obsessive fears, and perpetuates the OCD cycle.
+Based on these behavioral accounts, Foa and Kozak developed emotional processing theory to explain the mechanism of change within E/RP treatment of OCD.25 The process of exposure to obsessive content while simultaneously refraining from engaging in compulsive behavior/avoidance (ie, response prevention) allows for (a) extinction of the classically conditioned relationship between obsessive stimuli and the anxiety/distress response (ie, habituation), (b) attenuation of the negative reinforcement cycle (ie, functional link between obsessions and compulsions) via response prevention, and (c) new learning concerning the disconfirmation of OCD beliefs (ie, worst-case scenario did not, or does not have to, materialize).
+Recent research on fear conditioning and extinction has revealed some novel intricacies within the extinction learning process underlying exposure,26 which has led to the development of the inhibitory learning model. This model posits that deficits in extinction learning processes in individuals with OCD and anxiety disorders mean that exposure operates via the development of 2 meaning systems—the original fear-based one, plus an additional inhibitory one that develops during exposure (ie, obsessional stimuli no longer associated with fear response). This points to the possibility that habituation may not necessarily be required for exposure to be effective.16 Rather than solely relying on extinguishing the original fear-based system, this model suggests a central mechanism of strengthening the inhibitory learning system involves maximizing expectancy violations, generalizing exposure efforts to a wide variety of situations (increase retrievability of inhibitory learning), and increasing distress tolerance skills and acceptance of variability in habituation.27
+Core Treatment Elements
+The following sections describe core components of the CBT treatment model for OCD, with deliberate focus on E/RP, which is considered a gold-standard treatment of OCD. Although space limitations preclude a detailed (ie, session-by-session) explication of the CBT for OCD protocol,23 the following sections offer an overview of core treatment elements. Most CBT protocols used in randomized trials include approximately 14 to 20 twice weekly or weekly sessions.28
+Information-gathering, psychoeducation, goal setting
+Initial sessions involve integrating assessment data into an individualized case formulation of the patient’s presenting concerns, often conceptualized within the context of specific OCD subtypes. This is done through ongoing assessment of the content of obsessive thoughts, obsessive triggers, and manifestations of compulsive behaviors and avoidance and their functional link to the obsessive content. Probing for subtle compulsions (eg, mental rituals) and (active and passive) avoidance behaviors is also important because overlooked rituals or other safety behaviors can interfere with effective E/RP. This information-gathering process can also be facilitated by patient self-monitoring and tracking of triggers, obsessions, and compulsions, along with informant input (eg, parents, partner). Additionally, patients receive psychoeducation about OCD, the rationale for E/RP treatment, and the components/course of treatment. These initial discussions also allow therapists to explicate treatment goals, set treatment expectations, socialize the patient to the CBT approach, and instill hope for improvement in terms of increased flexibility in behavioral repertoires of daily living (rather than rigid governance by obsessive thoughts).
+Exposure and response/ritual prevention
+E/RP posits that by exposing patients to the feared content (obsessions) while instructing them to refrain from engaging in the compulsive behavior, new learning occurs, thus leading to a decrease in the salience (and frequency) of obsessive content along with decreases in the frequency of compulsions.23 This process unfolds in practice through in vivo and imaginal exposure exercises that are conducted in session and assigned as out-of-session homework. In vivo exposures involve patients exposing themselves to the actual triggering stimuli (eg, touching a toilet seat for contamination-related OCD, holding a knife for harm-related OCD), whereas imaginal exposures consist of patients vividly imagining themselves in triggering situations—often through utilization of a written or recorded script that is read or listened to repeatedly—while refraining from engaging in rituals or compulsive behaviors. Imaginal exposures are often used in situations where in vivo exposures are either logically or ethically impossible, such as handling needles due to concern of contracting HIV/AIDS, or fear of harm coming to oneself while playing baseball. Importantly, both modalities seem effective in addressing OCD specific symptoms.29
+In practice, E/RP work begins by providing a clear rationale for the importance of frequent and repeated practice of exposure exercises to affect symptom reduction. Highlighting the collaborative nature of E/RP, patients are informed that they will never be forced to engage in exposure exercises without their consent, but will be encouraged to vigorously pursue exposures, because greater magnitude of immersion within E/RP leads to better treatment outcomes.24 Subsequently, therapist and patient work to develop an exposure hierarchy, which accounts for all of the patient’s OCD-related triggers and feared situations. Trigger situations are then arranged from least to most distressing, and exposure exercises are often structured in a way that works to sequentially proceed with exposures of greater difficulty until all items on the hierarchy are mastered.23 Contemporary models of exposure encourage flexible progression along this exposure list based on the patient’s willingness rather than rigid adherence to the originally outlined hierarchy (ie, beginning with least distressing, then trying the second-least distressing) because increased variability in distress during exposure can enhance learning generalization.27
+In practice, exposure exercises typically involve the patient fully exposing to a trigger situation and tracking subjective units of discomfort (SUDs; eg, rated 0–100, with 0 being perfectly relaxed and 100 being the most intolerable distress ever) before, during, and after the exposure exercise. Careful tracking of SUDs ratings during exposure exercises allows patients to experientially contact the process of habituation during exposure, and highlights possible violations of expectancy (ie, by comparing preexposure estimated peak SUDs to actual SUDs). Consistent with the cognitive model of OCD, postexposure processing (and review of homework) often consists of emphasizing new learning from exposure and targeting beliefs about uncertainty and inflated sense of responsibility.
+Maintenance, termination, and sustaining remission
+As therapy progresses and patients become more adept at independently designing and implementing exposures in the context of their daily life, focus shifts toward maintaining gains made during treatment and planning for eventual termination. Implementation of less frequent maintenance and booster sessions, along with the development of a detailed relapse prevention plan, are additional components that can facilitate successful termination.
+Throughout this process, overarching themes and insights gleaned from treatment are highlighted and integrated into the patient’s life context, especially because they relate to the patient autonomously integrating E/RP principles into their day-to-day life. In essence, patients learn to live a life of exposure and move toward what matters to them without being held back by OCD. As such, this final phase of treatment focuses on fostering patient rehabilitation and promoting expansion of adaptive behavioral repertoires to numerous life domains once constricted by OCD. This can include pursuing hobbies, recreation, employment, and relationships with a newfound sense of flexibility and autonomy.
+Research Support
+CBT (ie, E/RP) has established a very strong evidence base in the treatment of children, adolescents, and adults with OCD, delivered both in-person and via telehealth.30 This is reflected in its superiority to psychological and pill placebo controls as well as serotonin reuptake inhibitors (SRIs) in numerous randomized controlled trials,31–33 large effect sizes of treatment identified by multiple meta-analyses,34–36 and consistent recommendations as an evidence-based treatment in practice guidelines and reviews.37–39
+Specifically, recent meta-analyses have demonstrated large effect sizes of E/RP for OCD relative to waitlist and placebo controls, as well as significant superiority to antidepressant medication in both youth and adults.34–36 Estimates of effect sizes from these meta-analyses relative to active control conditions (eg, relaxation-based therapy) range from d = .21 to 1.13, and nonactive controls (eg, waitlist, placebo) from d = 1.27 to 1.53. E/RP has also demonstrated modest but significant superiority to SRIs, with meta-analytic effect size ranging from .22 to .36.34–36 Treatment response rates are estimated to be 65% to 70% after a course of E/RP, remission rates as high as 57%,34–36 and dropout rates are also consistently low compared with other treatments.37,40
+In terms of practice guidelines, the American Psychological Association Society of Clinical Psychology provided a “strong recommendation” (ie, second-highest ranking level) for E/RP in 2015 based on universally strong superiority to control conditions identified in systematic reviews and meta-analyses.41 Since then, several additional RCTs have been published,42 which likely will lead to future revision of the strength of support to “very strong recommendation.” Similarly, family-based E/RP for youth with OCD has earned a designation as a “well-established” treatment by the Society for Clinical Child and Adolescent Psychology,38 reflecting the highest standard of evidence for psychological therapy. This recommendation was based on multiple randomized controlled trials demonstrating the superiority of these therapies relative to active comparison conditions.43 The American Psychiatric Association and American Academy of Child and Adolescent Psychiatry provide similar recommendations, with E/RP (or SRIs) being described as a first-line treatment of adults,44 and as the first-line treatment alone for youth with mild-to-moderate OCD, or in combination with an SRI in the case of moderate-to-severe OCD.39
+Limitations of this research should be noted, however, because most of the evidence base that supports E/RP has been conducted with White, middle-class individuals in specialty research settings. Although efforts have been made to increase the diversity of OCD study participants, more research is needed in real-world settings with more culturally diverse populations because there is only preliminary support in these settings.41,45
+Case Vignettes
+Pediatric obsessive-compulsive disorder case example
+Noah was a 10-year-old boy who presented for treatment with his mother (Jill) because of struggles with frequent, intrusive, and distressing thoughts about harming his parents, along with compulsive reassurance-seeking and active avoidance of certain objects and places (eg, the kitchen when knives are out, keeping his hands in his pockets whenever he is in the same room as a sharp object).a He also endorsed intrusive thoughts about his parents being harmed when separated from them and engagement in reassurance-seeking behaviors (eg, repeated text-messages). Noah and Jill also reported a nightly ritual in which they say “I love you” four times in a row before bed. Additionally, Noah indicated struggling with things being “just-right,” including tying both shoes a similar tightness, wearing socks the same length, and brushing his teeth evenly on both sides. He reported time-consuming, repetitive performance of such behaviors until it feels symmetric. Because of this, he has been late to school almost every day this year. His score on the CY-BOCS-II was 28 (moderate-to-severe range).
+A family-based E/RP treatment plan included an initial assessment of obsessions and compulsions, OCD-related functional impairment, and family accommodation. During the initial session, Noah and Jill were provided with psychoeducation about OCD, in which intrusive thoughts and rituals were normalized, and the development and maintenance of OCD was explained as a process in which people pay excessive attention to intrusive thoughts and spend excessive time responding to them. This initial session also involved identifying the different domains of Noah’s life affected by OCD. Additionally, the rationale for E/RP was provided using developmentally appropriate language, describing the goal of E/RP to help with new learning about obsessive fears and increase the amount of time Noah spends in other fun activities and hobbies, rather than stuck within OCD cycles. Finally, Noah and Jill were encouraged to think of a funny name for Noah’s OCD to “externalize” OCD. This exercise helped Noah and his mother psychologically distance from OCD, which had become entangled with their daily lives and relationship and gave them a common focus to address during therapy.
+In subsequent sessions, Noah and Jill developed a treatment hierarchy with their therapist, which included a list of potential E/RP exercises that Noah rated using a SUDS rating scale of 0 to 10. This collaborative process facilitated building a flexible roadmap for treatment that was revisited in subsequent sessions. Noah’s therapist proposed E/RP exercises he hoped Noah would find fun or enjoyable to facilitate engagement, like having a 3-legged race with his mom with uneven socks to challenge just-not-right experiences or eating his favorite candy after first “stabbing it” with a knife. See Table 1 for Noah’s hierarchy.
+Table 1.
+Sample exposure and response prevention hierarchy for a 10-year-old boy with obsessive- compulsive symptoms related to symmetry and harm
+Exposure Challenge
+0–10 Rating
+Pressing a sharp knife against mom's neck without asking her questions about her safety/pain
+10
+Holding a sharp knife against mom's skin without asking her questions about her safety/pain
+10
+Pressing a dinner knife against mom's neck without asking her questions about her safety/pain
+9
+Holding a dinner knife against mom's skin without asking her questions about her safety/pain
+9
+Wear different length socks and shoes tied unevenly for a whole school day
+9
+Writing a story or drawing a picture about harming someone by accident
+8
+"Stabbing" favorite candy with a knife and eating it
+7
+Go to bed without saying "I love you"
+7
+Brush teeth on only one side of mouth
+7
+Drawing a picture with a knife with finger paint
+6
+Wear different socks (long and short)
+6
+Eating a favorite meal using a knife
+5
+Go to bed, only say "I love you" once
+5
+Spending the whole day at school without checking on parents' safety and GPS location
+4
+Brush teeth only once
+4
+Three-legged uneven race with mom
+3
+Stand in the kitchen with knives out with hands out of pockets
+3
+Have mom tie shoes different tightness
+2
+Saying the word "Stab"
+1
+Open in a new tab
+Most of subsequent sessions involved the following format: first, his therapist checked in on “wins” from the previous week, or E/RP homework in which he approached feared situations and/or resisted compulsions. Next, they completed in-session E/RP, which sometimes involved out-of-office exercises (eg, to the bathroom to challenge his teeth-brushing ritual). Jill would join sessions to facilitate generalization of E/RP to Noah’s family context. During E/RP, the therapist routinely encouraged Noah to maintain focus on the feared situation. They also carefully monitored overt and subtle compulsions during exposure to minimize them as much as possible. Over time, the therapist encouraged Jill to take the lead in E/RP coaching to prepare them for at-home exercises, and to identify ways she accommodates at home (eg, engaging in bedtime rituals, responding to text-messages about her safety), and resisting these urges.
+Throughout the course of treatment, obsessional distress gradually reduced, and time spent engaging in compulsive rituals dramatically decreased, which resulted in increased adaptive behavioral functioning in key life domains (family, school, relationships), reduced OCD-related impairment, and more time engaging in hobbies/fun activities. To quantitatively assess progress, the therapist readministered the CY-BOCS-II, which fell in the nonclinical range (total score of 8). After spacing the last 2 sessions out during 2 to 3 weeks, therapy concluded with a “relapse prevention” session in which Noah and Jill were encouraged to reflect on what had been most beneficial and how to prepare for the future if OCD symptoms reemerge.
+Adult obsessive-compulsive disorder case example
+Steven was a 26-year-old man who presented with long-standing OCD symptoms specific to contamination involving bodily fluids, and compulsions surrounding avoidance of objects perceived to be contaminated, use of barriers, and excessive and ritualistic handwashing/bathing. His intake assessment yielded a diagnosis of OCD along with a YBOCS-II score of 24 (moderate–severe range).
+During the first E/RP session, psychoeducation concerning OCD and CBT (ie, E/RP) was provided. Steven was encouraged to apply this content to his personal experience with OCD and was able to identify how obsessive thoughts related to contamination caused anxiety, and in turn facilitated avoidance and compulsive behaviors. Additionally, he identified successful (albeit inadvertent) instances of habituation to anxiety, including an occasion where he was unable to bathe immediately following exercise, and recognized how this could be applied to E/RP treatment. An exposure hierarchy was developed, and initial exercises were added and assigned in the first session; Steven agreed to continue developing his hierarchy and track symptoms on an ongoing basis throughout treatment.
+Steven’s second session was used to finish developing his hierarchy; initial exposure exercises were practiced in-session with Steven agreeing to handle doorknobs in the clinic without washing. After the exercise, Steven and the therapist discussed what occurred and how his anxiety eventually habituated in the absence of handwashing rituals. Steven also noted there was no evidence supporting predictions that he would become sick from touching the doorknob. His therapist pointed out that neither of them could be 100% certain, however, that he would not get sick from the doorknob, an observation intended to help Steven challenge a need for certainty over his feared outcomes. For homework, Steven agreed to practice this exercise 3 times daily before the next session.
+The third session started with a review of exposure homework. Much like the exposure practice during his previous visit, Steven’s exposure tracking documents provided evidence of habituation during exposures. Additionally, habituation occurred more quickly during successive trials, and peak SUDs ratings reduced across trials. Steven further explained that while intrusive thoughts specific to contamination were still present while handling doorknobs, the urge to wash was less pronounced and he felt confident in resisting washing. Cognitive therapy techniques were also used to maximize inhibitory learning from exposures in terms of highlighting the discrepancy between the expectancy of feared outcome before ERP and the actual outcome.46 The third visit concluded with Steven selecting exposures from his hierarchy to practice in-session (handling doorknob without washing and cross-contaminating his face). Steven agreed to practice and record this exercise 3 times daily before next session.
+Sessions 4 through 12 proceeded in a similar manner, with the agenda including a review of homework assigned, identification of in-session exposures, and planning subsequent exposure homework. After the 12th session, Steven’s score on the YBOCS-II was 13 (mild range). Additionally, Steven completed all exposure exercises on his hierarchy. From there, Steven and the therapist met for 4 additional sessions every 2 weeks to allow additional time for independent exposure practice. During these booster sessions, Steven took a more active role in integrating E/RP principles into his day-to-day lived experiences. The final maintenance visit included development of a symptom relapse prevention plan. A follow-up YBOCS-II measure yielded a score of 12 (mild range). Steven and the therapist agreed to discontinue treatment due to symptom reduction and his ongoing ability to independently maintain treatment progress.
+DISCUSSION
+Prognosis and outcomes for children and adults suffering from OCD have improved greatly during the last 40 years due to advances in CBT (ie, E/RP) and SRI treatments,24 which both possess a strong evidence base supporting their efficacy. These treatments are often combined in practice (especially for more severe presentations) and have demonstrated robust efficacy based on a large body of research and associated practice guidelines.38,39,41,43,44 E/RP consistently demonstrates sustained benefits following active treatment, greater remission rates relative to SRIs, and has shown to be effective for individuals who may not respond to (or prefer) SRIs.42,47 As such, CBT, with an emphasis on E/RP, should be a core component of treatment of those with OCD.38,41 As demonstrated in the series of case vignettes presented here, cognitive and behavioral models of OCD—with an emphasis on E/RP—are broad in scope yet offer potential for individualized care. This section discusses several key issues germane to clinicians delivering CBT for OCD and offers recommendations for overcoming some of the challenges and pitfalls that may arise in practice.
+Exposure and Response/Ritual Prevention: Challenges and Opportunities
+As described earlier, E/RP is the active ingredient of successful CBT treatment of OCD.27,48 Despite the repeated demonstrations of E/RP’s efficacy, survey studies indicate that individuals treated for OCD do not always receive E/RP.49 Reasons for therapist hesitancy in delivering E/RP with fidelity include negative beliefs about the safety of the approach, patient’s ability to tolerate exposures, and faulty perceptions of E/RP as nonessential in the treatment of OCD.50 These beliefs are oftentimes unfounded, however (eg, survey research reveals that serious negative consequences of E/RP are extremely rare).51 Fortunately, such clinician beliefs have been shown to be amenable to modification, which further underscores the importance of increasing promotion of E/RP through clear articulation of the rationale for, and safety of, E/RP to patients and other professionals.
+Additionally, when E/RP is deliberately targeted in treatment, there are several pitfalls that can—and indeed often do—result in reduced efficacy of treatment and an unfortunate prolonging of OCD symptoms. These include (a) only engaging in mild-to-moderate difficulty exposures and leaving more challenging ones untouched, (b) failing to notice subtle patient safety behaviors or inadvertently providing reassurance during exposures, (c) designing exposure exercises that are less relevant to the patient’s lived experience or failing to promote generalization of in vivo exposures to the patient’s life context, and (d) focusing on challenging the rationality of obsessive thoughts as is done in traditional cognitively focused CBT.50,52 Fortunately, awareness of these common pitfalls can assist therapists in conducting E/RP with fidelity and designing exposures with the greatest likelihood of having a positive impact in the patient’s day-to-day life.
+Addressing Clinical Complexities
+Comorbid psychiatric conditions in individuals with OCD presenting for treatment often seems to be the rule, rather than the exception. Commonly encountered comorbid conditions include generalized anxiety disorder, major depressive disorder, obsessive-compulsive personality disorder, chronic tic disorders (especially in youth), and attention deficit-hyperactivity disorder, to name a few.4–7 Because such comorbidities can present additional complexities and challenges, thorough assessment, case conceptualization, and treatment planning are essential for optimal care. Additional considerations involve whether to treat comorbid conditions simultaneously or sequentially in the context of OCD and evaluating the impact of comorbidities on successful implementation of E/RP. To the extent that comorbid conditions dramatically interfere with E/RP progress, addressing the comorbid concern before beginning a course of CBT for OCD may be indicated.23 However, in many cases, E/RP can be tailored to address comorbid conditions without affecting response.53 Further, data suggest that many comorbid conditions (eg, depression, anxiety) improve following successful E/RP.54,55 Distinguishing closely related clinical concerns (eg, ruminative anxiety, patterns of repetitive behaviors in trichotillomania and excoriation disorders) from independent OCD symptomology is another important consideration. Additional areas of clinical complexity include presentations of OCD with low levels of insight, comorbid disorganized or tangential thought processes (including psychotic spectrum disorders), substance abuse, and treatment planning for more severe cases in which a higher level of care (eg, residential, partial hospitalization) may be warranted.
+Recommendations for Clinicians
+CBT—specifically E/RP—represents a well-established, cost-effective, evidence-based approach for treating OCD with potential for alleviating symptomology and improving quality of life. Based on the cognitive and behavioral models of OCD presented above, the following recommendations for clinicians treating patients with OCD are proffered:
+Implement a deliberate focus on thorough assessment, case formulation, and treatment planning idiographically tailored to fit the needs of diverse patients.
+Use an E/RP framework to design and carry out relevant exposure exercises tailored to patients’ unique lived experiences that lead to resounding improvement in patient adaptive behavioral functioning.
+Consider possible complex clinical presentations (ie, comorbidities, severe symptomology) when personalizing CBT for OCD.
+KEY POINTS.
+Cognitive-behavioral therapy (CBT) is an empirically supported psychotherapeutic treatment of obsessive-compulsive disorder.
+Exposure and response/ritual prevention (E/RP) is the active component underlying the efficacy of CBT for obsessive-compulsive disorder (OCD).
+Practice guidelines for clinicians using CBT for OCD include thorough assessment and case conceptualization, effective implementation of E/RP with fidelity to the underlying model, and flexible, idiosyncratic adaptation of treatment of diverse patients.
+DISCLOSURE
+Production of this article was supported by a grant from the Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health under Award Number P50HD103555 for use of the Clinical and Translational Core facilities. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+Footnotes
+a
+The following cases are based on an integration of several individuals with OCD who have been treated in our clinical work and are intended to illustrate E/RP as it is done in practice. They are not meant to reflect any one individual person.
+REFERENCES
+1.American Psychiatric Association. Diagnostic and statistical manual of mental disorders. 5th edition, Text revision.
+American Journal of Psychiatry; 2022. [Google Scholar]
+2.Kessler RC, Berglund P, Demler O, et al.
+Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. Arch Gen Psychiatry
+2005;62(6):593–602.
+[DOI] [PubMed] [Google Scholar]
+3.Ruscio AM, Stein DJ, Chiu WT, et al.
+The epidemiology of obsessive-compulsive disorder in the National Comorbidity Survey Replication. Mol Psychiatry
+2010; 15(1):53.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+4.Torres AR, Prince MJ, Bebbington PE, et al.
+Obsessive-compulsive disorder: Prevalence, comorbidity, impact, and help-seeking in the British National Psychiatric Morbidity Survey of 2000. Am J Psychiatry
+2006;163(11):1978–85.
+[DOI] [PubMed] [Google Scholar]
+5.Brakoulias V, Starcevic V, Belloch A, et al.
+Comorbidity, age of onset and suicidality in obsessive-compulsive disorder (OCD): An international collaboration. Compr Psychiatry
+2017;76:79–86.
+[DOI] [PubMed] [Google Scholar]
+6.de Mathis MA, Diniz JB, Hounie AG, et al.
+Trajectory in obsessive-compulsive disorder comorbidities. Eur Neuropsychopharmacol
+2010;23(7):594–601. [DOI] [PubMed] [Google Scholar]
+7.Pallanti S, Grassi G, Sarrecchia ED, et al.
+Obsessive-compulsive disorder comorbidity: Clinical assessment and therapeutic implications. Front Psychiatry
+2011; 2:1–11.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+8.Goodman WK, Price LH, Rasmussen SA, et al.
+The Yale-Brown Obsessive Compulsive Scale: I. development, use, and reliability. Arch Gen Psychiatry
+1989;46:1006–11.
+[DOI] [PubMed] [Google Scholar]
+9.Storch EA, Rasmussen SA, Price LH, et al.
+Development and psychometric evaluation of the Yale-Brown Obsessive Compulsive Scale-Second Edition. Psychol Assess
+2010;22:223–32.
+[DOI] [PubMed] [Google Scholar]
+10.Storch EA, McGuire JF, Wu MS, et al.
+Development and psychometric evaluation of the Children’s Yale-Brown Obsessive-Compulsive Scale Second Edition. J Am Acad Child Adolesc Psychiatry
+2019;58(1):92–8.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+11.Asnaani A, Kaczkurkin AN, Alpert E, et al.
+The effect of treatment on quality of life and functioning in OCD. Compr Psychiatry
+2017;73:7–14.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+12.Hollander E, Stein DJ, Fineberg NA, et al.
+Quality of life outcomes in patients with obsessive-compulsive disorder: Relationship to treatment response and symptom relapse. J Clin Psychiatry
+2010;71(6):784–92.
+[DOI] [PubMed] [Google Scholar]
+13.Huppert JD, Simpson HB, Nissenson KJ, et al.
+Quality of life and functional impairment in obsessive-compulsive disorder: a comparison of patients with and without comorbidity, patients in remission, and healthy controls. Depress Anxiety
+2009;26(1):39–45.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+14.Rachman S
+A cognitive theory of obsessions: Elaborations. Behav Res Ther
+1998;36(4):385–401.
+[DOI] [PubMed] [Google Scholar]
+15.Foa EB, McLean CP. (2016). The efficacy of exposure therapy for anxiety-related disorders and its underlying mechanisms: The case of OCD and PTSD. Annu Rev Clin Psychol 2016;12:1–18. [DOI] [PubMed] [Google Scholar]
+16.Craske M, Liao B, Brown L, et al.
+The role of inhibition in exposure therapy. J Exp Psychopathol
+2012;3(3):322–45. [Google Scholar]
+17.Beck AT, Rush A, Shaw B, et al.
+Cognitive therapy of depression. New York: The Guilford Press; 1979. [Google Scholar]
+18.Berman NC, Schwartz R, Park J. Psychological models and treatments of OCD for adults. In: Abramowitz JS, McKay D, Storch EA, editors. The wiley handbook of obsessive compulsive disorders. John Wiley & Sons; 2017. Incorporated. [Google Scholar]
+19.Radomsky AS, Alcolado GM, Abramowitz JS, et al.
+Part 1- you can run but you can’t hide: Intrusive thoughts on six continents. J Obsessive Compuls Relat Disord
+2014;3(3):269–79. [Google Scholar]
+20.Salkovskis PM. Obsessional-compulsive problems: A cognitive-behavioural analysis. Behav Res Ther
+1985;23:571–84.
+[DOI] [PubMed] [Google Scholar]
+21.Wilhelm S, Steketee GS. Cognitive therapy for obsessive compulsive disorder: a guide for professionals. Oakland, CA: New Harbinger; 2006. [Google Scholar]
+22.McKay D, Abramowitz JS, Storch EA. Mechanisms of harmful treatments for obsessive-compulsive disorder. Clin Psychol Sci Pract
+2021;28(1):52–9. [Google Scholar]
+23.Foa EB, Yadin E, Lichner TK. Exposure and response (ritual) prevention for obsessive-compulsive disorder. 2nd Edition. Oxford University Press; 2012. [Google Scholar]
+24.Franklin ME, Foa EB. Obsessive-compulsive disorder. In: Barlow DH, editor. Clinical handbook of psychological disorders. Sixth Edition. Guilford Press; 2021. p. [Google Scholar]
+25.Foa EB, Kozak MJ. Emotional processing of fear: Exposure to corrective information. Psychol Bull
+1986;99(1):20–35.
+[PubMed] [Google Scholar]
+26.Craske MG, Kircanski K, Zelikowsky M, et al.
+Optimizing inhibitory learning during exposure therapy. Behav Res Ther
+2008;46(1):5–27.
+[DOI] [PubMed] [Google Scholar]
+27.Abramowitz JS, Arch JJ. Strategies for improving long-term outcomes in cognitive behavioral therapy for obsessive-compulsive disorder: Insights from learning theory. Cogn Behav Pract
+2014;21(1):30–1. [Google Scholar]
+28.Simpson HB, Foa EB, Liebowitz MR, et al.
+Cognitive-behavioral therapy vs. risperidone for augmenting serotonin reuptake inhibitors in obsessive-compulsive disorder. JAMA Psychiatry
+2013;70(11):1190–9.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+29.Foa EB, Steketee G, Grayson JB. Imaginal and in vivo exposure: A comparison with obsessive-compulsive checkers. Behav Ther
+1985;16(3):292–302. [Google Scholar]
+30.Dèttore D, Pozza A, Andersson G. Efficacy of technology-delivered cognitive behavioural therapy for OCD versus control conditions, and in comparison with therapist administered CBT: Meta-analysis of randomized controlled trials. Cogn Behav Ther
+2015;44(3):190–211.
+[DOI] [PubMed] [Google Scholar]
+31.Foa EB, Liebowitz MR, Kozak MJ, et al.
+Randomized, placebo-controlled trial of exposure and ritual prevention, clomipramine, and their combination in the treatment of obsessive-compulsive disorder. AJP
+2005;162(1):151–61. [DOI] [PubMed] [Google Scholar]
+32.Freeman J, Sapyta J, Garcia A, et al.
+Family-based treatment of early childhood obsessive-compulsive disorder: The pediatric obsessive-compulsive disorder treatment study for young children (POTS Jr) - A randomized clinical trial. JAMA Psychiatry
+2014;71(6):689–98.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+33.The Pediatric OCD Treatment Study (POTS) Team. Cognitive-behavior therapy, sertraline, and their combination for children and adolescents with obsessive-compulsive disorder – The pediatric OCD treatment study (POTS) randomized controlled trial. JAMA Psychiatry
+2004;292(16):1969–76. [DOI] [PubMed] [Google Scholar]
+34.Ost LG, Havnen A, Hansen B, et al.
+Cognitive behavioral treatments of obsessive-compulsive disorder. A systematic review and meta-analysis of studies published 1993–2014. Clin Psychol Rev
+2015;40:156–69.
+[DOI] [PubMed] [Google Scholar]
+35.McGuire JF, Piacentini J, Lewin AB, et al.
+A meta-analysis of cognitive behavior therapy and medication for child obsessive-compulsive disorder: Moderators of treatment efficacy, response, and remission. Depress Anxiety
+2015;32(8):580–93.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+36.Ost LG, Riise EN, Wergeland GJ, et al.
+Cognitive behavioral and pharmacological treatments of OCD in children: A systematic review and meta-analysis. J Anxiety Disord
+2016;43:58–69.
+[DOI] [PubMed] [Google Scholar]
+37.Ong CW, Clyde JW, Bluett EJ, et al.
+Dropout rates in exposure with response prevention for obsessive-compulsive disorder: What do the data really say?
+J Anxiety Disord
+2016.
+May;40:8–17.
+[DOI] [PubMed] [Google Scholar]
+38.Freeman J, Benito K, Herren J, et al.
+Evidence base update of psychosocial treatments for pediatric obsessive-compulsive disorder: Evaluating, improving, and transporting what works. J Clin Child Adolesc Psychol
+2018;47(5):669–98.
+[DOI] [PubMed] [Google Scholar]
+39.Geller DA, March J. Practice parameter for the assessment and treatment of children and adolescents with obsessive-compulsive disorder. J Am Acad Child Adolesc Psychiatry
+2012;51(1):98–113.
+[DOI] [PubMed] [Google Scholar]
+40.Johnco C, McGuire JF, Roper T, et al.
+A meta-analysis of dropout rates from exposure with response prevention and pharmacological treatment for youth with obsessive compulsive disorder. Depress Anxiety
+2020.
+May;37(5):407–17.
+[DOI] [PubMed] [Google Scholar]
+41.Tolin D, Melnyk T, Marx B. Exposure and response prevention for obsessive-compulsive disorder: empirically supported treatment report. 2015. doi: 10.1037/e675592012-001. [DOI] [Google Scholar]
+42.Foa EB, Simpson HB, Gallagher T, et al.
+Maintenance of wellness in patients with obsessive-compulsive disorder who discontinue medication after exposure/response prevention augmentation: A randomized clinical trial. JAMA Psychiatry
+2022;79(3):193–200.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+43.Southham-Gerow MA, Prinstein MJ. Evidence base updates: The evolution of the evaluation of psychological treatments for children and adolescents. J Clin Child Adolesc Psychol
+2014;43(1):1–6.
+[DOI] [PubMed] [Google Scholar]
+44.Koran LM, Simpson HB. Guideline watch (march 2013): practice guideline for the treatment of patients with obsessive-compulsive disorder. American Psychiatric Association; 2013. 10.1176/appibooks.9780890423363.149114. [DOI] [PubMed] [Google Scholar]
+45.Mancebo MC, Steketee G, Muroff J, et al.
+Behavioral therapy teams for adults with OCD in a community mental health center: An open trial. J Obsessive Compuls Relat Disord
+2017;13:18–23. [Google Scholar]
+46.McGuire JF, Storch EA. An inhibitory learning approach to cognitive-behavioral therapy for children and adolescents. Cogn Behav Pract
+2019;26(1):214–24.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+47.Tolin DF, Maltby N, Diefenbach GJ, et al.
+Cognitive-behavioral therapy for medication nonresponders with obsessive-compulsive disorder: A wait-list-controlled open trial. J Clin Psychiatry
+2004;65(7):922–31.
+[DOI] [PubMed] [Google Scholar]
+48.Foa EB, McNally RJ. Mechanisms of change in exposure therapy. In: Rapee RM, editor. Current controversies in the anxiety disorders. New York: Guilford; 1996. p. 329–43. [Google Scholar]
+49.Keleher J, Jassi A, Krebs G. Clinician-reported barriers to using exposure with response prevention in the treatment of pediatric obsessive-compulsive disorder. J Obsessive Compuls Relat Disord
+2020;24. 10.1016/j.jocrd.2019.100498. [DOI] [PMC free article] [PubMed] [Google Scholar]
+50.Deacon BJ, Farrell NR, Kemp JJ, et al.
+Assessing therapist reservations about exposure therapy for anxiety disorders: The Therapist Beliefs about Exposure Scale. J Anxiety Disord
+2013;27(8):772–80.
+[DOI] [PubMed] [Google Scholar]
+51.Schneider SC, Knott L, Cepeda SL, et al.
+Serious negative consequences associated with exposure and response prevention for obsessive-compulsive disorder: A survey of therapist attitudes and experiences. Depress Anxiety
+2020; 37(5):418–28.
+[DOI] [PubMed] [Google Scholar]
+52.Moritz S, Kulz A, Voderholzer U, et al.
+Phobie a deux” and other reasons why clinicians do not apply exposure with response prevention in patients with obsessive-compulsive disorder. Cogn Behav Ther
+2019;48(2):162–76.
+[DOI] [PubMed] [Google Scholar]
+53.Storch EA, Merlo LJ, Larson MJ, et al.
+Impact of comorbidity on cognitive-behavioral therapy response in pediatric obsessive-compulsive disorder. J Am Acad Child Adolesc Psychiatry
+2008;47(5):583–92.
+[DOI] [PubMed] [Google Scholar]
+54.Zandberg LJ, Zang Y, McLean CP, et al.
+Change in obsessive-compulsive symptoms mediates subsequent change in depressive symptoms during exposure and response prevention. Behav Res Ther
+2015;68:76–81.
+[DOI] [PMC free article] [PubMed] [Google Scholar]
+55.Bakhshaie J, Geller DA, Wilhelm S, et al.
+Temporal precedence of the change in obsessive-compulsive symptoms and change in depressive symptoms during exposure and response prevention for pediatric obsessive-compulsive disorders. Behav Res Ther
+2020;133:103697.
+[DOI] [PMC free article] [PubMed] [Google Scholar]

@@ -8,7 +8,7 @@ export function safetyCheck(question){
  const otherDanger=/(i (?:am going to|plan to|will|intend to) (?:kill|hurt|harm|attack) (?:someone|him|her|them|another person)|overdos(?:ed|ing)|immediate danger|medical emergency|can.t stay safe)/i.test(question);
  return {relevant:relevant||otherDanger,immediate:immediate||otherDanger};
 }
-export function requestBody(question,history,store,model){const safety=safetyCheck(question);return {model,store:false,instructions:SYSTEM_INSTRUCTIONS,input:JSON.stringify({question,previousQuestions:history}),tools:[{type:'file_search',vector_store_ids:[store],max_num_results:10,filters:safety.relevant?{type:'in',key:'retrieval_group',value:['general','safety']}:{type:'eq',key:'retrieval_group',value:'general'}}],tool_choice:'required',include:['file_search_call.results'],max_output_tokens:2200};}
+export function requestBody(question,history,store,model,audience='caregiver'){const safety=safetyCheck(question);return {model,store:false,instructions:SYSTEM_INSTRUCTIONS,input:JSON.stringify({question,previousQuestions:history,audience}),tools:[{type:'file_search',vector_store_ids:[store],max_num_results:10,filters:safety.relevant?{type:'in',key:'retrieval_group',value:['general','safety']}:{type:'eq',key:'retrieval_group',value:'general'}}],tool_choice:'required',include:['file_search_call.results'],max_output_tokens:2200};}
 export function parseResponse(result){
  if(result.status!=='completed')throw Error('The answer was incomplete. Please try again.');
  const calls=(result.output||[]).filter(x=>x.type==='file_search_call');

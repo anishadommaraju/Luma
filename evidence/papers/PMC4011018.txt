@@ -1,0 +1,155 @@
+Expert Rev Neurother. Author manuscript; available in PMC: 2014 May 6.
+Published in final edited form as: Expert Rev Neurother. 2012 Feb;12(2):229–238. doi: 10.1586/ern.11.200
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+Family Accommodation in Pediatric Obsessive Compulsive Disorder
+Eli R Lebowitz
+Eli R Lebowitz, PhD
+1Eli Lebowitz and Michael Bloch are with the Yale Child Study Center.
+Find articles by Eli R Lebowitz
+1, Michael Bloch
+Michael Bloch, MD
+1Eli Lebowitz and Michael Bloch are with the Yale Child Study Center.
+Find articles by Michael Bloch
+1
+Author information
+Copyright and License information
+1Eli Lebowitz and Michael Bloch are with the Yale Child Study Center.
+✉
+Corresponding Author: Eli Lebowitz Yale Child Study Center 230 S. Frontage Rd New Haven, CT 06520 Tel: 203-785-7905 Fax: 203-737-5104 eli.lebowitz@yale.edu
+PMC Copyright notice
+PMCID: PMC4011018 NIHMSID: NIHMS454626 PMID: 22288678
+The publisher's version of this article is available at Expert Rev Neurother
+Abstract
+Objective
+Family accommodation refers to ways in which family members assist the proband in the performance of rituals, avoidance of anxiety provoking situations, or modification of daily routines to assist a relative with obsessive-compulsive disorder. The purpose of this review was to analyze and integrate the available data on the role of family accommodation in pediatric obsessive compulsive disorder including its prevalence and its relationship the course of the disorder.
+Method
+A search of available peer reviewed English language papers was conducted through PubMed and PsycINFO cross-referencing the keyword OCD, with accommodation, family relations, and parents. Resulting papers were individually evaluated for relevance to the scope of the review.
+Results
+Accommodation is common in pediatric OCD and is strongly associated with symptom severity. Levels of accommodation have been also associated with treatment outcomes for both cognitive behavioral and pharmacological treatment. Significant improvement with treatment in OCD is often associated with reductions in family accommodation..
+Conclusion
+Family accommodation represents important clinical data that is worth measuring, monitoring and tracking in clinical care. Therapies targeting family accommodation may be successful in improving treatment outcomes in pediatric OCD.
+Keywords: Obsessive compulsive disorder, Family accommodation, Childhood and adolescent anxiety disorders, Cognitive behavioral therapy
+Obsessive compulsive disorder affects between 1%-3% of children and adolescents 1 and can cause significant impairment to normal routines and daily functioning. The need to perform compulsive rituals, avoidance of anxiety provoking situations and stimuli and the cognitive resources devoted to obsessive thoughts and worries all contribute to what can be a severe impediment to healthy and age appropriate function and development.
+The effects of obsessive compulsive disorder in children are not limited to the child alone. Parents, siblings and others in the child's environment can all be impacted by the individual child's disorder and their responses to the difficulties may play a role in the course the disorder takes 2, 3 . The bi-directional interactions between parental behavior and the obsessive compulsive disorder of a child have been of interest for many years and various frameworks have been suggested for conceptualizing these relationships including expressed emotion 4, parental psychopathology 5 and various other measures of parent-child relationship style.
+One concept which has gained prominence and garnered particular interest in the past years is that of family accommodation. Accommodation refers to the ways in which relatives, in particular parents, may assist in compulsive rituals, provide reassurance or modify their own routines so as to alleviate or avoid the distress experienced by the obsessive compulsive child. The concept of accommodation and the tools developed to assess it have provided a systematic framework for exploring some of the ways in which parents and other family members can be influenced by the child's disorder. Importantly, evidence has been accumulating which points to the relevance that accommodation by family members has for the course of obsessive compulsive disorder in children. This evidence is becoming increasingly influential in the treatment of childhood OCD as seen by the growing emphasis that is being placed on parent training and on efforts to curtail accommodation.
+In this review we synthesize the findings from studies that have addressed the issue of family accommodation in pediatric OCD including, but not limited to, the context of treatment and outcome studies. We attempt to highlight the most important family and other variable associated with elevated levels of accommodation and to address the relationships that are being established between accommodation and symptom severity, impairment and treatment outcomes. Finally we look at the ways in which the issue of family accommodation is being integrated into treatment programs for OCD in childhood. It is our hope that this review sheds light on this field and, by pointing to some of the major gaps that remain, stimulates further study.
+Method
+To identify relevant published studies a literature search was conducted using PsycINFO and PubMed covering the years between 1967 and December of 2010. The key term obsessive compulsive disorder (and its subheadings such as OCD) was paired with family-related terms that included all the subheadings of “family relations”, “accommodation” and “parents”. Limits imposed were for English language and peer-reviewed journals. No additional limits were set and the resulting 641 studies were reviewed individually for relevance to the scope of this review. After locating relevant abstracts the full articles were examined for findings that contributed to the understanding of family accommodation and its role in pediatric obsessive compulsive disorder. The goal of this review was not to discuss every datum explicitly but to synthesize the available accumulated knowledge on this topic. As such a degree of personal judgment was used in the exclusion or inclusion of specific studies.
+Definition and Epidemiology
+Family accommodation is not directly assessed in the majority of studies that investigate childhood obsessive compulsive disorder. Practice parameters for the assessment of OCD in children encourage the systematic examination of this issue 6 but the majority of studies in which pediatric OCD is a major focus do not report specific levels of accommodation by parents. The Family Accommodation Scale 7, 8, is the only published tool to explicitly and systematically assess the presence and level of accommodation, although other less structured scales have been used 9. The FAS is a 13 item scale that has been used both as a parent report measure and as a clinician rated scale. It has been shown to have good internal consistency, discriminant validity and when clinician rated, inter-rater reliability 8, 10. In its most widely used version the FAS presents parents or other caretakers with items to be rated on a five point Likert-type scale which probe the extent of their accommodating behaviors to the patients disorder and the degree of distress or other consequences that result from accommodation or refusal to accommodate. Optionally, the items may be tied to specific obsessive compulsive symptoms that the caretakers have identified as being typical of their charge. Factor analysis of the FAS has pointed toward a three factor structure including modification of routines or activities, distress and consequence of accommodation or refusal to accommodate and participation in rituals 11.
+When accommodation has been recorded it has generally been very prevalent. In a sample of 65 children seeking treatment for OCD, 46% of parents reported participating in rituals on a daily basis and an even higher percentage reported providing daily reassurance. Virtually all parents reported that they engaged in at least some accommodation 12. Other studies have reported accommodation as the sum of scores on the 13 item FAS. Mean scores for caretakers of obsessive compulsive children have generally been between 20 and 30, out of a maximum possible 52 13-15. A study of sibling accommodation using an adaptation of the FAS also found accommodation to be highly prevalent 16.
+Correlation of Family Accommodation and OCD symptom severity
+There is some evidence to support the hypothesis that higher levels of family accommodation are related to more severe symptoms among children with OCD. In a study of 30 youth with obsessive compulsive disorder 17 family accommodation as measured by FAS was found to be significantly related to OCD symptom severity based on total CYBOCS 18 score, a relationship replicated in other larger samples 12, 19. Studies of the relatives of adult patients with OCD have pointed to less clear relationships between levels of family accommodation and CYBOCS symptom severity raising the possibility that severity and accommodation might be more strongly related in younger patient populations and indicating further research 11, 20.
+In addition to symptom severity higher levels of accommodation have also been tied to increased impairment related to the pediatric obsessive compulsive disorder and to higher rates of related symptomatology. In a study of children with children with OCD and their families family accommodation was linked to more severe functional impairment and increased internalizing and externalizing symptoms17.
+OCD creates considerable burden for the parents and relatives of those who suffer from it 21, 22. The relationship between burden on family members and levels of accommodation is probably complex as parents accommodate in part in order to lessen the burden but higher levels of accommodation have been tied to increased burden for relatives 23.
+Relationship between Family Accommodation and Treatment Outcomes
+Of particular importance is the relationship between accommodation of a child's obsessive compulsive symptoms and the child's ability to benefit from treatment. Overall, cognitive behavioral treatments as well as psychopharmacology have been shown to be effective for a majority of obsessive compulsive children and are considered first line treatments for the disorder 6, but a substantial number do not improve, leaving open the question of factors that might limit the treatments efficacy, including family accommodation 24-26.
+Few studies have statistically tested family accommodation as a predictor of treatment outcomes for pediatric OCD. An exception is the recent report 25 of outcome predictors in the POTS study of behavioral and pharmacological treatment for the disorder 24. The authors report that although broad measures of family function were not associated with outcome, family accommodation was and the relationship held across treatment modalities (medication, CBT or both) such that higher levels of accommodation were linked to poorer outcomes. Other studies have found evidence for more general measures of accommodation as well. For instance, in the 18 month follow up study of a randomized control trial of CBT elevated family dysfunction (as measured with the Family Assessment Device) was found to predict poorer long term treatment outcome 27. In a case control study of adults that matched refractory versus responding patients who had undergone treatment for OCD family accommodation was found to be one of three variables that was significantly related to refractory OCD (along with sexual obsessions and low SES) 28. Table 1 summarizes findings linking accommodation to treatment outcomes. Complimenting the link between family accommodation and treatment outcomes are data that demonstrate lower levels of accommodation after behavioral treatment for OCD 15, 29 and an association between lowered accommodation and better treatment outcomes 14.
+Table 1.
+Family accommodation and treatment outcomes in pediatric and adult studies
+Study
+Age
+Method
+Treatment
+Findings
+Merlo et al.14
+6-18
+Randomized trial
+CBT
+• Increased Family accommodation associated with more severe OCD• Decreased accommodation (at baseline?) associated with improved response to treatment
+Garcia et al.25 (based on POTS-I24)
+7-17
+Randomized controlled trial
+CBT and/or SRT
+• Increased levels of family accommodation at baseline associated with worse treatment response (CBT, SRI or Combination)
+Storch et al. 15
+7-19
+Open trial
+FCBT
+• Accommodation reduced after treatment
+Storch et al.35
+7-17
+Randomized trial
+FCBT
+• Accommodation reduced after treatment
+Barrett et al.16
+7-17
+Randomized controlled trial
+FCBT
+• Sibling accommodation reduced after treatment
+Waters et al.29
+10-14
+Pilot study
+FCBT
+• Accommodation reduced after treatment
+Ferrao et al.28
+Adults
+Case control study
+CBT and medication
+• Accommodation associated with treatment-refractoriness
+Ferrao et al.28
+Adults
+Case control study
+CBT and medication
+• Accommodation associated with treatment-refractoriness
+Open in a new tab
+Note: CBT = Cognitive behavioral therapy; SRT = Sertraline; FCBT = family based cognitive behavioral therapy
+Integrating Accommodation in Treatment Goals
+There is growing recognition of the need to integrate family and caregivers into the treatment of childhood obsessive compulsive disorder as evidenced by recent reviews have called for more family involvement in the treatment and the development of treatments specifically aimed at addressing this component30-32.
+A number of studies and manuals have been published that incorporate family and parent focused work into the treatment of pediatric OCD. In a recent report on preliminary findings for family based treatment of early onset OCD young children were shown to benefit from treatment that placed a focus on family context and directly addressed parental accommodation 33, 34. Another study reported on family based CBT for pediatric in children in the 7-17 age range 35. At least one parent was included in all sessions and in addition to acting as a “coach” for the child's exposures the parents were trained in minimizing accommodation to the obsessive compulsive symptoms. Outcome measures showed improvement in OCD symptoms and a reduction in family accommodation which was somewhat diminished by three month follow up.
+Despite the early evidence showing beneficial effects of family based CBT for pediatric obsessive compulsive disorder there is as yet no substantial evidence to show that family oriented treatments are more effective than individual treatments that lack a significant family component. More research into this is necessary, directly comparing the two approaches, before a conclusion may be reached. Similar comparisons in other anxiety disorders have produced mixed results although there is at least some evidence to support the hypothesis that CBT with a family component is superior to individual child-CBT in the treatment of pediatric anxiety 36, 37.
+Discussion
+Significant family accommodation is present in a substantial portion of families struggling with pediatric OCD. Level of family accommodation is associated with increased OCD symptom severity in the proband. Family accommodation has been demonstrated to have an affect on treatment outcome (especially behavioral therapies) in children and adults with OCD. Higher levels of family accommodation have been associated with worse treatment outcomes in repeated studies.
+Family accommodation appears to be a valuable construct that is worth measuring and tracking in both a clinical and research settings. Although not proven definitively, lessening family accommodation and teaching parents and siblings to target OCD symptoms in a therapeutic manner may lead to greater symptom improvement in the proband and better family functioning.
+Further research needs to examine whether family accommodation is a moderator or a mediator of treatment outcomes. If severe family accommodation identifies patients who will be refractory to currently available treatments or whether interventions targeting family accommodation will improve outcome. Research needs to develop treatments that target family accommodation and determine whether these treatments are effective at reducing OCD symptom severity and improving functioning and quality of life in the proband or the family.
+Also, underresearched is the relationship of family accommodation to other anxiety disorders and to comorbidities in OCD. Clinical experience suggests that family accommodation is present but not unique to OCD i.e. a parent may not drive over bridges if her child is phobic. Further research is needed to examine the prevalence and impact of family accommodation in other anxiety disorders. Further research is also warranted to investigate the kinds of disruptive or aggressive behaviors that might be at play and their relationship to the potential link between accommodation and externalizing comorbid diagnoses.
+The role of parental psychopathology is another area that needs further investigation. Substantial evidence points to elevated rates of OCD and subclinical OCD symptomatology, as well as other anxiety disorders, among the relatives of individuals with the disorder 38. Specific characteristics, such as obsessive beliefs, have also been found to be more common in relatives of OCD patients compared to controls 39. Although there is some evidence to support the idea that parental OCD predicts accommodation to the disorder in a child 12 there is not yet a clear picture of the associations between parental anxiety and accommodation.
+Family accommodation also deserves to be researched across culture. Parental styles and beliefs vary widely in different location and could lead to substantially different responses to obsessive compulsive symptoms in a child. OCD is prevalent in every society and the burden it causes has been shown to exist cross culturally. Family accommodation has been explored primarily in American and European western societies and it is unclear to what extent cultural factors might impact accommodation in other regions of the world.
+Conclusion
+Family accommodation is prevalent in pediatric OCD. Pediatric OCD affects not only probands but parents and siblings. Family accommodation also consistently correlates with OCD severity. Family accommodation represents important clinical data that is worth measuring, monitoring and tracking in clinical care. Future research needs to clarify the relationship of family accommodation with comorbid disruptive behaviors, parental psychopathology and parenting styles. We also need to develop treatments that target family accommodation and determine whether they can improve outcomes. Although the study of family accommodation has been primarily focused in OCD, family accommodation likely remains a formidable issue for many children with other anxiety disorders as well.
+Figure 1.
+Open in a new tab
+Family Accommodation in OCD
+References
+1.Douglass HM, Moffitt TE, Dar R, McGee R. Obsessive-compulsive disorder in a birth cohort of 18-year-olds: Prevalence and predictors. Journal of the American Academy of Child & Adolescent Psychiatry. 1995;34(11):1424–1431. doi: 10.1097/00004583-199511000-00008. [DOI] [PubMed] [Google Scholar]
+2.Storch EA, Lehmkuhl H, Pence SL, Jr., et al. Parental experiences of having a child with obsessive-compulsive disorder: Associations with clinical characteristics and caregiver adjustment. Journal of Child and Family Studies. 2009;18(3) [Google Scholar]
+3.Derisley J, Libby S, Clark S, Reynolds S. Mental health, coping and family-functioning in parents of young people with obsessive-compulsive disorder and with anxiety disorders. British Journal of Clinical Psychology. 2005 Sep;44(3):439–444. doi: 10.1348/014466505X29152. [DOI] [PubMed] [Google Scholar]
+4.Hibbs ED, Hamburger SD, Lenane M, et al. Determinants of expressed emotion in families of disturbed and normal children. J Child Psychol Psychiatry. 1991 Jul;32(5):757–770. doi: 10.1111/j.1469-7610.1991.tb01900.x. [DOI] [PubMed] [Google Scholar]
+5.Challacombe F, Salkovskis P. A preliminary investigation of the impact of maternal obsessive-compulsive disorder and panic disorder on parenting and children. Journal of anxiety disorders. 2009 Oct;23(7):848–857. doi: 10.1016/j.janxdis.2009.04.002. [DOI] [PubMed] [Google Scholar]
+6.King RA, Leonard H, March J. Practice parameters for the assessment and treatment of children and adolescents with obsessive-compulsive disorder. Journal of the American Academy of Child & Adolescent Psychiatry. 1998 Oct;37(10, Suppl):27S–45S. doi: 10.1097/00004583-199810001-00003. [DOI] [PubMed] [Google Scholar]
+7.Calvocoressi L, Lewis B, Harris M, Trufan SJ, et al. Family accommodation in obsessive-compulsive disorder. The American Journal of Psychiatry. 1995 Mar;152(3):441–443. doi: 10.1176/ajp.152.3.441. [DOI] [PubMed] [Google Scholar]
+8.Calvocoressi L, Mazure CM, Kasl SV, et al. Family accommodation of obsessive-compulsive symptoms: Instrument development and assessment of family behavior. Journal of Nervous and Mental Disease. 1999 Oct;187(10):636–642. doi: 10.1097/00005053-199910000-00008. [DOI] [PubMed] [Google Scholar]
+9.Shafran R, Ralph J, Tallis F. Obsessive-compulsive symptoms and the family. Bulletin of the Menninger Clinic. 1995;59(4):472–479. Fal. [PubMed] [Google Scholar]
+10.Geffken GR, Storch EA, Duke DC, Monaco L, Lewin AB, Goodman WK. Hope and coping in family members of patients with obsessive-compulsive disorder. Journal of anxiety disorders. 2006;20(5):614–629. doi: 10.1016/j.janxdis.2005.07.001. [DOI] [PubMed] [Google Scholar]
+11.Albert U, Bogetto F, Maina G, Saracco P, Brunatto C, Mataix-Cols D. Family accommodation in obsessive-compulsive disorder: Relation to symptom dimensions, clinical and family characteristics. Psychiatry Research. 2010 Sep;179(2):204–211. doi: 10.1016/j.psychres.2009.06.008. [DOI] [PubMed] [Google Scholar]
+12.Peris TS, Bergman R, Langley A, Chang S, McCracken JT, Piacentini J. Correlates of accommodation of pediatric obsessive-compulsive disorder: Parent, child, and family characteristics. Journal of the American Academy of Child & Adolescent Psychiatry. 2008 Oct;47(10):1173–1181. doi: 10.1097/CHI.0b013e3181825a91. [DOI] [PMC free article] [PubMed] [Google Scholar]
+13.Storch EA, Milsom VA, Merlo LJ, et al. Insight in pediatric obsessive-compulsive disorder: Associations with clinical presentation. Psychiatry Research. 2008 Aug;160(2):212–220. doi: 10.1016/j.psychres.2007.07.005. [DOI] [PubMed] [Google Scholar]
+14.Merlo LJ, Lehmkuhl HD, Geffken GR, Storch EA. Decreased family accommodation associated with improved therapy outcome in pediatric obsessive-compulsive disorder. Journal of consulting and clinical psychology. 2009 Apr;77(2):355–360. doi: 10.1037/a0012652. [DOI] [PMC free article] [PubMed] [Google Scholar]
+15.Storch EA, Lehmkuhl HD, Ricketts E, Geffken GR, Marien W, Murphy TK. An open trial of intensive family based cognitive-behavioral therapy in youth with obsessive-compulsive disorder who are medication partial responders or nonresponders. Journal of Clinical Child and Adolescent Psychology. 2010 Mar;39(2):260–268. doi: 10.1080/15374410903532676. [DOI] [PubMed] [Google Scholar]
+16.Barrett P, Healy-Farrell L, March JS. Cognitive-behavioral family treatment of childhood obsessive-compulsive disorder: A controlled trial. Journal of the American Academy of Child & Adolescent Psychiatry. 2004 Jan;43(1):46–62. doi: 10.1097/00004583-200401000-00014. [DOI] [PubMed] [Google Scholar]
+17.Storch EA, Geffken GR, Merlo LJ, et al. Family accommodation in pediatric obsessive-compulsive disorder. Journal of Clinical Child and Adolescent Psychology. 2007;36(2):207–216. doi: 10.1080/15374410701277929. [DOI] [PubMed] [Google Scholar]
+18.Scahill L, Riddle MA, McSwiggin-Hardin M, et al. Children's Yale-Brown Obsessive Compulsive Scale: reliability and validity. J Am Acad Child Adolesc Psychiatry. 1997 Jun;36(6):844–852. doi: 10.1097/00004583-199706000-00023. [DOI] [PubMed] [Google Scholar]
+19.Storch EA, Larson MJ, Muroff J, et al. Predictors of functional impairment in pediatric obsessive-compulsive disorder. Journal of anxiety disorders. 2010 Mar;24(2):275–283. doi: 10.1016/j.janxdis.2009.12.004. [DOI] [PubMed] [Google Scholar]
+20.Amir N, Freshman M, Foa EB. Family distress and involvement in relatives of obsessive-compulsive disorder patients. Journal of anxiety disorders. 2000 May-Jun;14(3):209–217. doi: 10.1016/s0887-6185(99)00032-8. [DOI] [PubMed] [Google Scholar]
+21.Erol A, Yazici F, Toprak G. Family functioning of patients with an eating disorder compared with that of patients with obsessive compulsive disorder. Comprehensive Psychiatry. 2007 Jan-Feb;48(1):47–50. doi: 10.1016/j.comppsych.2006.05.004. [DOI] [PubMed] [Google Scholar]
+22.Steketee G. Disability and family burden in obsessive-compulsive disorder. The Canadian Journal of Psychiatry / La Revue canadienne de psychiatrie. 1997 Nov;42(9):919–928. doi: 10.1177/070674379704200902. [DOI] [PubMed] [Google Scholar]
+23.de Abreu Ramos-Cerqueira AT, Torres AR, Torresan RC, Negreiros APM, Vitorino CN. Emotional burden in caregivers of patients with obsessive-compulsive disorder. Depression and anxiety. 2008;25(12):1020–1027. doi: 10.1002/da.20431. [DOI] [PubMed] [Google Scholar]
+24.Pediatric OCDTST Cognitive-behavior therapy, sertraline, and their combination for children and adolescents with obsessive-compulsive disorder: the Pediatric OCD Treatment Study (POTS) randomized controlled trial. JAMA. 2004 Oct 27;292(16):1969–1976. doi: 10.1001/jama.292.16.1969. [DOI] [PubMed] [Google Scholar]
+25.Garcia A, Sapyta J, Moore P, et al. Predictors and moderators of treatment outcome in the Pediatric Obsessive Compulsive Treatment Study (POTS I). Journal of the American Academy of Child Adolescent Psychiatry. 2010;49(10):1024–1033. doi: 10.1016/j.jaac.2010.06.013. [DOI] [PMC free article] [PubMed] [Google Scholar]
+26.Piacentini J, Bergman RL, Jacobs C, McCracken JT, Kretchman J. Open trial of cognitive behavior therapy for childhood obsessive-compulsive disorder. Journal of anxiety disorders. 2002;16(2):207–219. doi: 10.1016/s0887-6185(02)00096-8. [DOI] [PubMed] [Google Scholar]
+27.Barrett P, Farrell L, Dadds M, Boulter N. Cognitive-Behavioral Family Treatment of Childhood Obsessive-Compulsive Disorder: Long-Term Follow-up and Predictors of Outcome. Journal of the American Academy of Child & Adolescent Psychiatry. 2005 Oct;44(10):1005–1014. doi: 10.1097/01.chi.0000172555.26349.94. [DOI] [PubMed] [Google Scholar]
+28.Ferrao YA, Shavitt RG, Bedin NR, et al. Clinical features associated to refractory obsessive-compulsive disorder. Journal of Affective Disorders. 2006 Aug;94(1-3):199–209. doi: 10.1016/j.jad.2006.04.019. [DOI] [PubMed] [Google Scholar]
+29.Waters TL, Barrett PM, March JS. Cognitive-behavioral family treatment of childhood obsessive-compulsive disorder: Preliminary findings. American Journal of Psychotherapy. 2001;55(3):372–387. doi: 10.1176/appi.psychotherapy.2001.55.3.372. [DOI] [PubMed] [Google Scholar]
+30.Maina G, Saracco P, Albert U. Family-focused treatments for obsessive-compulsive disorder. Clinical Neuropsychiatry: Journal of Treatment Evaluation. 2006 Dec;3(6):382–390. [Google Scholar]
+31.Steketee G, Van Noppen B. Family Approaches to Treatment for Obsessive Compulsive Disorder. Journal of Family Psychotherapy. 2003;14(4):55–71. doi: 10.1590/s1516-44462003000100009. [DOI] [PubMed] [Google Scholar]
+32.Choate-Summers ML, Freeman JB, Garcia AM, Coyne L, Przeworski A, Leonard HL. Clinical considerations when tailoring cognitive behavioral treatment for young children with obsessive compulsive disorder. Education & Treatment of Children. 2008 Aug;31(3):395–416. [Google Scholar]
+33.Freeman JB, Garcia AM, Coyne L, et al. Early childhood OCD: Preliminary findings from a family-based cognitive-behavioral approach. Journal of the American Academy of Child & Adolescent Psychiatry. 2008 May;47(5):593–602. doi: 10.1097/CHI.0b013e31816765f9. [DOI] [PMC free article] [PubMed] [Google Scholar]
+34.Freeman JB, Garcia AM, Fucci C, Karitani M, Miller L, Leonard HL. Family-based treatment of early-onset obsessive-compulsive disorder. Journal of child and adolescent psychopharmacology. 2003 Jul;13(2,Suppl):S71–S80. doi: 10.1089/104454603322126368. [DOI] [PubMed] [Google Scholar]
+35.Storch EA, Geffken GR, Merlo LJ, et al. Family-based cognitive-behavioral therapy for pediatric obsessive-compulsive disorder: Comparison of intensive and weekly approaches. Journal of the American Academy of Child & Adolescent Psychiatry. 2007 Apr;46(4):469–478. doi: 10.1097/chi.0b013e31803062e7. [DOI] [PubMed] [Google Scholar]
+36.Barrett PM, Dadds MR, Rapee RM. Family treatment of childhood anxiety: a controlled trial. J Consult Clin Psychol. 1996 Apr;64(2):333–342. doi: 10.1037//0022-006x.64.2.333. [DOI] [PubMed] [Google Scholar]
+37.Creswell C, Cartwright-Hatton S. Family treatment of child anxiety: outcomes, limitations and future directions. Clin Child Fam Psychol Rev. 2007 Sep;10(3):232–252. doi: 10.1007/s10567-007-0019-3. [DOI] [PubMed] [Google Scholar]
+38.Arnold PD, Zai G, Richter MA. Genetics of anxiety disorders. Curr Psychiatry Rep. 2004 Aug;6(4):243–254. doi: 10.1007/s11920-004-0073-1. [DOI] [PubMed] [Google Scholar]
+39.Rector NA, Cassin SE, Richter MA, Burroughs E. Obsessive beliefs in first-degree relatives of patients with OCD: A test of the cognitive vulnerability model. Journal of anxiety disorders. 2009 Jan;23(1):145–149. doi: 10.1016/j.janxdis.2008.06.001. [DOI] [PubMed] [Google Scholar]

@@ -21,6 +21,71 @@ export const questions=[
  {id:'impact_avoidance',text:'How often do you avoid situations, people, objects, places, or activities because they might trigger these thoughts or behaviors?',options:frequency},
 ] as const;
 export type QuestionId=typeof questions[number]['id'];
+export type ScreeningAudience='kid'|'teen'|'caregiver';
+const questionText:Record<ScreeningAudience,Record<QuestionId,string>>={
+ kid:{
+  contamination_worry:'In the past 30 days, did you get worries about germs, dirt, sickness, or something not feeling safe?',
+  contamination_ritual:'Did you feel like you had to wash, clean, change clothes, or stay away from something so you could feel safe or clean enough?',
+  contamination_persistence:'After you cleaned or stayed away from something, did the worry come back?',
+  checking_doubt:'Did you keep worrying that you made a mistake, forgot something, or might have caused something bad to happen?',
+  checking_ritual:'Did you feel like you had to check, do something again, ask someone if things were okay, or go over it in your mind?',
+  checking_persistence:'After checking or asking someone, did the worry come back?',
+  intrusive_thoughts:'Did unwanted or scary thoughts, pictures in your mind, or feelings pop up even though you did not want them?',
+  intrusive_neutralizing:'Did you feel like you had to think, say, or do something to make an unwanted thought feel better or go away?',
+  intrusive_avoidance:'Did you stay away from people, places, or activities because you were worried an unwanted thought might show up?',
+  symmetry_need:'Did you feel like things had to be lined up, counted, repeated, or done in a certain way?',
+  symmetry_discomfort:'Did it bother you when something did not feel “just right” or finished?',
+  symmetry_ritual:'Did you repeat, arrange, count, or redo something until it felt right?',
+  impact_time:'On a usual day, how much time did these worries or repeated actions take?',
+  impact_distress:'How upset, scared, guilty, frustrated, or uncomfortable did these experiences make you feel?',
+  impact_interference:'How much did these experiences get in the way of school, home, friends, play, sleep, or things you wanted to do?',
+  impact_control:'When you tried to move on without checking, repeating, asking, or doing the action, how hard was it?',
+  impact_avoidance:'How often did you stay away from people, places, things, or activities because they might bring on the worry or action?',
+ },
+ teen:{
+  contamination_worry:'In the past 30 days, did you have unwanted worries that you, another person, or an object might be contaminated, dirty, or unsafe?',
+  contamination_ritual:'Did you feel driven to wash, clean, disinfect, change clothes, or avoid touching something to feel safe or “clean enough”?',
+  contamination_persistence:'Even after cleaning or avoiding something, did the contamination worry or feeling tend to return?',
+  checking_doubt:'Did you have repeated doubts that you made a mistake, forgot something important, or accidentally caused harm?',
+  checking_ritual:'Did you feel driven to check, repeat an action, ask for reassurance, or mentally review what happened?',
+  checking_persistence:'Even after checking or getting reassurance, did the doubt tend to return?',
+  intrusive_thoughts:'Did you experience unwanted thoughts, images, or urges that felt disturbing, upsetting, or unlike who you are?',
+  intrusive_neutralizing:'Did you feel driven to do something mentally or physically to cancel, replace, or get reassurance about these thoughts?',
+  intrusive_avoidance:'Did you avoid people, places, situations, or information because you feared having these thoughts or worried about what they meant?',
+  symmetry_need:'Did you feel a strong need for things to be arranged, counted, repeated, or done in a particular way?',
+  symmetry_discomfort:'Did you feel uncomfortable, incomplete, or bothered when something did not feel “just right”?',
+  symmetry_ritual:'Did you repeat, rearrange, count, or redo something until it felt right or complete?',
+  impact_time:'On a typical day, how much time did these thoughts, rituals, checking, avoidance, or mental reviewing take?',
+  impact_distress:'How much distress, anxiety, discomfort, guilt, fear, or frustration did these experiences cause?',
+  impact_interference:'How much did these experiences interfere with school, home, friendships, family life, sleep, or activities you wanted to do?',
+  impact_control:'When you tried not to do the ritual, checking, reassurance seeking, or mental action, how difficult was it to move on?',
+  impact_avoidance:'How often did you avoid people, objects, places, situations, or activities because they might trigger these experiences?',
+ },
+ caregiver:{
+  contamination_worry:'In the past 30 days, my child seemed worried that they, another person, or an object might be contaminated, dirty, or unsafe.',
+  contamination_ritual:'My child washed, cleaned, disinfected, changed clothes, or avoided touching something to feel safe or “clean enough.”',
+  contamination_persistence:'Even after cleaning or avoiding something, my child’s contamination worry or discomfort seemed to return.',
+  checking_doubt:'My child expressed repeated doubts about making a mistake, forgetting something important, or accidentally causing harm.',
+  checking_ritual:'My child checked, repeated an action, asked for reassurance, or mentally reviewed what happened.',
+  checking_persistence:'Even after checking or receiving reassurance, my child’s doubt seemed to return.',
+  intrusive_thoughts:'My child told me about, or I noticed signs of, unwanted thoughts, images, or urges that felt disturbing or unlike who they are.',
+  intrusive_neutralizing:'My child appeared driven to think, say, or do something to cancel, replace, or get reassurance about an unwanted thought.',
+  intrusive_avoidance:'My child avoided people, places, situations, or information because of unwanted thoughts or worries about what those thoughts might mean.',
+  symmetry_need:'My child seemed to need things arranged, counted, repeated, or done in a particular way.',
+  symmetry_discomfort:'My child seemed uncomfortable or incomplete when something did not feel “just right.”',
+  symmetry_ritual:'My child repeated, rearranged, counted, or redid something until it felt right or complete.',
+  impact_time:'On a typical day, about how much time did these experiences appear to take for your child?',
+  impact_distress:'How much distress, anxiety, discomfort, guilt, fear, or frustration did these experiences appear to cause your child?',
+  impact_interference:'How much did these experiences interfere with your child’s school, home life, friendships, family life, sleep, or activities?',
+  impact_control:'When your child tried to move on without the behavior, checking, reassurance, or mental action, how difficult did it seem?',
+  impact_avoidance:'How often did your child avoid people, objects, places, situations, or activities because they might trigger these experiences?',
+ }
+};
+export function questionsForAudience(audience:ScreeningAudience){
+ const frequencyOptions=audience==='kid'?['Never','Once in a while','Sometimes','A lot','Almost all the time']:audience==='caregiver'?['Not noticed','Rarely','Sometimes','Often','Very often']:frequency;
+ const impactOptions=audience==='kid'?['Not at all','A little','Some','A lot','A whole lot']:impactScale;
+ return questions.map(q=>{let options:readonly string[]=q.options;if(q.id==='impact_time')options=audience==='kid'?['Almost none — less than 5 minutes','A little — 5 to 15 minutes','Some — 15 minutes to 1 hour','A lot — 1 to 3 hours','A very large amount — more than 3 hours']:q.options;else if(q.id==='impact_distress'||q.id==='impact_interference')options=impactOptions;else if(q.id==='impact_control')options=audience==='kid'?['Not hard','A little hard','Kind of hard','Very hard','Extremely hard']:q.options;else options=frequencyOptions;return {...q,text:questionText[audience][q.id],options}});
+}
 export type ScreeningAnswers=Record<QuestionId,number>;
 export type DraftAnswers=Partial<ScreeningAnswers>;
 export const dimensions: {id:DimensionId;label:string;keys:QuestionId[];description:string;button:string;prompt:string}[]=[

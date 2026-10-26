@@ -1,4 +1,4 @@
-# OCD Compass
+# Luma
 
 React + Vite + TypeScript educational OCD research assistant, with a local Node.js API server and OpenAI Responses API `file_search`.
 
@@ -10,7 +10,7 @@ Requires Node.js 24+ (native TypeScript support for the ingestion script) and pn
 2. Copy `.env.example` to `.env` if it does not exist. Set `OPENAI_API_KEY`, `OPENAI_MODEL`, and (after ingestion) `OPENAI_VECTOR_STORE_ID`. Never use a `VITE_` prefix for secrets.
 3. Place PDFs in the application-root `papers/` folder. Subfolders are supported. The current set includes 19 unique, generated text reading copies; they omit original figures and page layout. Replace with licensed original PDFs when available.
 4. Edit `papers/metadata.json`, keyed by relative filename. Add title, year, topic, evidence_type, retrieval_group (`general` or `safety`), and source_url. Files without a reviewed group are uploaded as `unreviewed` and excluded from chat.
-5. Run `pnpm ingest` (or `node scripts/ingest-papers.ts`). It creates one **OCD Compass Research Library** store or reuses `OPENAI_VECTOR_STORE_ID`, uploads PDFs, waits for processing, and prints the store ID. Put that ID into `.env`.
+5. Run `pnpm ingest` (or `node scripts/ingest-papers.ts`). It creates one **Luma Research Library** store or reuses `OPENAI_VECTOR_STORE_ID`, uploads PDFs, waits for processing, and prints the store ID. Put that ID into `.env`.
 6. Run `pnpm api` in one terminal and `pnpm dev` in another. Open the Vite localhost URL. Restart the API after changing `.env`.
 
 The configured default is `gpt-5.6-luna`. Change it with `OPENAI_MODEL`; there is deliberately no silent fallback. The latest live test was blocked by OpenAI with `credit_balance_exhausted`; API credits must be available before answers can be generated.

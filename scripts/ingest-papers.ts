@@ -13,17 +13,19 @@ async function main(){
  if(!fs.existsSync(dir))throw Error('Create /papers in the application directory and add PDFs.');
  const files=pdfs(dir);if(!files.length)throw Error('No PDFs found in /papers.');
  const metaPath=path.join(dir,'metadata.json');const metadata=fs.existsSync(metaPath)?JSON.parse(fs.readFileSync(metaPath,'utf8')):{};
+ const allowedPopulations=new Set(['pediatric','adolescent','adult','mixed']);
+ for(const file of files){const filename=path.relative(dir,file).replaceAll('\\','/');const meta=metadata[filename];if(!meta)throw Error(`Missing metadata for ${filename}.`);for(const field of ['population','topic','evidence_type','audience','year'])if(!String(meta[field]||'').trim())throw Error(`Missing ${field} metadata for ${filename}.`);if(!allowedPopulations.has(meta.population))throw Error(`Invalid population metadata for ${filename}: ${meta.population}`)}
  let state=fs.existsSync(statePath)?JSON.parse(fs.readFileSync(statePath,'utf8')):{stores:{}};
  let id=process.env.OPENAI_VECTOR_STORE_ID||state.lastVectorStoreId;
  if(id)await api(`/vector_stores/${encodeURIComponent(id)}`);
- else{const store=await api('/vector_stores',{name:'OCD Compass Research Library'});id=store.id;state.lastVectorStoreId=id;writeState(state)}
+ else{const store=await api('/vector_stores',{name:'Luma Research Library'});id=store.id;state.lastVectorStoreId=id;writeState(state)}
  console.log(`OPENAI_VECTOR_STORE_ID=${id}`);state.lastVectorStoreId=id;state.stores[id]??={};writeState(state);
  const attached=[];let after='';do{const page=await api(`/vector_stores/${id}/files?limit=100${after?'&after='+encodeURIComponent(after):''}`);attached.push(...page.data);after=page.has_more?page.last_id:''}while(after);
  const failures=[];
  for(const file of files){const filename=path.relative(dir,file).replaceAll('\\','/');try{
  const bytes=fs.readFileSync(file);if(bytes.subarray(0,5).toString()!=='%PDF-')throw Error('Not a valid PDF header');
  const sha=crypto.createHash('sha256').update(bytes).digest('hex');const meta=metadata[filename]||{};
- const attrs={filename:filename.slice(0,256),title:String(meta.title||path.basename(file,'.pdf')).slice(0,256),year:String(meta.year||'unknown'),topic:String(meta.topic||'unclassified').slice(0,256),evidence_type:String(meta.evidence_type||'unspecified').slice(0,256),retrieval_group:meta.retrieval_group==='safety'?'safety':meta.retrieval_group==='general'?'general':'unreviewed',sha256:sha,source_url:String(meta.source_url||'').slice(0,256)};
+ const attrs={filename:filename.slice(0,256),title:String(meta.title||path.basename(file,'.pdf')).slice(0,256),year:String(meta.year),population:String(meta.population).slice(0,256),topic:String(meta.topic).slice(0,256),evidence_type:String(meta.evidence_type).slice(0,256),audience:String(meta.audience).slice(0,256),retrieval_group:meta.retrieval_group==='safety'?'safety':meta.retrieval_group==='general'?'general':'unreviewed',sha256:sha,source_url:String(meta.source_url||'').slice(0,256)};
  let saved=state.stores[id][sha];let remote=attached.find(f=>f.attributes?.sha256===sha);
  if(remote){saved={fileId:remote.id};state.stores[id][sha]=saved;writeState(state)}
  if(!saved){const form=new FormData();form.append('purpose','assistants');form.append('file',new Blob([bytes],{type:'application/pdf'}),path.basename(file));const upload=await api('/files',form);saved={fileId:upload.id};state.stores[id][sha]=saved;writeState(state)}

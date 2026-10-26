@@ -7,6 +7,10 @@ const source=JSON.parse(fs.readFileSync(path.join(root,'papers','metadata.json')
 const safe=Object.fromEntries(Object.entries(source).map(([filename,value])=>[filename,{
   title:value.title,
   year:value.year,
+  population:value.population,
+  topic:value.topic,
+  evidence_type:value.evidence_type,
+  audience:value.audience,
   authors:Array.isArray(value.authors)?value.authors:[],
   citation_author:value.citation_author,
   source_url:value.source_url,

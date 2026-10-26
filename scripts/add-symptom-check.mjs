@@ -1,0 +1,14 @@
+import fs from 'node:fs';
+let s=fs.readFileSync('src/main.tsx','utf8').replace("import React, { useState }", "import React, { useState, useEffect }");s=s.replace("import ResearchChat from './ResearchChat';","import ResearchChat from './ResearchChat';\nimport SymptomCheck from './screening/SymptomCheck';");
+s=s.replace(' const active=topics[topic];',` const [route,setRoute]=useState(window.location.pathname);
+ const [researchPrompt,setResearchPrompt]=useState('');
+ useEffect(()=>{const update=()=>setRoute(window.location.pathname);window.addEventListener('popstate',update);return()=>window.removeEventListener('popstate',update)},[]);
+ const navigate=(path:string)=>{window.history.pushState({},'',path);setRoute(window.location.pathname);window.scrollTo(0,0)};
+ const active=topics[topic];
+ if(route==='/check'||route==='/check/results')return <SymptomCheck path={route} navigate={navigate} onExplore={question=>{setResearchPrompt(question);navigate('/#chat')}}/>;`);
+s=s.replace("[['#chat','Ask the research']","[['/check','Symptom check'],['#chat','Ask the research']");
+s=s.replace('<ResearchChat/>','<ResearchChat initialQuestion={researchPrompt}/>');
+s=s.replace('<External href={sources.screener} className="button coral">Open the IOCDF screener</External>','<a href="/check" className="button coral">Try OCD Symptom Check →</a><External href={sources.screener}>Or open the IOCDF screener</External>');
+s=s.replace('Access the International OCD Foundation’s free screener, with separate tools for adults and young people.','Explore our educational symptom check, or visit the International OCD Foundation for its separate screening tools.');
+fs.writeFileSync('src/main.tsx',s);
+s=fs.readFileSync('src/ResearchChat.tsx','utf8').replace('export default function ResearchChat(){',"export default function ResearchChat({initialQuestion=''}:{initialQuestion?:string}){");s=s.replace(' const controller=useRef'," useEffect(()=>{if(initialQuestion)setQuestion(initialQuestion)},[initialQuestion]);\n const controller=useRef");fs.writeFileSync('src/ResearchChat.tsx',s);

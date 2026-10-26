@@ -1,0 +1,1336 @@
+Nat Rev Dis Primers. Author manuscript; available in PMC: 2020 Jul 20.
+Published in final edited form as: Nat Rev Dis Primers. 2019 Aug 1;5(1):52. doi: 10.1038/s41572-019-0102-3
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+Obsessive–compulsive disorder
+Dan J Stein
+Dan J Stein
+1Department of Psychiatry, University of Cape Town and SA MRC Unit on Risk & Resilience in Mental Disorders, Cape Town, South Africa.
+Find articles by Dan J Stein
+1,*, Daniel L C Costa
+Daniel L C Costa
+2OCD Research Program, Instituto de Psiquiatria, Hospital das Clinicas, Faculdade de Medicina, Universidade de São Paulo, São Paulo, Brazil.
+Find articles by Daniel L C Costa
+2, Christine Lochner
+Christine Lochner
+3Department of Psychiatry, Stellenbosch University and SA MRC Unit on Risk & Resilience in Mental Disorders, Stellenbosch, South Africa.
+Find articles by Christine Lochner
+3, Euripedes C Miguel
+Euripedes C Miguel
+2OCD Research Program, Instituto de Psiquiatria, Hospital das Clinicas, Faculdade de Medicina, Universidade de São Paulo, São Paulo, Brazil.
+Find articles by Euripedes C Miguel
+2, Y C Janardhan Reddy
+Y C Janardhan Reddy
+4Department of Psychiatry, National Institute of Mental Health and Neurosciences, Bangalore, India.
+Find articles by Y C Janardhan Reddy
+4, Roseli G Shavitt
+Roseli G Shavitt
+2OCD Research Program, Instituto de Psiquiatria, Hospital das Clinicas, Faculdade de Medicina, Universidade de São Paulo, São Paulo, Brazil.
+Find articles by Roseli G Shavitt
+2, Odile A van den Heuvel
+Odile A van den Heuvel
+5Department of Psychiatry, Amsterdam UMC, Vrije Universiteit Amsterdam, Amsterdam Neuroscience, Amsterdam, Netherlands.
+6Department of Anatomy & Neurosciences, Amsterdam UMC, Vrije Universiteit Amsterdam, Amsterdam Neuroscience, Amsterdam, Netherlands.
+Find articles by Odile A van den Heuvel
+5,6, H Blair Simpson
+H Blair Simpson
+7Department of Psychiatry, Columbia University and New York State Psychiatric Institute, New York, NY, USA.
+Find articles by H Blair Simpson
+7
+Author information
+Article notes
+Copyright and License information
+1Department of Psychiatry, University of Cape Town and SA MRC Unit on Risk & Resilience in Mental Disorders, Cape Town, South Africa.
+2OCD Research Program, Instituto de Psiquiatria, Hospital das Clinicas, Faculdade de Medicina, Universidade de São Paulo, São Paulo, Brazil.
+3Department of Psychiatry, Stellenbosch University and SA MRC Unit on Risk & Resilience in Mental Disorders, Stellenbosch, South Africa.
+4Department of Psychiatry, National Institute of Mental Health and Neurosciences, Bangalore, India.
+5Department of Psychiatry, Amsterdam UMC, Vrije Universiteit Amsterdam, Amsterdam Neuroscience, Amsterdam, Netherlands.
+6Department of Anatomy & Neurosciences, Amsterdam UMC, Vrije Universiteit Amsterdam, Amsterdam Neuroscience, Amsterdam, Netherlands.
+7Department of Psychiatry, Columbia University and New York State Psychiatric Institute, New York, NY, USA.
+Author contributions
+Introduction (D.J.S.); Epidemiology (D.J.S.); Mechanisms/pathophysiology (O.A.v.d.H.); Diagnosis, screening and prevention (C.L.); Management (E.C.M., D.L.C.C., R.G.S.); Quality of life (Y.C.J.R.); Outlook (H.B.S.); Overview of Primer (D.J.S.).
+*
+Email: dan.stein@uct.ac.za
+Collection date 2019 Aug 1.
+PMC Copyright notice
+PMCID: PMC7370844 NIHMSID: NIHMS1573139 PMID: 31371720
+The publisher's version of this article is available at Nat Rev Dis Primers
+This article has been corrected. See Nat Rev Dis Primers. 2024 Oct 16;10(1):79.
+Abstract
+Obsessive–compulsive disorder (OCD) is a highly prevalent and chronic condition that is associated with substantial global disability. OCD is the key example of the ‘obsessive–compulsive and related disorders’, a group of conditions which are now classified together in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, and the International Classification of Diseases, 11th Revision, and which are often underdiagnosed and undertreated. In addition, OCD is an important example of a neuropsychiatric disorder in which rigorous research on phenomenology, psychobiology, pharmacotherapy and psychotherapy has contributed to better recognition, assessment and outcomes. Although OCD is a relatively homogenous disorder with similar symptom dimensions globally, individualized assessment of symptoms, the degree of insight, and the extent of comorbidity is needed. Several neurobiological mechanisms underlying OCD have been identified, including specific brain circuits that underpin OCD. In addition, laboratory models have demonstrated how cellular and molecular dysfunction underpins repetitive stereotyped behaviours, and the genetic architecture of OCD is increasingly understood. Effective treatments for OCD include serotonin reuptake inhibitors and cognitive–behavioural therapy, and neurosurgery for those with intractable symptoms. Integration of global mental health and translational neuroscience approaches could further advance knowledge on OCD and improve clinical outcomes.
+Obsessive–compulsive disorder (OCD) is an important mental disorder owing to its prevalence and associated disability, and because it is a key example of a set of conditions known as obsessive–compulsive and related disorders (OCRDs; FIG. 1). OCD is characterized by the presence of obsessions and/or compulsions. Obsessions are repetitive and persistent thoughts, images, impulses or urges that are intrusive and unwanted, and are commonly associated with anxiety. Compulsions are repetitive behaviours or mental acts that the individual feels driven to perform in response to an obsession according to rigid rules, or to achieve a sense of ‘completeness’. Children might have difficulty in identifying or describing obsessions, but most adults can recognize the presence of both obsessions and compulsions. Cognitive–behavioural theories have long emphasized that obsessions often lead to an increase in anxiety or sense of discomfort, and that compulsions are performed in response to obsessions. However, some evidence indicates that compulsive behaviour is primary and that obsessions occur as a post-hoc rationalization of these behaviours, although this theory requires further study1. Most patients with OCD are keenly aware that their compulsive symptoms are excessive and wish that they had more control over them.
+Fig. 1 |. Obsessive–compulsive and related disorders.
+Open in a new tab
+The obsessive–compulsive and related disorders (OCRDs) chapter in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) includes obsessive–compulsive disorder (OCD; previously classified as an anxiety disorder), body dysmorphic disorder (previously classified as a somatoform disorder) and trichotillomania (previously classified as an impulse control disorder), as well as hoarding disorder and excoriation (skin-picking) disorder (both of which are new to the classification system). In the International Classification of Diseases, 11th Revision (ICD-11), this chapter also includes Tourette syndrome (also classified as a neurodevelopmental disorder), hypochondriasis (also classified as an anxiety disorder) and olfactory reference syndrome (which is new to the classification system). Similar to OCD, the OCRDs are often prevalent but under-recognized conditions that are characterized by repetitive and unwanted thoughts or behaviours. Some OCRDs include preoccupations and compulsive behaviours (such as body dysmorphic disorder), but others have predominantly motoric or behavioural symptoms (such as trichotillomania). Sensory phenomena, including premonitory urges and ‘just right’ perceptions (where a patient continues their compulsions until there is a feeling that things are ‘just right’ and they can stop), can be present in some OCRDs, including OCD and Tourette syndrome208.
+Common sets of obsessions and compulsions in patients with OCD include concerns about contamination together with washing or cleaning, concerns about harm to self or others together with checking, intrusive aggressive or sexual thoughts together with mental rituals, and concerns about symmetry together with ordering or counting2,3 (FIG. 2). Failing to discard items is characteristic of hoarding disorder, but hoarding to prevent harm, for example, can also be seen in OCD. These symptom dimensions have been observed around the world, indicating that in some ways OCD is a seemingly homogenous disorder. Nevertheless, OCD can present with a range of less common symptoms, including scrupulosity, obsessional jealousy and musical obsessions4–6. Avoidance is another key feature of OCD; individuals might curtail a range of activities to avoid obsessions being triggered.
+Fig. 2 |. OCD symptom dimensions.
+Open in a new tab
+Studies using a factor-analytic approach have consistently supported a four-f actor or five-factor model of obsessive–compulsive disorder (OCD) symptoms, including a ‘contamination’ dimension (contamination or cleanliness obsessions and cleaning compulsions), a ‘harmful thoughts’ dimension (thoughts of harm to self and others and checking compulsions), a ‘forbidden thoughts’ dimension (aggressive, sexual, religious obsessions with mental rituals or praying), a ‘symmetry’ factor (symmetry obsessions, and repeating, ordering and counting compulsions), and a ‘hoarding’ factor (hoarding or saving obsessions and related compulsions)2,3. Hoarding disorder is considered as a separate entity in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, although hoarding symptoms can also be found in patients with OCD in some cases.
+The major international classifications of mental disorders, the Diagnostic and Statistical Manual of Mental Disorders (DSM) and the International Classification of Diseases (ICD), have each introduced a chapter on OCRDs7,8 (FIG. 1). Although there are important overlaps between OCD and the other OCRDs, including intersecting comorbidities and family history9,10, there are also key differences in their biology, assessment and management7,8. This Primer discusses the epidemiology and evaluation of OCD, its pathogenesis and underlying mechanisms, and its clinical management. In addition, this Primer discusses quality of life (QOL) issues associated with OCD and key outstanding research questions.
+Epidemiology
+Prevalence and demographics
+OCD was initially believed to be quite rare. However, the first rigorous community surveys that used operational criteria for the diagnosis of mental disorders demonstrated that OCD was one of the most prevalent mental disorders11, and OCD was estimated to make a considerable contribution to the global burden of disease12. More recent nationally representative surveys have confirmed that OCD has a lifetime prevalence of 2–3%, although figures vary across regions, and that it is associated with substantial comorbidity and morbidity13. Few sociodemographic correlates of OCD or its symptomatology have been demonstrated in epidemiological studies14,15. OCD is more common in females than in males in the community, whereas the ratio of females to males is often fairly even in clinical samples. Similarly, OCD is found in individuals across socioeconomic classes, as well as in low-income, middle-income and high-income countries.
+OCD typically starts early in life and has a long duration. In the National Comorbidity Survey Replication (NCS-R) study, nearly a quarter of males had onset before 10 years of age14. In females, onset often occurs during adolescence, although OCD can be precipitated in the peripartum or postpartum period in some women16. Consistent with the early age of onset, the strongest sociodemographic predictor of lifetime OCD is age, with the odds of onset highest for individuals 18−29 years of age14. However, a few onsets do occur in individuals older than 30 years of age. Longitudinal clinical and community studies have demonstrated that OCD symptoms can persist for decades, although remission can occur in a considerable number of individuals17.
+The clinical features of OCD are similar in patients in clinical and community studies. In a range of studies in clinical settings, obsessions and compulsions were found to fall into a small number of symptom dimensions, including concerns about contamination (with subsequent cleaning), concerns about harm (with subsequent checking) and concerns about symmetry (with subsequent ordering)2,3. Similar symptom profiles in OCD have been observed in community surveys across different countries13,14. Although social and cultural factors can certainly impact the expression and experience of obsessive–compulsive symptoms (for example, concerns about contamination could focus on syphilis in one region, and on HIV in another), there is also considerable uniformity of OCD symptoms across the world18.
+Comorbidity and morbidity
+OCD is characterized by substantial comorbidity. In the NCS-R, 90% of respondents with lifetime OCD (based on DSM-IV diagnostic criteria) met the diagnostic criteria for another lifetime disorder in DSM-IV; of these disorders, the most common were anxiety disorders, mood disorders, impulse-control disorders and substance use disorders14 (FIG. 3). Tic disorders and other OCRDs also commonly co-occur with OCD. In 79.2% of cases, OCD began after the comorbid anxiety disorders, whereas OCD was about equally likely to begin before or after a mood disorder, and began after comorbid impulse-control and substance use disorders in 92.8% and 58.9% of cases, respectively14. In addition, some evidence suggests increased comorbidity of general medical disorders in individuals with OCD19.
+Fig. 3 |. Comorbidities of OCD.
+Open in a new tab
+The prevalence of comorbid mental disorders in patients with obsessive–compulsive disorder (OCD) in the National Comorbidity Survey-Replication (NCS-R). ADHD, attention-deficit/hyperactivity disorder.Data from REF.14.
+OCD is often a seriously impairing disorder, with 65.3% of 12-month cases (that is, individuals with OCD symptoms in the 12 months before assessment) in the NCS-R reporting severe role impairment on the Sheehan Disability Scale14. In addition, those in the clinically severe subgroup reported the highest impairment ratings in relationships and social functioning domains. 12-month OCD was associated with an average of 45.7 days out of role in the prior 12 months. Increased mortality has also been observed in OCD20. Despite growing awareness of OCD and associated morbidity, this condition is underdiagnosed and undertreated; in the NCS-R, only a minority of severe cases (30.9%) received treatment specifically for OCD14.
+Limitations of epidemiological research
+Important limitations of the current epidemiological evidence for OCD should be emphasized. First, many studies use lay interviewer diagnoses of OCD; however, some data question the validity of this method of diagnosis and further work to determine concordance between lay and clinical interview diagnosis is needed14,21. In addition, cross-national data on OCD from surveys that have used similar methodologies are sparse22. Finally, survey interviews that are commonly used in epidemiological studies, such as the Composite International Diagnostic Interview, have not distinguished rigorously between OCD and other OCRDs (such as body dysmorphic disorder, hoarding disorder, or Tourette syndrome); thus, it is possible that some respondents with OCRDs are diagnosed with OCD, or that these disorders are entirely missed. Additional analyses from the World Mental Health Survey consortium over time could contribute to a better understanding of the prevalence and correlates of OCD across the globe23.
+Risk factors
+Twin studies have shed light on the genetic and environmental contributors to OCD24. One meta-analysis of twin studies suggested that additive genetic effects accounted for ~40% of the variance, and non-shared environment accounted for ~51% of the variance in obsessive–compulsive symptoms24. In addition, an aetiological role of gene–environmental interactions in OCD, and the shaping of obsessive–compulsive symptoms by very general aetiological factors (such as those influencing negative emotionality) have preliminary supporting evidence24. Some subtypes of OCD might have a higher heritability than others, including early-onset OCD with tics25.
+Candidate gene studies have suggested a potential role for variants in serotonergic, catecholaminergic and glutamatergic genes in OCD26,27, but these studies have been underpowered. More recent genome-wide association studies have indicated that OCD is a polygenic disorder with many identified risk loci of small effect, including variants in glutamatergic genes (see Mechanisms/pathophysiology, below)28. Investigation of copy number variants found a 3.3-fold increased burden of large deletions that were associated with other neurodevelopmental disorders in patients with OCD29. Notably, half of these deletions were located in 16p13.11, and three 16p13.11 deletions were confirmed de novo. In addition, the overall de novo rate of large CNVs in OCD was 1.4%, which is midway between rates found in healthy controls and autism spectrum disorders29.
+A broad range of environmental factors, including adverse perinatal events such as birth complications, and stressful or traumatic events, have been identified as potential risk factors for OCD30–32. However, additional work is needed to assess the relationship between the environome and OCD. In addition, more research is required to carefully delineate the cellular and molecular pathways by which genetic and environmental risk factors influence endophenotypes, and ultimately OCD. Such work, including additional genetic-imaging studies and genome-wide environmental interaction studies, is needed if a precision or personalized medicine approach is to be developed for the prevention and management of OCD33.
+Mechanisms/pathophysiology
+Cognitive-affective dysfunction
+Studies in the mid-20th century demonstrating that animals could be deconditioned to fear gave rise to clinical research on behavioural therapies, including exposure and response prevention (ERP) for OCD34,35. In turn, clinical findings gave impetus to the development of behavioural and cognitive–behavioural models of OCD, with subsequent work suggesting that obsessions can be conceptualized as a noxious stimuli to which individuals fail to habituate36, that negative interpretations of obsessive thoughts lead to a range of neutralizing behaviours (that is, compulsions) which serve to maintain these interpretations and the obsessive thoughts37, and that there are deficits in mechanisms that are central to extinction learning38. Such models in turn provide a foundation for fear habituation (emphasized in behavioural therapy), belief disconfirmation (emphasized in cognitive therapy), and exposure optimization techniques (to address deficits in extinction learning)38,39. Expert consensus has suggested that key belief domains or meta-cognitions in OCD include the overestimation of threat and excessive concern about the importance of controlling one’s thoughts40.
+Similarly, cognitive–affective research paradigms have emphasized dysfunctions in processes that might lead to increased concerns about harm (for example, increased sensitivity to disgust-evoking stimuli and excessive performance monitoring), or that might lead to an inability to control responses to such concerns (for example, impairment in executive functions such as response inhibition and excessive stimulus–response habit formation)41. Indeed, a range of impairments in patients with OCD have been observed in neuropsychological studies, including altered executive function (such as altered cognitive flexibility, planning, working memory and response inhibition), and alterations in disgust processing, fear extinction, reward processing and emotion regulation, among others, have been reported in affective studies42. However, further work is needed to determine how these cognitive-affective alterations contribute to the symptoms of OCD43. Furthermore, although such research has been useful in conceptualizing and researching OCD, cognitive–affective alterations are not yet sufficiently sensitive or specific to usefully guide clinical practice for OCD.
+Neural circuits
+The defects in cognitive and affective processing in patients with OCD could be mediated by alterations in specific neural circuits. Early work established that OCD could emerge in individuals with specific neural lesions (BOX 1). Although data from studies using animal models of stereotyped behaviours and grooming have contributed to understanding the neural circuitry of OCD44,45, advances in functional and structural brain imaging methods have been particularly important in advancing the field and have given impetus to influential models of OCD neurocircuitry. Such models have integrated data from neuroimaging and cognitive–affective studies by hypothesizing the involvement of parallel, partly segregated, cortico–striato–thalamo–cortical (CSTC) circuits that are involved in sensorimotor, cognitive, affective and motivational processes in OCD46,47 (FIG. 4). Indeed, data from functional and structural imaging studies support this hypothesis by demonstrating alterations in several brain regions that comprise these circuits in patients with OCD compared with healthy individuals. Other models have also implicated alterations in frontolimbic, frontoparietal and cerebellar networks48,49.
+Box 1 |. Neurological insults and OCD.
+Certain neurological lesions can cause obsessive–compulsive disorder (OCD). For example, after the influenza epidemic in the first part of the 20th century, obsessive–compulsive symptoms were noted in patients with encephalitis lethargica and basal ganglia lesions199. In addition, subsequent research has identified obsessive–compulsive symptoms in patients with neurological conditions that affect the basal ganglia, including Sydenham chorea and neuroacanthocytosis200. OCD can also be a sequela of neurological lesions that affect other areas, such as the frontal lobe, suggesting that frontostriatal circuitry could play a role in OCD pathogenesis201.
+Some of the most interesting literature at the intersection of OCD and neurology is that describing obsessive–compulsive symptoms that are precipitated by streptococcal infection — so-called paediatric autoimmune neuropsychiatric disorders associated with Streptococcus (PANDAS)202. The recognition of PANDAS was given impetus by early work that demonstrated the presence of obsessive–compulsive symptoms in Sydenham chorea (which is caused by childhood streptococcal infection)203 and, later, in individuals with rheumatic fever204. Advances have been made in formulating diagnostic criteria for PANDAS, in investigating the relevant autoimmune mechanisms, and in developing specific treatments for this disorder205,206. However, research has shifted from PANDAS to a broader disorder — paediatric acute-onset neuropsychiatric syndrome — which is characterized by the sudden onset of obsessive–compulsive symptoms that can occur in response to a range of infections and other insults205,206.
+Fig. 4 |. Circuits involved in OCD.
+Open in a new tab
+Obsessive–compulsive disorder (OCD) is mediated by parallel, partly segregated, cortico–striato–thalamo–cortical (CSTC) circuits that are involved in sensorimotor, cognitive, affective and motivational processes. dCaud, dorsal part of caudate nucleus; dlPFC, dorsolateral prefrontal cortex; dmPFC, dorsomedial prefrontal cortex; IFG, inferior frontal gyrus; NAcc, nucleus accumbens; OFC, orbitofrontal cortex; pPut, posterior part of putamen; pre-SMA, pre-supplementary motor area; SMA, supplementary motor area; Tham, Thalamus; vCaud, ventral part of caudate nucleus; vlPFC, ventrolateral prefrontal cortex; vmPFC, ventromedial prefrontal cortex. Adapted with permission from REF.48, Elsevier.
+Functional alterations.
+The first functional brain imaging studies in OCD used PET and functional MRI (fMRI) to observe changes in brain activation on symptom provocation using disorder-relevant tactile and visual stimuli (often these stimuli were related to contamination fears)47,48. An early meta-analysis using activation likelihood estimation combined the results of eight studies and demonstrated increased symptom provocation-induced activation of ventral frontostriatal and temporal regions, including the hippocampus, in patients with OCD compared with controls50. A more recent meta-analysis using signal differential mapping demonstrated increased activation in the bilateral amygdala, right putamen, orbitofrontal cortex extending into the anterior cingulate and ventromedial prefrontal cortex, middle temporal cortex, and the left inferior occipital cortex during emotional processing (induced, for example, by exposure to disease-relevant stimuli), particularly in OCD51. Of these changes, alterations in the amygdala were most pronounced in unmedicated patients, and those in the right putamen were most prominent in medicated patients.
+Other functional imaging studies have investigated brain activation while performing tasks that rely on executive functions, such as working memory, response inhibition, reversal learning and planning48,49. Although a number of consistent findings have emerged from these studies, variations in study design, task condition contrasts, and task load, combined with modest sample sizes and lack of control for multiple comparisons, have likely contributed to inconsistencies in the literature. In general, altered frontostriatal and frontoparietal recruitment has been found in these studies, but the extent of hyperactivation or hypoactivation is thought to depend on the participants’ capacity to recruit neural circuits to compensate for network inefficiency (which could cause hyperactivation), and on interference with neural circuit recruitment due to limbic activity (which might lead to hypoactivation). Some of the changes reported in patients with OCD are also found in unaffected siblings, suggesting that genetic factors could contribute to these network alterations48,49. Meta-analyses have been useful in summarizing studies evaluating executive function in patients with OCD. Decreased task-relevant activation in the caudate nucleus, putamen, cingulate cortex and prefrontal regions were reported in one meta-analysis of 28 fMRI studies of executive function52, whereas frontostriatal abnormalities and parietal and cerebellar involvement were reported in another meta-analysis of studies of executive function53.
+More recent studies have focused on the balance between habitual and goal-directed behaviour, and have demonstrated increased habit formation in patients with OCD compared with healthy controls which is associated with hyperactivation of the caudate nucleus54. One meta-analysis that combined 54 fMRI studies on both cognitive and affective paradigms in OCD demonstrated differences in brain activation across these paradigms55. During emotional processing (an affective paradigm), patients with OCD had overactivation of brain networks involved in salience, arousal and habitual responding, such as the anterior cingulate cortex, insula, head of the caudate nucleus and putamen, and underactivation of regions that have been implicated in cognitive control, such as the medial prefrontal cortex and posterior caudate, compared with healthy controls55. In addition, during cognitive paradigms, patients with OCD had increased activation in regions involved in self-referential processing, such as the precuneus and the posterior cingulate cortex, and decreased activation in subcortical regions involved in goal-directed behaviour and motor control, such as the pallidum, ventral anterior thalamus and posterior part of the caudate nucleus55. The pattern of alterations in this study is consistent with increased habitual responding and affective processing, and impaired cognitive control in patients with OCD. The exact involvement of various neural circuits likely varies with age and disease stage, and is dependent on symptom characteristics, disease chronicity, and neurocognitive profile (FIG. 5).
+Fig. 5 |. Lifespan changes related to disease stage — brain changes as a cause and consequence of OCD.
+Open in a new tab
+The involvement of the circuits is hypothesized to depend on the symptom profile and the disease stage. In early phases of obsessive–compulsive disorder (OCD), alterations within the dorsal cognitive, ventral cognitive and ventral reward cortico–striato–thalamo–cortical (CSTC) circuits and the frontolimbic circuit are hypothesized to be related to symptoms involving anxiety, uncertainty, and goal-directed behaviours. In later phases of OCD, alterations within the sensorimotor, dorsal cognitive and ventral cognitive CSTC circuits are hypothesized to be related to symptoms involving habitual behaviours. dCaud, dorsal part of caudate nucleus; dlPFC, dorsolateral prefrontal cortex; dmPFC, dorsomedial prefrontal cortex; IFG, inferior frontal gyrus; NAcc, nucleus accumbens; OFC, orbitofrontal cortex; pPut, posterior part of putamen; pre-SMA, pre-supplementary motor area; SMA, supplementary motor area; Tham, Thalamus; vCaud, ventral part of caudate nucleus; vlPFC, ventrolateral prefrontal cortex; vmPFC, ventromedial prefrontal cortex. Adapted with permission from REF.48, Elsevier.
+Cognitive–affective dysfunctions such as alterations in emotional processing and cognitive control could lack specificity for particular disorders and cut across diagnostic entities56–58. The majority of brain imaging studies of OCD compare patients with OCD with healthy controls, without an additional clinical control group consisting of patients with related disorders, except for some studies that have compared patients with OCD with patients with autism spectrum disorder during decision making59, patients with attention deficit/hyperactivity disorder during temporal discounting (a measure of impulsivity)60, and patients with panic disorder and hypochondriasis during attention bias and planning48,49. Conversely, impairments in inhibitory control could be associated with different network abnormalities in OCD, attention deficit/hyperactivity disorder, and Tourette syndrome61,62.
+Structural alterations.
+The development of automated brain imaging analysis techniques, such as voxel-based morphometry (VBM), has facilitated systematic investigation of whole-brain morphometry and has increased the reliability and reproducibility of results. Regional brain volume reflects a combination of grey matter thickness, cortical surface area and cortical folding; cortical surface and folding measurements might be indicative of prenatal neurodevelopmental processes, whereas cortical thickness changes dynamically across the lifespan as a consequence of development and disease.
+Smaller dorsomedial prefrontal, medial orbitofrontal and insular opercular volumes, and larger volumes of the putamen and cerebellum (of which the larger putamen was most pronounced in older patients) was reported in one of the first VBM studies in OCD63. This study also demonstrated that the patients with prominent symptoms of aggressive obsessions and checking compulsions had a smaller volume of the right amygdala compared with other individuals with OCD, suggesting that different symptom dimensions might be underpinned by different neural mechanisms. In accordance with these data, other studies have also reported evidence of symptom dimension-specific profiles, with harm-related symptoms associated with a decreased volume of bilateral anterior temporal poles, and contamination symptoms associated with a smaller caudate nucleus64.
+Although such work is important in proposing hypotheses about the neural circuitry of OCD, relatively small sample sizes can lead to false-positive and false-negative findings. Meta-analysis may be useful in synthesizing findings from different studies. The first meta-analysis of brain structure in OCD used signal differential mapping of 12 VBM studies and reported a decreased volume of the dorsomedial prefrontal cortex and an increased volume of the bilateral lenticular nuclei (part of the striatum), consistent with a frontostriatal model of OCD65. This decreased dorsomedial prefrontal volume was not specific for OCD and was also observed in other anxiety disorders, whereas the increased volume of the striatum was specific for OCD, with patients with other anxiety disorders showing decreased lenticular volume66.
+A consortium of international sites subsequently undertook a mega-analysis of pooled VBM data from adults with OCD and matched healthy controls (n = 780). This study reported smaller volumes of the dorsomedial prefrontal cortex and the bilateral insular opercular region, and increased volume of the cerebellum in patients with OCD67. In line with an earlier study, age-related effects were observed in striatal and limbic regions, with preservation of putamen volume and more pronounced age-related volume decreases in limbic parts of the middle and inferior temporal cortex with increasing age. Most of these findings were replicated using a different analysis technique focusing on cortical thickness68. In addition, altered structured covariance between the ventral striatum and insular operculum region was observed predominantly in older patients69. Together, these findings suggest that neuroplastic changes occur in patients with OCD, which could occur as a result of disease chronicity and/or long-term effects of medication.
+Studies from the ENIGMA-OCD working group aimed to further evaluate changes in neuroanatomical structures associated with OCD over time70, and demonstrated a decreased volume of the hippocampus and an increased volume of the bilateral putamen in adults with OCD, compared with healthy controls71; both changes were more pronounced in medicated patients. In this study, reductions in hippocampus volume were more pronounced in those with comorbid depression, consistent with evidence that hippocampal changes are found in many disorders72. In addition, an increased volume of the pallidum was mainly present in the adults with OCD who had child-onset disease, suggesting that the striatal volumetric changes are a result of disease chronicity and treatment. In children with OCD, a larger volume of the thalamus was found in unmedicated individuals compared with healthy controls. In addition, medicated patients with OCD had thinner cortex in frontal, temporal, parietal, temporal and occipital regions (adult sample) and smaller surface areas in frontal regions (paediatric sample), whereas unmedicated patients with OCD did not differ from controls73.
+Changes in brain white matter have also been reported in patients with OCD. Indeed, widespread white matter abnormalities were reported in one meta-analysis, particularly in the anterior midline tracts (crossing between the anterior parts of cingulum bundle and the body of corpus callosum), and in samples with a higher proportion of medicated patients74. In addition, overlapping white matter abnormalities were observed across several affective disorders, including depression, bipolar disorder, OCD, post-traumatic stress disorder and social anxiety disorder, with decreased fractional anistropy in frontotemporal and frontoparietal regions, and the most robust and replicable finding in the superior longitudinal fasciculus75.
+Summary.
+In summary, some neurobiological alterations in OCD are common with other psychiatric disorders (such as smaller hippocampus, dorsomedial prefrontal cortex and insular opercular region), whereas others are more specific for OCD (such as larger volume of the basal ganglia, which is most pronounced in older patients and likely related to disease chronicity and/or long-term effects of medication). A larger thalamus in unmedicated children with OCD may reflect altered brain maturation. There is a need for longitudinal studies of OCD and OCRDs with a specific focus on neurodevelopment before onset of the disorder, as well as the long-term effects of pharmacotherapy and other interventions. Advances in high-resolution MRI and improved segmentation of the subregions of the striatum and thalamus may also be useful in delineating the precise neural circuitry in patients with OCD.
+Molecular mechanisms
+Several key neurotransmitter systems are found within CSTC circuits, including serotonin, dopamine and glutamate, and these might have an important role in underpinning OCD symptoms. The early finding that OCD responds selectively to serotonin reuptake inhibitors (SRIs) has led to substantial attention on the serotonergic system. The involvement of the dopaminergic system was highlighted after patients responded to augmentation of SRIs with dopamine D2 receptor antagonists, among other data, whereas more recent studies have focused on the glutamatergic system.
+Although the selective efficacy of the SRIs in patients with OCD gave significant impetus to a serotonin hypothesis, there is surprisingly little evidence of an underlying serotonin deficit that has a primary causal role in OCD76. Alterations in levels of serotonin and its metabolites in the cerebrospinal fluid of patients with OCD, with normalization after successful treatment, have been reported in some studies, although evidence is sparse76. In addition, associations between variants in serotonergic genes (such as the serotonin transporter) and OCD have been reported in a few studies26,27, and altered serotonin transporter receptor binding in areas such as the midbrain has been observed in some studies, although not all data are consistent77,78.
+Dopamine has a key role in stereotypic behaviour, including grooming, in animal models45. In addition, dopamine has an important role in a range of cognitive and affective processes including reward processing, which could be altered in OCD. Strong evidence suggests a central role of the dopaminergic system in Tourette syndrome, which many would consider to be one of the key OCRDs79. Supporting the role of dopamine in OCD, some studies have reported an association between variants in catecholaminergic genes (including COMT) and OCD26,27, and molecular imaging studies have suggested alterations in specific dopaminergic receptors, such as a decrease in striatal dopamine D2 receptors, in OCD78,80. Finally, as discussed below, there might be some therapeutic role for dopamine D2 receptor blockers in OCD81.
+Glutamatergic neurons originating in the prefrontal cortex have a key role in CSTC circuitry, with these neurons projecting to the striatum. Cerebrospinal fluid and magnetic resonance spectroscopy studies have indicated alterations in glutamatergic metabolites, confirming that this system might have a role in OCD, although not all findings are consistent82,83. In addition, variants in glutamatergic genes (such as SLC1A1 and GRIN2B) are associated with OCD84, and meta-analysis of genome-wide association studies in OCD have implicated several glutamatergic system genes (such as GRID2 and DLGAP1)28. A different member of the DLGAP family, DLGAP3 (or SAPAP3), is expressed in the striatum and has a key role in a mouse model of OCD, whereby mice with deletion of SAPAP3 have defects in corticostriatal synapses and compulsive grooming behaviour that is decreased by a selective SRI (SSRI)85. Although no glutamatergic agent has been registered for the treatment of OCD yet, several have now been studied in randomized controlled trials with promising results86.
+Other neurotransmitters and neuropeptides have been implicated in OCD76. The involvement of inflammatory and immune pathways in common mental disorders is increasingly apparent, although findings in OCD remain preliminary83,87,88. Molecular studies could ultimately also allow delineation of pathways from genetic and environmental risk factors, through to alterations in brain imaging and other possible endophenotypes, and to different stages and subtypes of OCD89.
+Diagnosis, screening and prevention
+Diagnostic criteria
+Both DSM-5 and ICD-11 diagnostic criteria for OCD emphasize that OCD is characterized by the presence of obsessions and/or compulsions8,25. In addition, the diagnostic criteria for OCD include a clinical significance criterion and a diagnostic hierarchy criterion (BOX 2). The clinical criterion states that a diagnosis of OCD requires obsessions and compulsions that are associated with clinically significant distress or functional impairment, which is important given that intrusive thoughts and repetitive behaviours are common, and that rituals are a normal part of development. The diagnostic hierarchy criterion states that the obsessions and compulsions are neither a manifestation of another mental disorder, nor are they attributable to the physiological effects of a substance (such as a drug of abuse or a medication) or another medical condition. As previously mentioned, obsessions and compulsions in patients with OCD fall into a small number of symptom dimensions (FIG. 2). Within a particular individual, obsessions and compulsions tend to be stable, with any changes occurring within symptom dimensions90. Studies evaluating sex differences in symptom dimensions have not reported consistent differences91,92.
+Box 2 |. DSM-5 diagnostic criteria for OCD207.
+The presence of obsessions, compulsions, or both:
+Obsessions are defined by the following:
+Recurrent and persistent thoughts, urges, or impulses that are experienced, at some time during the disturbance, as intrusive and unwanted, and that in most individuals cause marked anxiety or distress.
+The individual attempts to ignore or suppress such thoughts, urges, or images, or to neutralize them with some other thought or action (that is, by performing a compulsion).
+Compulsions are defined by the following:
+Repetitive behaviours (for example, hand washing, ordering or checking) or mental acts (for example, praying, counting or repeating words silently) that the individual feels driven to perform in response to an obsession or according to rules that must be applied rigidly.
+The behaviours or mental actsa are aimed at preventing or reducing anxiety or distress, or preventing some dreaded event or situation; however, these behaviours or mental acts are not connected in a realistic way with what they are designed to neutralize or prevent, or are clearly excessive.
+The obsessions or compulsions are time-consuming (for example take >1 hour per day) or cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+The obsessive–compulsive symptoms are not attributable to the physiological effects of a substance (for example, a drug of abuse or a medication) or another medical condition.
+The disturbance is not better explained by the symptoms of another mental disorder (for example: excessive worries, as in generalized anxiety disorder; preoccupation with appearance, as in body dysmorphic disorder; difficulty discarding or parting with possessions, as in hoarding disorder; hair pulling, as in trichotillomania (hair-pulling disorder); skin picking, as in excoriation (skin-picking) disorder; stereotypies, as in stereotypic movement disorder; ritualized eating behaviour, as in eating disorders; preoccupation with substances or gambling, as in substance-related and addictive disorders; preoccupation with having an illness, as in illness anxiety disorder; sexual urges or fantasies, as in paraphilic disorders; impulses, as in disruptive, impulse-control, and conduct disorders; guilty ruminations, as in major depressive disorder; thought insertion or delusional preoccupations, as in schizophrenia spectrum and other psychotic disorders; or repetitive patterns of behaviour, as in autism spectrum disorder).
+Specify if:
+With good or fair insight: the individual recognizes that OCD beliefs are definitely or probably not true or that they may or may not be true
+With poor insight: the individual thinks OCD beliefs are probably true
+With absent insight/delusional beliefs: the individual is completely convinced that OCD beliefs are true Specify if:
+Tic-related: the individual has a current or past history of a tic disorder
+DSM-5, Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition; OCD, obsessive–compulsive disorder. aYoung children may not be able to articulate the aims of these behaviours or mental acts.
+A range of specifiers and subtypes of OCD have been proposed25. The DSM and ICD chapters on OCRDs include specifiers for some of these conditions (BOX 2), such as insight specifiers, which refer to the degree of insight displayed by patients. Three insight specifiers are included in the DSM-5: with good or fair insight, with poor insight, and with absent insight or delusional beliefs. Individuals with OCD and absent insight or delusional beliefs are convinced that their OCD beliefs are true; it is important that this subtype of OCD is recognized and appropriately diagnosed and treated, rather than erroneously diagnosed as a psychotic disorder and inappropriately treated. In addition, the DSM-5 includes a tic specifier that denotes individuals with a current or past tic disorder; this specifier reflects the growing evidence that patients with OCD with or without tics differ in key aspects of phenomenology and psychobiology, and that the evaluation and management of these patients should be tailored accordingly25. In addition, this specifier is relevant for appreciating the close relationship between OCD and Tourette syndrome. Males are more likely to have early-onset OCD (that starts before puberty), as well as comorbid tics91,92. Other subtypes of OCD, including early-onset OCD and paediatric autoimmune neuropsychiatric disorders associated with Streptococcus (PANDAS; BOX 1) have also been investigated by researchers25.
+Differential diagnosis
+OCD should be differentiated from normal health, as well as from a number of other psychiatric conditions. In general, this is typically carried out by a general psychiatric assessment. Intrusive thoughts and repetitive behaviours are common in the general population (such as thoughts of harming oneself or others and double-checking locks), but a diagnosis of OCD should be made only if these thoughts and behaviours are time-consuming (such as taking up more than 1 hour a day) and cause substantial distress or functional impairment. Recurrent thoughts and rituals also occur in a range of OCRDs (such as body dysmorphic disorder, hoarding disorder, trichotillomania and excoriation disorder), somatic symptom disorders (for example, illness anxiety disorder) and eating disorders (such as anorexia nervosa), but in all of these conditions the foci of apprehension and the form of repetitive behaviours are distinct from OCD.
+Worries and ruminations that are characteristic of generalized anxiety disorder and depression are typically about real-life concerns and tend to be less irrational and ego-dystonic than in OCD. Compulsions are also not typically seen under these conditions. Substance-related and addictive disorders, as well as the paraphilic disorders, disruptive, impulsive-control and conduct disorders, often have an ego-syntonic, gratifying component, particularly in the short term. Patients with OCD and poor or absent insight have beliefs that are OCD-related, without the additional features of the schizophrenia spectrum and other psychotic disorders, such as thought disorder and hallucinations. Obsessions and compulsions can be difficult to distinguish from the restricted, repetitive, and inflexible activities and interests that are typical of autism spectrum disorders; however, patients with OCD generally do not present with difficulties in social communication or reciprocal social interactions that are typical of autism spectrum disorders.
+Assessment
+A comprehensive assessment is a first critical step in the diagnosis and management of OCD. The goals of this assessment include making an accurate diagnosis, gaining information on presenting obsessive–compulsive symptoms, determining symptom severity, and assisting with selection of relevant treatment targets. The core of this assessment is taking a detailed psychiatric history and examining the mental status. In addition, a number of well-studied assessment measures with good psychometric properties can be useful for assisting with the diagnosis of OCD, for the identification of symptoms, the measurement of symptom severity, and monitoring of treatment response93.
+Structured diagnostic interviews for diagnosing OCD include the Structured Clinical Interview for DSM-5 (SCID-5 Clinician or Research version) for adults and the Anxiety Disorders Interview Schedule for DSM-5 (ADIS-5), which includes both an adult and a child or parent version. The Mini International Neuropsychiatric Interview (MINI version 7.0) is a shorter instrument, has also been revised in accordance with DSM-5, and is available for use in adults and children or adolescents. A Structured Clinical Interview for OCRDs could be useful in assessing common comorbidities94.
+A number of standardized symptom severity measures are available; of these, the Yale-Brown Obsessive–Compulsive Scale (Y-BOCS) and the Children’s Y-BOC (CY-BOCS) are widely used, comprise a symptom checklist and a severity scale, and are available in self-report format95. The Dimensional Yale-Brown Obsessive–Compulsive Scale (DY-BOCS) allows more detailed assessment of OCD symptom dimensions and their severity96. By contrast, the shorter Florida Obsessive–Compulsive Inventory (FOCI) comprises a symptom checklist of common obsessive–compulsive symptoms and only five items to assess symptom severity and impairment97. The FOCI has been adapted to address other OCRDs, and is included as a dimensional rating scale in the DSM-5. A range of other measures might be useful for the assessment and monitoring of OCD, including scales that are focused on sensory phenomena, insight, or measures of family accommodation to obsessive–compulsive symptoms (that is, family behaviour that facilitates rather than challenges OCD symptoms — for example, providing reassurance in response to obsessive doubts, assisting the patient with avoidance behaviours, and participating in rituals)93,98–100.
+Prevention
+Despite growing attention to the prevention of, and early intervention in, mental disorders, relatively little attention has been paid to such issues in OCD101. Targets for OCD primary prevention could potentially include psychoeducation and the reduction of family accommodation in high-risk individuals with subclinical or no symptoms, whereas secondary prevention could include the early identification and management of clinical OCD102. Further work is needed to emphasize the different stages of OCD (ranging from at-risk or prodromal illness to chronic or refractory illness) and to gather data on preventive and early intervention strategies102.
+Management
+Treatment of OCD comprises several components, starting with building a therapeutic alliance with the patient and psychoeducation, followed by psychological and/or pharmacological approaches, and, for patients with treatment-resistant OCD, neuromodulation and neurosurgery (FIG. 6). Alternative interventions have also attracted interest but require more evidence103. Although general principles of management exist, they need to be individually tailored. Thus, for example, some comorbid conditions (such as depression) respond to first-line OCD pharmacotherapies, whereas others (such as bipolar disorder) might require additional interventions104. Although similar pharmacotherapies and psycho therapies are used throughout the lifespan105–107, key modifications are needed when treating children and adolescents; however, a comprehensive discussion is beyond the scope of this Primer107.
+Fig. 6 |. OCD treatment algorithm.
+Open in a new tab
+Cognitive–behavioural therapy (CBT) or selective serotonin reuptake inhibitors (SSRIs) are the first-line treatments for obsessive–compulsive disorder (OCD). Unresponsive patients can receive augmentation with other treatment modalities. Neurosurgery is only considered in highly refractory and severe cases. AAP, atypical antipsychotics; DBS, deep brain stimulation; rTMS, repetitive transcranial magnetic stimulation; SNRI, serotonin-noradrenaline reuptake inhibitor ; SRI, serotonin reuptake inhibitor. aThe presence of specific comorbidities may change the algorithm (for example, focus on mood stabilizers plus CBT in the presence of bipolar disorder, and the addition of antipsychotics in those with psychotic symptoms or tics). bEffect sizes are similar for different SSRIs. cMonthly booster sessions for 3 to 6 months. d12–24 months.
+Psychoeducation
+Patients and their family members can experience considerable relief when they are told by a professional that they have a relatively common disorder which is increasingly well understood, and that the available treatments bring at least partial symptom reduction and improved QOL. Factors such as stigma, prejudice, and the role of the family and significant others in aggravating or maintaining OCD (such as family accommodation) should be addressed, so that all involved can contribute to treatment success. For this reason, treatment should include the family whenever possible (and particularly in the case of children or adolescents with OCD).
+Substantial delays can occur before patients with OCD seek treatment. Possible reasons for this delay include a lack of knowledge about the disorder, embarrassment about their symptoms, or anxiety about exposure to feared stimuli. Such challenges to engaging with and adhering to treatment can be aggravated in patients with poor insight, and it has been suggested that motivational interviewing techniques can be helpful in such individuals108,109. These techniques focus on empathizing with the patient’s experience, discussing the benefits of symptoms as well as their costs, and exploring the benefits and costs of symptom reduction. Building a therapeutic alliance is key, as is working with consumer advocacy organizations to decrease stigmatization and to improve health literacy. Fortunately, several such organizations are now available, such as the International OCD
+Foundation, OCD Action, the South African Depression
+and Anxiety Group and Astoc St.
+Psychotherapy
+Cognitive–behavioural therapy (CBT) is the most evidence-based form of psychotherapy for OCD (FIG. 6). Indeed, meta-analyses of randomized controlled trials have consistently demonstrated that CBT significantly improves OCD symptoms in both adults and children110,111. CBT comprises two components: cognitive reappraisal and behavioural intervention. The latter, specifically ERP, is the psychological treatment of choice for OCD. ERP involves gradual and prolonged exposure to fear-provoking stimuli combined with instructions to abstain from the compulsive behaviour. The integration of ERP with cognitive components, such as the discussion of feared consequences and dysfunctional beliefs, can make ERP less aversive and enhance its effectiveness112, particularly for patients with poor insight and for those who are less tolerant to exposure113.
+Individual and group CBT (that is, ERP with cognitive reappraisal), delivered in-person or by internet-based protocols, are effective for the treatment of OCD114,115. The most robust predictor of good short-term and long-term outcome with CBT is patient adherence to between-session homework, such as carrying out ERP exercises in the home environment116. CBT can be used as the initial treatment for OCD, particularly if this is the patient’s preferred treatment option, if there is access to trained clinicians, and in the absence of comorbid conditions that might require pharmacotherapy113. Meta-analyses of randomized controlled trials have indicated that CBT has larger effect sizes than pharmacological therapy for the treatment of OCD. Indeed, one recent review, for example, indicated a number needed to treat of 3 for CBT and 5 for SSRIs as a measure of treatment efficacy113. However, such findings do not fully take into account the presence of comorbidities (which can lead to the exclusion of patients with more-severe OCD from CBT trials), the baseline severity of OCD (such as the presence of poor insight, poor functioning or personality traits related to the ability to change), the placebo effect observed in pharmacotherapy trials (which is likely greater than the effect seen in the control arm of CBT studies), and the fact that many CBT trials have included patients who are taking stable doses of SSRIs113,117,118. Protocols of intensive CBT (multiple sessions over a few days, often in an inpatient setting) for OCD have been tested not only for severe, treatment-resistant patients, but also as a first-line treatment119. Although the number of such trials is still small, the initial findings of intensive approaches suggest that further work in this area might be useful.
+Pharmacotherapy
+Pharmacotherapy might also be used to initiate treatment of OCD. SSRIs are the first-line pharmacological treatment for OCD based on their evidence of efficacy, tolerability, safety and absence of abuse potential120. As a rule, higher doses of SSRIs are used for OCD than for other anxiety disorders or major depression; higher doses of SSRIs are associated with greater treatment efficacy, but also with higher rates of dropout owing to adverse effects (such as initial gastrointestinal symptoms and sexual dysfunction)121. Thus, a careful assessment of SSRI adverse effects is crucial when establishing the best dose for each patient. The effect sizes of SSRIs were similar in systematic reviews120,122; however, their adverse effects differ and should be taken into account in the choice of a specific SSRI. Other characteristics to consider when choosing between different SSRIs include past treatment response, potential adverse events and drug interactions, presence of comorbid medical conditions, and cost and availability of medication123.
+Clomipramine, a non-selective SRI124, was the first agent to show efficacy in OCD125. Meta-analyses have suggested that clomipramine is more efficacious than SSRIs113. However, there are reasons to be sceptical of this finding; for example, clomipramine trials were conducted earlier on fewer treatment-resistant patients with OCD, and head-to-head trials directly comparing clomipramine with SSRIs indicate equivalent efficacy126–128. SSRIs have a higher safety and tolerability profile compared with clomipramine, which has advantages for long-term treatment, supporting their use as first-line agents.
+OCD treatment guidelines indicate that 8–12 weeks is the optimal duration of an SSRI trial to determine efficacy120,123,129. However, in two recent meta-analyses, a significant improvement in OCD symptoms was observed within the first 2 weeks of treatment with SSRIs, with the greatest incremental gains occurring early in the course of treatment130,131. Similarly, an open-label trial of fluoxetine in treatment-naive patients indicated that early reduction (such as by 4 weeks) of OCD severity was the best predictor of treatment response at 12 weeks132. The recommended maintenance duration of pharmacotherapy is a minimum of 12–24 months after achieving remission133, but longer treatment might be necessary in many patients owing to the risk of relapse after discontinuing medication134.
+Treatment resistance
+Approximately half of patients with OCD who are treated with a first-line treatment fail to fully respond135,136. This proportion can be even higher in real-world or pragmatic clinical trials137. Several clinical predictors that are associated with a poor response have been identified (BOX 3). Augmentation options for patients with treatment-resistant OCD are outlined in Supplementary Table 1.
+Box 3 |. Factors associated with poor treatment outcome in OCD.
+Clinical characteristics
+More severe obsessive–compulsive disorder (OCD)
+Greater functional impairment
+Sexual, religious and hoarding symptoms
+Poor insight
+Higher number of comorbidities
+Comorbid major depression, agoraphobia or social anxiety disorder
+Lower willingness to fully experience unpleasant thoughts
+Greater resistance to change
+Lower adherence to treatment
+Sociodemographic characteristics
+Male sex
+Single relationship status
+Lower socioeconomic status
+Lower educational level
+Other characteristics
+Family history of OCD
+Poor therapeutic alliance
+Greater family accommodation
+Absence of early response to selective serotonin reuptake inhibitor treatment
+Insufficient response after CBT or SSRI monotherapy can also be addressed by combinatorial therapy46. In one trial, effect sizes were larger with the augmentation of SSRIs with CBT, compared with augmentation with risperidone (an antipsychotic)138. Nevertheless, the combination of SSRIs with CBT is not always feasible, either because CBT is not available139 or owing to difficulty in tolerating exposure140. Valid pharmacological strategies include switching to a different SSRI, using a higher dose of a SSRI than the maximum recommended dose, or a trial of a serotonin–noradrenaline reuptake inhibitor141–148.
+Evidence-based pharmacological SSRI augmentation strategies include the use of antipsychotics, clomipramine (a tricyclic antidepressant), and glutamatergic agents149–153. In the only double-blind, randomized controlled trial that compared three pharmacological strategies in patients with SSRI-resistant OCD, fluoxetine plus placebo and fluoxetine plus clomipramine significantly reduced the severity of OCD and were both significantly superior to fluoxetine plus quetiapine (an antipsychotic)152. Of note, the effect of time spent on fluoxetine monotherapy (6 months) was the most important factor associated with the response at the endpoint. The greatest concern associated with clomipramine and SSRI combinatorial therapy is the increment in the blood levels of both drugs, which can increase the risk of severe and potentially life-threatening events such as seizures, heart arrhythmia and serotonergic syndrome154.
+The augmentation of SSRIs with antipsychotics is one of the most commonly used pharmacological strategies for patients with SSRI-resistant OCD149,150. Indeed, one meta-analysis provides evidence of efficacy for both risperidone and aripiprazole augmentation150. Although other antipsychotics might also be useful, additional studies are needed. However, SSRIs have a moderate effect size in OCD and subsequent antipsychotic augmentation has a smaller effect size, with only one-third of patients with SSRI-resistant OCD showing a clinically meaningful response149. Thus, ongoing monitoring of the risk–benefit ratio is needed in patients receiving antipsychotic augmentation of SSRIs, with particular attention on adverse events such as weight gain and metabolic dysregulation155.
+More recently, glutamatergic medications, such as N-acetylcysteine, memantine, lamotrigine, topiramate, riluzole and ketamine, have been evaluated as augmentation agents in patients with treatment-resistant OCD and have demonstrated some evidence of efficacy156–158. Of these, N-acetylcysteine augmentation has the largest evidence-base — three out of five randomized controlled trials demonstrated its superiority to placebo in reducing OCD symptoms158–162. Memantine augmentation can also be considered in clinical practice, as several trials have demonstrated its efficacy in SSRI augmentation for patients with treatment-resistant OCD163.
+Neuromodulation and neurosurgery
+Neuromodulation for OCD includes both noninvasive and invasive approaches, including transcranial direct current stimulation (tDCS), repetitive transcranial magnetic stimulation (rTMS) and deep brain stimulation (DBS) (FIG. 7). Ablative procedures have also been used in OCD. Although neuromodulation for OCD has primarily been confined to a research context, the US FDA has approved deep rTMS for the treatment of OCD, which will likely give impetus to greater clinical use.
+Fig. 7 |. Targets for treatment.
+Open in a new tab
+Different treatment modalities, including neuromodulation, neurosurgery and pharmacological therapy, might target different neurocircuits that have been implicated in obsessive–compulsive disorder. CSTC, cortico–striato–thalamo–cortical; DBS, deep brain stimulation; ERP, exposure and response prevention; rTMS, repetitive transcranial magnetic stimulation; SRI, serotonin reuptake inhibitor ; tDCS, transcranial direct current stimulation. Adapted with permission from REF.48, Elsevier.
+tDCS involves the application of a weak current to the scalp, with only a fraction of the current entering the brain164. Most studies of tDCS in OCD are open-label or case reports, using a range of electrode montages, targeting areas including the supplementary motor cortex and the dorsolateral prefrontal cortex. Initial results from these studies show promise and provide impetus for further research164,165.
+rTMS is a noninvasive technique that modulates neuronal activity via electric currents that are induced by a magnetic coil positioned over the head166. rTMS has growing evidence of efficacy for OCD, with targets including the supplementary motor cortex and the dorsolateral prefrontal cortex165,167,168. Notably, in the pivotal trial of deep rTMS targeting the medial prefrontal cortex and anterior cingulate cortex, tailored symptom provocation was used in each session to personalize the treatment.
+DBS involves the neurosurgical implantation of an electrode that can activate neighbouring neural circuitry169. This approach is reserved for very intractable cases (less than 1% of treatment-seeking individuals)170 (BOX 4). Most studies of DBS target striatal areas, including the anterior limb of the internal capsule, the ventral capsule and ventral striatum, the nucleus accumbens or the ventral caudate nucleus, the subthalamic nucleus, and the inferior thalamic peduncle171. Approximately 30–50% of patients with severe refractory OCD respond to these different treatments171,172. Preliminary work points also to the potential of nonstriatal targets, such as the superolateral branch of the medial forebrain bundle173.
+Box 4 |. Selection criteria for neurosurgery for intractable OCD177.
+Inclusion criteria
+Obsessive–compulsive disorder (OCD) must be the main diagnosis
+Yale-Brown Obsessive–Compulsive Scale score ≥28 (or ≥14 if only obsessions or only compulsions are present)
+5 years of severe OCD symptoms despite adequate treatment trials
+Independent confirmation of refractoriness to treatment
+3 adequatea trials with a serotonin reuptake inhibitor (at least one with clomipramine)
+2 adequate augmentation strategies (such as antipsychotics or clomipramine)
+20 hours of OCD-specific cognitive–behaviour therapy (such as exposure and response prevention)b
+Age 18–75 yearsc
+Ability to provide informed consent
+Appropriate expectations of the outcomes of surgery
+Exclusion criteria
+Comorbid mental or substance use disorder that may impair treatment (for example, severe personality disorder or psychosis)
+Clinically meaningful condition affecting brain function or structure
+Intellectual disability
+Past history of head injury with post-traumatic amnesia
+Recent suicide attempt or active suicidal ideation
+aMinimum duration of 8 weeks at the maximum recommended or tolerated dose. bParticipation for shorter times may be permitted if nonadherence is due to symptom severity rather than to noncompliance. cIncreasing age is a relative contraindication.
+Ablative neurosurgery for OCD has targeted several different brain structures, such as the internal capsule, anterior cingulate cortex and subcaudate white matter, with techniques respectively termed capsulotomy, anterior cingulotomy, and subcaudate tractotomy (limbic leucotomy is a combination of the two last procedures). Ablative methods encompass radiofrequency and radiosurgical ablation, as well as the experimental technique of magnetic resonance-guided focused ultrasonography174–176. Approximately 30–60% of patients with intractable OCD can achieve a significant reduction in OCD symptoms after surgery. However, only one method, gamma ventral capsulotomy, has been studied in a double-blind, sham-controlled randomized trial177. Using the criterion of response (a 35% reduction in baseline Y-BOCS score plus a Clinical Global Impression change score of 1 or 2), the primary outcome measure did not reach statistical significance 12 months later, although the Y-BOCS score reduction over that same follow-up period was significantly higher in the active treatment group. At the end of the follow-up period (54 months), 7 of 12 (58%) patients who underwent radiosurgery were responders.
+Alternative treatments
+A range of alternative treatments have been suggested for OCD103. These include yogic meditation techniques178, mindfulness-based CBT179,180, physical exercise181,182 and acupuncture183. However, further data are needed before these treatments can be routinely recommended as evidence-based interventions.
+Quality of life
+OCD is associated with considerable comorbidity and morbidity, in addition to significantly reduced QOL, in both adults and children184–188. QOL refers to an individual’s subjective perception of well-being, which is affected by the person’s psychological status, physical health, social relationships, role (such as work) functioning as well as sense of life satisfaction. In patients with OCD, QOL is significantly decreased in all domains (such as work, family, and social activities)184–188 and, furthermore, the relatives and caregivers of individuals with OCD also have lower QOL than healthy controls189,190. Comparisons of QOL in OCD and major depression are inconsistent, but QOL in OCD has been reported to be similar to that in patients with schizophrenia184–187.
+Several demographic factors including age, gender, marital status, employment status, socioeconomic status, education attainment and lack of social support have been associated with QOL in OCD, although findings are somewhat inconsistent184–187. The severity of illness, presence of comorbid depression, and certain symptom dimensions (such as hoarding) have been more consistently associated with decreased QOL and increased functional impairment184–187. A number of studies have indicated that depressive symptoms mediate the relationship between OCD and impaired QOL, emphasizing the need to treat both OCD and depression when they are comorbid.
+Treatment with efficacious pharmacotherapy and psychotherapy has been demonstrated to improve QOL in patients with OCD184–188. Indeed, a correlation between improvement in symptoms and improvement in QOL has been demonstrated in most studies184–188. In two large trials of SSRIs, QOL was higher in treatment responders and in those who did not relapse, suggesting a relationship between symptomatic and functional improvement191. In addition, some evidence suggests an ongoing improvement in QOL with continued active treatment192. As in the case of depression, there has been increased awareness of the potential value of aiming not only for treatment response in OCD, but also for symptom remission. Certainly QOL is a useful outcome measure in randomized controlled trials of OCD.
+A major limitation of studies on QOL in OCD is the lack of an OCD-specific measure of QOL. One study used a 69-item OCD-specific QOL measure and identified four domains specific to OCD: depression and OCD; restrictions in activities due to symptoms or avoidance; difficulties with partner and/or family due to OCD symptoms or avoidance; and self-concept or coping with own illness193. Systematically examining the relationship of symptom dimensions, comorbid conditions, and family measures (such as family accommodation) with QOL in large samples is still required. Furthermore, the data on QOL in OCD are mostly cross-sectional; studies examining the relationship between QOL and longitudinal course and outcome are needed.
+Outlook
+Although knowledge about OCD has greatly advanced, several obstacles remain. With regards to mechanism, most imaging studies have been single-site studies with relatively small sample sizes, and replication of findings has been variable. This issue could be due to heterogeneity in the OCD samples selected, differences in imaging methods, or both factors. Moreover, although brain abnormalities are presumed to lead to dysfunction in specific neural processes that then lead to OCD symptoms, strong links between brain abnormalities, dysfunction in these neural processes, and specific OCD clinical profiles still need to be made. Ultimately, most imaging studies are correlational; they cannot identify whether the observed brain abnormalities cause OCD symptoms or are the result of these symptoms57. This issue has spurred the development of experimental animal systems to examine causality44,45; however, the relevance of these animal systems to human OCD is debated (for example, whether repetitive grooming in a mouse is a valid phenotype for human OCD). Finally, even if brain abnormalities cause OCD symptoms, this does not address what caused these abnormalities. To understand why an individual developed OCD, the field must develop a far greater understanding of how genetic risk and resilience, environmental factors, and developmental trajectory interact in humans.
+With regards to diagnosis, OCD is often missed in routine clinical practice (for example, because clinicians do not ask or patients do not tell their clinician about their symptoms) or misdiagnosed and mistreated (such as being diagnosed as a psychotic disorder and treated with antipsychotic monotherapy). Improved education of the public and of front-line clinicians is needed to address this problem. Moreover, the diagnosis of OCD relies on self-report, and developing objective tests that confirm self-report of symptoms would advance the field; for example, for brain dysfunction using imaging or neurocognitive tasks, or for behaviours using passive sensing technology. These tests may most profitably focus not on the categorical diagnosis of OCD, but on component behaviours such as intrusive thoughts, repetitive behaviours, and anxiety.
+Finally, although the first-line treatments for OCD help up to 50% of patients achieve minimal symptoms after acute treatment, access to evidence-based care varies around the world, particularly for CBT. How to best harness technology to increase access to CBT (such as via the internet or smartphone applications194) deserves further study. At the same time, because patient adherence (to either SRIs or CBT) strongly predicts good outcome and relapse can occur once treatment stops, methods for increasing patient adherence and decreasing relapse also deserve further study. How SRIs and CBT precisely work on the brain also requires more research195. The answers could help to explain why these treatments work for only some patients.
+Ultimately, better (and preferably faster) treatments are needed to help more individuals with OCD achieve wellness. To meet this challenge, researchers are examining new classes of medications (such as glutamate modulators and cannabinoids), different modes of neuromodulation (such as rTMS, tDCS and DBS), new forms of psychotherapy (such as acceptance and commitment therapy), and new ways for using technology to both increase access to treatments like CBT that are already known to work and to objectively monitor treatment outcomes194 (TABLE 1). Ideally, such treatments would capitalize on emerging knowledge about genetic and environmental risk factors as well as the neural processes underlying obsessions and compulsions, enabling the treatment to be tailored to an individual’s disease process196. The ultimate goal will be to intervene as early and as precisely as possible to alleviate individual suffering and reduce the public health burden of this disabling illness.
+Table 1 |.
+Ongoing RCTs in OCD
+Title
+Design
+Interventions
+Population
+NCT number
+Psychotherapy
+An eHealth intervention for OCD in youths with autism spectrum disorder
+Open-label
+Internet CBT
+Children and adolescents
+NCT03473080
+Treatment effects of family based CBT in children and adolescents with OCD
+RCT
+Family-based CBT versus family-based psychoeducation/relaxation training
+Children and adolescents
+NCT03595098
+Internet-delivered CBT for paediatricOCD
+RCT
+Internet-delivered CBT versus CBT
+Children and adolescents
+NCT03263546
+Overlapping neural circuits in paediatric OCD
+Open-label
+ERP and when indicated medication treatment
+Children and adolescents
+NCT02421315
+Clinical outcomes in paediatric OCD
+RCT
+Croup-based family CBT versus waitlist
+Children and adolescents
+NCT01635569
+Neurocircuit mechanisms of OCD across the lifespan
+RCT
+CBT, stress management therapy, optional CBT for adolescents and adults; fMRI only for healthy control adolescents and adults
+Adolescents and adults
+NCT02437773
+Quality assessment in exposure therapy
+Open-label
+Exposure therapy
+Children, adolescents and adults
+NCT03182101
+BIP in Jamtland Harjedalen: increased access to CBT within regular healthcare in northern Sweden
+Open-label
+Internet CBT
+Children and adolescents
+NCT02926365
+Building an outcomes assessment infrastructure to assess anxiety treatment
+Open-label
+CBT
+Children and adolescents
+NCT02305537
+Metacognitive therapy for OCD
+RCT
+Metacognitive therapy versus ERP
+Adults
+NCT02867449
+Internet-based versus face-to-face CBT for OCD
+RCT
+CBT (face-to-face) versus internet-based CBT versus internet-based CBT without therapist support
+Adults
+NCT02541968
+Fear extinction and mechanisms of change in OCD
+RCT
+Exposure therapy versus waitlist
+Adults
+NCT02467374
+Cognitive training in OCD
+Open-label
+n-Back (cognitive training)
+Adults
+NCT02818088
+Inference-based cognitive therapy versus ERPforOCD
+RCT
+Inference-based cognitive therapy versus ERP
+Adults
+NCT03677947
+Decision-making impairments in OCD: an integrated behavioural economics model
+Open-label
+Decision-making tasks
+Adults
+NCT03420495
+Mindfulness meditation utilizing an EEG biofeedback device for the treatment for OCD
+RCT
+Mindfulness meditation versus waitlist
+Adults
+NCT03273699
+Feasibility, acceptability, and preliminary efficacy of a mobile app (nOCD) for OCD
+Open-label
+Therapist-assisted mobile intervention
+Adults
+NCT03476902
+Cognitive checking intervention for maladaptive beliefs about memory
+RCT
+CBT for maladaptive beliefs about memory versus treatment as usual
+Adults
+NCT03241056
+Mindfulness-based cognitive therapy: efficacy and fMRI-based response predictors in a group of OCD patients
+RCT
+Mindfulness-based intervention versus treatment as usual
+Adults
+NCT03128749
+Computerized training for individuals diagnosed with obsessive-compulsive and related disorders
+Open-label
+Computerized training
+Adults
+NCT03182075
+The role of cognitive control in the transdiagnostic conceptualization of “Intrusive thoughts”
+Open-label
+Cognitive control tasks and script driven imagery
+Adults
+NCT03414619
+Pharmacotherapy
+Efficacy of adding topiramate to current treatment in refractory OCD
+RCT
+Topiramate versus placebo
+Adults
+NCT00182520
+Fear conditioned response in healthy subjects and in OCD patients pretreatment and post-treatment with sertraline
+Open-label
+Sertraline
+Adults
+NCT03068429
+Pharmaco(epi)genetic study of OCD
+Open-label
+SSRIs and clomipramine
+Adults
+NCT02431845
+A pilot study examining the gut microbiota in patients with OCD versus healthy controls and following 12 weeks of open-label SSRI treatment
+Open-label
+SSRIs
+Adults
+NCT02285699
+BHV-4157 in adult subjects with OCD
+RCT
+BHV-4157 versus placebo
+Adults
+NCT03299166
+A study of pregabalin (Lyrica) augmentation in serotonin reuptake inhibitor-refractory OCD
+RCT
+Pregabalin versus placebo
+Adults
+NCT00994786
+TolcaponeinOCD
+Randomized and crossover trial
+Tolcapone versus placebo
+Adults
+NCT03348930
+Efficacy of psilocybin in OCD: a double-blind, placebo-controlled study
+RCT
+Psilocybin versus niacin
+Adults
+NCT03356483
+Understanding how ketamine brings about rapid improvement in OCD
+RCT
+Ketamine versus midazolam
+Adults
+NCT02624596
+Probiotic treatment in adult OCD
+RCT
+Probiotic formula (LactobaciUus helveticus R0052 and Bifidobacterium longum R0175) versus placebo
+Adults
+NCT02334644
+Effects of marijuana on symptoms of OCD
+RCT
+High-THC/low-CBD marijuana versus low-THC/high-CBD marijuana versus placebo
+Adults
+NCT03274440
+Effect of vitamin C on SSRI-treated OCD patients
+RCT
+SSRI plus vitamin C versus SSRI
+Adults
+NCT03754647
+Effects of ondansetron in obsessive-compulsive and tic disorders
+RCT
+Ondansetron versus placebo
+Adults
+NCT03239210
+Psilocybin for treatment of OCD
+RCT
+High-dose psilocybin versus low-dose psilocybin versus lorazepam
+Adults
+NCT03300947
+Bioequivalence study of paroxetine tablets and Paxil under fasting and fed conditions in Chinese healthy volunteers
+RCT
+Paroxetine hydrochloride tablet 20 mg versus Paxil 20 mg
+Adults
+NCT03504475
+Psychotherapy and pharmacotherapy
+Efficacy of ERP and SSRIs in Chinese OCD patients
+Randomized and crossover trial
+Fluoxetine, citalopram, paroxetine, sertraline, fluvoxamine and ERP
+Adolescents and adults
+NCT02022709
+Influence of pregnenolone on exposure therapy in OCD
+RCT
+Exposure therapy with pharmacological facilitation versus exposure therapy
+Adults
+NCT01949753
+The study of mindfulness-based cognitive therapy and OCD
+RCT
+Mindfulness-based cognitive therapy versus psychoeducation versus SSRI
+Adults
+NCT03179839
+Cannabinoid medication for adults with OCD
+RCT
+Nabilone versus nabilone plus ERP
+Adults
+NCT02911324
+Open/aftercare treatment for participants diagnosed with OCD
+Open-label
+Pharmacotherapy versus psychotherapy
+Adults
+NCT03511534
+The study of the pathogenesis and cognitive behavioural group therapy in OCD
+RCT
+CBT versus SSRI versus CBT plus SSRI
+Adults
+NCT02739061
+Psychotherapy and transcranial magnetic stimulation
+Neuromodulation enhanced cognitive restructuring: a proof-of-concept study
+RCT
+Cognitive restructuring plus rTMS (left) versus cognitive restructuring plus rTMS (right) versus cognitive restructuring plus sham rTMS
+Adults
+NCT02573246
+Neuromodulation
+tDCS for treatment-resistant OCD
+RCT
+Active tDCS versus sham
+Adults
+NCT03304600
+tDCS as an add-on treatment in SSRI-resistant OCD
+RCT
+Active tDCS versus sham
+Adults
+NCT02407288
+Neurocircuitryof OCD: modulation by tDCS
+Open-label
+tDCS
+Adults
+NCT02704117
+TMS in OCD: mechanisms and biomarkers
+RCT
+Active TMS versus sham
+Adults
+NCT02355002
+rTMS over the supplementary motor area for treatment-resistant OCD
+RCT
+Active rTMS versus sham
+Adults
+NCT03211221
+rTMS in OCD
+RCT
+Active rTMS versus placebo rTMS
+Adults
+NCT02884674
+Tolerability, safety and efficacy of the H AC-coil deep TMS in medication-resistant OCD subjects
+Randomized and crossover trial
+Low-frequency TMS versus high-frequency TMS versus sham
+Adults
+NCT01343732
+rTMS in treatment-refractory OCD
+Randomized and crossover trial
+Active rTMS versus sham
+Adults
+NCT02450695
+Study of magnetic brain stimulation in treatment of OCD
+RCT
+Active TMS versus sham
+Adults
+NCT02018185
+rTMS treatment for OCD
+RCT
+Active TMS versus sham
+Adults
+NCT03393078
+Theta burst stimulation for compulsive behaviour noninvasive brain stimulation study
+RCT
+Continuous theta burst stimulation (cTBS) pattern TMS and habit override practice versus intermittent theta burst stimulation (iTBS) pattern TMS and habit override practice
+Adults
+NCT03265015
+Magnetic seizure therapy for treatment-resistant depression, schizophrenia and OCD
+Open-label
+Magnetic seizure therapy
+Adults
+NCT01596608
+NeurofeedbackforOCD
+RCT
+Neurofeedback versus control feedback
+Adults
+NCT02206945
+Neurosurgery
+Reclaim DBS therapy for OCD
+Open-label
+Reclaim DBS therapy
+Adults
+NCT02773082
+DBS for OCD: improving targeting precision
+RCT
+Microelectrode-assisted technique versus standard technique
+Adults
+NCT02377375
+DBS of the bilateral habenula for treatment-refractory OCD
+Open-label
+Bilateral surgical implantation of DBS system to habenula
+Adults
+NCT03463590
+Novel DBS in ventral capsule and stratum for refractory OCD
+Randomized and crossover trial
+Active stimulation: stimulator on followed by off versus sham stimulation: stimulator off followed by on
+Adults
+NCT02590445
+Combined cortical/subcortical recording and stimulation as a circuit-oriented treatment for OCD
+Open-label
+Medtronic primary celland sensing DBS
+Adults
+NCT03184454
+Development of adaptive DBS for OCD
+Case series
+DBS discontinuation follow-up
+Adults
+NCT03457675
+DBS and OCD
+RCT
+DBS of subthalamic nucleus versus DBS of ventral striatum
+Adults
+NCT01329133
+European study of quality of life in resistant OCD patients treated by STN DBS
+RCT
+DBS versus psychotherapy and pharmacological treatment
+Adults
+NCT02844049
+Efficacy and adverse events of bilateral single-shot ventral capsular or ventral striatal gamma capsulotomy for OCD: a pilot study
+Open-label
+Gamma ventral capsulotomy
+Adults
+NCT02433886
+Evaluation of capsulotomy by linear accelerator radiosurgery in severe and refractory OCD
+Open-label
+Bilateral gamma-knife capsulotomy
+Adults
+NCT02500888
+Trial of MR-guided focused ultrasonography (MRgFUS) bilateral capsulotomy for the treatment of refractory OCD
+Open-label
+Focused ultrasonography
+Adults
+NCTO3156335
+Open in a new tab
+CBD, cannabidiol; CBT, cognitive behavioural therapy ; DBS, deep brain stimulation; EEG, electroencephalography ; ERP, exposure and response prevention; fMRI, functional MRI; MR, magnetic resonance; OCD, obsessive–compulsive disorder ; RCT, randomized controlled trial; rTMS, repetitive transcranial magnetic stimulation; SSRI, selective serotonin reuptake inhibitor ; STN, subthalamic nucleus; tDCS, transcranial direct current stimulation; THC, tetrahydrocannabinol; TMS, transcranial magnetic stimulation.
+One approach to address some of the issues raised above is to identify reproducible brain signatures of OCD behaviours. These brain signatures will likely reveal disease dimensions that cut across traditional diagnostic categories, potentially changing how we conceptualize mental illnesses like OCD and advancing nosology. Longitudinal studies can then chart the development of these brain signatures, potentially revealing the best time to intervene to disrupt the disease process. These brain signatures will also provide new treatment targets and could pave the way to precision psychiatry, whereby individual brain signatures can help guide specific treatment choices. The NIH have funded such a study (RO1 MH113250). A collaboration between five expert OCD sites in the United States, Brazil, India, the Netherlands and South Africa will be the first international multimodal imaging and neurocognitive study in OCD to use harmonized clinical, neurocognitive and imaging methods. The short-term goal is to identify robust brain signatures of OCD cognitive and clinical profiles, leveraging these five sites to recruit a large sample of unmedicated patients and to test the reproducibility of the signatures across countries and cultures. The long-term goal is to accelerate discovery and help transform how OCD is conceptualized, diagnosed and treated around the world. International collaborations have already played an important role in advancing our knowledge of OCD and improving clinical outcomes, and further work integrating global mental health and translational neuroscience perspectives holds great promise for the future197,198.
+Supplementary Material
+Supplementary
+NIHMS1573139-supplement-Supplementary.pdf (440.7KB, pdf)
+Footnotes
+Competing interests
+D.J.S. has received research grants and/or consultancy honoraria from Lundbeck and Sun, and is also on the scientific advisory board of the TLC Foundation for Body-Focused Repetitive Behaviours, the Anxiety and Depression Association of America (ADAA), and the South African Depression and Anxiety Support Group. D.L.C.C. has received consultancy honoraria from Pfizer and Libbs, and a scholarship from Fundação de Amparo à Pesquisa do Estado de Sao Paulo (Sao Paulo State Foundation for Research Support). E.C.M. has received a productivity grant from the Brazilian National Council for Scientific and Technological Development. Y.C.J.R. has been involved in a study on bipolar disorder, supported by GlaxoSmithKline, and is also lead author on clinical guidelines on OCD produced by the Indian Psychiatric Society. R.G.S. has received consultancy honoraria from Lundbeck, and she receives a productivity grant from the Brazilian National Council for Scientific and Technological Development. H.B.S. has received research grants from Biohaven Pharmaceuticals and royalties from UpToDate, Inc. and Cambridge University Press. She is also on the Board of Directors and the Scientific Advisory Board of ADAA, and is an Associate Editor at JAMA Psychiatry. All other authors declare no competing interests.
+Peer review information
+Nature Reviews Disease Primers thanks D. Marazziti, D. Tolin, J. Piacentini, and the other, anonymous, reviewer(s), for their contribution to the peer review of this work.
+Publisher’s note
+The current state of mobile applications (apps) for DSM-5 obsessive-compulsive disorderSupplementary information
+Supplementary information is available for this paper at
+https://doi.org/10.1038/s41572-019-0102-3.
+References
+1.Robbins TW, Vaghi MM & Banca P
+Obsessive-compulsive disorder: puzzles and prospects. Neuron
+102, 27–47 (2019). [DOI] [PubMed] [Google Scholar]
+2.Mataix-Cols D, do Rosario-Campos MC & Leckman JFA
+Multidimensional model of obsessive-compulsive disorder. Am. J. Psychiatry
+162, 228–238 (2005). [DOI] [PubMed] [Google Scholar]
+3.Bloch MH, Landeros-Weisenberger A, Rosario MC, Pittenger C & Leckman JF
+Meta-analysis of the symptom structure of obsessive-compulsive disorder. Am. J. Psychiatry
+165, 1532–1542 (2008). [DOI] [PMC free article] [PubMed] [Google Scholar]
+4.Taylor S
+et al.
+Musical obsessions: a comprehensive review of neglected clinical phenomena. J. Anxiety Disord
+28, 580–589 (2014). [DOI] [PubMed] [Google Scholar]
+5.Stein DJ, Hollander E & Josephson SC
+Serotonin reuptake blockers for the treatment of obsessional jealousy. J. Clin. Psychiatry
+55, 30–33 (1994). [PubMed] [Google Scholar]
+6.Greenberg D & Huppert JD
+Scrupulosity: a unique subtype of obsessive-compulsive disorder. Curr. Psychiatry Rep
+12, 282–289 (2010). [DOI] [PubMed] [Google Scholar]
+7.Phillips KA
+et al.
+Should an obsessive-compulsive spectrum grouping of disorders be included in DSM-V?
+Depress. Anxiety
+27, 528–555 (2010). [DOI] [PMC free article] [PubMed] [Google Scholar]; This review provides the rationale for the DSM-5 decision to include a new chapter on OCRDs.
+8.Stein DJ
+et al.
+The classification of obsessive–compulsive and related disorders in the ICD-11. J. Affect. Disord
+190, 663–674 (2016). [DOI] [PubMed] [Google Scholar]
+9.Bienvenu OJ
+et al.
+The relationship of obsessive–compulsive disorder to possible spectrum disorders: results from a family study. Biol. Psychiatry
+48, 287–293 (2000). [DOI] [PubMed] [Google Scholar]
+10.Monzani B, Rijsdijk F, Harris J & Mataix-Cols D
+The structure of genetic and environmental risk factors for dimensional representations of DSM-5 obsessive-compulsive spectrum disorders. JAMA Psychiatry
+71, 182–189 (2014). [DOI] [PubMed] [Google Scholar]
+11.Karno M
+The epidemiology of obsessive-compulsive disorder in five US communities. Arch. Gen. Psychiatry
+45, 1094 (1988). [DOI] [PubMed] [Google Scholar]
+12.Baxter AJ, Vos T, Scott KM, Ferrari AJ & Whiteford HA
+The global burden of anxiety disorders in 2010. Psychol. Med
+44, 2363–2374 (2014). [DOI] [PubMed] [Google Scholar]; This systematic review provides the foundation for estimations of the global burden of anxiety and related disorders.
+13.Fontenelle LF, Mendlowicz MV & Versiani M
+The descriptive epidemiology of obsessive–compulsive disorder. Prog. Neuropsychopharmacol. Biol. Psychiatry
+30, 327–337 (2006). [DOI] [PubMed] [Google Scholar]
+14.Ruscio AM, Stein DJ, Chiu WT & Kessler RC
+The epidemiology of obsessive-compulsive disorder in the National Comorbidity Survey Replication. Mol. Psychiatry
+15, 53–63 (2008). [DOI] [PMC free article] [PubMed] [Google Scholar]; This community survey provides data on the prevalence and comorbidity of OCD in the general population.
+15.Fontenelle LF & Hasler G
+The analytical epidemiology of obsessive–compulsive disorder: risk factors and correlates. Prog. Neuropsychopharmacol. Biol. Psychiatry
+32, 1–15 (2008). [DOI] [PubMed] [Google Scholar]
+16.Russell EJ, Fawcett JM & Mazmanian D
+Risk of obsessive-compulsive disorder in pregnant and postpartum women. J. Clin. Psychiatry
+74, 377–385 (2013). [DOI] [PubMed] [Google Scholar]
+17.Sharma E, Thennarasu K & Reddy YCJ
+Long-term outcome of obsessive-compulsive disorder in adults. J. Clin. Psychiatry
+75, 1019–1027 (2014). [DOI] [PubMed] [Google Scholar]
+18.Lewis-Fernández R
+et al.
+Culture and the anxiety disorders: recommendations for DSM-V. Depress. Anxiety
+27, 212–229 (2010). [DOI] [PMC free article] [PubMed] [Google Scholar]
+19.Isomura K
+et al.
+Metabolic and cardiovascular complications in obsessive-compulsive disorder: a total population, sibling comparison study with long-term follow-up. Biol. Psychiatry
+84, 324–331 (2018). [DOI] [PubMed] [Google Scholar]
+20.Meier SM
+et al.
+Mortality among persons with obsessive-compulsive disorder in Denmark. JAMA Psychiatry
+73, 268–274 (2016). [DOI] [PMC free article] [PubMed] [Google Scholar]
+21.Nelson E & Rice J
+Stability of diagnosis of obsessive-compulsive disorder in the Epidemiologic Catchment Area study. Am. J. Psychiatry
+154, 826–831 (1997). [DOI] [PubMed] [Google Scholar]
+22.Weissman MM
+et al.
+The cross national epidemiology of obsessive compulsive disorder. The Cross National Collaborative Group. J. Clin. Psychiatry
+55, 5–10 (1994). [PubMed] [Google Scholar]
+23.Stein DJ, Scott KM, de Jonge P & Kessler RC
+Epidemiology of anxiety disorders: from surveys to nosology and back. Dialogues Clin. Neurosci
+19, 127–136 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+24.Taylor S
+Etiology of obsessions and compulsions: a meta-analysis and narrative review of twin studies. Clin. Psychol. Rev
+31, 1361–1372 (2011). [DOI] [PubMed] [Google Scholar]
+25.Leckman JF
+et al.
+Obsessive-compulsive disorder: a review of the diagnostic criteria and possible subtypes and dimensional specifiers for DSM-V. Depress. Anxiety
+27, 507–527 (2010). [DOI] [PMC free article] [PubMed] [Google Scholar]
+26.Taylor S
+Molecular genetics of obsessive–compulsive disorder: a comprehensive meta-analysis of genetic association studies. Mol. Psychiatry
+18, 799–805 (2012). [DOI] [PubMed] [Google Scholar]
+27.Taylor S
+Disorder-specific genetic factors in obsessive-compulsive disorder: a comprehensive meta-analysis. Am. J. Med. Genet. B Neuropsychiatr. Genet
+171, 325–332 (2015). [DOI] [PubMed] [Google Scholar]
+28.International Obsessive Compulsive Disorder Foundation Genetics Collaborative (IOCDF-GC) & OCD Collaborative Genetics Association Studies (OCGAS). Revealing the complex genetic architecture of obsessive–compulsive disorder using meta-analysis. Mol. Psychiatry
+23, 1181–1188 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]; This paper comprises the largest analysis of genome-wide association studies in OCD.
+29.McGrath LM
+et al.
+Copy number variation in obsessive-compulsive disorder and Tourette syndrome: a cross-disorder study. J. Am. Acad. Child Adolesc. Psychiatry
+53, 910–919 (2014). [DOI] [PMC free article] [PubMed] [Google Scholar]
+30.Brander G, Pérez-Vigil A, Larsson H & Mataix-Cols D
+Systematic review of environmental risk factors for obsessive-compulsive disorder: a proposed roadmap from association to causation. Neurosci. Biobehav. Rev
+65, 36–62 (2016). [DOI] [PubMed] [Google Scholar]
+31.Dykshoorn KL
+Trauma-related obsessive–compulsive disorder: a review. Health Psychol. Behav. Med
+2, 517–528 (2014). [DOI] [PMC free article] [PubMed] [Google Scholar]
+32.Miller ML & Brock RL
+The effect of trauma on the severity of obsessive-compulsive spectrum symptoms: a meta-analysis. J. Anxiety Disord
+47, 29–44 (2017). [DOI] [PubMed] [Google Scholar]
+33.Mufford MS
+et al.
+Neuroimaging genomics in psychiatry—a translational approach. Genome Med
+9, 102 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+34.Wolpe J
+The systematic desensitization treatment of neuroses. J. Nerv. Ment. Dis
+132, 189–203 (1961). [DOI] [PubMed] [Google Scholar]
+35.Rachman S, Hodgson R & Marks IM
+The treatment of chronic obsessive-compulsive neurosis. Behav. Res. Ther
+9, 237–247 (1971). [DOI] [PubMed] [Google Scholar]
+36.Rachman S
+Obsessional ruminations. Behav. Res. Ther
+9, 229–235 (1971). [DOI] [PubMed] [Google Scholar]
+37.Salkovskis PM
+Obsessional-compulsive problems: a cognitive-behavioural analysis. Behav. Res. Ther
+23, 571–583 (1985). [DOI] [PubMed] [Google Scholar]
+38.Craske MG, Treanor M, Conway CC, Zbozinek T & Vervliet B
+Maximizing exposure therapy: an inhibitory learning approach. Behav. Res. Ther
+58, 10–23 (2014). [DOI] [PMC free article] [PubMed] [Google Scholar]
+39.Jacoby RJ & Abramowitz JS
+Inhibitory learning approaches to exposure therapy: a critical review and translation to obsessive-compulsive disorder. Clin. Psychol. Rev
+49, 28–40 (2016). [DOI] [PubMed] [Google Scholar]
+40.Obsessive Compulsive Cognitions Working Group. Cognitive assessment of obsessive-compulsive disorder. Behav. Res. Ther
+35, 667–681 (1997). [DOI] [PubMed] [Google Scholar]
+41.Stein DJ, Goodman WK & Rauch SL
+The cognitive-affective neuroscience of obsessive-compulsive disorder. Curr. Psychiatry Rep
+2, 341–346 (2000). [DOI] [PubMed] [Google Scholar]
+42.Benzina N, Mallet L, Burguière E, N’Diaye K & Pelissolo A
+Cognitive dysfunction in obsessive-compulsive disorder. Curr. Psychiatry Rep
+18, 80 (2016). [DOI] [PubMed] [Google Scholar]
+43.Wood J & Ahmari SEA
+Framework for understanding the emerging role of corticolimbic-ventral striatal networks in OCD-associated repetitive behaviors. Front. Syst. Neurosci
+9, 171 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
+44.Burguière E, Monteiro P, Mallet L, Feng G & Graybiel AM
+Striatal circuits, habits, and implications for obsessive–compulsive disorder. Curr. Opin. Neurobiol
+30, 59–65 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
+45.Kalueff AV
+et al.
+Neurobiology of rodent self-grooming and its value for translational neuroscience. Nat. Rev. Neurosci
+17, 45–59 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
+46.Baxter LR
+Caudate glucose metabolic rate changes with both drug and behavior therapy for obsessive-compulsive disorder. Arch. Gen. Psychiatry
+49, 681 (1992). [DOI] [PubMed] [Google Scholar]
+47.Kwon JS, Jang JH, Choi J-S & Kang D-H
+Neuroimaging in obsessive–compulsive disorder. Expert Rev. Neurother
+9, 255–269 (2009). [DOI] [PubMed] [Google Scholar]
+48.van den Heuvel OA
+et al.
+Brain circuitry of compulsivity. Eur. Neuropsychopharmacol
+26, 810–827 (2016). [DOI] [PubMed] [Google Scholar]
+49.van Velzen LS, Vriend C, de Wit SJ & van den Heuvel OA
+Response inhibition and interference control in obsessive-compulsive spectrum disorders. Front. Hum. Neurosci
+8, 419 (2014). [DOI] [PMC free article] [PubMed] [Google Scholar]
+50.Rotge J-Y
+et al.
+Provocation of obsessive-compulsive symptoms: a quantitative voxel-based meta-analysis of functional neuroimaging studies. J. Psychiatry Neurosci
+33, 405–412 (2008). [PMC free article] [PubMed] [Google Scholar]
+51.Thorsen AL
+et al.
+Emotional processing in obsessive-compulsive disorder: a systematic review and meta-analysis of 25 functional neuroimaging studies. Biol. Psychiatry Cogn. Neurosci. Neuroimaging
+3, 563–571 (2018). [DOI] [PMC free article] [PubMed] [Google Scholar]
+52.Del Casale A
+et al.
+Executive functions in obsessive–compulsive disorder: an activation likelihood estimate meta-analysis of fMRI studies. World J. Biol. Psychiatry
+17, 378–393 (2015). [DOI] [PubMed] [Google Scholar]
+53.Eng GK, Sim K & Chen S-HA
+Meta-analytic investigations of structural grey matter, executive domain-related functional activations, and white matter diffusivity in obsessive compulsive disorder: an integrative review. Neurosci. Biobehav. Rev
+52, 233–257 (2015). [DOI] [PubMed] [Google Scholar]
+54.Gillan CM, Robbins TW, Sahakian BJ, van den Heuvel OA & van Wingen G
+The role of habit in compulsivity. Eur. Neuropsychopharmacol
+26, 828–840 (2016). [DOI] [PMC free article] [PubMed] [Google Scholar]
+55.Rasgon A
+et al.
+Neural correlates of affective and non-affective cognition in obsessive compulsive disorder: a meta-analysis of functional imaging studies. Eur. Psychiatry
+46, 25–32 (2017). [DOI] [PubMed] [Google Scholar]
+56.Williams LM
+Precision psychiatry: a neural circuit taxonomy for depression and anxiety. Lancet Psychiatry
+3, 472–480 (2016). [DOI] [PMC free article] [PubMed] [Google Scholar]
+57.Sprooten E
+et al.
+Addressing reverse inference in psychiatric neuroimaging: meta-analyses of task-related brain activation in common mental disorders. Hum. Brain Mapp
+38, 1846–1864 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+58.Fineberg NA
+et al.
+Mapping compulsivity in the DSM-5 obsessive compulsive and related disorders: cognitive domains, neural circuitry, and treatment. Int. J. Neuropsychopharmacol
+21, 42–58 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+59.Carlisi CO
+et al.
+Shared and disorder-specific neurocomputational mechanisms of decision-making in autism spectrum disorder and obsessive-compulsive disorder. Cereb. Cortex
+27, 5804–5816 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+60.Norman LJ
+et al.
+Neural dysfunction during temporal discounting in paediatric attention-deficit/hyperactivity disorder and obsessive-compulsive disorder. Psychiatry Res. Neuroimaging
+269, 97–105 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+61.Fan S
+et al.
+Trans-diagnostic comparison of response inhibition in Tourette’s disorder and obsessive-compulsive disorder. World J. Biol. Psychiatry
+19, 527–537 (2017). [DOI] [PubMed] [Google Scholar]
+62.Norman LJ
+et al.
+Structural and functional brain abnormalities in attention-deficit/hyperactivity disorder and obsessive-compulsive disorder. JAMA Psychiatry
+73, 815 (2016). [DOI] [PubMed] [Google Scholar]
+63.Pujol J
+et al.
+Mapping structural brain alterations in obsessive-compulsive disorder. Arch. Gen. Psychiatry
+61, 720 (2004). [DOI] [PubMed] [Google Scholar]
+64.van den Heuvel OA
+et al.
+The major symptom dimensions of obsessive-compulsive disorder are mediated by partially distinct neural systems. Brain
+132, 853–868 (2008). [DOI] [PubMed] [Google Scholar]
+65.Radua J & Mataix-Cols D
+Voxel-wise meta-analysis of grey matter changes in obsessive–compulsive disorder. Br. J. Psychiatry
+195, 393–402 (2009). [DOI] [PubMed] [Google Scholar]
+66.Radua J, van den Heuvel OA, Surguladze S & Mataix-Cols D
+Meta-analytical comparison of voxel-based morphometry studies in obsessive-compulsive disorder versus other anxiety disorders. Arch. Gen. Psychiatry
+67, 701–711 (2010). [DOI] [PubMed] [Google Scholar]
+67.de Wit SJ
+et al.
+Multicenter voxel-based morphometry mega-analysis of structural brain scans in obsessive-compulsive disorder. Am. J. Psychiatry
+171, 340–349 (2014). [DOI] [PubMed] [Google Scholar]
+68.Fouche J-P
+et al.
+Cortical thickness in obsessive–compulsive disorder: multisite mega-analysis of 780 brain scans from six centres. Br. J. Psychiatry
+210, 67–74 (2017). [DOI] [PubMed] [Google Scholar]
+69.Subirà M
+et al.
+Structural covariance of neostriatal and limbic regions in patients with obsessive–compulsive disorder. J. Psychiatry Neurosci
+41, 115–123 (2016). [DOI] [PMC free article] [PubMed] [Google Scholar]
+70.Thompson PM
+et al.
+ENIGMA and the individual: predicting factors that affect the brain in 35 countries worldwide. NeuroImage
+145, 389–408 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+71.Boedhoe PSW
+et al.
+Distinct subcortical volume alterations in pediatric and adult OCD: a worldwide meta-and mega-analysis. Am. J. Psychiatry
+174, 60–69 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+72.Goodkind M
+et al.
+Identification of a common neurobiological substrate for mental illness. JAMA Psychiatry
+72, 305–315 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
+73.Boedhoe PSW
+et al.
+Cortical abnormalities associated with pediatric and adult obsessive-compulsive disorder: findings from the ENIGMA Obsessive-Compulsive Disorder Working Group. Am. J. Psychiatry
+175, 453–462 (2018). [DOI] [PMC free article] [PubMed] [Google Scholar]; Together with Boedhoe et al. (2017), this paper comprises the largest brain imaging study of OCD.
+74.Radua J
+et al.
+Multimodal voxel-based meta-analysis of white matter abnormalities in obsessive–compulsive disorder. Neuropsychopharmacology
+39, 1547–1557 (2014). [DOI] [PMC free article] [PubMed] [Google Scholar]
+75.Jenkins LM
+et al.
+Shared white matter alterations across emotional disorders: a voxel-based meta-analysis of fractional anisotropy. Neuroimage Clin
+12, 1022–1034 (2016). [DOI] [PMC free article] [PubMed] [Google Scholar]
+76.Bandelow B
+et al.
+Biological markers for anxiety disorders, OCD and PTSD: a consensus statement. Part II: neurochemistry, neurophysiology and neurocognition. World J. Biol. Psychiatry
+18, 162–214 (2016). [DOI] [PMC free article] [PubMed] [Google Scholar]
+77.Kim E
+et al.
+Altered serotonin transporter binding potential in patients with obsessive-compulsive disorder under escitalopram treatment: [11C]DASB PET study. Psychol. Med
+46, 357–366 (2015). [DOI] [PubMed] [Google Scholar]
+78.Nikolaus S, Antke C, Beu M & Müller H-W
+Cortical GABA, striatal dopamine and midbrain serotonin as the key players in compulsive and anxiety disorders — results from in vivo imaging studies. Rev. Neurosci
+21, 119–139 (2010). [DOI] [PubMed] [Google Scholar]
+79.Goodman WK
+et al.
+Beyond the serotonin hypothesis: a role for dopamine in some forms of obsessive compulsive disorder?
+J. Clin. Psychiatry
+51, 36–43 (1990). [PubMed] [Google Scholar]
+80.Olver JS
+et al.
+Dopamine D1 receptor binding in the anterior cingulate cortex of patients with obsessive–compulsive disorder. Psychiatry Res
+183, 85–88 (2010). [DOI] [PubMed] [Google Scholar]
+81.Ducasse D
+et al.
+D2 and D3 dopamine receptor affinity predicts effectiveness of antipsychotic drugs in obsessive-compulsive disorders: a metaregression analysis. Psychopharmacology
+231, 3765–3770 (2014). [DOI] [PubMed] [Google Scholar]
+82.Brennan BP, Rauch SL, Jensen JE & Pope HGA
+Critical review of magnetic resonance spectroscopy studies of obsessive-compulsive disorder. Biol. Psychiatry
+73, 24–31 (2013). [DOI] [PMC free article] [PubMed] [Google Scholar]
+83.Bhattacharyya S
+et al.
+Anti-brain autoantibodies and altered excitatory neurotransmitters in obsessive–compulsive disorder. Neuropsychopharmacology
+34, 2489–2496 (2009). [DOI] [PubMed] [Google Scholar]
+84.Stewart SE
+et al.
+Meta-analysis of association between obsessive-compulsive disorder and the 3ʹ region of neuronal glutamate transporter gene SLC1A1. Am. J. Med. Genet. B Neuropsychiatr. Genet
+162, 367–379 (2013). [DOI] [PubMed] [Google Scholar]
+85.Burguiere E, Monteiro P, Feng G & Graybiel AM
+Optogenetic stimulation of lateral orbitofronto-striatal pathway suppresses compulsive behaviors. Science
+340, 1243–1246 (2013). [DOI] [PMC free article] [PubMed] [Google Scholar]; This paper demonstrates the value of basic neuroscience research in shedding light on OCD.
+86.Kariuki-Nyuthe C, Gomez-Mancilla B & Stein DJ
+Obsessive compulsive disorder and the glutamatergic system. Curr. Opin. Psychiatry
+27, 32–37 (2014). [DOI] [PubMed] [Google Scholar]
+87.Turna J, Grosman Kaplan K, Anglin R & Van Ameringen M
+“What’s bugging the gut in OCD?” A review of the gut microbiome in obsessive-compulsive disorder. Depress. Anxiety
+33, 171–178 (2015). [DOI] [PubMed] [Google Scholar]
+88.Renna ME, O’Toole MS, Spaeth PE, Lekander M & Mennin DS
+The association between anxiety, traumatic stress, and obsessive-compulsive disorders and chronic inflammation: a systematic review and meta-analysis. Depress. Anxiety
+35, 1081–1094 (2018). [DOI] [PubMed] [Google Scholar]
+89.Fineberg NA
+et al.
+Probing compulsive and impulsive behaviors, from animal models to endophenotypes: a narrative review. Neuropsychopharmacology
+35, 591–604 (2009). [DOI] [PMC free article] [PubMed] [Google Scholar]
+90.Mataix-Cols D
+et al.
+Symptom stability in adult obsessive-compulsive disorder: data from a naturalistic two-year follow-up study. Am. J. Psychiatry
+159, 263–268 (2002). [DOI] [PubMed] [Google Scholar]
+91.Lochner C
+et al.
+Gender in obsessive–compulsive disorder: clinical and genetic findings. Eur. Neuropsychopharmacol
+14, 105–113 (2004). [DOI] [PubMed] [Google Scholar]
+92.Torresan RC
+et al.
+Symptom dimensions, clinical course and comorbidity in men and women with obsessive-compulsive disorder. Psychiatry Res
+209, 186–195 (2013). [DOI] [PubMed] [Google Scholar]
+93.Rapp AM, Bergman RL, Piacentini J & Mcguire JF
+Evidence-based assessment of obsessive–compulsive disorder. J. Cent. Nerv. Syst. Dis
+8, 13–29 (2016). [DOI] [PMC free article] [PubMed] [Google Scholar]
+94.du Toit PL, van Kradenburg J, Niehaus D & Stein DJ
+Comparison of obsessive-compulsive disorder patients with and without comorbid putative obsessive-compulsive spectrum disorders using a structured clinical interview. Compr. Psychiatry
+42, 291–300 (2001). [DOI] [PubMed] [Google Scholar]
+95.Goodman WK
+et al.
+The Yale-Brown Obsessive Compulsive Scale. I. Development, use, and reliability. Arch. Gen. Psychiatry
+46, 1006–1011 (1989). [DOI] [PubMed] [Google Scholar]; The Y-BOCS remains the gold standard measure for assessing symptom severity in OCD.
+96.Rosario-Campos MC
+et al.
+The Dimensional Yale–Brown Obsessive–Compulsive Scale (DY-BOCS): an instrument for assessing obsessive–compulsive symptom dimensions. Mol. Psychiatry
+11, 495–504 (2006). [DOI] [PubMed] [Google Scholar]
+97.Storch EA
+et al.
+Florida obsessive-compulsive inventory: development, reliability, and validity. J. Clin. Psychol
+63, 851–859 (2007). [DOI] [PubMed] [Google Scholar]
+98.Rosario MC
+et al.
+Validation of the University of São Paulo Sensory Phenomena Scale: initial psychometric properties. CNS Spectr
+14, 315–323 (2009). [DOI] [PubMed] [Google Scholar]
+99.Eisen JL
+et al.
+The Brown Assessment of Beliefs Scale: reliability and validity. Am. J. Psychiatry
+155, 102–108 (1998). [DOI] [PubMed] [Google Scholar]
+100.Albert U, Baffa A & Maina G
+Family accommodation in adult obsessive–compulsive disorder: clinical perspectives. Psychol. Res. Behav. Manag
+10, 293–304 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+101.Brakoulias V, Perkes IE & Tsalamanios E
+A call for prevention and early intervention in obsessive-compulsive disorder. Early Interv. Psychiatry
+12, 572–577 (2017). [DOI] [PubMed] [Google Scholar]
+102.Fineberg NA
+et al.
+Early intervention for obsessive compulsive disorder: an expert consensus statement. Eur. Neuropsychopharmacol
+29, 549–565 (2019). [DOI] [PubMed] [Google Scholar]
+103.Sarris J, Camfield D & Berk M
+Complementary medicine, self-help, and lifestyle interventions for obsessive compulsive disorder (OCD) and the OCD spectrum: a systematic review. J. Affect. Disord
+138, 213–221 (2012). [DOI] [PubMed] [Google Scholar]
+104.Amerio A, Odone A, Marchesi C & Ghaemi SN
+Treatment of comorbid bipolar disorder and obsessive–compulsive disorder: a systematic review. J. Affect. Disord
+166, 258–263 (2014). [DOI] [PubMed] [Google Scholar]
+105.McGuire JF
+et al.
+A meta-analysis of cognitive behavior therapy and medication for child obsessive-compulsive disorder: moderators of treatment efficacy, response, and remission. Depress. Anxiety
+32, 580–593 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
+106.Dell’Osso B
+et al.
+Obsessive-compulsive disorder in the elderly: a report from the International College of Obsessive-Compulsive Spectrum Disorders (ICOCS). Eur. Psychiatry
+45, 36–40 (2017). [DOI] [PubMed] [Google Scholar]
+107.Skapinakis P
+et al.
+A systematic review of the clinical effectiveness and cost-effectiveness of pharmacological and psychological interventions for the management of obsessive–compulsive disorder in children/adolescents and adults. Health Technol. Assess
+20, 1–392 (2016). [DOI] [PMC free article] [PubMed] [Google Scholar]
+108.Meyer E
+et al.
+Adding motivational interviewing and thought mapping to cognitive-behavioral group therapy: results from a randomized clinical trial. Braz. J. Psychiatry
+32, 20–29 (2010). [DOI] [PubMed] [Google Scholar]
+109.Simpson HB
+et al.
+Challenges using motivational interviewing as an adjunct to exposure therapy for obsessive-compulsive disorder. Behav. Res. Ther
+48, 941–948 (2010). [DOI] [PMC free article] [PubMed] [Google Scholar]
+110.Öst L-G, Havnen A, Hansen B & Kvale G
+Cognitive behavioral treatments of obsessive-compulsive disorder. A systematic review and meta-analysis of studies published 1993–2014. Clin. Psychol. Rev
+40, 156–169 (2015). [DOI] [PubMed] [Google Scholar]
+111.Öst L-G, Riise EN, Wergeland GJ, Hansen B & Kvale G
+Cognitive behavioral and pharmacological treatments of OCD in children: a systematic review and meta-analysis. J. Anxiety Disord
+43, 58–69 (2016). [DOI] [PubMed] [Google Scholar]
+112.Huppert JD & Franklin ME
+Cognitive behavioral therapy for obsessive-compulsive disorder: an update. Curr. Psychiatry Rep
+7, 268–273 (2005). [DOI] [PubMed] [Google Scholar]
+113.Hirschtritt ME, Bloch MH & Mathews CA
+Obsessive-compulsive disorder. JAMA
+317, 1358 (2017). [DOI] [PubMed] [Google Scholar]
+114.Wootton BM
+Remote cognitive–behavior therapy for obsessive–compulsive symptoms: a meta-analysis. Clin. Psychol. Rev
+43, 103–113 (2016). [DOI] [PubMed] [Google Scholar]
+115.Rogers MA, Lemmen K, Kramer R, Mann J & Chopra V
+Internet-delivered health interventions that work: systematic review of meta-analyses and evaluation of website availability. J. Med. Internet Res
+19, e90 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+116.Wheaton MG
+et al.
+Patient adherence and treatment outcome with exposure and response prevention for OCD: which components of adherence matter and who becomes well?
+Behav. Res. Ther
+85, 6–12 (2016). [DOI] [PMC free article] [PubMed] [Google Scholar]
+117.Pinto A, Liebowitz MR, Foa EB & Simpson HB
+Obsessive compulsive personality disorder as a predictor of exposure and ritual prevention outcome for obsessive compulsive disorder. Behav. Res. Ther
+49, 453–458 (2011). [DOI] [PMC free article] [PubMed] [Google Scholar]
+118.Skapinakis P
+et al.
+Pharmacological and psychotherapeutic interventions for management of obsessive-compulsive disorder in adults: a systematic review and network meta-analysis. Lancet Psychiatry
+3, 730–739 (2016). [DOI] [PMC free article] [PubMed] [Google Scholar]
+119.Kvale G
+et al.
+Successfully treating 90 patients with obsessive compulsive disorder in eight days: the Bergen 4-day treatment. BMC Psychiatry
+18, 323 (2018). [DOI] [PMC free article] [PubMed] [Google Scholar]
+120.Soomro GM, Altman DG, Rajagopal S & Oakley Browne M
+Selective serotonin re-uptake inhibitors (SSRIs) versus placebo for obsessive compulsive disorder (OCD). Cochrane Database Syst. Rev
+1, CD001765 (2008). [DOI] [PMC free article] [PubMed] [Google Scholar]
+121.Bloch MH, McGuire J, Landeros-Weisenberger A, Leckman JF & Pittenger C
+Meta-analysis of the dose-response relationship of SSRI in obsessive-compulsive disorder. Mol. Psychiatry
+15, 850–855 (2009). [DOI] [PMC free article] [PubMed] [Google Scholar]
+122.Stein DJ, Wreford Andersen E, Tonnoir B & Fineberg N
+Escitalopram in obsessive–compulsive disorder: a randomized, placebo-controlled, paroxetine-r eferenced, fixed-dose, 24-week study. Curr. Med. Res. Opin
+23, 701–711 (2007). [DOI] [PubMed] [Google Scholar]
+123.Koran LM
+et al.
+Practice guideline for the treatment of patients with obsessive-compulsive disorder. Am. J. Psychiatry
+164, 5–53 (2007). [PubMed] [Google Scholar]
+124.Murphy DL
+et al.
+Obsessive—compulsive disorder as a 5-HT subsystem-related behavioural disorder. Br. J. Psychiatry
+155, 15–24 (1989). [PubMed] [Google Scholar]
+125.Karabanow O
+Double-blind controlled study in phobias and obsessions. J. Int. Med. Res
+5 (Suppl. 5), 42–48 (1977). [PubMed] [Google Scholar]
+126.López-Ibor JJ
+et al.
+Double-blind comparison of fluoxetine versus clomipramine in the treatment of obsessive compulsive disorder. Eur. Neuropsychopharmacol
+6, 111–118 (1996). [DOI] [PubMed] [Google Scholar]
+127.Zohar J & Judge R
+Paroxetine versus clomipramine in the treatment of obsessive–compulsive disorder. Br. J. Psychiatry
+169, 468–474 (1996). [DOI] [PubMed] [Google Scholar]
+128.Bisserbe J, Lane R & Flament M
+A double-blind comparison of sertraline and clomipramine in outpatients with obsessive-compulsive disorder. Eur. Psychiatry
+12, 82–93 (1997). [DOI] [PubMed] [Google Scholar]
+129.Bandelow B
+et al.
+Guidelines for the pharmacological treatment of anxiety disorders, obsessive–compulsive disorder and posttraumatic stress disorder in primary care. Int. J. Psychiatry Clin. Pract
+16, 77–84 (2012). [DOI] [PubMed] [Google Scholar]
+130.Issari Y, Jakubovski E, Bartley CA, Pittenger C & Bloch MH
+Early onset of response with selective serotonin reuptake inhibitors in obsessive-compulsive disorder. J. Clin. Psychiatry
+77, e605–e611 (2016). [DOI] [PubMed] [Google Scholar]
+131.Varigonda AL, Jakubovski E & Bloch MH
+Systematic review and meta-analysis: early treatment responses of selective serotonin reuptake inhibitors and clomipramine in pediatric obsessive-compulsive disorder. J. Am. Acad. Child Adolesc. Psychiatry
+55, 851–859 (2016). [DOI] [PMC free article] [PubMed] [Google Scholar]
+132.da Conceição Costa DL
+et al.
+Can early improvement be an indicator of treatment response in obsessive-compulsive disorder? Implications for early-treatment decision-making. J. Psychiatr. Res
+47, 1700–1707 (2013). [DOI] [PubMed] [Google Scholar]
+133.Greist JH
+et al.
+WCA recommendations for the long-term treatment of obsessive-compulsive disorder in adults. CNS Spectr
+8, 7–16 (2003). [DOI] [PubMed] [Google Scholar]
+134.Batelaan NM
+et al.
+Risk of relapse after antidepressant discontinuation in anxiety disorders, obsessive-compulsive disorder, and post-traumatic stress disorder: systematic review and meta-analysis of relapse prevention trials. BMJ
+358, j3927 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+135.Erzegovesi S
+et al.
+Clinical predictors of drug response in obsessive-compulsive disorder. J. Clin. Psychopharmacol
+21, 488–492 (2001). [DOI] [PubMed] [Google Scholar]
+136.Ravizza L, Barzega G, Bellino S, Bogetto F & Maina G
+Predictors of drug treatment response in obsessive-compulsive disorder. J. Clin. Psychiatry
+56, 368–373 (1995). [PubMed] [Google Scholar]
+137.Belotto-Silva C
+et al.
+Group cognitive-behavioral therapy versus selective serotonin reuptake inhibitors for obsessive-compulsive disorder: a practical clinical trial. J. Anxiety Disord
+26, 25–31 (2012). [DOI] [PubMed] [Google Scholar]
+138.Simpson HB
+et al.
+Cognitive-behavioral therapy versus risperidone for augmenting serotonin reuptake inhibitors in obsessive-compulsive disorder: a randomized clinical trial. JAMA Psychiatry
+70, 1190–1199 (2013). [DOI] [PMC free article] [PubMed] [Google Scholar]; This randomized controlled trial informs current approaches to the management of treatment-resistant OCD.
+139.Cavanagh K
+Geographic inequity in the availability of cognitive behavioural therapy in England and Wales: a 10-year update. Behav. Cogn. Psychother
+42, 497–501 (2013). [DOI] [PubMed] [Google Scholar]
+140.Zhou D-D
+et al.
+Augmentation agents to serotonin reuptake inhibitors for treatment-resistant obsessive-compulsive disorder: a network meta-analysis. Prog. Neuropsychopharmacol. Biol. Psychiatry
+90, 277–287 (2019). [DOI] [PubMed] [Google Scholar]
+141.Dougherty DD
+et al.
+Open-label study of high (30 mg) and moderate (20 mg) dose escitalopram for the treatment of obsessive–compulsive disorder. Int. Clin. Psychopharmacol
+24, 306–311 (2009). [DOI] [PubMed] [Google Scholar]
+142.Ninan PT
+et al.
+High-dose sertraline strategy for nonresponders to acute treatment for obsessive-compulsive disorder. J. Clin. Psychiatry
+67, 15–22 (2006). [DOI] [PubMed] [Google Scholar]
+143.Pampaloni I
+et al.
+High-dose selective serotonin reuptake inhibitors in OCD: a systematic retrospective case notes survey. J. Psychopharmacol
+24, 1439–1445 (2009). [DOI] [PubMed] [Google Scholar]
+144.Albert U, Aguglia E, Maina G & Bogetto F
+Venlafaxine versus clomipramine in the treatment of obsessive-compulsive disorder. J. Clin. Psychiatry
+63, 1004–1009 (2002). [DOI] [PubMed] [Google Scholar]
+145.Denys D, van Megen HJGM, van der Wee N & Westenberg HGMA
+Double-blind switch study of paroxetine and venlafaxine in obsessive-compulsive disorder. J. Clin. Psychiatry
+65, 37–43 (2004). [DOI] [PubMed] [Google Scholar]
+146.Yeh Y-W
+et al.
+High-dose duloxetine for treatment-resistant obsessive-compulsive disorder. Clin. Neuropharmacol
+32, 174–176 (2009). [DOI] [PubMed] [Google Scholar]
+147.Dougherty DD
+et al.
+Open-label study of duloxetine for the treatment of obsessive-compulsive disorder. Int. J. Neuropsychopharmacol
+18, pyu062 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
+148.Bandelow B
+et al.
+World Federation of Societies of Biological Psychiatry (WFSBP) guidelines for the pharmacological treatment of anxiety, obsessive-compulsive and post-traumatic stress disorders – first revision. World J. Biol. Psychiatry
+9, 248–312 (2008). [DOI] [PubMed] [Google Scholar]
+149.Bloch MH
+et al.
+A systematic review: antipsychotic augmentation with treatment refractory obsessive-compulsive disorder. Mol. Psychiatry
+11, 622–632 (2006). [DOI] [PubMed] [Google Scholar]
+150.Albert U
+et al.
+Role and clinical implications of atypical antipsychotics in anxiety disorders, obsessive-compulsive disorder, trauma-related, and somatic symptom disorders. Int. Clin. Psychopharmacol
+31, 249–258 (2016). [DOI] [PubMed] [Google Scholar]
+151.Dold M, Aigner M, Lanzenberger R & Kasper S
+Antipsychotic augmentation of serotonin reuptake inhibitors in treatment-resistant obsessive-compulsive disorder: an update meta-analysis of double-blind, randomized, placebo-controlled trials. Int. J. Neuropsychopharmacol
+18, pyv047 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
+152.Dini JB. et al.
+A double-blind, randomized, controlled trial of fluoxetine plus quetiapine or clomipramine versus fluoxetine plus placebo for obsessive-compulsive disorder. J. Clin. Psychopharmacol
+31, 763–768
+(2011). [DOI] [PubMed] [Google Scholar]
+153.Pittenger C
+Glutamatergic agents for OCD and related disorders. Curr. Treat. Options Psychiatry
+2, 271–283 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
+154.Popli AP
+Interactions of serotonin reuptake inhibitors with tricyclic antidepressants. Arch. Gen. Psychiatry
+51, 666 (1994). [DOI] [PubMed] [Google Scholar]
+155.Matsunaga H
+et al.
+A long-term trial of the effectiveness and safety of atypical antipsychotic agents in augmenting SSRI-refractory obsessive-compulsive disorder. J. Clin. Psychiatry
+70, 863–868 (2009). [DOI] [PubMed] [Google Scholar]
+156.Fineberg NA
+et al.
+Obsessive–compulsive disorder (OCD): practical strategies for pharmacological and somatic treatment in adults. Psychiatry Res
+227, 114–125 (2015). [DOI] [PubMed] [Google Scholar]
+157.Rodriguez CI, Levinson A, Zwerling J, Vermes D & Simpson HB
+Open-label trial on the effects of memantine in adults with obsessive-compulsive disorder after a single ketamine infusion. J. Clin. Psychiatry
+77, 688–689 (2016). [DOI] [PMC free article] [PubMed] [Google Scholar]
+158.Costa DLC
+et al.
+Randomized, double-blind, placebo-controlled trial of N-acetylcysteine augmentation for treatment-resistant obsessive-compulsive disorder. J. Clin. Psychiatry
+78, e766–e773 (2017). [DOI] [PubMed] [Google Scholar]
+159.Afshar H
+et al.
+N-Acetylcysteine add-on treatment in refractory obsessive-compulsive disorder. J. Clin. Psychopharmacol
+32, 797–803 (2012). [DOI] [PubMed] [Google Scholar]
+160.Paydary K
+et al.
+N-Acetylcysteine augmentation therapy for moderate-to-severe obsessive-compulsive disorder: randomized, double-blind, placebo-controlled trial. J. Clin. Pharm. Ther
+41, 214–219 (2016). [DOI] [PubMed] [Google Scholar]
+161.Sarris J
+et al.
+N-A cetylcysteine (NAC) in the treatment of obsessive-compulsive disorder: a 16-week, double-blind, randomised, placebo-controlled study. CNS Drugs
+29, 801–809 (2015). [DOI] [PubMed] [Google Scholar]
+162.Ghanizadeh A
+et al.
+Efficacy of N-acetylcysteine augmentation on obsessive compulsive disorder: a multicenter randomized double blind placebo controlled clinical trial. Iran J. Psychiatry
+12, 134–141 (2017). [PMC free article] [PubMed] [Google Scholar]
+163.Kishi T, Matsuda Y & Iwata N
+Combination therapy of serotonin reuptake inhibitors and memantine for obsessive–compulsive disorder: a meta-analysis of double-blind, randomized, placebo-controlled trials. J. Alzheimers Dis
+64, 43–48 (2018). [DOI] [PubMed] [Google Scholar]
+164.Senço NM
+et al.
+Transcranial direct current stimulation in obsessive–compulsive disorder: emerging clinical evidence and considerations for optimal montage of electrodes. Expert Rev. Med. Devices
+12, 381–391 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
+165.Rehn S, Eslick GD & Brakoulias VA
+Meta-analysis of the effectiveness of different cortical targets used in repetitive transcranial magnetic stimulation (rTMS) for the treatment of obsessive-compulsive disorder (OCD). Psychiatr. Q
+89, 645–665 (2018). [DOI] [PubMed] [Google Scholar]
+166.Lefaucheur J-P
+et al.
+Evidence-based guidelines on the therapeutic use of repetitive transcranial magnetic stimulation (rTMS). Clin. Neurophysiol
+125, 2150–2206 (2014). [DOI] [PubMed] [Google Scholar]
+167.Berlim MT, Neufeld NH & Van den Eynde F
+Repetitive transcranial magnetic stimulation (rTMS) for obsessive–compulsive disorder (OCD): an exploratory meta-analysis of randomized and sham-controlled trials. J. Psychiatr. Res
+47, 999–1006 (2013). [DOI] [PubMed] [Google Scholar]
+168.Zhou D-D, Wang W, Wang G-M, Li D-Q & Kuang L
+An updated meta-analysis: short-term therapeutic effects of repeated transcranial magnetic stimulation in treating obsessive-compulsive disorder. J. Affect. Disord
+215, 187–196 (2017). [DOI] [PubMed] [Google Scholar]
+169.Luis Lujan J
+Tracking the mechanisms of deep brain stimulation for neuropsychiatric disorders. Front. Biosci
+13, 5892–5904 (2008). [DOI] [PMC free article] [PubMed] [Google Scholar]
+170.Garnaat SL
+et al.
+Who qualifies for deep brain stimulation for OCD? Data from a naturalistic clinical sample. J. Neuropsychiatry Clin. Neurosci
+26, 81–86 (2014). [DOI] [PMC free article] [PubMed] [Google Scholar]
+171.Alonso P
+et al.
+Deep brain stimulation for obsessive-compulsive disorder: a meta-analysis of treatment outcome and predictors of response. PLOS ONE
+10, e0133591 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
+172.Hamani C
+et al.
+Deep brain stimulation for obsessive-compulsive disorder. Neurosurgery
+75, 327–333 (2014).25050579 [Google Scholar]
+173.Coenen VA
+et al.
+The medial forebrain bundle as a target for deep brain stimulation for obsessive-compulsive disorder. CNS Spectr
+22, 282–289 (2016). [DOI] [PubMed] [Google Scholar]
+174.Greenberg BD, Rauch SL & Haber SN
+Invasive circuitry-based neurotherapeutics: stereotactic ablation and deep brain stimulation for OCD. Neuropsychopharmacology
+35, 317–336 (2009). [DOI] [PMC free article] [PubMed] [Google Scholar]
+175.Jung HH
+et al.
+Bilateral thermal capsulotomy with MR-guided focused ultrasound for patients with treatment-refractory obsessive-compulsive disorder: a proof-of-concept study. Mol. Psychiatry
+20, 1205–1211 (2014). [DOI] [PubMed] [Google Scholar]
+176.Miguel EC
+et al.
+Evolution of gamma knife capsulotomy for intractable obsessive-compulsive disorder. Mol. Psychiatry
+24, 218–240 (2018). [DOI] [PMC free article] [PubMed] [Google Scholar]
+177.Lopes AC
+et al.
+Gamma ventral capsulotomy for obsessive-compulsive disorder: a randomized clinical trial. JAMA Psychiatry
+71, 1066–1076 (2014). [DOI] [PubMed] [Google Scholar]
+178.Shannahoff-Khalsa DS
+et al.
+Randomized controlled trial of yogic meditation techniques for patients with obsessive-compulsive disorder. CNS Spectr
+4, 34–47 (1999). [DOI] [PubMed] [Google Scholar]
+179.Key BL, Rowa K, Bieling P, McCabe R & Pawluk EJ
+Mindfulness-based cognitive therapy as an augmentation treatment for obsessive-compulsive disorder. Clin. Psychol. Psychother
+24, 1109–1120 (2017). [DOI] [PubMed] [Google Scholar]
+180.Kumar A, Sharma M, Narayanaswamy J, Kandavel T & Janardhan Reddy Y
+Efficacy of mindfulness-integrated cognitive behavior therapy in patients with predominant obsessions. Indian J. Psychiatry
+58, 366 (2016). [DOI] [PMC free article] [PubMed] [Google Scholar]
+181.Rector NA, Richter MA, Lerman B & Regev RA
+Pilot test of the additive benefits of physical exercise to CBT for OCD. Cogn. Behav. Ther
+44, 328–340 (2015). [DOI] [PubMed] [Google Scholar]
+182.Abrantes AM
+et al.
+A pilot randomized controlled trial of aerobic exercise as an adjunct to OCD treatment. Gen. Hosp. Psychiatry
+49, 51–55 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+183.Zhang Z-J, Wang X-Y, Tan Q-R, Jin G-X & Yao S-M
+Electroacupuncture for refractory obsessive-compulsive disorder. J. Nerv. Ment. Dis
+197, 619–622 (2009). [DOI] [PubMed] [Google Scholar]
+184.Subramaniam M, Soh P, Vaingankar JA, Picco L & Chong SA
+Quality of life in obsessive-compulsive disorder: impact of the disorder and of treatment. CNS Drugs
+27, 367–383 (2013). [DOI] [PubMed] [Google Scholar]
+185.Macy AS
+et al.
+Quality of life in obsessive compulsive disorder. CNS Spectr
+18, 21–33 (2013). [DOI] [PubMed] [Google Scholar]
+186.Coluccia A
+et al.
+Adult obsessive–compulsive disorder and quality of life outcomes: a systematic review and meta-analysis. Asian J. Psychiatry
+22, 41–52 (2016). [DOI] [PubMed] [Google Scholar]
+187.Coluccia A, Ferretti F, Fagiolini A & Pozza A
+Quality of life in children and adolescents with obsessive–compulsive disorder: a systematic review and meta-analysis. Neuropsychiatr. Dis. Treat
+13, 597–608 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+188.Farris SG, McLean CP, Van Meter PE, Simpson HB & Foa EB
+Treatment response, symptom remission, and wellness in obsessive-compulsive disorder. J. Clin. Psychiatry
+74, 685–690 (2013). [DOI] [PMC free article] [PubMed] [Google Scholar]
+189.Cicek E, Cicek IE, Kayhan F, Uguz F & Kaya N
+Quality of life, family burden and associated factors in relatives with obsessive–compulsive disorder. Gen. Hosp. Psychiatry
+35, 253–258 (2013). [DOI] [PubMed] [Google Scholar]
+190.Grover S & Dutt A
+Perceived burden and quality of life of caregivers in obsessive-compulsive disorder. Psychiatry Clin. Neurosci
+65, 416–422 (2011). [DOI] [PubMed] [Google Scholar]
+191.Hollander E, Stein DJ, Fineberg NA, Marteau F & Legault M
+Quality of life outcomes in patients with obsessive-compulsive disorder. J. Clin. Psychiatry
+71, 784–792 (2010). [DOI] [PubMed] [Google Scholar]
+192.Srivastava S, Bhatia MS, Thawani R & Jhanjee A
+Quality of life in patients with obsessive compulsive disorder: a longitudinal study from India. Asian J. Psychiatry
+4, 178–182 (2011). [DOI] [PubMed] [Google Scholar]
+193.Hauschildt M, Jelinek L, Randjbar S, Hottenrott B & Moritz S
+Generic and illness-specific quality of life in obsessive-compulsive disorder. Behav. Cogn. Psychother
+38, 417–436 (2010). [DOI] [PubMed] [Google Scholar]
+194.Van Ameringen M, Turna J, Khalesi Z, Pullia K & Patterson B
+There is an app for that! The current state of mobile applications (apps) for DSM-5 obsessive-compulsive disorder, posttraumatic stress disorder, anxiety and mood disorders. Depress. Anxiety
+34, 526–539 (2017). [DOI] [PubMed] [Google Scholar]
+195.Thorsen AL, van den Heuvel OA, Hansen B & Kvale G
+Neuroimaging of psychotherapy for obsessive–compulsive disorder: a systematic review. Psychiatry Res
+233, 306–313 (2015). [DOI] [PubMed] [Google Scholar]
+196.Dougherty DD
+et al.
+Neuroscientifically informed formulation and treatment planning for patients with obsessive-compulsive disorder. JAMA Psychiatry
+75, 1081–1087 (2018). [DOI] [PubMed] [Google Scholar]
+197.Stein DJ
+et al.
+Global mental health and neuroscience: potential synergies. Lancet Psychiatry
+2, 178–185 (2015). [DOI] [PubMed] [Google Scholar]
+198.Stein D
+Obsessive-compulsive disorder and global mental health. Indian J. Psychiatry
+61, 4 (2019). [DOI] [PMC free article] [PubMed] [Google Scholar]
+199.Cheyette SR & Cummings JL
+Encephalitis lethargica: lessons for contemporary neuropsychiatry. J. Neuropsychiatry Clin. Neurosci
+7, 125–134 (1995). [DOI] [PubMed] [Google Scholar]
+200.Laplane D
+Obsessive-compulsive disorders caused by basal ganglia diseases [French]. Rev. Neurol
+150, 594–598 (1994). [PubMed] [Google Scholar]
+201.Khanna S
+Obsessive-compulsive disorder: is there a frontal lobe dysfunction?
+Biol. Psychiatry
+24, 602–613 (1988). [DOI] [PubMed] [Google Scholar]
+202.Swedo SE
+Pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (PANDAS). Mol. Psychiatry
+7, S24–S25 (2002). [DOI] [PubMed] [Google Scholar]; This paper introduces the construct of paediatric autoimmune neuropsychiatric disorders associated with Streptococcus (PANDAS).
+203.Swedo SE
+et al.
+High prevalence of obsessive-compulsive symptoms in patients with Sydenham’s chorea. Am. J. Psychiatry
+146, 246–249 (1989). [DOI] [PubMed] [Google Scholar]
+204.Hounie AG
+et al.
+Obsessive-compulsive spectrum disorders in rheumatic fever with and without Sydenham’s chorea. J. Clin. Psychiatry
+65, 994–999 (2004). [DOI] [PubMed] [Google Scholar]
+205.Chang K
+et al.
+Clinical evaluation of youth with pediatric acute-onset neuropsychiatric syndrome (PANS): recommendations from the 2013 PANS Consensus Conference. J. Child Adolesc. Psychopharmacol
+25, 3–13 (2015). [DOI] [PMC free article] [PubMed] [Google Scholar]
+206.Thienemann M
+et al.
+Clinical management of pediatric acute-onset neuropsychiatric syndrome: part I — psychiatric and behavioral interventions. J. Child Adolesc. Psychopharmacol
+27, 566–573 (2017). [DOI] [PMC free article] [PubMed] [Google Scholar]
+207.American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders Fifth Edition (DSM-5) (American Psychiatric Press, 2013). [Google Scholar]
+208.Prado HS
+et al.
+Sensory phenomena in obsessive-compulsive disorder and tic disorders: a review of the literature. CNS Spectr
+13, 425–432 (2008). [DOI] [PubMed] [Google Scholar]
+Associated Data
+This section collects any data citations, data availability statements, or supplementary materials included in this article.
+Supplementary Materials
+Supplementary
+NIHMS1573139-supplement-Supplementary.pdf (440.7KB, pdf)

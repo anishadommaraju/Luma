@@ -1,0 +1,1048 @@
+Indian J Psychiatry. 2026 Jan 27;68(1):44–67. doi: 10.4103/indianjpsychiatry_1259_25
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+Clinical practice guidelines for obsessive-compulsive disorder: 2025 update
+Shyam Sundar Arumugham
+Shyam Sundar Arumugham
+1Department of Psychiatry, National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru, Karnataka, India
+Find articles by Shyam Sundar Arumugham
+1, Janardhanan C Narayanaswamy
+Janardhanan C Narayanaswamy
+1Department of Psychiatry, MHDAS, Barwon Health and Institute for Mental and Physical Health and Clinical Translation (IMPACT), Deakin University, Geelong, Australia
+Find articles by Janardhanan C Narayanaswamy
+1, Srinivas Balachander
+Srinivas Balachander
+1Department of Psychiatry, National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru, Karnataka, India
+Find articles by Srinivas Balachander
+1, Eesha Sharma
+Eesha Sharma
+2Department of Child and Adolescent Psychiatry, National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru, Karnataka, India
+Find articles by Eesha Sharma
+2, TS Jaisoorya
+TS Jaisoorya
+1Department of Psychiatry, National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru, Karnataka, India
+Find articles by TS Jaisoorya
+1, Sai Chaitanya Reddy
+Sai Chaitanya Reddy
+3Telemedicine Centre, NIMHANS Digital Academy, National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru, Karnataka, India
+Find articles by Sai Chaitanya Reddy
+3, Aleem M Siddiqui
+Aleem M Siddiqui
+4Department of Psychiatry, Era’s Lucknow Medical College and Hospital, Lucknow, Uttar Pradesh, India
+Find articles by Aleem M Siddiqui
+4, Avinash Desouza
+Avinash Desouza
+5Consultant Psychiatrist and Founder Trustee, Desousa Foundation, Mumbai, Maharashtra, India
+Find articles by Avinash Desouza
+5, Parag S Shah
+Parag S Shah
+6Department of Psychiatry, Surat Municipal Institute of Medical Education and Research, Surat, Gujarat, India
+Find articles by Parag S Shah
+6, YC Janardhan Reddy
+YC Janardhan Reddy
+1Department of Psychiatry, National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru, Karnataka, India
+Find articles by YC Janardhan Reddy
+1,✉
+Author information
+Article notes
+Copyright and License information
+1Department of Psychiatry, National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru, Karnataka, India
+1Department of Psychiatry, MHDAS, Barwon Health and Institute for Mental and Physical Health and Clinical Translation (IMPACT), Deakin University, Geelong, Australia
+2Department of Child and Adolescent Psychiatry, National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru, Karnataka, India
+3Telemedicine Centre, NIMHANS Digital Academy, National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru, Karnataka, India
+4Department of Psychiatry, Era’s Lucknow Medical College and Hospital, Lucknow, Uttar Pradesh, India
+5Consultant Psychiatrist and Founder Trustee, Desousa Foundation, Mumbai, Maharashtra, India
+6Department of Psychiatry, Surat Municipal Institute of Medical Education and Research, Surat, Gujarat, India
+✉
+Address for correspondence: Prof. Janardhan Reddy YC, Department of Psychiatry, National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru, Karnataka, India. E-mail: ycjreddy@gmail.com
+Received 2025 Nov 29; Revised 2025 Dec 25; Accepted 2026 Jan 9; Issue date 2026 Jan.
+Copyright: © 2026 Indian Journal of Psychiatry
+This is an open access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License (CC BY-NC-ND), where it is permissible to download and share the work provided it is properly cited. The work cannot be changed in any way or used commercially without permission from the journal.
+PMC Copyright notice
+PMCID: PMC12900050 PMID: 41694048
+Abstract
+The current guidelines are an updated version of the Indian Psychiatric Society’s Clinical Practice Guidelines (CPG) for Obsessive-Compulsive Disorder (OCD), published in 2017. The CPG aims to provide an evidence-based framework for the assessment and management of OCD across different age groups and those with comorbidities. We conducted a systematic literature search since the publication of the previous guidelines in 2017. We provide the level of evidence and strength of recommendation for the treatment strategies in different phases of illness. A comprehensive evaluation of OCD symptoms, insight, comorbidities, and relevant treatment history is essential for formulating a detailed management plan. Selective serotonin reuptake inhibitors and cognitive behavior therapy remain the first-line treatment for OCD. The choice of treatment strategy is based on various factors, including illness severity, psychiatric and other medical comorbidities, previous treatment trials, affordability, accessibility, hypersensitivity, side-effect profile, and patients’ preferences. Current evidence on different forms and modes of psychotherapy delivery is provided. We discuss the level of evidence and strength of recommendations for pharmacological and psychological augmentation strategies as well as for neuromodulatory and neurosurgical interventions. The challenges and strategies for management of OCD in those with comorbid psychiatric and physical illnesses are discussed. Evaluation and evidence-based management strategies in the pediatric and geriatric populations are also discussed. The guidelines provide an evidence-based framework that can be adapted by the practitioner to suit the distinctive needs of individual patients and the clinical setting.
+Keywords: Clinical practice guidelines, cognitive behavior therapy, evidence-based medicine, neuromodulation, neurosurgery, obsessive-compulsive disorder, pediatric OCD, selective serotonin reuptake inhibitors
+INTRODUCTION
+Obsessive-compulsive disorder (OCD) is a common psychiatric illness with a lifetime prevalence of 1–3%.[1] It is a leading cause of neuropsychiatric disability.[2] OCD causes significant impairment in functioning, quality of life, and disability. If untreated, OCD is a chronic illness with a waxing and waning of symptoms. A meta-analysis of long-term naturalistic prospective studies demonstrated that nearly half of patients experience remission, with much higher rates of remission in Indian patients compared to those in the West.[3] Early diagnosis and appropriate treatment may improve outcomes. Despite OCD being a common mental illness, most seek treatment after several years of suffering. Those who suffer from OCD tend to be secretive about their symptoms and suffer from shame and embarrassment.[4] Less than a third of OCD sufferers receive appropriate pharmacotherapy, and even less receive evidence-based psychotherapy.
+Symptoms
+The hallmarks of OCD are the presence of obsessions and compulsions. Obsessions are repetitive, unwanted, intrusive thoughts, images, or urges that are mostly ego-dystonic and cause severe distress or anxiety. Compulsions (or rituals) are repetitive behaviors or mental acts that are performed in response to an obsession to reduce anxiety/distress or prevent a dreaded consequence. Obsessions and compulsions are time-consuming, distressing and are often resisted unsuccessfully. Clinical manifestations of OCD are remarkably similar across cultures and geographic locations. Common obsessions, compulsions, and symptom dimensions identified through factor-analytical studies are shown in Table 1.
+Table 1.
+Common symptoms of OCD
+Obsessions
+Contamination-related obsessions
+Excessive concern/disgust with bodily secretions and waste such as stools and urine
+Fear of dirt or germs/infections, concern with sticky substances
+Fear of getting ill because of contaminants (e.g., AIDS)
+Sexual obsessions
+Unwanted, forbidden sexual thoughts, images, or urges about strangers, family friends, etc.
+Sexual thoughts of molesting children, thoughts of sexual identity (am I a gay?)
+Harm/aggression-related obsessions
+Fear/thoughts of harming self or others (fear/thoughts of jumping off the building, harming babies, stabbing a friend, running over pedestrians while driving, etc.)
+Violent/horrific images (murders, mutilated bodies, accidents)
+Fear of uttering obscenities
+Religious/blasphemy
+Sacrilege and blasphemy (blasphemous thoughts, fear of uttering insults to God)
+Excessive concern about right/wrong, morality
+Pathological doubts about daily activities (doubts of having not locked doors, turned off gas knobs, etc.)
+Need for symmetry and exactness
+Concern about things being not properly aligned, symmetrical, perfect, or exact
+With magical thinking (child may have an accident if things are not properly arranged in kitchen)
+Miscellaneous
+Need to know/remember (number plates, bumper stickers, advertisements, etc.)
+Intrusive nonviolent images, thoughts; intrusive nonsense sounds, words, or music
+Superstitious fears (fears of passing a cemetery, hearse, a cat, etc.)
+Lucky/unlucky numbers, colors
+Compulsions
+Washing/Cleaning (excessive or ritualized hand washing, showering, bathing, brushing/excessive cleaning of household items, floors, kitchen vessels, etc.) in response to contamination obsessions
+Checking
+In response to pathological doubts (appliances, locks, stove, doors)
+To prevent harm to self or others (check to make sure that you have not caused an accident, examining for injuries, etc.)
+Repeating
+Re-reading or rewriting because you did not understand or write properly
+Repeating routine activities (going in and out of doorway, sit and stand up repeatedly, repeating till you feel just right)
+Counting (money, floor tiles)
+Ordering and arranging (often till you feel just right)
+Miscellaneous
+Mental rituals (praying, replacing bad thought with good thought)
+Superstitious behaviors (not taking a bus that has an unlucky number, not walking on a particular road, throwing away clothes worn while passing a burial ground, etc.)
+Need to tell/ask/confess
+Symptom dimensions[5]
+Contamination fears and cleaning/washing
+Forbidden thoughts (aggression, sexual, religious, and somatic obsessions and checking compulsions)
+Symmetry (symmetry obsessions and repeating, ordering, and counting compulsions)
+Hoarding (hoarding obsessions and compulsions)*
+Open in a new tab
+*Hoarding is classified as independent disorder in current classificatory systems[6,7]
+Diagnosis
+Many people experience intrusive thoughts and exhibit repetitive behaviors. A diagnosis of OCD is made only if symptoms are time-consuming (e.g., more than an hour per day), distressing or cause significant interference in functioning. This is reflected in the diagnostic criteria of OCD in both the DSM-5 and ICD-11.[6,7] The ICD-11 includes a dichotomous insight specifier (fair to good or poor to absent), whereas the DSM-5 has an insight specifier that is dimensional (good or fair, poor, and absent/delusional beliefs). There are sweeping changes to the description of OCD in the ICD-11 compared to the ICD-10. Duration criteria and subtyping of OCD are removed in the ICD-11 for lack of evidence and clinical relevance. In ICD-10, a diagnosis of OCD was discouraged in the presence of schizophrenia, tic disorder, or depression. This criterion too has been removed paving the way to make a diagnosis of OCD even in the presence of these comorbid disorders.
+Another major change to the diagnosis of OCD in both DSM-5 and ICD-11 is the creation of a distinct category, Obsessive–Compulsive and Related Disorders, and its reclassification outside the group of anxiety disorders. Many disorders are included in this group: body dysmorphic disorder (BDD), trichotillomania (TTM), skin picking disorder, hoarding disorder, substance/medication-induced obsessive-compulsive and related disorder, and obsessive-compulsive and related disorder due to another medical condition. In the ICD-11, a few other conditions – hypochondriasis (health anxiety disorder), olfactory reference disorder, and Tourette syndrome (secondary parented category) – find a place in this group. All these disorders are grouped together based on shared clinical features (e.g., repetitive behaviors), comorbidity patterns, familiarity, neuropsychological deficits, treatment response, and importantly shared abnormalities in brain circuitry. Hoarding disorder which may not share many features with OCD is grouped here because of its historical association with OCD and obsessive-compulsive personality disorder.
+Comorbidity
+OCD is often comorbid with other psychiatric disorders.[8] It is important to assess all patients with OCD for associated psychiatric comorbidity since they may have an effect on treatment outcome if left untreated. Mood and anxiety disorders are common in patients seeking treatment for OCD. OCD is associated with increased risk of suicide, a risk that appears to be largely independent of psychiatric comorbidities.[9] Therefore, it is important to assess for suicidal ideation and a history of suicide attempts in those with OCD. The common comorbid disorders are listed in Table 2. Those with early onset OCD, particularly those with onset in childhood, have high rates of attention deficit hyperactivity disorder (ADHD), oppositional defiant disorder (ODD), and tic disorders.
+Table 2.
+Comorbid disorders in OCD
+Mood disorders
+Major depression
+Dysthymia
+Bipolar disorder
+Anxiety disorders
+Panic disorder
+Generalized anxiety disorder
+Social Phobia
+OCD-related disorders
+Body dysmorphic disorder
+Hypochondriasis
+Trichotillomania
+Skin picking disorder
+Tic disorders
+Attention deficit hyperactivity disorder
+Oppositional defiant disorder
+Personality disorders
+Obsessive-compulsive personality disorder
+Anxious-avoidant personality disorder
+Borderline personality disorder
+Schizotypal personality
+Differential diagnoses to consider
+Depression (depressive ruminations are usually ego-syntonic, reflective of depressive cognitions, such as self-criticism, failure, regret, guilt, pessimism without any compulsions)
+Generalized anxiety disorder (anxious ruminations are about real-life concerns and not associated with compulsions)
+Body dysmorphic disorder (concerns limited to physical appearance)
+Trichotillomania (limited to hair pulling)
+Skin picking disorder (confined to excessive skin picking)
+Hoarding disorder (difficulty in discarding or parting with possessions, accumulation of possessions; not secondary to obsessions)
+Eating disorders (confined to weight and food)
+Tics (often preceded by premonitory sensations and not aimed at neutralizing obsessions)
+Psychotic disorders (Even poor insight/delusional OCD is associated with typical obsessional content and compulsions, whereas delusions have persecutory, grandiose themes with other symptoms such as hallucinations or formal thought disorder)
+Obsessive-compulsive personality disorder (enduring and pervasive pattern of excessive preoccupation with perfectionism, orderliness and rigid control, rigidity, stubbornness, scrupulosity, and over-conscientiousness. Typically ego-syntonic. No obsessions and compulsions)
+Open in a new tab
+Bipolar disorder, particularly type 2, has been reported to be relatively common in individuals with OCD.[10] Similarly, OCD is relatively common in those with a primary diagnosis of bipolar disorder.[11,12] OCD comorbid with bipolar disorder tends to run an episodic course[13] with worsening of symptoms in depressive phases and improvement in hypomania/mania phases. It is important to recognize the comorbidity of OCD and bipolar disorder due to its significant treatment implications. Selective serotonin reuptake inhibitors (SSRIs), which are traditionally used in the management of OCD, may precipitate a switch to mania or trigger a rapid-cycling course in individuals with bipolar disorder. In such cases, psychotherapy is often the preferred treatment modality, with careful consideration of mood-stabilizing strategies when pharmacotherapy is required.
+Obsessive-compulsive symptoms and OCD are also common in schizophrenia. Nearly a third of schizophrenia patients report OC symptoms or OCD. Certain atypical antipsychotics such as clozapine can induce obsessive-compulsive symptoms. The presence of OCD may have a negative effect on the long-term course of schizophrenia. Therefore, treatment of OCD with SSRIs or cognitive behavior therapy (CBT) may have to be considered, though there is not much systematic evidence supporting their efficacy in the treatment of OCD comorbid with schizophrenia.[14]
+Common ingredients of management plan
+Common ingredients of managing OCD include the following:
+Detailed assessment of symptoms and comorbid patterns, including suicidal behaviors.
+Decision on setting for treatment (outpatient vs. inpatient care depending upon the risk assessment, severity, treatment resistance, etc.)
+Detailed psychoeducation of the patient and family member(s) about OCD, its course, and treatment options including duration of treatment.
+Choice of treatment: SSRI versus CBT versus a combination of CBT and SSRIs.
+Both SSRIs and CBT are first-line treatments for OCD, but in the Indian context, SSRIs are often preferred over CBT because of feasibility, affordability, and a limited number of trained therapists.
+Discussion of side effects of drugs, in women, risks versus benefits of drugs during pregnancy and in the post-partum period
+Follow-up plan after initiating treatment
+Assessment and evaluation
+In routine clinical practice, use of structured/semi-structured interviews, and rating scales may not be necessary. They are optional. However, they may be used when the clinician needs supplementary information or to monitor treatment response. A list of useful instruments in the assessment of OCD is provided in Table 3.
+Table 3.
+Commonly used instruments to assess OCD (optional)
+Diagnostics interview schedules
+The Mini International Neuropsychiatric Interview (MINI)[15]
+Structured Clinical Interview for DSM-5 (SCID-5)[16]
+Diagnostic Interview for Anxiety, Mood, and OCD and Related Neuropsychiatric Disorders (DIAMOND) and the Child and Adolescent Version (DIAMOND-KID)[17]
+Severity rating scales
+Yale-Brown Obsessive-Compulsive Scale (Y-BOCS): Symptom checklist and severity rating scale (adult and child versions)[18,19]
+Dimensional Y-BOCS (DY-BOCS)[20]
+Dimensional Obsessive-Compulsive Scale (DOCS)[21]
+Scales to assess insight in OCD
+Yale-Brown Obsessive-Compulsive Scale (Y-BOCS), Item 11[18]
+Brown-Assessment of Beliefs Scale (BABS)[22]
+Overvalued Ideas scale (OVIS)[23]
+Obsessive-beliefs questionnaire (OBQ) to measure beliefs underlying obsessions[24]
+The Family Accommodation Scale (FAS) assesses the degree to which family members accommodate patient’s symptoms[25]
+Open in a new tab
+The Yale-Brown Obsessive-Compulsive Scale (Y-BOCS) is the most widely used severity rating scale for OCD in adults,[18] and it has a child version too.[19] It is considered a gold standard instrument to measure the severity of OCD. It is a 10-item observer-rating scale, also available in a self-report format. It measures the overall severity of obsessions and compulsions and generates a total score, which is a combination of obsessions and compulsions subscores for the preceding week. The Y-BOCS is a global measure of the severity of symptoms and does not provide the severity of individual symptom dimensions. A total score of ≥16 is indicative of clinically significant OCD. The Y-BOCS severity scale also has an associated symptom checklist of 15 categories of obsessions and compulsions, including miscellaneous symptoms. The checklist elicits both current (1 month) and past symptoms.
+On the Y-BOCS item 11 insight scale, the insight is graded as follows: 0 = excellent (fully rational thinking), 1 = good insight (readily acknowledges absurdity or excessiveness but has some lingering doubts), 2 = fair insight (reluctantly admits absurdity, but waivers; has some unrealistic fear but no fixed conviction), 3 = poor insight (overvalued ideas; maintains they are not unreasonable or excessive, but acknowledges validity of contrary evidence), and 4 = lack of insight (delusional). A higher score on the Y–BOCS item 11 indicates poorer insight.
+Formulating a treatment plan
+Formulating a treatment plan begins with the correct diagnosis of OCD as per the DSM or ICD classificatory systems.[6,7] When feasible, a structured clinical interview is recommended to obtain a comprehensive account of a patient’s problems. Once a diagnosis is established, a detailed assessment of the symptom profile is mandatory. Family members often accommodate patients’ rituals, more often seen in childhood OCD, contributing to poor outcomes. A detailed family assessment should be done. Once the assessment is complete, short-term and long-term goals of treatment have to be established. Enhancing treatment adherence is a crucial aspect of developing a comprehensive treatment plan. It is important to educate patients about a lag in the onset of action of drugs and that improvement may occur over several months of continuous treatment. Brief education about the basic principles of psychotherapy should be explained if psychotherapy is being planned. Essentials of formulating a treatment plan are summarized in Table 4. All patients and their immediate family members should be provided psychoeducation about OCD [Table 5].
+Table 4.
+Essentials of formulating a treatment plan
+Establishing a diagnosis if OCD
+Diagnosis of comorbid disorders (optional structured clinical interview)
+Detailed evaluation of OCD symptoms (clinical interview/Y-BOCS or DY-BOCS symptoms checklist)
+Detailed symptom evaluation
+Identify principal symptoms that are the target of treatment (especially useful if CBT is planned)
+Identify proxy compulsions, avoidance and safety behaviors
+Determine level of insight
+Assess family accommodation of patient’s rituals
+Short-term goals
+to achieve clinical response and if possible, remission
+remission of depression, if comorbid
+help deal with suicidal thoughts, behavior if any to determine tolerability of medicines
+Identify and manage side effects
+Long-term goals
+Achieve recovery
+Restore psychosocial functioning and enhance quality of life Long-term treatment to prevent relapses
+Enhancing treatment adherence
+Psychoeducation of the patient and family members
+Provide education materials to patient and family members
+Deal with unrealistic expectations of quick recovery; educate patients and family about lag in the onset of action of drugs and that improvement may occur over several months
+Sensitize patient about potential side effects and help to deal with them
+Use medicines that are effective, easily available, and affordable
+Treat comorbid disorders and personality disorders, if any; if left untreated, comorbid conditions may contribute to poor treatment adherence
+Enhancing adherence to psychotherapy (CBT)
+Detailed education about principles behind exposure and response prevention
+Reassure that exposure and response prevention will be graded and tasks will be determined based on collaborative approach
+Emphasize the role of motivation, home-work compliance, and need to tolerate some anxiety
+Reduce unrealistic expectations of quick recovery
+Open in a new tab
+Y-BOCS - Yale-Brown Obsessive-Compulsive Scale, DY-BOCS – Dimensional Yale-Brown Obsessive-Compulsive Scale; CBT – Cognitive behavior therapy
+Table 5.
+Components of psychoeducation
+Obsessions and compulsions are symptoms of OCD and that they are similar in most people who suffer from OCD; OCD is a brain disorder
+Obsessions are not a reflection of one’s character or unresolved mental conflicts
+Explain the functional link between the components – obsessions cause distress, which is reduced by compulsions, avoidance, and safety behaviors
+Clarify myths and misconceptions about the illness
+Explain the biological and psychological basis of OCD: 1. OCD is a problem of aberrant functioning of certain brain circuits resulting in persistence of unwanted thoughts, 2. dysfunction of certain neurotransmitter systems such as serotonin, dopamine and glutamate, 3. faulty interpretation and excessive importance given to certain intrusions resulting in manifestation of obsessions
+Discuss the course and outcome of OCD – regarding the waxing and waning course with optimism that the outcome is good in a majority of the people if adequately treated
+Provide information regarding the available treatment strategies: pharmacotherapy and cognitive behavior therapy
+Sensitize with the idea that treatment is a continued process and often long-term
+Educate that medications take time to work, sometimes as long as few months before appreciable improvement is seen
+Psychological treatment too needs sustained efforts and sometimes booster sessions
+Prevention of relapse addressed within the general context of OCD as a chronic disorder
+Educate the family to be supportive but reduce criticality, accommodative behaviors and proxy compulsions
+Open in a new tab
+Choice of treatment settings
+Outpatient treatment is the standard for most OCD patients. Inpatient treatment may be considered for those who are at high suicide risk, dangerous to self or others, and intolerant to side effects of medications. The severely ill and treatment-resistant patients may require prolonged (2–3 months) hospitalization for intensive treatment with CBT and for rationalization of pharmacotherapy. Inpatient care may also be required for treating comorbid severe depression, mania, or psychosis.
+METHODOLOGY
+The clinical practice guideline is framed based on a review of relevant scientific literature. As a first step, we framed relevant questions which arise in the minds of the practitioner while treating a patient suffering from OCD. We searched PubMed using appropriate search terms for relevant literature published after the publication of the previous guideline (2016)[26] to answer these questions. For example, we used the term “Augmentation” AND “Obsessive-Compulsive Disorder”. We also searched for the individual drugs such as “Memantine” AND “Obsessive-Compulsive Disorder”. We also reviewed the existing guidelines on treatment of OCD.[27,28,29,30,31] Based on literature review, we rated the treatment strategies using the Canadian Network for Mood and Anxiety Treatments (CANMAT) criteria for levels of evidence and strength of recommendation.[32]
+In short, quality of available evidence is graded with the highest level of evidence accorded when there is one or more high-quality meta-analyses with narrow confidence intervals and/or two or more randomized controlled trials (RCTs) with adequate sample sizes, and the lowest level of evidence for expert opinion/consensus [Table 6]. Strength of recommendations is provided for each treatment question separately. The strength of recommendation is rated based on the level of evidence and clinical support, which reflect the authors’ consensus on efficacy, tolerability, and safety [Table 6]. First-line treatments have a higher level of evidence and should be considered to have good clinical support. The authors held periodic meetings to reach a consensus on the levels of evidence and strength of recommendations for each section.
+Table 6.
+Grading of level of evidence and strength of recommendation[32]
+LEVEL OF EVIDENCE
+Level of evidence
+Criteria
+1
+High-quality meta-analysis with narrow confidence intervals and/or two or more RCTs with adequate sample size (≥30), preferably placebo-controlled
+2
+Lower-quality meta-analysis with wide confidence intervals and/or 1 or more RCTs with adequate sample size
+3
+Small-sample RCTs or nonrandomized, controlled prospective studies or high-quality retrospective studies
+4
+Expert opinion/consensus
+STRENGTH OF RECOMMENDATION
+1
+Level 1 or level 2 evidence plus clinical support#
+2
+Level 2 evidence plus clinical support
+3
+Level 3 evidence plus clinical support
+Open in a new tab
+RCT – Randomized controlled trials, #Clinical support reflects authors’ consensus on efficacy, safety and tolerability
+A practitioner may make a clinical decision based on the available evidence considering other relevant factors that influence the decision-making process. These factors might include psychiatric and other medical comorbidities, previous treatment trials, affordability, accessibility, hypersensitivity, side-effect profile, and patients’ preferences and choices.
+PHARMACOLOGICAL TREATMENT
+First-line pharmacological treatment for OCD
+Meta-analyses of RCTs show that SSRIs are significantly more effective than placebo in the treatment of OCD.[33] SSRIs are associated with many adverse effects but are usually well tolerated. The only other medication which has been shown to be consistently effective in OCD is the serotonergic tricyclic antidepressant clomipramine. Clomipramine has been found to be significantly more effective than placebo in multiple RCTs and meta-analyses of RCTs.[34] It is unclear if clomipramine’s efficacy is superior to SSRIs. A network meta-analysis did not find clomipramine to be superior to SSRIs,[33] whereas a recent systematic review and meta-analysis of placebo-controlled RCTs concluded that clomipramine is superior to SSRIs even after adjusting for risk of bias.[35] Further, meta-analyses and individual RCTs have found that the tolerability of clomipramine is worse than that of SSRIs.[31,34] The anticholinergic, cardiac, and neurological side effects of clomipramine may be problematic in this regard.
+Considering the consistent efficacy and better tolerability, SSRIs are recommended as first-line treatment for OCD (Level 1 evidence). Clomipramine is recommended as a second-line treatment due to its side effects and lower tolerability [Table 7].
+Table 7.
+Medications recommended as monotherapy in OCD
+Drug
+Suggested dosage
+Level of evidence
+Strength of recommendation
+Escitalopram
+20-30 mg
+1[33]
+First-line
+Fluoxetine
+60-80 mg
+1[33]
+First-line
+Fluvoxamine
+200-300 mg
+1[33]
+First-line
+Paroxetine-controlled release
+50-75 mg
+1[33]
+First-line
+Sertraline
+150-200 mg
+1[33]
+First-line
+Citalopram
+40-60 mg
+1[33]
+First-line
+Clomipramine
+150-225 mg
+1[33]
+Second-line
+Venlafaxine
+225-300 mg
+2*[36,37]
+Third line
+Open in a new tab
+*No evidence from placebo-controlled trials, evidence in the form of active comparator studies
+Choice of SSRI
+Meta-analyses comparing the different SSRIs[33] and direct head-to-head comparisons[34,38] have not shown superiority of any one SSRI over the other. SSRIs differ to some extent in their propensity to cause certain adverse effects and drug interactions. Recently, concerns have been raised regarding cardiac adverse effects with high dose of citalopram, which is commonly used in OCD. Hence, high-dose citalopram may be used with caution in those with risk for arrhythmias.
+The practitioner is recommended to choose an SSRI for an individual patient based on factors such as previous response, comorbidity, tolerability, acceptability, adverse effects, cost, and drug interactions.
+Dose of SSRI
+It is generally recommended that OCD be treated with a higher dose of SSRI than that used in depression [Table 7]. A meta-analysis of fixed-dose comparison studies has found a higher efficacy for higher dose of SSRI (60–80 mg fluoxetine equivalent) compared to medium dose (40–50 mg fluoxetine equivalent) and low dose (20–30 mg fluoxetine equivalent).[39] However, all three dose ranges were significantly more effective than placebo. The increased efficacy comes at the cost of poor tolerability as evidenced by increased dropouts due to adverse effects.[39] A review of individual fixed-dose comparison studies found that the dose–response relationship is more evident for escitalopram, fluoxetine, and paroxetine, while it is less clear for citalopram and sertraline.[34] Clomipramine has not been tested in such fixed-dose comparison studies; most studies employed a flexible dosing at 150–250 mg.[34] It should be remembered that there are likely to be inter-individual differences in the pharmacokinetic profile of drugs due to intrinsic variations in drug metabolism and drug interactions.
+Higher doses of SSRIs are recommended for the treatment of OCD (Level 1 evidence). However, if an individual patient is not able to tolerate a higher dose, low to medium dose treatment can be considered.
+Duration of trial and dose titration
+A meta-analysis of 17 RCTs found that SSRIs separate from placebo as early as 2 weeks and that the majority of improvement occurs early on in the course of treatment.[40] However, improvements seen early in the course of treatment may not be always clinically meaningful. In many patients, clinically meaningful improvements may be seen only after weeks or months of treatment. It is recommended that an adequate trial of an SSRI (or clomipramine) should be at least for 12 weeks to account for the lag in the onset of action. The APA guidelines recommend upward titration to the maximum FDA-approved doses by 4–6 weeks and continuation in that dose for another 6–8 weeks or so to determine efficacy.[30]
+Guidelines recommend continuing maximally tolerated effective doses of an SSRI for at least 12 weeks for judging its efficacy. Guidelines also recommend dose escalation to effective dose ranges within 4–6 weeks and continuation in the same dose for another 6–8 weeks.
+2. Other medications that can be tried as monotherapy in OCD
+Venlafaxine, (Level 3) a serotonin-norepinephrine reuptake inhibitor with preferential serotonergic action, has been studied in comparison to paroxetine in a double-blinded study and clomipramine in a single-blinded study.[36,37] The studies found no difference in the efficacy between venlafaxine and the comparator agents in acute control of OCD. Given the absence of evidence from placebo-controlled trials, venlafaxine is not the first-line treatment for OCD. It may be considered when SSRIs/Clomipramine is ineffective.[41]
+Mirtazapine has been studied as a monotherapy in two small open-label trials with inconsistent findings.[42,43] Therefore, mirtazapine cannot be recommended as monotherapy in the treatment of OCD.
+3. Treatment strategy for nonresponders to first-line treatment
+Definitions of treatment outcome are given in Table 8.[44]
+Estimates suggest that around 40–70% patients show an adequate response to a trial of SSRI with a remission rate of 10–40%.[33] Clinicians often face the challenge of partial response and nonresponse to SSRIs. Continuing improvement has been noticed with prolonged trial of SSRIs as discussed above. Hence, the initial trial may be continued further if there is evidence of ongoing improvement.
+Switching to another medication
+Experts provide a rough estimate of a 40–50% response rate after switching to a second SSRI and decreasing response rates with further trials.[34,59] Although clomipramine has not been systematically studied in the treatment-resistant population, it may be attempted in nonresponders to SSRIs as there is preliminary evidence showing the advantage of switching to a drug with a different mechanism of action.[34] Similarly, there is level-3 evidence for switching to venlafaxine in SSRI nonresponders.[59]
+In patients with persistent symptoms despite having responded to an SSRI and in partial responders, augmentation with CBT/BT and other pharmacological agents such as atypical antipsychotics may be considered over switching to another SSRI. Switching may be considered if there is nonresponse to an SSRI or if augmenting strategies fail in those with persistent symptoms and partial response.
+Switching/Augmenting with CBT/BT
+There is level-1 evidence in the form of high-quality RCTs to support the efficacy of CBT/BT as an augmenter in partial/nonresponders to SSRIs.[60,61,62] Where feasible, CBT/BT is a potential first-line augmenting option for partial/nonresponders to SSRI treatment.
+Augmenting with another medication
+The following medications have been tried as augmenters to SSRIs. The literature on pharmacological augmentation is fraught with methodological limitations, including small sample sizes, inadequate blinding, varying doses and duration of treatment with both augmenters and concomitant SSRIs, varying definitions/degrees of treatment resistance, and use of completer analysis. The level of evidence and strength of recommendation are summarized in Table 9.
+Antipsychotics
+Antipsychotics are the most widely studied augmenting agents of SSRIs.[63] Meta-analyses of placebo-controlled trials have consistently supported the efficacy of antipsychotic medications as augmenters in treatment-resistant OCD.[45,64] About a third of patients respond to antipsychotic augmentation. Among the antipsychotic medications, risperidone and aripiprazole have shown consistent efficacy in meta-analyses, but with wider confidence intervals (level 2).[45,46,65] Haloperidol has shown preliminary evidence in a single RCT, but \efficacy was observed predominantly in patients with comorbid tics (level-2 evidence). Further, haloperidol is associated with poor tolerability.[47] Quetiapine and Olanzapine have shown inconsistent evidence in meta-analyses and are hence not recommended.
+Table 8.
+Definitions of treatment outcome in OCD[44]
+Conceptual Definition
+Operationalization
+TREATMENT RESPONSE
+A clinically meaningful reduction in symptoms (time, distress, and interference associated with obsessions, compulsions, and avoidance) relative to baseline severity in an individual who meets diagnostic criteria for OCD.
+A ≥35% reduction in (C) Y-BOCS scores plus CGI-I rating of 1 (‘very much improved’) or 2 (‘much improved’), lasting for at least 1 week.
+PARTIAL RESPONSE
+A ≥25% but <35% reduction in (C) Y-BOCS scores plus CGI-I rating of at least 3 (‘minimally improved’), lasting for at least 1 week
+REMISSION
+The patient no longer meets syndromal criteria for the disorder and has no more than minimal symptoms. Residual obsessions, compulsions, and avoidance may be present but are not time consuming and do not interfere with the person’s everyday life.
+If a structured diagnostic interview is feasible, the person no longer meets diagnostic criteria for OCD for at least one week.
+If a structured diagnostic interview is not feasible, a score of ≤12 on the (C) Y-BOCS plus CGI-S rating of 1 (‘normal, not at all ill’) or 2 (‘borderline mentally ill’), lasting for at least 1 week.
+RECOVERY
+The patient no longer meets syndromal criteria for the disorder and has had no more than minimal symptoms. Residual obsessions, compulsions, and avoidance may be present and slightly fluctuate in severity over time, but, overall, they are not time-consuming and do not interfere with the person’s everyday life and therefore require no further treatment. The clinician may begin to consider discontinuation of treatment or, if the treatment continues, the aim is to prevent relapse.
+If a structured diagnostic interview is feasible, the person no longer meets diagnostic criteria for OCD for at least 1 year.
+If a structured diagnostic interview is not feasible, a score of ≤12 on the (C) Y-BOCS plus CGI-S rating of 1 (‘normal, not at all ill’) or 2 (‘borderline mentally ill’), lasting for at least 1 year.
+RELAPSE
+After response or remission or recovery was achieved, the patient experiences a return of symptoms. For patients who were in remission or recovered, obsessions, compulsions, and avoidance are again sufficiently time-consuming, distressing, and impairing for the individual to meet diagnostic criteria for OCD.
+For responders who did not necessarily remit/recover: The person no longer meets the definition of ≥35% reduction on (C) Y-BOCS scores (relative to pretreatment) plus CGI-I rating of 6 (‘much worse’) or higher for at least 1 month.
+For remitters/recovered: OCD criteria are met again, according to a structured interview (if feasible). Alternatively, the person no longer meets the definition of remission/recovery (i.e., the person again scores 13 or above on the (C) Y-BOCS) plus CGI-I rating of 6 (‘much worse’) or higher for at least 1 month or needs to be withdrawn prematurely from the trial before 1 month has elapsed due to a severe worsening of OCD symptoms. Discontinuation of the trial due to reasons other than a worsening in OCD symptoms (e.g., suicide risk) is not considered a relapse.
+Open in a new tab
+CGI-I, Clinical Global Impression Improvement; CGI-S, Clinical Global Impression Severity; (C) Y-BOCS, (Children’s) Yale-Brown Obsessive Compulsive Scale; OCD Obsessive-Compulsive Disorder
+Table 9.
+Pharmacological augmenting agents in OCD
+Drug
+Suggested dosage$
+Level of evidence
+Strength of recommendation for pharmacological augmentation
+Antipsychotics
+Aripiprazole
+5-10 mg
+2[45,46]
+First-line
+Risperidone
+1-3 mg
+2[45,46]
+First-line
+Haloperidol
+2.5-10 mg
+3[47]
+Second-line
+Glutamatergic agents
+Memantine
+10-20 mg
+2[46,48]
+First-line
+Lamotrigine*
+100 mg
+2[46]
+Second-line
+Pregabalin
+75-225 mg
+3[49]
+Second-line
+Ketamine$
+0.5-1 mg/kg infusion
+3[50–52]
+Third-line
+Amantadine^
+100 mg/day
+2[53]
+Third-line
+L-Carnosine^
+500 mg BD
+3[54]
+Third-line
+Minocycline^
+100 mg BD
+2[55]
+Third-line
+L-theanine^
+100 mg BD
+2[56]
+Third-line
+Serotonergic agents
+Ondansetron
+2-4 mg twice a day
+2[57,58]
+First-line
+Granisetron
+1 mg twice a day
+2[57,58]
+First-line
+Open in a new tab
+$Rough estimate based on available evidence *Less clinical support due to slow titration schedule and potential adverse effects $Single dose RCTs have evaluated acute effects. No evidence for long-term efficacy from controlled trials ^They have shown efficacy in single RCTs started concomitantly with fluvoxamine. There is no evidence for augmentation in a treatment-resistant population. Hence, they should be tried as third-line agents
+Based on the available evidence, risperidone and aripiprazole can be considered as the first-line antipsychotic augmenting agents. Antipsychotics should be used in low doses (e.g., 1–3 mg of risperidone, 5–10 mg aripiprazole) for a period of at least 8 weeks for an adequate trial. Use of antipsychotics in the long run should be considered after weighing the benefits and risks of long-term use.
+ii. Glutamatergic agents
+There is a strong theoretical rationale supporting the use of glutamatergic drugs in OCD. Considering their differing mechanisms of action on the glutamatergic system, we discuss the efficacy of each drug separately.
+Memantine: It is a noncompetitive antagonist at the NMDA receptor and has been tried in multiple RCTs as an augmentation treatment. Meta-analyses have supported the efficacy of memantine compared to placebo, but with wide confidence intervals (level 2).[46,48] However, there are methodological limitations of the individual RCTs and inconsistent evidence from recent studies.[66,67]
+Lamotrigine: It inhibits glutamate release and has been found effective in two RCTs and a meta-analysis with wide confidence intervals (level 2).[46] Due to the potential for adverse effects and slow titration schedule, lamotrigine is recommended as a second-line augmenting agent.
+N-acetylcysteine: The glutamate modulator and antioxidant has been tested as an augmenting agent in multiple small RCTs. The individual studies and meta-analyses have shown inconsistent efficacy.[46,68,69] Hence, the current evidence does not support the efficacy of N-acetylcysteine in OCD.
+Topiramate: Despite encouraging results from meta-analyses,[46,68] individual RCTs have shown inconsistent results.[70,71,72] Further, the trials showed poor tolerability. Hence, it is not a preferred augmenting agent.
+Ketamine: The NMDA antagonist has been tried parenterally or intranasally for OCD.[73] While two small single-dose RCTs showed acute improvement, there is no consistent evidence for its long-term effects (level-3 evidence).[50,51,52] There is a need for controlled trials to evaluate the long-term efficacy of ketamine in OCD.
+Riluzole: Three small RCTs have shown inconsistent results.[74] Further, it carries the risk of adverse effects including pancreatitis. It requires further evaluation in larger studies.
+Other glutamatergic agents: There are single RCTs evaluating amantadine, L-carnosine, minocycline, and L-theanine as add-on treatment coinitiated with fluvoxamine, showing promising results.[53,54,55,56] They have not been specifically evaluated in a treatment-resistant population. Hence, the evidence is considered preliminary (level 3). There is evidence from a single RCT with methodological limitations supporting the efficacy of pregabalin augmentation (75–225 mg/day)[49] (level 2).
+Based on the evidence and its relatively better tolerability, memantine is the preferred glutamatergic agent, followed by N-acetylcysteine, lamotrigine, and pregabalin [Table 9].
+iii. Serotonergic agents
+5HT-3 antagonists (ondansetron, granisetron, and topisetron) have been evaluated in multiple small RCTs, mostly involving ondansetron. However, many of these studies have methodological limitations. Meta-analyses of these studies have consistently shown efficacy,[57,58] with network meta-analyses ranking them among the highest-ranked pharmacological augmenting agents (level 2).[46,68]
+Clomipramine, evaluated as an augmenting agent with SSRIs, has shown inconsistent results in RCTs.[75,76] Clomipramine and SSRI combination should be used cautiously, especially with fluoxetine and fluvoxamine, as they may increase clomipramine-related adverse effects (including serious events like seizures, cardiac effects, serotonin syndrome) due to pharmacokinetic interactions. Considering the inconsistent efficacy and safety concerns, clomipramine augmentation is not recommended as an augmentation for SSRIs.
+Mirtazapine augmentation has been evaluated in two RCTs showing conflicting evidence.[77,78] Methodological limitations (e.g., not employing intent-to-treat analysis) further decrease the confidence in the results. Thus, there is inadequate evidence to support its efficacy.
+Among the serotonergic agents, ondansetron and granisetron have level 2 evidence and are recommended as first-line augmentation agents, although constipation may limit their clinical utility.
+iv. Other augmenting agents
+Buspirone, lithium, and clonazepam have not been found effective and hence are not recommended as augmenting agents.[63] The safety and efficacy of psychostimulants and opioid drugs have to be systematically studied before they are recommended for routine clinical use.
+Overall, atypical antipsychotics aripiprazole and risperidone are the recommended first-line pharmacological augmenting agents, followed by memantine, and 5-HT3 antagonists.
+d.
+Other experimental strategies
+While there appears to be some short-term benefits for intravenous clomipramine in treatment-resistant patients, the long-term benefits are uncertain. This formulation is not available in India and is not currently recommended for clinical use. A single RCT comparing higher than recommended doses of sertraline (250–400 mg/day) found significant benefits in sertraline nonresponders compared to those continuing the standard doses, without a significant difference in responder rates.[79] There are a few uncontrolled trials demonstrating the utility of higher than recommended doses of SSRIs (40–50 mg of escitalopram) in resistant patients.[80] Use of higher than the recommended doses of SSRIs should be considered experimental and may be used only in resistant patients after exhausting other safer options due to the risk of serotonin syndrome and other adverse effects (third line treatment).
+ROLE OF OTHER SOMATIC TREATMENTS
+With the burgeoning evidence, neuromodulatory interventions play an increasing role in the clinical care of treatment-resistant OCD patients. Noninvasive neuromodulatory interventions target the cortical structures of the cortico-striato-thalamo-cortical (CSTC) circuits, whereas surgical techniques target the subcortical white matter pathways within these circuits.
+Noninvasive brain stimulation techniques
+Electroconvulsive therapy (ECT)
+ECT has not been systematically evaluated for the treatment of OCD. Available evidence, in the form of case reports and case series, does not provide evidence for the efficacy of ECT.[81] Hence, ECT is not recommended as a treatment for OCD and may be considered for the treatment of comorbid conditions like severe mood and psychotic disorders, if indicated.
+Repetitive transcranial magnetic stimulation (rTMS)
+rTMS entails the possibility of noninvasive and focal stimulation of cortical regions, thereby increasing or decreasing their excitability based on the stimulation protocol. While high-frequency rTMS (HF-rTMS) and intermittent theta burst stimulation (iTBS) are excitatory in nature, low-frequency rTMS (LF-rTMS) and continuous theta burst stimulation (cTBS) inhibit the targeted brain region. Meta-analyses of sham-controlled trials have consistently demonstrated a decrease in OCD symptoms as well as concomitant anxiety and depressive symptoms in active rTMS as compared to sham rTMS in treatment-resistant OCD.[82,83,84] However, these meta-analyses obscure important nuances, including heterogeneity in stimulation protocols, inconsistent results, and methodological limitations of individual studies.
+Network meta-analyses have supported the efficacy (with wide confidence intervals) of high-frequency rTMS of bilateral medial prefrontal cortex/anterior cingulate cortex (mPFC/ACC), high-frequency rTMS of bilateral dorsolateral prefrontal cortex (DLPFC), low-frequency rTMS of right DLPFC, and low-frequency rTMS of bilateral supplementary motor area (SMA) (level-2 evidence).[85,86,87] mPFC/ACC stimulation requires deep TMS coils, while the other protocols can be provided with the standard figure-8 coil. The individual studies evaluating DLPFC and SMA rTMS have shown inconsistent results. Overall, rTMS targeting bilateral DLPFC, right DLPFC, bilateral mPFC/ACC, and bilateral SMA can be attempted as augmenting agents in resistant OCD. As this is an evolving field, the evidence should be considered preliminary.
+Transcranial direct current stimulation (tDCS)
+tDCS is another focal and superficial cortical modulatory intervention, which either increases or decreases the excitability of the underlying cortex depending on the polarity of the stimulating electrode. Anodal stimulation increases cortical excitability, while cathodal stimulation decreases the excitability.[88] It has been studied less systematically compared to rTMS. Meta-analyses demonstrate consistent superiority of active tDCS compared to sham stimulation (with wide confidence intervals; level 2 evidence).[89,90] Cathodal stimulation of the SMA has been the most commonly evaluated protocol in active and sham-controlled trials. While most trials employing this protocol showed promising results,[91,92,93] a recent large RCT showed inconsistent results across different outcomes.[94] Hence, the evidence has been downgraded to level 2. Anodal tDCS of the right cerebellum[95,96] and SMA[97] have level 3 evidence, respectively. Overall, cathodal stimulation of SMA can be recommended as the preferred montage, followed by anodal stimulation of the right cerebellum and anodal stimulation of SMA.[88]
+The level of evidence and strength of recommendations for noninvasive neuromodulatory interventions are summarized in Table 10.
+Table 10.
+Evidence for noninvasive neuromodulatory intervention protocols for resistant OCD
+Protocol
+Level of evidence
+Strength of recommendations for augmentation with neuromodulation
+Repetitive transcranial magnetic stimulation (rTMS)
+High-frequency rTMS of bilateral mPFC/ACC
+2[85–87]
+First-line
+High-frequency rTMS of bilateral DLPFC
+2[85–87]
+First-line
+Low-frequency rTMS of right DLPFC
+2[85–87]
+First-line
+Low-frequency rTMS of bilateral SMA
+2[85–87]
+First-line
+Transcranial direct current stimulation (tDCS)
+Cathodal stimulation of SMA
+2[91–93]
+First-line
+Anodal stimulation of SMA
+3[95,96]
+Second-line
+Anodal stimulation of cerebellum
+3[97]
+Second-line
+Open in a new tab
+mPFC/ACC – medial prefrontal cortex/anterior cingulate cortex, DLPFC – dorsolateral prefrontal cortex, SMA – supplementary motor area
+Neurosurgical procedures
+Around 20% of patients do not respond to available pharmacological and psychological treatments. Neurosurgical interventions can be considered in consenting patients with chronic, severe, disabling, and treatment-refractory OCD. Suggested criteria for suitability to undergo surgery are shown in Table 11. The Mental Health Care Act 2017 mandates obtaining informed consent from the patient and permission from the Mental Health Review Board (MHRB) before performing psychosurgery.
+Table 11.
+Selection criteria for surgery
+1. Severe (Y-BOCS ≥28, lower scores i.e., ≥ 14 can be considered in those with predominant obsessions ) and chronic unremitting OCD of at least 5 years 2. The disorder is causing substantial distress and impairment in functioning (GAF ≤45) 3. The following treatment options tried systematically without appreciable effect on the symptoms
+Adequate trial with at least two of the SSRI antidepressants for at least 3 months each
+Treatment with clomipramine at optimum dosage for at least 3 months unless poorly tolerated
+Augmentation with at least two agents, one of them being an atypical antipsychotic: atypical antipsychotic (ripseridone, aripiprazole), memantine, lamotrigine, ondansetron, granisetron
+At least one adequate trial of cognitive behavior therapy (at least 20 sessions of exposure and response prevention) or demonstrated inability to tolerate the anxiety due to therapy
+Previous treatment trials have not been abandoned prematurely due to solely mild side effects
+4. Patient gives informed consent
+5. Willing to participate in the preoperative evaluation and postoperative periodic follow-up
+Relative contraindications:
+1. Comorbid intellectual disability, psychosis, bipolar disorder, and severe personality disorders
+2. Clinically significant and unstable neurologic illnesses
+Open in a new tab
+Ablative neurosurgery
+Ablative neurosurgical procedures involve producing lesions in specific regions of the CSTC circuit hypothesized to be dysfunctional in OCD. The lesions are generally produced by radio frequency thermal ablation or gamma knife radiosurgery. Laser interstitial thermal therapy and magnetic resonance guided focused ultrasound are recent innovations that allow real-time monitoring of lesions. However, they are not widely available. Due to the invasive nature of the procedure and the long latency of treatment response, the majority of the evidence is in the form of case series and open-label studies.
+Anterior capsulotomy, which involves producing lesions in the anterior limb of the internal capsule, is the most widely employed surgical technique for refractory OCD. A small RCT partially supported the efficacy of this intervention in refractory OCD.[98] Anterior cingulotomy is an alternative procedure conducted in a few centers. Due to the irreversible nature, these procedures are generally employed in treatment-refractory patients [Table 11]. Evidence primarily in the form of uncontrolled studies suggests that approximately 40–60% of patients experience improvement over 6–24 months following surgery. There is some suggestion that capsulotomy may be a more effective procedure in OCD[99,100] and that its efficacy may be similar to that of deep brain stimulation (DBS).[101] Surgery may be associated with short-term and persistent adverse effects, including personality changes, seizures, weight gain, radiation necrosis/cyst (gamma-knife surgeries), and cognitive adverse effects, although rates are not high (less than 3%).[102]
+Ablative procedures may be considered only in select patients after careful evaluation for treatment refractoriness, severity of illness, and comorbidities.
+Deep brain stimulation
+Deep brain stimulation (DBS) involves implantation of intracranial electrodes for delivering high-frequency stimulation of subcortical structures. The stimulation is delivered through a subcutaneously implanted stimulator. Although the mechanism of action is not completely understood, it is hypothesized to modify dysfunctional circuits. It is a potentially reversible procedure as the stimulation can be modulated to balance therapeutic and adverse effects. However, it is more expensive than ablative surgery and requires periodic follow-up for optimization of the stimulation parameters. It is an invasive procedure and can be associated with surgery-related, device-related, and stimulation-induced adverse effects.[103] DBS of the anterior limb of the internal capsule (ALIC), nucleus accumbens (NAc), ventral capsule/ventral striatum (VC/VS), bed nucleus of the stria terminalis (BNST), and anteromedial subthalamic nucleus (amSTN) has been found effective in sham-controlled trials (level 3 evidence).[104,105] The electrode for stimulating the ALIC target can have the distal contact implanted in the ventral striatum (the VC/VS) target or more posteriorly into the BNST.[106] Meta-analyses of sham-controlled trials have found consistent efficacy for active DBS.[104,105] Meta-analyses estimate a 47% decrease in Y-BOCS after DBS with a response rate ranging from 57% to 66% at the last follow-up.[105,107] DBS can be recommended in carefully selected refractory OCD patients [Table 12] after discussion regarding the pros and cons of the procedure. ALIC, VC/VS, BNST, and amSTN are the preferred targets due to their demonstrated efficacy in sham-controlled trials.
+Table 12.
+Neurosurgical procedures for treatment-refractory OCD
+Drug
+Level of evidence
+Strength of recommendations for neurosurgical interventions
+Ablative surgery
+Anterior capsulotomy^
+3[98,102]
+First-line
+Anterior cingulotomy^
+3[102]
+Second-line
+Deep brain stimulation[104,105]*
+Anterior limb of internal capsule
+3
+First-line
+Bed nucleus of stria terminalis
+3
+First-line
+Ventral capsule/ventral striatum
+3
+First-line
+Anteromedial subthalamic nucleus
+3
+First-line
+Superolateral branch of medial forebrain bundle
+3
+Second-line
+Inferior thalamic peduncle
+3
+Second-line
+Open in a new tab
+^Evidence primarily in the form of meta-analysis of uncontrolled trials, with a single small RCT for anterior capsulotomy *DBS has consistent meta-analytic evidence for treatment-refractory OCD (level 2), but individual targets have been studied in small sample size randomized controlled trials (RCTs) (level 3). The first-line DBS protocols have been evaluated in sham-controlled trials, while the second-line treatments have been evaluated in uncontrolled trials
+Neurosurgical procedures are not curative in nature, and they are only one aspect of a comprehensive treatment program that should continue following surgery. Patients should be informed about the realistic possibility of benefits and risks. The treatment should be conducted under close collaboration of a multidisciplinary team with close monitoring of adverse effects. The evidence is summarized in Table 12.
+PSYCHOLOGICAL TREATMENTS FOR OCD
+Behavioral therapy (BT) with exposure and response prevention (ERP) or cognitive behavioral therapy (CBT), which includes ERP as a core component along with cognitive restructuring, is a first-line psychotherapeutic treatment for OCD. The key focus in ERP is habituation of anxiety/distress through graded exposure and response prevention. Cognitive therapy (CT) typically does not include ERP but may include exposure tasks as ‘behavioral experiments’ with a focus on disconfirming beliefs, rather than habituation. The grading of evidence for various psychotherapeutic strategies is shown in Table 13.
+Table 13.
+Psychotherapies in OCD: Level of evidence and strength of recommendation
+Psychotherapy
+Level of Evidence
+Strength of recommendation
+Cognitive behavior therapy (including exposure and response prevention)
+1[33]
+First-line
+Behavior therapy (exposure and response prevention)
+1[33]
+First-line
+Cognitive Therapy (without ERP)
+1[33]
+First-line
+Mindfulness based cognitive behavior therapy
+2[108,109]
+Second-line
+Acceptance and commitment therapy
+2[110,111]
+Second-line
+Family Intervention
+2[112]
+Second-line
+Cognitive Remediation/Retraining
+3[113]
+Third-line
+Stress management and relaxation training
+4[61]
+Not recommended
+Thought stopping
+4[114]
+Not recommended
+Dynamic psychotherapy
+4[115]
+Not recommended
+Open in a new tab
+Cognitive Behavioral Therapy (CBT)/Exposure and Response Prevention (ERP)
+CBT/ERP as first-line monotherapy
+All evidence-based treatment guidelines recommend CBT/ERP as a first-line treatment option for OCD.[29,30,31] CBT/ERP has consistently been shown to be efficacious in the treatment of OCD,[33,116,117] although there has been some debate on the evidence for the efficacy of CBT/ERP in patients who are not on medication.[116,118] The majority of the RCTs have included patients who are on stable medication for 8–12 weeks. When facilities are available, CBT/ERP monotherapy may be recommended in mild to moderately ill patients. In severely ill patients, a combination of CBT and SSRI is recommended.
+CBT as an augmentation strategy
+CBT/ERP is found to be effective in augmenting SSRIs in partial responders/nonresponders to SSRIs.[60,61] A recent study found CBT to be superior to risperidone and placebo in augmenting SSRIs in OCD. Patients in the CBT group had significantly greater reductions in OCD symptom severity compared with participants taking risperidone or placebo. Risperidone was not superior to placebo on any outcome measures.
+When facilities are available, CBT/ERP is recommended as the first-line augmenting strategy in partial responders/nonresponders to SSRI treatment.
+Components of CBT/ERP and its modes of delivery
+The standard mode of delivery of CBT/ERP is through one-to-one/in-person sessions on an outpatient basis. The number of sessions has varied between 12 and 20, distributed over 3–4 months. The major components are psychoeducation, development of symptom hierarchy, cognitive restructuring, and ERP [Table 14]. Therapist-assisted ERP produces a greater change in symptom severity compared to self-guided exposure.
+Other modes/settings for delivering CBT/ERP are shown in Table 15. Remotely delivered treatments have been developed and studied, especially after COVID-19 pandemic. They broadly include video-conferencing/telephonically delivered CBT[119,120] and Internet-based CBT.[121] Both have been found efficacious compared to wait-list groups but may be inferior to in-person CBT in certain populations.[121,122] There is mixed evidence to suggest that Internet-based CBT with therapist guidance may be more effective than unguided Internet-based therapy.[121,123,124] Unguided Internet-based CBT may be attempted when therapist guidance is not feasible. Intensive, inpatient-based or residential-based approaches have been shown to be very effective for severely ill patients who may not be able to tolerate/adhere to outpatient therapy.[125,126,127] Group-based CBT/ERP has been shown to be comparable to individual therapy.[128] Concentrated ERP is a novel approach involving therapy delivery in a short duration (4 days) with small groups of 3–6 people and is shown to be highly efficacious.[129,130,131]
+Where resources are available, 15–20 hours of therapist-assisted CBT/ERP may be considered. When face-to-face CBT is not feasible, video-conferencing-based CBT may be considered for patients with mild to moderate illness. Inpatient/residential CBT/ERP may be considered for severely ill patients.
+Other evidence-based psychological therapies
+Mindfulness-based cognitive therapy
+Mindfulness-based approaches, which focus on developing a nonjudgmental attitude toward thoughts and experiences, have been tried in OCD. Preliminary data suggest its utility either standalone,[108,132] or in conjunction with CBT/ERP.[109,133]
+Acceptance and Commitment Therapy
+This therapy aims to improve psychological flexibility through the practice of acceptance and mindfulness in addition to commitment and behavior modification exercises. Preliminary evidence suggests its benefits,[110,111,134] but it needs to be tested and compared with CBT in larger samples.
+Family-inclusive treatments
+Family-inclusive treatment (FIT) approaches aim to include the family members in the treatment so as to improve the family functioning, facilitate behavioral therapy, and so on. Studies targeting family accommodation of obsessive-compulsive symptoms report greater improvements in patient functioning.[112] Family members may be encouraged to participate in CBT since family accommodation of symptoms is associated with poorer treatment outcomes.
+Stress management and relaxation training
+These have been conventionally used in many studies as control arm in studies evaluating CBT.[61,108] Stress management and relaxation training may have nonspecific effects, but there is no evidence suggesting their efficacy in the treatment of OCD.
+Other therapies
+There is preliminary evidence for cognitive remediation/retraining, but it has to be evaluated in larger controlled trials.[113] Other forms of psychological therapies with preliminary evidence include adjunct motivational interviewing to ERP and Eye Movement Desensitization and Reprocessing (EMDR).[135,136] There is one study examining the role of brief dynamic therapy in OCD with negative results.[115] The thought stopping technique has not shown encouraging results.[114] Meta-analyses have not shown encouraging results of adding D-cycloserine prior to augment ERP sessions.[137,138]
+Table 14.
+Components of CBT/ERP for OCD
+Step
+Components
+Assessment
+Assess nature and severity of OCD symptoms (Y-BOCS symptom checklist and severity rating)
+Examine the insight into the OCD symptoms
+Assessment of safety behaviors and avoidance strategies employed by the patient
+Look for current comorbid conditions such as depression that may interfere with CBT
+Assess the motivation levels and personality attributes of the patient
+Family’s involvement (accommodating the symptoms, proxy compulsions, expressed emotions) needs to be explored
+Psychoeducation
+Educate regarding the nature of obsessions and compulsions
+Explain the cycle of propagation of obsessions through performing compulsions and by avoiding the stimuli
+Discuss in detail the rationale behind CBT (concepts of habituation, fear extinction and the role of dysfunctional beliefs)
+Educate the family members about principles of CBT
+Formulate the therapy
+Formulation needs to be personalized
+Identify specific dysfunctional beliefs such as exaggerated threat perception, inflated responsibility, perfectionism, need to control thoughts, etc.
+Develop a collaborative understanding of the formulation with the patient (e.g., the goal is to eliminate fear of HIV infection and not reduce/prevent the chances of contracting HIV)
+Handling the thoughts
+Explain the “neutral spectatorship” principle towards obsessions (don’t interpret them, observe)
+Demonstrate how offering active resistance to obsessions is counterproductive and increases their salience
+Challenging the dysfunctional beliefs
+Foster the practice of gathering evidence for the thoughts (how likely would it happen/what is the worst consequence/less threatening alternative explanations, etc.)
+Socratic questioning initiated
+Examining the faulty appraisals with examples
+Preparing for behavioral experiments and ERP
+Behavioral Experiments – Exposure and Response prevention
+ERP forms the core of CBT. Exposure to anxiety provoking situations in a graded manner with negotiations and contracts at every step
+Rationale of ERP with examples – explain the principle of habituation and fear extinction and how ERP leads to disconfirmation of the fears
+Make a list of anxiety provoking situations/triggers in a hierarchical manner using subjective units of distress (0 to 100 subjective rating by the patient)
+Expose the patient starting from the lowest anxiety provoking situation and gradually escalate the level. Each session lasting for 1-1 ½ hours, till the patient experiences reduction in distress/anxiety
+Homework assignments, consistent practice of ERP tasks insisted upon
+Relapse prevention
+Explain that treatment is a continuous process
+Periodic booster sessions to review the situation and to troubleshoot emerging issues
+Anticipation of future concerns such as change in the form of symptoms, relapse under stress, emergence of subtle avoidance behaviors, etc.
+Encourage regular work and other normal behaviors
+Open in a new tab
+Table 15.
+Modes of Delivery of CBT for OCD
+Psychotherapy
+Level of Evidence
+Strength of recommendation
+In person (outpatient-based)
+1[61,121]
+First-line
+Group therapy
+1 [128]
+First-line
+Remote therapy (telephonic/videoconferencing)
+2[119,120]
+Second-line ^
+Internet-based (Therapist guided)
+1[124]
+Second-line ^
+Internet-based therapy (Self-guided)
+2[123,124]
+Third-line*
+Intensive – Residential/Inpatient
+2 [126]
+Second-line#
+Concentrated ERP – (Eg Bergen 4-day treatment)
+3[129,130]
+Third-line
+Open in a new tab
+^There is a larger body and better quality of evidence for face-to-face CBT compared to video-conferencing-based and Internet-based CBT. *Therapist-guided Internet-based therapy has been found to be more effective than self-guided Internet-based therapy.[121] #Meta-analysis of 43 uncontrolled studies comparing baseline vs postintervention symptoms showing large effect sizes with narrow confidence intervals
+MANAGEMENT AS PER THE DIFFERENT PHASES OF ILLNESS
+Acute phase
+Includes decision on choice of treatment modality (SSRI vs. CBT), implementation of treatment, monitoring for the response and side effects, and planning for sequential treatment trials if initial treatments failed to produce satisfactory improvement.
+Maintenance treatment
+There is evidence for ongoing improvement with continued use of SSRIs and clomipramine in long-term continuation studies for a period of up to 1 year.[38] Guidelines recommend continuation of SSRIs/clomipramine for at least 1–2 years after achieving remission. Clinical experience dictates that discontinuation of medication beyond that period may be associated with increased chance of relapse. Hence, discontinuation of medications should be carefully considered based on individual patient factors including severity and duration of illness, past history of relapse on discontinuation, residual symptoms, and comorbidities. Most patients may require continued pharmacotherapy to prevent relapses. Medications are generally recommended to be continued at the same dose that resulted in improvement, unless the dosage is not tolerated.
+MANAGEMENT OF COMORBID CONDITIONS
+Depression and anxiety disorders
+A high comorbidity rate with major depression, anxiety disorders, obsessive-compulsive-related disorders and neurodevelopmental disorders is observed across the life-span.[8] Identification and intervention of depression and anxiety comorbidity can decrease morbidity and suicidal risk. The most common co-occurring illness is major depression. Integrated and transdiagnostic care with comprehensive assessment and management plans should address the range of symptoms, including suicidality, particularly in those with severe depressive episodes. The pharmacological treatment strategy does not change much; however, in severe depression, CBT/ERP may be deferred until the improvement of depression. Severe depression with prominent suicidal ideas needs to be evaluated thoroughly and electroconvulsive therapy may be considered, if indicated. Comorbid dysthymia is common and may require individual psychotherapy.
+Comorbid anxiety disorder needs to be treated aggressively since untreated anxiety disorder may contribute to poor treatment outcome. Comorbid anxiety disorders may require CBT in addition to SSRIs. Overall, the standard evidence-based treatment strategies for OCD apply even in the presence of depression and anxiety comorbidity.[139]
+Tic disorders
+Accurate diagnosis needs distinguishing between tics and compulsions since overlapping symptoms may affect the assessment. The DSM-5 “tic-related” specifier for OCD highlights the unique challenges of this group.[7] Patients with comorbid tics often present with “just right” obsessions, symmetry, and aggressive or exactness-related symptoms. Tic disorders show the best response to antipsychotics (aripiprazole, risperidone, haloperidol). For management of tics, adrenegic α2 agonists (clonidine and guanfacine) may be alternatives when there are adverse effects associated with antipsychotics. Habit-reversal therapy (HRT) is a potential first-line treatment option instead of or in combination with pharmacotherapy.
+There is evidence that OCD symptoms may not respond satisfactorily to an SSRI alone in cases where there is comorbidity with tics. OCD patients with tic disorders may require a combination of an SSRI and an antipsychotic.[140]
+Bipolar disorder
+Comorbid bipolar disorder calls for a different treatment strategy because SSRIs are well known to cause/exacerbate hypomania or mania. Mood stabilization should be the primary goal in treating OCD-bipolar patients.[141] In many patients with comorbid bipolar disorder, OCD often manifests/increases in severity in depressive episodes but improves in mania/hypomania episodes. In such patients, treatment with mood stabilizers alone may be considered. If OCD persists outside of the mood episodes, CBT may be preferred over SSRIs. However, if the patient requires an SSRI, it has to be prescribed under the cover of mood stabilizers or an atypical antipsychotic. Mood stabilizer treatment may be augmented with glutamate-modulating medications for improvement in OCD symptoms in patients with BD comorbidity.[142]
+Psychosis
+OC symptoms and OCD are not uncommon in those with schizophrenia; up to 25% of the schizophrenia patients report clinically significant OCD symptoms. SSRIs may be used in treating OCD comorbid with schizophrenia, but there is limited published evidence. Some second-generation antipsychotics such as clozapine, risperidone, and olanzapine may induce or even worsen OCD symptoms. If feasible, one may consider reducing dose or switching to antipsychotics with lower serotonergic activity (e.g., aripiprazole, amisulpiride). Effective management of OCD comorbid with psychosis involves careful selection and dose adjustment of antipsychotics, judicious use of SSRIs keeping in mind the potential pharmacokinetic interactions, and considering integration of CBT.[14]
+Personality disorders
+20% of the participants suffer from at least one comorbid personality disorder. The most common are obsessive-compulsive, narcissistic, and anxious-avoidant personality disorders. The presence of PD can complicate the course and outcome. OCD patients with different comorbid PDs differ in their therapeutic response to treatment. Borderline personality disorder, obsessive-compulsive personality disorder, and schizotypal disorder can contribute to poor outcomes. There are no systematic studies comparing the effects of treatment in OCD coexisting with PD. Generally, it is agreed upon that a combination of medications, CBT-ERP, and individual therapy is advocated.[143]
+OCD DURING PREGNANCY AND LACTATION
+Medication should be guided primarily by its safety data, severity of the illness, and benefit versus risk to the developing fetus. For newly diagnosed OCD during pregnancy and in the postpartum period, CBT/ERP is the preferred option.[144,145] Pre-pregnancy counseling for all women should include planning pregnancy, folate supplementation, discussion with the patient and spouse regarding options, and active liaison with obstetricians, ultrasonologists, and pediatricians.
+The following is the summary of SSRIs in pregnancy and lactation:
+If the patient is symptom-free for a long period, an attempt may be made to withdraw the SSRI gradually. However, the risk of relapse following discontinuation should be discussed.
+Benefits versus risks of continuing SSRIs during pregnancy should be discussed keeping in mind the fact that OCD can relapse following discontinuation.
+SSRIs as a group do not appear to be major teratogens.
+SSRIs, paroxetine in particular, have been associated with an increased risk for cardiac malformations (septal defects) (1.5–2%), as compared to the general population (1%), but the evidence is inconsistent. Paroxetine may be avoided; it may be less safe than the other SSRIs.[146]
+Some studies have reported an association between SSRI use in first trimester and anencephaly, craniosynostosis, and omphalocele. However, it must be emphasized that the risks are rare and the absolute risks are small.[147]
+When taken in late pregnancy, SSRIs may increase the risk of persistent pulmonary hypertension by more than twofold in the newborn (absolute risk, 3 infants per 1000 exposed vs. 1.2 infants per 1000 unexposed).[148]
+SSRIs have also been associated with decreased gestational age, low birth weight, and spontaneous abortion.
+Following birth, serotonergic toxicity and antidepressant discontinuation symptoms may manifest; therefore, it is important to liaise with pediatricians.
+Sertraline, fluvoxamine, and paroxetine are present in very low concentrations in the plasma of breast-fed infants (<3% of the maternal dose). It is surmised that they are relatively safe during breastfeeding. With fluoxetine and citalopram, infants can receive up to 15% of the maternal dose.[149,150]
+OCD IN CHILDREN AND ADOLESCENTS
+OCD is a common and often impairing condition in children and adolescents, with onset typically in late childhood or early adolescence. The estimated global prevalence of OCD in children and adolescents ranges from 2% to 4%.[151] In childhood OCD, males are over-represented, but the gender difference disappears by late adolescence.[152] Evidence-based guidelines consistently emphasize that CBT with ERP and SSRIs are the core interventions. The choice of treatment depends on the severity of the illness, developmental factors, family context, and resource availability. In addition to working with the child and family, it is essential to support the child’s adjustment in social settings, such as school (Box 1).
+Box 1: Working with the school to support a child with OCD
+Helping the teacher identify OCD related behaviors
+Additional time for assignments
+Preferential seating that minimizes OCD triggers
+Alternative ways for completing assignments or taking tests/exams
+Refraining from punishment for behaviors that are clearly resulting from OCD
+Supporting and reinforcing behavioral coping strategies
+Initial assessment and psychoeducation
+A comprehensive assessment of symptom severity, functional impairment, comorbidities (e.g., neurodevelopmental disorders, disruptive behavior disorders, anxiety, depression, tics, etc.), and family accommodation is essential before treatment initiation. Childhood OCD overall tends to have a relatively favorable prognosis compared to adult OCD. However, if left untreated, it may run a chronic course. Unlike in adults, acute onset and episodic courses may be relatively common, especially in very young children. This presentation warrants careful consideration in ruling out medical etiopathologies, such as the pediatric acute-onset neuropsychiatric syndromes (PANS).
+Psychoeducation for the child and family is an essential first step, explaining the nature of OCD, the rationale for treatments like ERP and SSRIs, and the role of family in maintaining symptoms. Risk assessment, including suicidality and any prior medication side effects, is essential before initiating treatment.
+First-line treatment: CBT with ERP
+CBT incorporating ERP is the treatment of choice for mild to moderate childhood OCD. Family involvement is strongly recommended, especially for younger children, to reduce accommodation and support adherence. Recent evidence suggests that telehealth ERP is as effective as in-person therapy, expanding access where specialist therapists are scarce.[153]
+Family-based CBT has been devised for young children. It is tailored to the child’s developmental needs and the family context. Young children require parental support and guidance in following through on CBT-ERP, given their low cognitive and emotional awareness. After parental psychoeducation, the focus on cognitive work is minimal. Exposure is the central component of therapy. With the parents’ support, the child is encouraged to face their symptoms, while the parent helps the child to stay with their anxiety, co-regulating the distress till it comes down. External, tangible rewards may be useful, through positive reinforcement, in keeping the child motivated to face their fears of the OCD bully.
+Adaptations in CBT also have to be done in the context of neurodevelopmental comorbidities, especially autism spectrum disorders (ASDs).[154] It is important to differentiate repetitive behaviors in OCD from the restricted repetitive behaviors in ASD. Given the low emotional awareness and possible challenges in noticing and monitoring anxiety, specific efforts are needed toward building emotional awareness and developing useful distress/anxiety rating methods. Visual mini-hierarchies, ecological support through caregivers, and multiple revisits to understand OCD and the CBT-ERP framework may be needed to improve adherence [Table 16].
+Table 16.
+Developmental considerations in CBT with children and adolescents
+Developmental considerations
+Description
+Child-friendly metaphors for OCD
+Any term, like a bully, or a monster, that makes it easy for the child to talk about their symptoms. Personification of the illness helps to distance and externalize the problem for the child, making it easier for them to talk about it.
+Assistance for emotional awareness and communication
+Use of pictures to help the child identify what they are feeling, and pictorial Likert scales to help them rate and monitor their emotions.
+Parental/caregiver involvement
+As a co-therapist or a support for the child, to assist with and supervise homework assignments.
+Addressing family accommodation
+Educating parents/caregivers about OCD, and how their responses affect the intensity and course of illness. Coaching them in modifying verbal and other responses.
+Open in a new tab
+Pharmacotherapy: SSRIs
+SSRIs are recommended for children with moderate to severe OCD, for those unable to engage effectively in CBT, or as augmentation when CBT response is partial. Among SSRIs, fluoxetine, sertraline, and fluvoxamine are the most extensively studied in pediatric populations.
+Treatment is initiated at lower doses than in adults, with gradual uptitration based on tolerability [Table 17]. The onset of clinical benefit may take 6–12 weeks, necessitating ongoing monitoring. SSRIs are generally well tolerated, though clinicians should monitor for behavioral activation, gastrointestinal disturbances, sleep disruption, and suicidality. While there is a recognized risk of emergent or worsening suicidal ideation and behavior in children, SSRIs should not be withheld when the potential benefit outweighs the risk. Rational use requires close supervision, careful monitoring for emergent phenomena such as behavioral activation or mood switching, and appropriate family psychoeducation.[155]
+Table 17.
+Recommended dose range in pediatric OCD[156]
+Drug
+Recommended dosage
+Escitalopram
+10-30 mg
+Fluoxetine
+20-80 mg
+Fluvoxamine
+50-300 mg
+Paroxetine-controlled release
+25-75 mg
+Sertraline
+50-200 mg
+Citalopram
+20-60 mg
+Clomipramine
+50-200 mg
+Open in a new tab
+Because the developing brain is more vulnerable to adverse effects, particularly with rapid dose escalation, the guiding principle remains to start low and go slow. Informed consent and regular clinical review are crucial for ensuring safe and effective treatment.
+Clomipramine, though effective in pediatric OCD, is less favored as a first-line option due to its poorer tolerability, including risks of cardiac and anticholinergic side effects. It is generally reserved for children who do not respond adequately to SSRIs.
+Combined treatment: CBT + SSRI
+Combination therapy is recommended for moderate-severe OCD or children with inadequate response to a single modality. The Pediatric OCD Treatment Study (POTS) showed that combination therapy is more effective than SSRI alone.[157] In practice, combination treatment often accelerates and enhances improvement, particularly in moderate to severe cases.
+Treatment-resistant OCD
+It is important to re-evaluate the diagnosis and comorbidities in nonresponders. Treatment strategies include ensuring adequate dose and duration of CBT/SSRI, considering clomipramine or augmentation (with antipsychotics), or intensive or inpatient CBT programs. Use of augmenting agents, especially antipsychotics like risperidone and aripiprazole, has largely been extrapolated from trials in adult populations. These may be clinically recommended, within the same caveats of starting low and going slow. Evidence for various treatment modalities for childhood OCD is summarized in Table 18.
+Table 18.
+Summary of evidence and recommendations for treatment of childhood OCD
+Treatment modality
+Level of evidence
+Recommendation
+Notes
+CBT
+1[158]
+First-line
+May be offered as the first option if it is feasible and preferred by the child and the family
+Family-based CBT
+1[159]
+First-line
+Preferred for young children with OCD
+SSRIs
+1[158]
+First-line
+May be offered even in mild and moderately ill children if CBT is not feasible
+Clomipramine
+1[160]
+Second-line
+Higher propensity for intolerable side effects makes it a second line treatment
+CBT+SSRI
+1[161,162]
+First-line
+Preferable in moderate to severe OCD in children and adolescents
+Antipsychotic augmentation (Aripiprazole and Risperidone)
+4[163,164]
+Third-line
+Use supported largely by clinical case reports
+Open in a new tab
+CBT - Cognitive behavior therapy, SSRI - Selective serotonin reuptake inhibitors. Long-term continuation of treatment
+Both CBT and SSRIs should be continued for several months beyond symptomatic remission to consolidate treatment gains. When SSRIs are used as monotherapy, it is generally advisable to maintain treatment for at least a year after remission, if not more, before attempting a cautious taper. Periodic booster sessions of CBT, along with family-based strategies to reduce accommodation and maintain supportive responding, can further strengthen long-term remission. Treatment duration should also consider the child’s developmental stage and life transitions. For instance, students navigating key academic milestones, such as the 10th and 12th grade board examinations in India, may benefit from ongoing treatment and support as transitional pressures at such stages can exacerbate symptoms.
+OCD IN THE GERIATRIC POPULATION
+Though the onset of OCD in the elderly is uncommon, its prevalence in older people is about the same as in the general adult population, with most having experienced symptoms for decades.[165] However, this group is less represented in clinical samples; for example, the International College of Obsessive-compulsive Spectrum Disorders (ICOCS) data indicated that only a small proportion (6%) of the total clinical population is aged 65 and over, suggesting a low utilization of specialized treatment centers by older adults with OCD.[166]
+Though the essential principles of assessment of OCD in the elderly are no different from those in others, the treating psychiatrist needs to have a comprehensive understanding of the patient’s symptoms and other comorbid conditions. Many ‘fears’ resembling OCD may be based on reality, for example, a ‘fear of falls.’ Repetitive questioning may be secondary to hearing loss, compulsive reassurance seeking, or both. New-onset OCD is rare in the geriatric population. Neurological conditions, medical conditions, or medication side effects that present with features of OCD should be ruled out in such patients.[167,168]
+Specific management strategies for older adults with OCD have not been evaluated; however, case studies report that treatment strategies used for younger adults with OCD appear effective.[167] Given the high rates of concurrent physical illnesses and use of multiple medications, psychological approaches are often recommended as first-line treatment. CBT with ERP has the best evidence, even in older adults.[169] A critical initial assessment for any older patient is to determine the extent of cognitive difficulties and sensory impairment. There is a need for patience, flexibility and adapt therapy to address the physical and cognitive limitations. Exposure tasks should maintain a level which is not physically overwhelming. Written guidelines and reminders may be required for exposure tasks to overcome forgetfulness. Care-givers should be involved as co-therapists when possible.[170]
+Evidence for the efficacy of pharmacological treatments has been primarily reported from open-label trial and case studies. SSRIs appear to be as effective as in the adult population.[167,168] However, older adults often have other concurrent medical illnesses and are likely on treatment with several medications. It is pertinent to start at a low dose, increase slowly, and stabilize at the minimum effective dose. Clomipramine may be avoided given the higher propensity of cardiac side effects, sedation, constipation, and falls. High-dose SSRIs should be used cautiously due to the high risk of falls and hyponatremia.[171]
+SSRIS IN MEDICALLY ILL
+SSRIs are generally safe in patients with cardiovascular problems. However, caution is needed in those with high arrhythmia risk, especially with citalopram/escitalopram due to QT prolongation. SSRIs are widely used to treat depression in diabetes. They may improve diabetic parameters, including improvements in HbA1c levels, reduced insulin requirements, enhanced insulin sensitivity, and improved glycemic control. SSRIs are not hepatotoxic; however, they should be used in lower doses and with caution in the presence of significant hepatic impairment as all SSRIs undergo biotransformation in the liver. All SSRIs are metabolized by the Cytochrome P450 system, and fluoxetine, fluvoxamine, and paroxetine also significantly inhibit P450 enzymes. Therefore, these agents may potentially interfere with a wide variety of other medications. Interactions with other drugs need to be considered, particularly in the elderly who are likely to be on many medications for other medical conditions. Citalopram/escitalopram and sertraline do not substantially inhibit P450 enzymes and therefore are associated with fewer drug interactions. In addition, SSRIs may increase the risk of upper gastrointestinal bleeding, particularly when combined with NSAIDs or antiplatelet agents. In elderly and frail patients, SSRIs are associated with increased risk of hyponatremia, especially in the first weeks of treatment, and hence need to be prescribed with careful monitoring of electrolytes. All SSRIs are renally excreted. Depression is common in those with chronic kidney disease (CKD) and end-stage renal disease (ESRD). If indicated, SSRIs are the preferred antidepressants. SSRIs such as paroxetine, citalopram, and escitalopram may have to be administered in lower doses in CKD and ESRD in the background of compromised renal functions. Since many patients with CKD and ESRD also suffer from cardiovascular disorders, citalopram (and perhaps escitalopram) may be used with caution since high doses of citalopram are associated with QTc prolongation and torsades de pointes.
+Side Effects of SSRIs
+The dosage of anti-obsessive drugs is higher than the usual antidepressant dose; hence, it is important for the clinician to discuss the common side effects. This issue is important because patients need to be on medications for a long duration. Sometimes an adjustment in dose or a switch in the time of the day the dose is taken is all that is needed. Rarely, stopping a particular medication and switching to an alternative may be necessary. Side effects of SSRIs and possible remedies are given in Table 19.
+Table 19.
+Side effects of SSRIs
+Somnolence
+Comment
+Management
+Drowsiness, insomnia
+All SSRIs can cause somnolence. Insomnia more common with fluoxetine.
+Insomnia: Fluoxetine may be prescribed in the morning. Benzodiazepines, Trazadone or zolpidem may be used for insomnia. Drowsiness: Prescribe bulk of dose at bedtime.
+Hypotension
+Not a usual side effect
+Conduction disturbances
+SSRIs have no effect on QTc and are not associated with arrhythmias and conduction disturbances Exception: Citalopram and escitalopram are associated with dose related increase in QTc and Torsades de pointes in overdose.
+SSRIs are generally safe in patients with cardiovascular diseases including the post myocardial infarction period. Sertraline appears to be the safest. Citalopram and escitalopram should be used with caution in those at risk for arrhythmia.
+Anticholinergic
+Not prominent with SSRIs except with paroxetine.
+Most get over the side effects. If they are troublesome, reduce the dose or change the SSRI.
+Gastrointestinal
+Nausea, vomiting, diarrhea, dyspepsia and anorexia are common. Nausea is more common with Fluvoxamine. Paroxetine can cause constipation. SSRIs may increase the risk of gastrointestinal bleeding.
+Common GI side-effects usually settle down with continued use. If they persist, reduce dose or change the SSRI. Proton pump inhibitors may be useful. Use SSRIs with caution when co-administered with aspirin, NSAIDs, or oral anticoagulants.
+Neurological
+Headache (and worsening of migraine), tremors and rarely akathisia, extrapyramidal symptoms, seizures, and dyskinesias
+Fine tremors, akathisia may respond to propranolol. Extrapyramidal symptoms respond to trihexiphenidyl. Headache responds to acetaminophen prn
+Activation/agitation
+Usually seen with fluoxetine
+Increase the dose gradually; benzodiazepines may help
+Switch to mania/hypomania
+Risk of switch to mania/hypomania is known in those with bipolar disorder
+Always use under the cover of mood stabilizers or atypical antipsychotics.
+Sexual dysfunction
+All SSRIs are associated with sexual dysfunction; prevalence may be as high as 60%. All phases of sexual response are affected including decreased libido, erectile dysfunction, decreased vaginal lubrication, delayed orgasm, and ejaculatory delay. Erectile dysfunction and ejaculatory delay are worse with paroxetine compared to other SSRIs.
+Identify if other causes such as depression and medical causes are contributing to sexual dysfunction. If possible, reduce dose or employ drug holidays, but this approach has the risk of relapse. Change to other SSRI may be considered. Sildenafil or tadalafil, cyproheptadine, and bupropion may improve sexual dysfunction.
+Hyponatremia
+SSRIs are associated with hyponatremia because of syndrome of inappropriate secretion of antidiuretic hormone (SIADH). Risk factors include old age, female gender, co-administration of drugs known to cause hyponatremia (diuretics, NSAIDs, ACE inhibitors etc), reduced glomerular filtration rate, and medical comorbidity
+Hyponatremia is common in elderly. Monitoring is essential. Referral to specialists if serum level is<125 mmol/L.
+Serotonin syndrome
+Nausea, vomiting, diarrhea, tremor, sweating, disorientation, restlessness, agitation, headache, increased heart rate, changes in blood pressure and temperature, twitching, tremors, myoclonic jerks, hyperreflexia, high fever, seizures, arrythmias, agitation, confusion, delirium, and even coma. Can occur with very high doses of SSRIs or a combination of SSRIs in high doses
+Stop the offending drugs immediately. Symptomatic management: benzodiazepines to treat agitation and/or seizures, intravenous fluids to maintain hydration, anti-emetic and anti-pyretic medications. In severe cases, cyproheptadine (8–12 mg/day) is given orally.
+Weight gain
+Known with all SSRIs, although there may be initial weight loss. Paroxetine is associated with weight gain more than other SSRIs.
+If weight gain is significant, an attempt may be made to shift to another SSRI. Lifestyle modification may be discussed. Drugs such as topiramate may be tried.
+Suicidal behavior
+SSRIs are associated with increased suicidal ideation and attempts in children.
+Children on SSRIs should be monitored closely for emergence of suicidal thoughts.
+Discontinuation syndrome
+Abrupt discontinuation may cause discontinuation syndrome, particularly with short-acting drugs (dizziness, nausea, vomiting, diarrhea, headache, fever, sweating, chills, insomnia, paresthesia, electric-shock-like sensations, anxiety, agitation, irritability, disorientation). Reported mostly with paroxetine. Typically occur within a week of discontinuation.
+Withdraw gradually. Taper SSRI by no more than 25% per week.
+Drug interactions
+Fluoxetine, paroxetine and fluvoxamine inhibit cytochrome P-450. Inhibit the metabolism and elevate levels of drugs metabolized by this system.
+Caution should be exercised in combining certain SSRIs with drugs that are essentially metabolized by cytochrome P-450 system. SSRIs can elevate clomipramine level resulting in more side effects, particularly seizures and serotonin syndrome; this combination should be used judiciously, and patients have to be monitored closely.
+Open in a new tab
+NSAID - Non-Steroidal Anti-Inflammatory Drugs (NSAIDs), ACE inhibitors - Angiotensin-Converting Enzyme inhibitors
+SUMMARY
+Recommendations are summarized in Table 20. SSRIs and CBT are the first-line treatment options for OCD. CBT alone may be tried in mild to moderately ill patients if facilities for CBT are available. In severe OCD, a combination of SSRI and CBT is recommended. In the Indian context, SSRIs are the preferred first-line treatment for OCD because of limited resources for delivering CBT. SSRIs are effective, well tolerated, and safe. For partial responders and nonresponders to SRIs, CBT is an effective augmenting agent, followed by atypical antipsychotics, memantine, ondansetron, and granisetron. rTMS and tDCS may also be used to augment SSRIs in responders with persistent symptoms, partial responders, and those resistant to SSRIs. Although an attempt may be made to taper and stop SSRI after 1–2 years of sustained remission, most patients may require indefinite continued treatment with an SSRI. DBS and ablative surgery may be considered in chronic, severe OCD if other established treatment options have failed to produce any clinically significant improvement. The suggested treatment algorithm is summarized in Figure 1.
+Table 20.
+Summary of treatment recommendations
+Establish a diagnosis of OCD. Assess for comorbid conditions such as mood and anxiety disorders and certain personality disorders (e.g., obsessive-compulsive and borderline personality disorders). In children, it is important to assess for comorbid ADHD, oppositional defiant disorder, tic disorders, and autism spectrum disorders. Untreated comorbid conditions may contribute to poor outcome.
+Where feasible, employ instruments such as the Y-BOCS to assess symptoms and their severity.
+Psychoeducation of the patient and family about OCD, its course and treatment options is essential.
+SSRIs and CBT involving ERP are the first-line evidence-based treatment options for OCD. In the Indian context, SSRIs are often the preferred first-line treatment options.
+All SSRIs are equally effective, but they differ in their side-effect profile. Choice of an SSRI for an individual patient is based on factors such as previous response, tolerability, acceptability, adverse effects, cost, and drug interactions.
+Most patients require higher than the usual antidepressant dose of an SSRI.
+There is no convincing evidence that clomipramine is superior to SSRIs. Since clomipramine has many side effects, it is not recommended as the first-line treatment option. It may be considered if patient fails to respond to two or more SSRIs.
+An adequate trial of an SSRI (or clomipramine) is for 12 weeks in optimum doses. Premature discontinuation is not recommended since most patients show improvement gradually over several weeks.
+SSRI has to be continued at least for 1–2 years after remission. However, most patients may require indefinite continued treatment with an SSRI to prevent relapses particularly those with severe and chronic illness, past history of relapse on discontinuation, and clinically significant residual symptoms. SSRIs are generally recommended to be continued at the same dose that resulted in improvement, unless the dose is not tolerated.
+CBT alone may be recommended in mild to moderately ill patients if facilities for CBT exist. However, most severely ill patients benefit from a combination of an SSRI and CBT.
+In partial responders and nonresponders to SSRIs, addition of CBT is recommended as the first option. If CBT is not feasible, an atypical antipsychotic in low dose (risperidone and aripiprazole) may be added as an augmenting agent. Memantine, ondansetron and granisetron are other augmenting agents.
+Inpatient treatment is recommended for severely ill, treatment-resistant patients, and those with comorbid conditions such as severe depression.
+ECT has no proven value in the treatment of OCD. rTMS is an effective augmenting strategy to treat resistant OCD.
+DBS and ablative surgery may be considered in chronic, severely ill, debilitating treatment refractory OCD.
+Open in a new tab
+Figure 1.
+Open in a new tab
+Treatment algorithm for treating a patient with OCD. * First-line treatment chosen based on feasibility, patient preference and severity of illness, CBT/BT - Cognitive behavior therapy/Behavior therapy. SSRI – Selective serotonin reuptake inhibitor, rTMS - repetitive transcranial magnetic stimulation, tDCS - transcranial direct current stimulation. **Preferred for severe OCD. $For severe, chronic, highly disabling, and treatment-refractory OCD
+Contribution
+All the authors contributed to writing of the initial draft versions and the final version.
+Conflicts of interest
+There are no conflicts of interest.
+Funding Statement
+Nil.
+REFERENCES
+1.Ruscio AM, Stein DJ, Chiu WT, Kessler RC. The epidemiology of obsessive-compulsive disorder in the National Comorbidity Survey Replication. Mol Psychiatry. 2010;15:53–63. doi: 10.1038/mp.2008.94. [DOI] [PMC free article] [PubMed] [Google Scholar]
+2.Collins PY, Patel V, Joestl SS, March D, Insel TR, Daar AS, et al. Grand challenges in global mental health. Nature. 2011;475:27–30. doi: 10.1038/475027a. [DOI] [PMC free article] [PubMed] [Google Scholar]
+3.Sharma E, Thennarasu K, Reddy YCJ. Long-term outcome of obsessive-compulsive disorder in adults: A meta-analysis. J Clin Psychiatry. 2014;75:1019–27. doi: 10.4088/JCP.13r08849. [DOI] [PubMed] [Google Scholar]
+4.García-Soriano G, Rufer M, Delsignore A, Weidt S. Factors associated with non-treatment or delayed treatment seeking in OCD sufferers: A review of the literature. Psychiatry Res. 2014;220:1–10. doi: 10.1016/j.psychres.2014.07.009. [DOI] [PubMed] [Google Scholar]
+5.Bloch MH, Landeros-Weisenberger A, Rosario MC, Pittenger C, Leckman JF. Meta-analysis of the symptom structure of obsessive-compulsive disorder. Am J Psychiatry. 2008;165:1532–42. doi: 10.1176/appi.ajp.2008.08020320. [DOI] [PMC free article] [PubMed] [Google Scholar]
+6.WHO Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR) Available from: https://www.who.int/publications/i/item/9789240077263. [Last accessed on 2025 Oct 24]
+7.American Psychiatric Association . Washington, D.C: American Psychiatric Publishing; 2013. Diagnostic and Statistical Manual of Mental Disorders, 5th Edition: DSM–5. [Google Scholar]
+8.Sharma E, Sharma LP, Balachander S, Lin B, Manohar H, Khanna P, et al. Comorbidities in obsessive-compulsive disorder across the lifespan: A systematic review and meta-analysis. Front Psychiatry. 2021;12:703701. doi: 10.3389/fpsyt.2021.703701. [DOI] [PMC free article] [PubMed] [Google Scholar]
+9.Brakoulias V, Starcevic V, Belloch A, Brown C, Ferrao YA, Fontenelle LF, et al. Comorbidity, age of onset and suicidality in obsessive-compulsive disorder (OCD): An international collaboration. Compr Psychiatry. 2017;76:79–86. doi: 10.1016/j.comppsych.2017.04.002. [DOI] [PubMed] [Google Scholar]
+10.Amerio A, Odone A, Liapis CC, Ghaemi SN. Diagnostic validity of comorbid bipolar disorder and obsessive-compulsive disorder: A systematic review. Acta Psychiatr Scand. 2014;129:343–58. doi: 10.1111/acps.12250. [DOI] [PubMed] [Google Scholar]
+11.Zutshi A, Reddy YCJ, Thennarasu K, Chandrashekhar CR. Comorbidity of anxiety disorders in patients with remitted bipolar disorder. Eur Arch Psychiatry Clin Neurosci. 2006;256:428–36. doi: 10.1007/s00406-006-0658-2. [DOI] [PubMed] [Google Scholar]
+12.Shashidhara M, Sushma BR, Viswanath B, Math SB, Janardhan Reddy YC. Comorbid obsessive compulsive disorder in patients with bipolar-I disorder. J Affect Disord. 2015;174:367–71. doi: 10.1016/j.jad.2014.12.019. [DOI] [PubMed] [Google Scholar]
+13.Mahasuar R, Janardhan Reddy YC, Math SB. Obsessive-compulsive disorder with and without bipolar disorder. Psychiatry Clin Neurosci. 2011;65:423–33. doi: 10.1111/j.1440-1819.2011.02247.x. [DOI] [PubMed] [Google Scholar]
+14.Sharma LP, Reddy YCJ. Obsessive-compulsive disorder comorbid with schizophrenia and bipolar disorder. Indian J Psychiatry. 2019;61(Suppl 1):S140–8. doi: 10.4103/psychiatry.IndianJPsychiatry_527_18. [DOI] [PMC free article] [PubMed] [Google Scholar]
+15.Sheehan DV, Lecrubier Y, Sheehan KH, Amorim P, Janavs J, Weiller E, et al. The mini-international neuropsychiatric interview (M.I.N.I.): The development and validation of a structured diagnostic psychiatric interview for DSM-IV and ICD-10. J Clin Psychiatry. 1998;59(Suppl 20):22–33. quiz 34-57. [PubMed] [Google Scholar]
+16.First MB, Williams JBW, Karg RS, Spitzer RL. Arlington, VA: American Psychiatric Publishing; 2015. Structured Clinical Interview for DSM-5® Disorders -- Clinician Version; p. 585. [Google Scholar]
+17.Tolin DF, Gilliam C, Wootton BM, Bowe W, Bragdon LB, Davis E, et al. Psychometric properties of a structured diagnostic interview for DSM-5 anxiety, mood, and obsessive-compulsive and related disorders. Assessment. 2018;25:3–13. doi: 10.1177/1073191116638410. [DOI] [PubMed] [Google Scholar]
+18.Goodman WK, Price LH, Rasmussen SA, Mazure C, Fleischmann RL, Hill CL, et al. The Yale-Brown obsessive compulsive scale. I. Development, use, and reliability. Arch Gen Psychiatry. 1989;46:1006–11. doi: 10.1001/archpsyc.1989.01810110048007. [DOI] [PubMed] [Google Scholar]
+19.Scahill L, Riddle MA, McSwiggin-Hardin M, Ort SI, King RA, Goodman WK, et al. Children’s Yale-Brown obsessive compulsive scale: Reliability and validity. J Am Acad Child Adolesc Psychiatry. 1997;36:844–52. doi: 10.1097/00004583-199706000-00023. [DOI] [PubMed] [Google Scholar]
+20.Rosario-Campos MC, Miguel EC, Quatrano S, Chacon P, Ferrao Y, Findley D, et al. The dimensional Yale-Brown obsessive-compulsive scale (DY-BOCS): An instrument for assessing obsessive-compulsive symptom dimensions. Mol Psychiatry. 2006;11:495–504. doi: 10.1038/sj.mp.4001798. [DOI] [PubMed] [Google Scholar]
+21.Abramowitz JS, Deacon BJ, Olatunji BO, Wheaton MG, Berman NC, Losardo D, et al. Assessment of obsessive-compulsive symptom dimensions: Development and evaluation of the dimensional obsessive-compulsive scale. Psychol Assess. 2010;22:180–98. doi: 10.1037/a0018260. [DOI] [PubMed] [Google Scholar]
+22.Eisen JL, Phillips KA, Baer L, Beer DA, Atala KD, Rasmussen SA. The brown assessment of beliefs scale: Reliability and validity. Am J Psychiatry. 1998;155:102–8. doi: 10.1176/ajp.155.1.102. [DOI] [PubMed] [Google Scholar]
+23.Neziroglu F, McKay D, Yaryura-Tobias JA, Stevens KP, Todaro J. The overvalued ideas scale: Development, reliability and validity in obsessive-compulsive disorder. Behav Res Ther. 1999;37:881–902. doi: 10.1016/s0005-7967(98)00191-0. [DOI] [PubMed] [Google Scholar]
+24.Obsessive Compulsive Cognitions Working Group Psychometric validation of the Obsessive Beliefs Questionnaire and the Interpretation of Intrusions Inventory: Part I. Behav Res Ther. 2003;41:863–78. doi: 10.1016/s0005-7967(02)00099-2. [DOI] [PubMed] [Google Scholar]
+25.Calvocoressi L, Mazure CM, Kasl SV, Skolnick J, Fisk D, Vegso SJ, et al. Family accommodation of obsessive-compulsive symptoms: Instrument development and assessment of family behavior. J Nerv Ment Dis. 1999;187:636–42. doi: 10.1097/00005053-199910000-00008. [DOI] [PubMed] [Google Scholar]
+26.Janardhan Reddy YC, Sundar AS, Narayanaswamy JC, Math SB. Clinical practice guidelines for obsessive-compulsive disorder. Indian J Psychiatry. 2017;59(Suppl 1):S74–90. doi: 10.4103/0019-5545.196976. [DOI] [PMC free article] [PubMed] [Google Scholar]
+27.de Mathis MA, Chacon P, Boavista R, de Oliveira MVS, de Barros PMF, Echevarria MAN, et al. Brazilian research consortium on obsessive-compulsive spectrum disorders guidelines for the treatment of adult obsessive-compulsive disorder. Part II: Cognitive-behavioral therapy. Braz J Psychiatry. 2023;45:431–47. doi: 10.47626/1516-4446-2023-3081. [DOI] [PMC free article] [PubMed] [Google Scholar]
+28.de Oliveira MVS, de Barros PMF, de Mathis MA, Boavista R, Chacon P, Echevarria MAN, et al. Brazilian research consortium on obsessive-compulsive spectrum disorders guidelines for the treatment of adult obsessive-compulsive disorder. Part I: Pharmacological treatment. Braz J Psychiatry. 2023;45:146–61. doi: 10.47626/1516-4446-2022-2891. [DOI] [PMC free article] [PubMed] [Google Scholar]
+29.Bandelow B, Allgulander C, Baldwin DS, Costa DL da C, Denys D, Dilbaz N, et al. World Federation of Societies of Biological Psychiatry (WFSBP) guidelines for treatment of anxiety, obsessive-compulsive and posttraumatic stress disorders-Version 3. Part II: OCD and PTSD. World J Biol Psychiatry. 2023;24:118–34. doi: 10.1080/15622975.2022.2086296. [DOI] [PubMed] [Google Scholar]
+30.Koran LM, Hanna GL, Hollander E, Nestadt G, Simpson HB, American Psychiatric Association Practice guideline for the treatment of patients with obsessive-compulsive disorder. Am J Psychiatry. 2007;164(7 Suppl):5–53. [PubMed] [Google Scholar]
+31.London: National Institute for Health and Care Excellence (NICE); 2013. Obsessive-compulsive disorder: Evidence Update September 2013: A summary of selected new evidence relevant to NICE clinical guideline 31 ‘Obsessive-compulsive disorder: Core interventions in the treatment of obsessive-compulsive disorder and body dysmorphic disorder’ (2005) Available from: http://www.ncbi.nlm.nih.gov/books/NBK552052/ . [Last accessed on 2025 Oct 02] [PubMed] [Google Scholar]
+32.Lam RW, Kennedy SH, Adams C, Bahji A, Beaulieu S, Bhat V, et al. Canadian Network for Mood and Anxiety Treatments (CANMAT) 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults: Réseau canadien pour les traitements de l’humeur et de l’anxiété (CANMAT) 2023 : Mise à jour des lignes directrices cliniques pour la prise en charge du trouble dépressif majeur chez les adultes. Can J Psychiatry. 2024;69:641–87. doi: 10.1177/07067437241245384. [DOI] [PMC free article] [PubMed] [Google Scholar]
+33.Skapinakis P, Caldwell DM, Hollingworth W, Bryden P, Fineberg NA, Salkovskis P, et al. Pharmacological and psychotherapeutic interventions for management of obsessive-compulsive disorder in adults: A systematic review and network meta-analysis. Lancet Psychiatry. 2016;3:730–9. doi: 10.1016/S2215-0366(16)30069-4. [DOI] [PMC free article] [PubMed] [Google Scholar]
+34.Fineberg NA, Reghunandanan S, Brown A, Pampaloni I. Pharmacotherapy of obsessive-compulsive disorder: Evidence-based treatment and beyond. Aust N Z J Psychiatry. 2013;47:121–41. doi: 10.1177/0004867412461958. [DOI] [PubMed] [Google Scholar]
+35.Cohen SE, Zantvoord JB, Storosum BWC, Mattila TK, Daams J, Wezenberg B, et al. Influence of study characteristics, methodological rigour and publication bias on efficacy of pharmacotherapy in obsessive-compulsive disorder: A systematic review and meta-analysis of randomised, placebo-controlled trials. BMJ Ment Health. 2024;27:e300951. doi: 10.1136/bmjment-2023-300951. [DOI] [PMC free article] [PubMed] [Google Scholar]
+36.Albert U, Aguglia E, Maina G, Bogetto F. Venlafaxine versus clomipramine in the treatment of obsessive-compulsive disorder: A preliminary single-blind, 12-week, controlled study. J Clin Psychiatry. 2002;63:1004–9. doi: 10.4088/jcp.v63n1108. [DOI] [PubMed] [Google Scholar]
+37.Denys D, van der Wee N, van Megen HJGM, Westenberg HGM. A double blind comparison of venlafaxine and paroxetine in obsessive-compulsive disorder. J Clin Psychopharmacol. 2003;23:568–75. doi: 10.1097/01.jcp.0000095342.32154.54. [DOI] [PubMed] [Google Scholar]
+38.Arumugham SS, Reddy YCJ. Commonly asked questions in the treatment of obsessive-compulsive disorder. Expert Rev Neurother. 2014;14:151–63. doi: 10.1586/14737175.2014.874287. [DOI] [PubMed] [Google Scholar]
+39.Bloch MH, McGuire J, Landeros-Weisenberger A, Leckman JF, Pittenger C. Meta-analysis of the dose-response relationship of SSRI in obsessive-compulsive disorder. Mol Psychiatry. 2010;15:850–5. doi: 10.1038/mp.2009.50. [DOI] [PMC free article] [PubMed] [Google Scholar]
+40.Issari Y, Jakubovski E, Bartley CA, Pittenger C, Bloch MH. Early onset of response with selective serotonin reuptake inhibitors in obsessive-compulsive disorder: A meta-analysis. J Clin Psychiatry. 2016;77:e605–11. doi: 10.4088/JCP.14r09758. [DOI] [PubMed] [Google Scholar]
+41.Balachander S, Kodancha PG, Arumugham SS, Sekharan JT, Narayanaswamy JC, Reddy YCJ. Effectiveness of venlafaxine in selective serotonin reuptake inhibitor-resistant obsessive-compulsive disorder: Experience from a specialty clinic in India. J Clin Psychopharmacol. 2019;39:82–5. doi: 10.1097/JCP.0000000000000989. [DOI] [PubMed] [Google Scholar]
+42.Koran LM, Quirk T, Lorberbaum JP, Elliott M. Mirtazapine treatment of obsessive-compulsive disorder. J Clin Psychopharmacol. 2001;21:537–9. doi: 10.1097/00004714-200110000-00016. [DOI] [PubMed] [Google Scholar]
+43.Koran LM, Gamel NN, Choung HW, Smith EH, Aboujaoude EN. Mirtazapine for obsessive-compulsive disorder: An open trial followed by double-blind discontinuation. J Clin Psychiatry. 2005;66:515–20. [PubMed] [Google Scholar]
+44.Mataix-Cols D, Fernández de la Cruz L, Nordsletten AE, Lenhard F, Isomura K, Simpson HB. Towards an international expert consensus for defining treatment response, remission, recovery and relapse in obsessive-compulsive disorder. World Psychiatry. 2016;15:80–1. doi: 10.1002/wps.20299. [DOI] [PMC free article] [PubMed] [Google Scholar]
+45.Dold M, Aigner M, Lanzenberger R, Kasper S. Antipsychotic augmentation of serotonin reuptake inhibitors in treatment-resistant obsessive-compulsive disorder: An update meta-analysis of double-blind, randomized, placebo-controlled trials. Int J Neuropsychopharmacol. 2015;18:pyv047. doi: 10.1093/ijnp/pyv047. [DOI] [PMC free article] [PubMed] [Google Scholar]
+46.Maiti R, Mishra A, Srinivasan A, Mishra BR. Pharmacological augmentation of serotonin reuptake inhibitors in patients with obsessive-compulsive disorder: A network meta-analysis. Acta Psychiatr Scand. 2023;148:19–31. doi: 10.1111/acps.13568. [DOI] [PubMed] [Google Scholar]
+47.McDougle CJ, Goodman WK, Leckman JF, Lee NC, Heninger GR, Price LH. Haloperidol addition in fluvoxamine-refractory obsessive-compulsive disorder. A double-blind, placebo-controlled study in patients with and without tics. Arch Gen Psychiatry. 1994;51:302–8. doi: 10.1001/archpsyc.1994.03950040046006. [DOI] [PubMed] [Google Scholar]
+48.Zhang W, Zhang Y, Yu E. Effectiveness and safety of memantine add-on treatment for refractory obsessive-compulsive disorder: A meta-analysis. J Coll Physicians Surg Pak. 2025;35:494–502. doi: 10.29271/jcpsp.2025.04.494. [DOI] [PubMed] [Google Scholar]
+49.Mowla A, Ghaedsharaf M. Pregabalin augmentation for resistant obsessive-compulsive disorder: A double-blind placebo-controlled clinical trial. CNS Spectr. 2020;25:552–6. doi: 10.1017/S1092852919001500. [DOI] [PubMed] [Google Scholar]
+50.Rodriguez CI, Kegeles LS, Levinson A, Feng T, Marcus SM, Vermes D, et al. Randomized controlled crossover trial of ketamine in obsessive-compulsive disorder: Proof-of-concept. Neuropsychopharmacology. 2013;38:2475–83. doi: 10.1038/npp.2013.150. [DOI] [PMC free article] [PubMed] [Google Scholar]
+51.Beaglehole B, Glue P, Neehoff S, Shadli S, McNaughton N, Kimber B, et al. Ketamine for treatment-resistant obsessive-compulsive disorder: Double-blind active-controlled crossover study. J Psychopharmacol. 2025;39:23–8. doi: 10.1177/02698811241301215. [DOI] [PMC free article] [PubMed] [Google Scholar]
+52.Sharma LP, Thamby A, Balachander S, Janardhanan CN, Jaisoorya TS, Arumugham SS, et al. Clinical utility of repeated intravenous ketamine treatment for resistant obsessive-compulsive disorder. Asian J Psychiatr. 2020;52:102183. doi: 10.1016/j.ajp.2020.102183. [DOI] [PubMed] [Google Scholar]
+53.Naderi S, Faghih H, Aqamolaei A, Mortazavi SH, Mortezaei A, Sahebolzamani E, et al. Amantadine as adjuvant therapy in the treatment of moderate to severe obsessive-compulsive disorder: A double-blind randomized trial with placebo control. Psychiatry Clin Neurosci. 2019;73:169–74. doi: 10.1111/pcn.12803. [DOI] [PubMed] [Google Scholar]
+54.Arabzadeh S, Shahhossenie M, Mesgarpour B, Rezaei F, Shalbafan MR, Ghiasi Z, et al. L-carnosine as an adjuvant to fluvoxamine in treatment of obsessive compulsive disorder: A randomized double-blind study. Hum Psychopharmacol. 2017:32. doi: 10.1002/hup.2584. doi: 10.1002/hup.2584. [DOI] [PubMed] [Google Scholar]
+55.Esalatmanesh S, Abrishami Z, Zeinoddini A, Rahiminejad F, Sadeghi M, Najarzadegan MR, et al. Minocycline combination therapy with fluvoxamine in moderate-to-severe obsessive-compulsive disorder: A placebo-controlled, double-blind, randomized trial. Psychiatry Clin Neurosci. 2016;70:517–26. doi: 10.1111/pcn.12430. [DOI] [PubMed] [Google Scholar]
+56.Nematizadeh M, Ghorbanzadeh H, Moghaddam HS, Shalbafan M, Boroon M, Keshavarz-Akhlaghi AA, et al. L-theanine combination therapy with fluvoxamine in moderate-to-severe obsessive-compulsive disorder: A placebo-controlled, double-blind, randomized trial. Psychiatry Clin Neurosci. 2023;77:478–85. doi: 10.1111/pcn.13565. [DOI] [PubMed] [Google Scholar]
+57.Hamanaka S, Kishi T, Sakuma K, Nishii Y, Hatano M, Iwata N. Serotonin 3 receptor antagonists for obsessive-compulsive disorder: A systematic review and pairwise meta-analysis. J Psychiatr Res. 2023;167:132–8. doi: 10.1016/j.jpsychires.2023.10.029. [DOI] [PubMed] [Google Scholar]
+58.Eissazade N, Mosavari H, Eghdami S, Boroon M, Ashrafi F, Shalbafan M. Efficacy and safety of 5-hydroxytryptamine-3 (5-HT3) receptor antagonists in augmentation with selective serotonin reuptake inhibitors (SSRIs) in the treatment of moderate to severe obsessive-compulsive disorder: A systematic review and meta-analysis of randomized clinical trials. Sci Rep. 2023;13:20837. doi: 10.1038/s41598-023-47931-x. [DOI] [PMC free article] [PubMed] [Google Scholar]
+59.Denys D, van Megen HJGM, van der Wee N, Westenberg HGM. A double-blind switch study of paroxetine and venlafaxine in obsessive-compulsive disorder. J Clin Psychiatry. 2004;65:37–43. doi: 10.4088/jcp.v65n0106. [DOI] [PubMed] [Google Scholar]
+60.Anand N, Sudhir PM, Math SB, Thennarasu K, Janardhan Reddy YC. Cognitive behavior therapy in medication non-responders with obsessive-compulsive disorder: A prospective 1-year follow-up study. J Anxiety Disord. 2011;25:939–45. doi: 10.1016/j.janxdis.2011.05.007. [DOI] [PubMed] [Google Scholar]
+61.Simpson HB, Foa EB, Liebowitz MR, Ledley DR, Huppert JD, Cahill S, et al. A randomized, controlled trial of cognitive-behavioral therapy for augmenting pharmacotherapy in obsessive-compulsive disorder. Am J Psychiatry. 2008;165:621–30. doi: 10.1176/appi.ajp.2007.07091440. [DOI] [PMC free article] [PubMed] [Google Scholar]
+62.Simpson HB, Foa EB, Liebowitz MR, Huppert JD, Cahill S, Maher MJ, et al. Cognitive-behavioral therapy vs risperidone for augmenting serotonin reuptake inhibitors in obsessive-compulsive disorder: A randomized clinical trial. JAMA Psychiatry. 2013;70:1190–9. doi: 10.1001/jamapsychiatry.2013.1932. [DOI] [PMC free article] [PubMed] [Google Scholar]
+63.Arumugham SS, Reddy JYC. Augmentation strategies in obsessive-compulsive disorder. Expert Rev Neurother. 2013;13:187–202. doi: 10.1586/ern.12.160. quiz 203. [DOI] [PubMed] [Google Scholar]
+64.Veale D, Miles S, Smallcombe N, Ghezai H, Goldacre B, Hodsoll J. Atypical antipsychotic augmentation in SSRI treatment refractory obsessive-compulsive disorder: A systematic review and meta-analysis. BMC Psychiatry. 2014;14:317. doi: 10.1186/s12888-014-0317-5. [DOI] [PMC free article] [PubMed] [Google Scholar]
+65.Zhou DD, Zhou XX, Li Y, Zhang KF, Lv Z, Chen XR, et al. Augmentation agents to serotonin reuptake inhibitors for treatment-resistant obsessive-compulsive disorder: A network meta-analysis. Prog Neuropsychopharmacol Biol Psychiatry. 2019;90:277–87. doi: 10.1016/j.pnpbp.2018.12.009. [DOI] [PubMed] [Google Scholar]
+66.Mirzazadeh H, Ghaeminia Y, Mohamad Niaei A, Kamran M, Razeghian Jahromi L, Moshfeghinia R. Memantine augmentation of escitalopram in treatment of executive function among patients with obsessive-compulsive disorder (OCD): A double-blind placebo-controlled randomized clinical trial. BMC Psychiatry. 2025;25:561. doi: 10.1186/s12888-025-06856-7. [DOI] [PMC free article] [PubMed] [Google Scholar]
+67.Andrade C. Augmentation with memantine in obsessive-compulsive disorder. J Clin Psychiatry. 2019;80:19f13163. doi: 10.4088/JCP.19f13163. [DOI] [PubMed] [Google Scholar]
+68.Suhas S, Malo PK, Kumar V, Issac TG, Chithra NK, Bhaskarapillai B, et al. Treatment strategies for serotonin reuptake inhibitor-resistant obsessive-compulsive disorder: A network meta-analysis of randomised controlled trials. World J Biol Psychiatry. 2023;24:162–77. doi: 10.1080/15622975.2022.2082525. [DOI] [PubMed] [Google Scholar]
+69.Eghdami S, Eissazade N, Heidari Mokarar M, Boroon M, Orsolini L, Shalbafan M. The safety and efficacy of N-acetylcysteine as an augmentation in the treatment of obsessive-compulsive disorder in adults: A systematic review and meta-analysis of randomized clinical trials. Front Psychiatry. 2024;15:1421150. doi: 10.3389/fpsyt.2024.1421150. [DOI] [PMC free article] [PubMed] [Google Scholar]
+70.Berlin HA, Koran LM, Jenike MA, Shapira NA, Chaplin W, Pallanti S, et al. Double-blind, placebo-controlled trial of topiramate augmentation in treatment-resistant obsessive-compulsive disorder. J Clin Psychiatry. 2011;72:716–21. doi: 10.4088/JCP.09m05266gre. [DOI] [PubMed] [Google Scholar]
+71.Mowla A, Khajeian AM, Sahraian A, Chohedri AH, Kashkoli F. Topiramate augmentation in resistant OCD: A double-blind placebo-controlled clinical trial. CNS Spectr. 2010;15:613–7. doi: 10.1017/S1092852912000065. [DOI] [PubMed] [Google Scholar]
+72.Afshar H, Akuchekian S, Mahaky B, Zarean E. Topiramate augmentation in refractory obsessive-compulsive disorder: A randomized, double-blind, placebo-controlled trial. J Res Med Sci. 2014;19:976–81. [PMC free article] [PubMed] [Google Scholar]
+73.Bandeira ID, Lins-Silva DH, Cavenaghi VB, Dorea-Bandeira I, Faria-Guimarães D, Barouh JL, et al. Ketamine in the treatment of obsessive-compulsive disorder: A systematic review. Harv Rev Psychiatry. 2022;30:135–45. doi: 10.1097/HRP.0000000000000330. [DOI] [PubMed] [Google Scholar]
+74.Kawashima Y, Yamada M, Furuie H, Kuniishi H, Akagi K, Kawashima T, et al. Effects of riluzole on psychiatric disorders with anxiety or fear as primary symptoms: A systematic review. Neuropsychopharmacol Rep. 2023;43:320–7. doi: 10.1002/npr2.12364. [DOI] [PMC free article] [PubMed] [Google Scholar]
+75.Diniz JB, Shavitt RG, Pereira CAB, Hounie AG, Pimentel I, Koran LM, et al. Quetiapine versus clomipramine in the augmentation of selective serotonin reuptake inhibitors for the treatment of obsessive-compulsive disorder: A randomized, open-label trial. J Psychopharmacol. 2010;24:297–307. doi: 10.1177/0269881108099423. [DOI] [PubMed] [Google Scholar]
+76.Diniz JB, Shavitt RG, Fossaluza V, Koran L, Pereira CA de B, Miguel EC. A double-blind, randomized, controlled trial of fluoxetine plus quetiapine or clomipramine versus fluoxetine plus placebo for obsessive-compulsive disorder. J Clin Psychopharmacol. 2011;31:763–8. doi: 10.1097/JCP.0b013e3182367aee. [DOI] [PubMed] [Google Scholar]
+77.Mowla A, Baniasadipour H. Is mirtazapine augmentation effective for patients with obsessive-compulsive disorder who failed to respond to sertraline monotherapy? A placebo-controlled, double-blind, clinical trial. Int Clin Psychopharmacol. 2023;38:4–8. doi: 10.1097/YIC.0000000000000415. [DOI] [PubMed] [Google Scholar]
+78.Pallanti S, Quercioli L, Bruscoli M. Response acceleration with mirtazapine augmentation of citalopram in obsessive-compulsive disorder patients without comorbid depression: A pilot study. J Clin Psychiatry. 2004;65:1394–9. doi: 10.4088/jcp.v65n1015. [DOI] [PubMed] [Google Scholar]
+79.Ninan PT, Koran LM, Kiev A, Davidson JRT, Rasmussen SA, Zajecka JM, et al. High-dose sertraline strategy for nonresponders to acute treatment for obsessive-compulsive disorder: A multicenter double-blind trial. J Clin Psychiatry. 2006;67:15–22. doi: 10.4088/jcp.v67n0103. [DOI] [PubMed] [Google Scholar]
+80.Rabinowitz I, Baruch Y, Barak Y. High-dose escitalopram for the treatment of obsessive-compulsive disorder. Int Clin Psychopharmacol. 2008;23:49–53. doi: 10.1097/YIC.0b013e3282f0f0c5. [DOI] [PubMed] [Google Scholar]
+81.Fontenelle LF, Coutinho ESF, Lins-Martins NM, Fitzgerald PB, Fujiwara H, Yücel M. Electroconvulsive therapy for obsessive-compulsive disorder: A systematic review. J Clin Psychiatry. 2015;76:949–57. doi: 10.4088/JCP.14r09129. [DOI] [PubMed] [Google Scholar]
+82.Hyde J, Carr H, Kelley N, Seneviratne R, Reed C, Parlatini V, et al. Efficacy of neurostimulation across mental disorders: Systematic review and meta-analysis of 208 randomized controlled trials. Mol Psychiatry. 2022;27:2709–19. doi: 10.1038/s41380-022-01524-8. [DOI] [PMC free article] [PubMed] [Google Scholar]
+83.Steuber ER, McGuire JF. A Meta-analysis of Transcranial Magnetic Stimulation in Obsessive-Compulsive Disorder. Biol Psychiatry Cogn Neurosci Neuroimaging. 2023;8:1145–55. doi: 10.1016/j.bpsc.2023.06.003. [DOI] [PubMed] [Google Scholar]
+84.Thatikonda NS, Vinod P, Balachander S, Bhaskarpillai B, Arumugham SS, Reddy YCJ. Efficacy of repetitive transcranial magnetic stimulation on comorbid anxiety and depression symptoms in obsessive-compulsive disorder: A meta-analysis of randomized sham-controlled trials. Can J Psychiatry. 2023;68:407–17. doi: 10.1177/07067437221121112. [DOI] [PMC free article] [PubMed] [Google Scholar]
+85.Vinod P, Thatikonda NS, Malo PK, Bhaskarapillai B, Arumugham SS, Janardhan Reddy YC. Comparative efficacy of repetitive transcranial magnetic stimulation protocols for obsessive-compulsive disorder: A network meta-analysis. Asian J Psychiatr. 2024;94:103962. doi: 10.1016/j.ajp.2024.103962. [DOI] [PubMed] [Google Scholar]
+86.Tseng PT, Hsu CW, Hung CM, Liang CS, Wang HY, Stubbs B, et al. The Efficacy and acceptability of non-invasive brain stimulation interventions for obsessive-compulsive disorder management: A network meta-analysis based on 24 stimulation methods. Acta Psychiatr Scand. 2025;152:112–24. doi: 10.1111/acps.13809. [DOI] [PMC free article] [PubMed] [Google Scholar]
+87.Fitzsimmons SMDD, van der Werf YD, van Campen AD, Arns M, Sack AT, Hoogendoorn AW, et al. Repetitive transcranial magnetic stimulation for obsessive-compulsive disorder: A systematic review and pairwise/network meta-analysis. J Affect Disord. 2022;302:302–12. doi: 10.1016/j.jad.2022.01.048. [DOI] [PubMed] [Google Scholar]
+88.Sreeraj VS, Arumugham SS, Venkatasubramanian G. Clinical practice guidelines for the use of transcranial direct current stimulation in psychiatry. Indian J Psychiatry. 2023;65:289–96. doi: 10.4103/indianjpsychiatry.indianjpsychiatry_496_22. [DOI] [PMC free article] [PubMed] [Google Scholar]
+89.Moshfeghinia R, Najibi A, Golabi F, Moradi M, Malekpour M, Abdollahifard S, et al. Efficacy and safety of transcranial direct current stimulation (tDCS) in patients with obsessive-compulsive disorder (OCD): A systematic review and meta-analysis of randomized controlled trials. Neurosci Biobehav Rev. 2025;173:106171. doi: 10.1016/j.neubiorev.2025.106171. [DOI] [PubMed] [Google Scholar]
+90.Yan L, Wang Y, Li M. Transcranial direct current stimulation in patients with obsessive-compulsive disorder: A meta-analysis of randomised controlled trials. Int J Psychiatry Clin Pract. 2025;29:1–8. doi: 10.1080/13651501.2025.2466498. [DOI] [PubMed] [Google Scholar]
+91.Alizadehgoradel J, Molaei B, Barzegar Jalali K, Pouresmali A, Sharifi K, Hallajian AH, et al. Targeting the prefrontal-supplementary motor network in obsessive-compulsive disorder with intensified electrical stimulation in two dosages: A randomized, controlled trial. Transl Psychiatry. 2024;14:78. doi: 10.1038/s41398-024-02736-y. [DOI] [PMC free article] [PubMed] [Google Scholar]
+92.Kumar L, Gupta B, Tripathi A, Joshi M, Kar SK. A single-blind, randomized controlled trial of transcranial direct current stimulation in adults with obsessive-compulsive disorder as early augmentation. CNS Spectr. 2025;30:e50. doi: 10.1017/S1092852925000173. [DOI] [PMC free article] [PubMed] [Google Scholar]
+93.Silva R de MF da, Brunoni AR, Goerigk S, Batistuzzo MC, Costa DL da C, Diniz JB, et al. Efficacy and safety of transcranial direct current stimulation as an add-on treatment for obsessive-compulsive disorder: A randomized, sham-controlled trial. Neuropsychopharmacology. 2021;46:1028–34. doi: 10.1038/s41386-020-00928-w. [DOI] [PMC free article] [PubMed] [Google Scholar]
+94.Harika-Germaneau G, Heit D, Drapier D, Sauvaget A, Bation R, Chatard A, et al. Treating refractory obsessive compulsive disorder with cathodal transcranial direct current stimulation over the supplementary motor area: A large multisite randomized sham-controlled double-blind study. Front Psychiatry. 2024;15:1338594. doi: 10.3389/fpsyt.2024.1338594. [DOI] [PMC free article] [PubMed] [Google Scholar]
+95.Bation R, Mondino M, Le Camus F, Saoud M, Brunelin J. Transcranial direct current stimulation in patients with obsessive compulsive disorder: A randomized controlled trial. Eur Psychiatry. 2019;62:38–44. doi: 10.1016/j.eurpsy.2019.08.011. [DOI] [PubMed] [Google Scholar]
+96.Akbari S, Hassani-Abharian P, Tajeri B. The effect of transcranial direct current stimulation (tDCS) on cerebellum in reduction of the symptoms of obsessive-compulsive disorder. Neurocase. 2022;28:135–9. doi: 10.1080/13554794.2021.1936073. [DOI] [PubMed] [Google Scholar]
+97.Gowda SM, Narayanaswamy JC, Hazari N, Bose A, Chhabra H, Balachander S, et al. Efficacy of pre-supplementary motor area transcranial direct current stimulation for treatment resistant obsessive compulsive disorder: A randomized, double blinded, sham controlled trial. Brain Stimul. 2019;12:922–9. doi: 10.1016/j.brs.2019.02.005. [DOI] [PubMed] [Google Scholar]
+98.Lopes AC, Greenberg BD, Canteras MM, Batistuzzo MC, Hoexter MQ, Gentil AF, et al. Gamma ventral capsulotomy for obsessive-compulsive disorder: A randomized clinical trial. JAMA Psychiatry. 2014;71:1066–76. doi: 10.1001/jamapsychiatry.2014.1193. [DOI] [PubMed] [Google Scholar]
+99.Leiphart JW, Valone FH. Stereotactic lesions for the treatment of psychiatric disorders. J Neurosurg. 2010;113:1204–11. doi: 10.3171/2010.5.JNS091277. [DOI] [PubMed] [Google Scholar]
+100.Brown LT, Mikell CB, Youngerman BE, Zhang Y, McKhann GM, Sheth SA. Dorsal anterior cingulotomy and anterior capsulotomy for severe, refractory obsessive-compulsive disorder: A systematic review of observational studies. J Neurosurg. 2016;124:77–89. doi: 10.3171/2015.1.JNS14681. [DOI] [PubMed] [Google Scholar]
+101.Hageman SB, van Rooijen G, Bergfeld IO, Schirmbeck F, de Koning P, Schuurman PR, et al. Deep brain stimulation versus ablative surgery for treatment-refractory obsessive-compulsive disorder: A meta-analysis. Acta Psychiatr Scand. 2021;143:307–18. doi: 10.1111/acps.13276. [DOI] [PubMed] [Google Scholar]
+102.Lai Y, Wang T, Zhang C, Lin G, Voon V, Chang J, et al. Effectiveness and safety of neuroablation for severe and treatment-resistant obsessive-compulsive disorder: A systematic review and meta-analysis. J Psychiatry Neurosci. 2020;45:356–69. doi: 10.1503/jpn.190079. [DOI] [PMC free article] [PubMed] [Google Scholar]
+103.Sharma LP, Ganesh UM, Arumugham SS, Srinivas D, Venkatasubramanian G, Reddy YJ. Deep brain stimulation - A primer for psychiatrists. Asian J Psychiatr. 2025;104:104354. doi: 10.1016/j.ajp.2024.104354. [DOI] [PubMed] [Google Scholar]
+104.Cohen SE, Niemeijer MJ, Zantvoord JB, van Wingen GA, Mocking RJT, Denys D. Deep brain stimulation for obsessive-compulsive-disorder: A systematic review and meta-analysis of individual participant outcome data from sham-controlled trials. Mol Psychiatry. 2025;30:4937–47. doi: 10.1038/s41380-025-03092-z. [DOI] [PubMed] [Google Scholar]
+105.Martinho FP, Duarte GS, Couto FS do. Efficacy, effect on mood symptoms, and safety of deep brain stimulation in refractory obsessive-compulsive disorder: A systematic review and meta-analysis. J Clin Psychiatry. 2020;81:19r12821. doi: 10.4088/JCP.19r12821. [DOI] [PubMed] [Google Scholar]
+106.Karas PJ, Lee S, Jimenez-Shahed J, Goodman WK, Viswanathan A, Sheth SA. Deep brain stimulation for obsessive compulsive disorder: Evolution of surgical stimulation target parallels changing model of dysfunctional brain circuits. Front Neurosci. 2018;12:998. doi: 10.3389/fnins.2018.00998. [DOI] [PMC free article] [PubMed] [Google Scholar]
+107.Gadot R, Najera R, Hirani S, Anand A, Storch E, Goodman WK, et al. Efficacy of deep brain stimulation for treatment-resistant obsessive-compulsive disorder: Systematic review and meta-analysis. J Neurol Neurosurg Psychiatry. 2022 doi: 10.1136/jnnp-2021-328738. jnnp-2021-328738. doi: 10.1136/jnnp-2021-328738. [DOI] [PubMed] [Google Scholar]
+108.Mathur S, Sharma MP, Balachander S, Kandavel T, Reddy YJ. A randomized controlled trial of mindfulness-based cognitive therapy vs stress management training for obsessive-compulsive disorder. J Affect Disord. 2021;282:58–68. doi: 10.1016/j.jad.2020.12.082. [DOI] [PubMed] [Google Scholar]
+109.Külz AK, Landmann S, Cludius B, Rose N, Heidenreich T, Jelinek L, et al. Mindfulness-based cognitive therapy (MBCT) in patients with obsessive-compulsive disorder (OCD) and residual symptoms after cognitive behavioral therapy (CBT): A randomized controlled trial. Eur Arch Psychiatry Clin Neurosci. 2019;269:223–33. doi: 10.1007/s00406-018-0957-4. [DOI] [PubMed] [Google Scholar]
+110.Zemestani M, Salavati M, Seyedolshohadayi A, Petersen JM, Ong CW, Twohig MP, et al. A preliminary examination of acceptance and commitment therapy versus exposure and response prevention for patients with obsessive-compulsive disorder on an optimal dose of SSRIs: A randomized controlled trial in Iran. Behav Modif. 2022;46:553–80. doi: 10.1177/0145445520982977. [DOI] [PubMed] [Google Scholar]
+111.Twohig MP, Hayes SC, Plumb JC, Pruitt LD, Collins AB, Hazlett-Stevens H, et al. A randomized clinical trial of acceptance and commitment therapy versus progressive relaxation training for obsessive-compulsive disorder. J Consult Clin Psychol. 2010;78:705–16. doi: 10.1037/a0020508. [DOI] [PMC free article] [PubMed] [Google Scholar]
+112.Baruah U, Pandian RD, Narayanaswamy JC, Bada Math S, Kandavel T, Reddy YCJ. A randomized controlled study of brief family-based intervention in obsessive compulsive disorder. J Affect Disord. 2018;225:137–46. doi: 10.1016/j.jad.2017.08.014. [DOI] [PubMed] [Google Scholar]
+113.Buhlmann U, Deckersbach T, Engelhard I, Cook LM, Rauch SL, Kathmann N, et al. Cognitive retraining for organizational impairment in obsessive-compulsive disorder. Psychiatry Res. 2006;144:109–16. doi: 10.1016/j.psychres.2005.10.012. [DOI] [PubMed] [Google Scholar]
+114.Stern RS. Obsessive thoughts: The problem of therapy. Br J Psychiatry. 1978;133:200–5. doi: 10.1192/bjp.133.3.200. [DOI] [PubMed] [Google Scholar]
+115.Maina G, Rosso G, Rigardetto S, Chiadò Piat S, Bogetto F. No effect of adding brief dynamic therapy to pharmacotherapy in the treatment of obsessive-compulsive disorder with concurrent major depression. Psychother Psychosom. 2010;79:295–302. doi: 10.1159/000318296. [DOI] [PubMed] [Google Scholar]
+116.Reid JE, Laws KR, Drummond L, Vismara M, Grancini B, Mpavaenda D, et al. Cognitive behavioural therapy with exposure and response prevention in the treatment of obsessive-compulsive disorder: A systematic review and meta-analysis of randomised controlled trials. Compr Psychiatry. 2021;106:152223. doi: 10.1016/j.comppsych.2021.152223. [DOI] [PubMed] [Google Scholar]
+117.Öst LG, Enebrink P, Finnes A, Ghaderi A, Havnen A, Kvale G, et al. Cognitive behavior therapy for obsessive-compulsive disorder in routine clinical care: A systematic review and meta-analysis. Behav Res Ther. 2022;159:104170. doi: 10.1016/j.brat.2022.104170. [DOI] [PubMed] [Google Scholar]
+118.Nezgovorova V, Reid J, Fineberg NA, Hollander E. Optimizing first line treatments for adults with OCD. Compr Psychiatry. 2022;115:152305. doi: 10.1016/j.comppsych.2022.152305. [DOI] [PubMed] [Google Scholar]
+119.Vogel PA, Solem S, Hagen K, Moen EM, Launes G, Håland ÅT, et al. A pilot randomized controlled trial of videoconference-assisted treatment for obsessive-compulsive disorder. Behav Res Ther. 2014;63:162–8. doi: 10.1016/j.brat.2014.10.007. [DOI] [PubMed] [Google Scholar]
+120.Turner CM, Mataix-Cols D, Lovell K, Krebs G, Lang K, Byford S, et al. Telephone cognitive-behavioral therapy for adolescents with obsessive-compulsive disorder: A randomized controlled non-inferiority trial. J Am Acad Child Adolesc Psychiatry. 2014;53:1298–307.e2. doi: 10.1016/j.jaac.2014.09.012. [DOI] [PMC free article] [PubMed] [Google Scholar]
+121.Lundström L, Flygare O, Andersson E, Enander J, Bottai M, Ivanov VZ, et al. Effect of internet-based vs face-to-face cognitive behavioral therapy for adults with obsessive-compulsive disorder: A randomized clinical trial. JAMA Netw Open. 2022;5:e221967. doi: 10.1001/jamanetworkopen.2022.1967. [DOI] [PMC free article] [PubMed] [Google Scholar]
+122.Salazar de Pablo G, Pascual-Sánchez A, Panchal U, Clark B, Krebs G. Efficacy of remotely-delivered cognitive behavioural therapy for obsessive-compulsive disorder: An updated meta-analysis of randomised controlled trials. J Affect Disord. 2023;322:289–99. doi: 10.1016/j.jad.2022.11.007. [DOI] [PubMed] [Google Scholar]
+123.Zhang W, Yang W, Ruan H, Gao J, Wang Z. Comparison of internet-based and face-to-face cognitive behavioral therapy for obsessive-compulsive disorder: A systematic review and network meta-analysis. J Psychiatr Res. 2023;168:140–8. doi: 10.1016/j.jpsychires.2023.10.025. [DOI] [PubMed] [Google Scholar]
+124.Polak M, Tanzer NK. Internet-based cognitive behavioural treatments for obsessive-compulsive disorder: A systematic review and meta-analysis. Clin Psychol Psychother. 2024;31:e2989. doi: 10.1002/cpp.2989. [DOI] [PubMed] [Google Scholar]
+125.Balachander S, Bajaj A, Hazari N, Kumar A, Anand N, Manjula M, et al. Long-term outcomes of intensive inpatient care for severe, resistant obsessive-compulsive disorder. Can J Psychiatry. 2020;65:779–89. doi: 10.1177/0706743720927830. [DOI] [PMC free article] [PubMed] [Google Scholar]
+126.Zisler EM, Meule A, Endres D, Schennach R, Jelinek L, Voderholzer U. Effects of inpatient, residential, and day-patient treatment on obsessive-compulsive symptoms in persons with obsessive-compulsive disorder: A systematic review and meta-analysis. J Psychiatr Res. 2024;176:182–97. doi: 10.1016/j.jpsychires.2024.06.007. [DOI] [PubMed] [Google Scholar]
+127.Nanjundaswamy MH, Arumugham SS, Narayanaswamy JC, Reddy YCJ. A prospective study of intensive in-patient treatment for obsessive-compulsive disorder. Psychiatry Res. 2020;291:113303. doi: 10.1016/j.psychres.2020.113303. [DOI] [PubMed] [Google Scholar]
+128.Schwartze D, Barkowski S, Burlingame GM, Strauss B, Rosendahl J. Efficacy of group psychotherapy for obsessive-compulsive disorder: A meta-analysis of randomized controlled trials. J Obsessive-Compulsive Relat Disord. 2016;10:49–61. [Google Scholar]
+129.Launes G, Hagen K, Sunde T, Öst LG, Klovning I, Laukvik IL, et al. A randomized controlled trial of concentrated ERP, self-help and waiting list for obsessive- compulsive disorder: The Bergen 4-day treatment. Front Psychol. 2019;10:2500. doi: 10.3389/fpsyg.2019.02500. [DOI] [PMC free article] [PubMed] [Google Scholar]
+130.Kvale G, Hansen B, Björgvinsson T, Børtveit T, Hagen K, Haseth S, et al. Successfully treating 90 patients with obsessive compulsive disorder in eight days: The Bergen 4-day treatment. BMC Psychiatry. 2018;18:323. doi: 10.1186/s12888-018-1887-4. [DOI] [PMC free article] [PubMed] [Google Scholar]
+131.Hansen B, Kvale G, Hagen K, Havnen A, Öst LG. The Bergen 4-day treatment for OCD: Four years follow-up of concentrated ERP in a clinical mental health setting. Cogn Behav Ther. 2019;48:89–105. doi: 10.1080/16506073.2018.1478447. [DOI] [PubMed] [Google Scholar]
+132.Didonna F, Lanfredi M, Xodo E, Ferrari C, Rossi R, Pedrini L. Mindfulness-based cognitive therapy for obsessive-compulsive disorder: A pilot study. J Psychiatr Pract. 2019;25:156–70. doi: 10.1097/PRA.0000000000000377. [DOI] [PubMed] [Google Scholar]
+133.Hertenstein E, Rose N, Voderholzer U, Heidenreich T, Nissen C, Thiel N, et al. Mindfulness-based cognitive therapy in obsessive-compulsive disorder-A qualitative study on patients’ experiences. BMC Psychiatry. 2012;12:185. doi: 10.1186/1471-244X-12-185. [DOI] [PMC free article] [PubMed] [Google Scholar]
+134.Lee EB. Acceptance and commitment therapy for obsessive-compulsive disorder. Psychiatr Clin North Am. 2025;48:457–66. doi: 10.1016/j.psc.2025.02.004. [DOI] [PubMed] [Google Scholar]
+135.McCabe RE, Rowa K, Farrell NR, Young L, Swinson RP, Antony MM. Improving treatment outcome in obsessive-compulsive disorder: Does motivational interviewing boost efficacy? J Obsessive-Compulsive Relat Disord. 2019;22:100446. [Google Scholar]
+136.Marsden Z, Lovell K, Blore D, Ali S, Delgadillo J. A randomized controlled trial comparing EMDR and CBT for obsessive-compulsive disorder. Clin Psychol Psychother. 2018;25:e10–8. doi: 10.1002/cpp.2120. [DOI] [PubMed] [Google Scholar]
+137.Bürkner PC, Bittner N, Holling H, Buhlmann U. D-cycloserine augmentation of behavior therapy for anxiety and obsessive-compulsive disorders: A meta-analysis. PLoS One. 2017;12:e0173660. doi: 10.1371/journal.pone.0173660. [DOI] [PMC free article] [PubMed] [Google Scholar]
+138.Mao L, Hu M, Luo L, Wu Y, Lu Z, Zou J. The effectiveness of exposure and response prevention combined with pharmacotherapy for obsessive-compulsive disorder: A systematic review and meta-analysis. Front Psychiatry. 2022;13:973838. doi: 10.3389/fpsyt.2022.973838. [DOI] [PMC free article] [PubMed] [Google Scholar]
+139.Klein Breteler J, Ikani N, Becker ES, Spijker J, Hendriks G. Comorbid depression and treatment of anxiety disorders, OCD, and PTSD: Diagnosis versus severity. J Affect Disord. 2021;295:1005–11. doi: 10.1016/j.jad.2021.08.146. [DOI] [PubMed] [Google Scholar]
+140.Jalenques I, Asatryan V, Tauveron-Jalenques U, Pereira B, Rondepierre F. Efficacy of pharmacological treatment in OCD comorbid with tic disorder: Systematic review and meta-analysis. J Psychiatr Res. 2024;180:24–32. doi: 10.1016/j.jpsychires.2024.09.048. [DOI] [PubMed] [Google Scholar]
+141.Amerio A, Odone A, Marchesi C, Ghaemi SN. Treatment of comorbid bipolar disorder and obsessive-compulsive disorder: A systematic review. J Affect Disord. 2014;166:258–63. doi: 10.1016/j.jad.2014.05.026. [DOI] [PubMed] [Google Scholar]
+142.Netto VDM, Flores CA, Pallanti S. Pharmacological treatment for comorbid bipolar disorder and obsessive-compulsive disorder in adults. J Psychiatr Pract. 2020;26:383–93. doi: 10.1097/PRA.0000000000000499. [DOI] [PubMed] [Google Scholar]
+143.Thamby A, Khanna S. The role of personality disorders in obsessive-compulsive disorder. Indian J Psychiatry. 2019 Jan;61(Suppl 1):S114–8. doi: 10.4103/psychiatry.IndianJPsychiatry_526_18. [DOI] [PMC free article] [PubMed] [Google Scholar]
+144.Marchesi C, Ossola P, Amerio A, Daniel BD, Tonna M, De Panfilis C. Clinical management of perinatal anxiety disorders: A systematic review. J Affect Disord. 2016;190:543–50. doi: 10.1016/j.jad.2015.11.004. [DOI] [PubMed] [Google Scholar]
+145.Challacombe FL, Salkovskis PM, Woolgar M, Wilkinson EL, Read J, Acheson R. A pilot randomized controlled trial of time-intensive cognitive-behaviour therapy for postpartum obsessive-compulsive disorder: Effects on maternal symptoms, mother-infant interactions and attachment. Psychol Med. 2017;47:1478–88. doi: 10.1017/S0033291716003573. [DOI] [PubMed] [Google Scholar]
+146.Bar-Oz B, Einarson T, Einarson A, Boskovic R, O’Brien L, Malm H, et al. Paroxetine and congenital malformations: Meta-Analysis and consideration of potential confounding factors. Clin Ther. 2007;29:918–26. doi: 10.1016/j.clinthera.2007.05.003. [DOI] [PubMed] [Google Scholar]
+147.Louik C, Lin AE, Werler MM, Hernández-Díaz S, Mitchell AA. First-trimester use of selective serotonin-reuptake inhibitors and the risk of birth defects. N Engl J Med. 2007;356:2675–83. doi: 10.1056/NEJMoa067407. [DOI] [PubMed] [Google Scholar]
+148.Kieler H, Artama M, Engeland A, Ericsson O, Furu K, Gissler M, et al. Selective serotonin reuptake inhibitors during pregnancy and risk of persistent pulmonary hypertension in the newborn: Population based cohort study from the five Nordic countries. BMJ. 2012;344:d8012. doi: 10.1136/bmj.d8012. [DOI] [PubMed] [Google Scholar]
+149.Berle JØ, Spigset O. Antidepressant use during breastfeeding. Curr Womens Health Rev. 2011;7:28–34. doi: 10.2174/157340411794474784. [DOI] [PMC free article] [PubMed] [Google Scholar]
+150.Den Besten-Bertholee D, Touw DJ, Damer EA, Mian P, Ter Horst PGJ. Sertraline, citalopram and paroxetine in lactation: Passage into breastmilk and infant exposure. Front Pharmacol. 2024;15:1414677. doi: 10.3389/fphar.2024.1414677. [DOI] [PMC free article] [PubMed] [Google Scholar]
+151.Geller DA. Obsessive-compulsive and spectrum disorders in children and adolescents. Psychiatr Clin North Am. 2006;29:353–70. doi: 10.1016/j.psc.2006.02.012. [DOI] [PubMed] [Google Scholar]
+152.Mathes BM, Morabito DM, Schmidt NB. Epidemiological and clinical gender differences in OCD. Curr Psychiatry Rep. 2019;21:36. doi: 10.1007/s11920-019-1015-2. [DOI] [PubMed] [Google Scholar]
+153.Franklin ME, Engelmann JM, Bulkes NZ, Horvath G, Piacsek K, Osterlund E, et al. Intensive cognitive-behavioral therapy telehealth for pediatric obsessive-compulsive disorder during the COVID-19 pandemic: Comparison with a matched sample treated in person. JAACAP Open. 2024;2:26–35. doi: 10.1016/j.jaacop.2023.09.007. [DOI] [PMC free article] [PubMed] [Google Scholar]
+154.Jassi A, Fernández de la Cruz L, Russell A, Krebs G. An evaluation of a new autism-adapted cognitive behaviour therapy manual for adolescents with obsessive-compulsive disorder. Child Psychiatry Hum Dev. 2021;52:916–27. doi: 10.1007/s10578-020-01066-6. [DOI] [PMC free article] [PubMed] [Google Scholar]
+155.JM Rey’s IACAPAP e-Textbook. IACAPAP. Available from: https://iacapap.org/resources/e-textbook.html . [Last accessed on 2025 Oct 25]
+156.Medication for Pediatric OCD International OCD Foundation. Available from: https://iocdf.org/ocd-treatment-guide/medication-pediatric/ . [Last accessed on 2025 Oct 26]
+157.Pediatric OCD Treatment Study (POTS) Team Cognitive-behavior therapy, sertraline, and their combination for children and adolescents with obsessive-compulsive disorder: The Pediatric OCD Treatment Study (POTS) randomized controlled trial. JAMA. 2004;292:1969–76. doi: 10.1001/jama.292.16.1969. [DOI] [PubMed] [Google Scholar]
+158.Cervin M, McGuire JF, D’Souza JM, De Nadai AS, Aspvall K, Goodman WK, et al. Efficacy and acceptability of cognitive-behavioral therapy and serotonin reuptake inhibitors for pediatric obsessive-compulsive disorder: A network meta-analysis. J Child Psychol Psychiatry. 2024;65:594–609. doi: 10.1111/jcpp.13934. [DOI] [PubMed] [Google Scholar]
+159.McGrath CA, Abbott MJ. Family-based psychological treatment for obsessive compulsive disorder in children and adolescents: A meta-analysis and systematic review. Clin Child Fam Psychol Rev. 2019;22:478–501. doi: 10.1007/s10567-019-00296-y. [DOI] [PubMed] [Google Scholar]
+160.Varigonda AL, Jakubovski E, Bloch MH. Systematic review and meta-analysis: early treatment responses of selective serotonin reuptake inhibitors and clomipramine in pediatric obsessive-compulsive disorder. J Am Acad Child Adolesc Psychiatry. 2016;55:851–9.e2. doi: 10.1016/j.jaac.2016.07.768. [DOI] [PMC free article] [PubMed] [Google Scholar]
+161.Skapinakis P, Caldwell D, Hollingworth W, Bryden P, Fineberg N, Salkovskis P, et al. A systematic review of the clinical effectiveness and cost-effectiveness of pharmacological and psychological interventions for the management of obsessive-compulsive disorder in children/adolescents and adults. Health Technol Assess. 2016;20:1–392. doi: 10.3310/hta20430. [DOI] [PMC free article] [PubMed] [Google Scholar]
+162.Mendez EM, Dahlsgaard KK, Hjelmgren JM, Mills JA, Suresh V, Strawn JR. What is the added benefit of combining cognitive behavioral therapy and selective serotonin reuptake inhibitors in youth with obsessive compulsive disorder? A Bayesian hierarchical modeling meta-analysis. J Child Adolesc Psychopharmacol. 2023;33:203–11. doi: 10.1089/cap.2023.0018. [DOI] [PMC free article] [PubMed] [Google Scholar]
+163.Rajalakshmi A, Pawar AKS. 5.41 psychopharmacological augmentation strategies in pediatric OCD: A systematic review and pooled analysis. J Am Acad Child Adolesc Psychiatry. 2023;62:S272. [Google Scholar]
+164.Younus S, Havel L, Stiede JT, Rast CE, Saxena K, Goodman WK, et al. Pediatric treatment-resistant obsessive compulsive disorder: Treatment options and challenges. Paediatr Drugs. 2024;26:397–409. doi: 10.1007/s40272-024-00639-5. [DOI] [PubMed] [Google Scholar]
+165.Heydarikhayat S, Kazeminia M, Heydarikhayat N, Rezaei M, Heydarikhayat N, Ziapour A. Prevalence of obsessive-compulsive disorder in the older person: A systematic review and meta-analysis. BMC Geriatr. 2024;24:874. doi: 10.1186/s12877-024-05440-0. [DOI] [PMC free article] [PubMed] [Google Scholar]
+166.Benatti B, Dell’Osso B, Rodriguez CI, Arici C, Palazzo C, Altamura AC, et al. Exploring sociodemographic and clinical correlates of older adults with obsessive-compulsive disorder: A report from the International College of Obsessive-Compulsive Disorders (ICOCS) Eur Neuropsychopharmacol. 2018;28:765–6. [Google Scholar]
+167.Jazi AN, Asghar-Ali AA. Obsessive-compulsive disorder in older adults: A comprehensive literature review. J Psychiatr Pract. 2020;26:175–84. doi: 10.1097/PRA.0000000000000463. [DOI] [PubMed] [Google Scholar]
+168.Ayers C, Najmi S. Obsessive-Compulsive Disorder and its Spectrum: A Life-Span Approach. Washington, DC, US: American Psychological Association; 2014. Treatment of obsessive-compulsive spectrum disorders in late life; pp. 97–116. [Google Scholar]
+169.Abramowitz JS. The psychological treatment of obsessive-compulsive disorder. Can J Psychiatry. 2006;51:407–16. doi: 10.1177/070674370605100702. [DOI] [PubMed] [Google Scholar]
+170.Carmin CN, Pollard CA, Ownby RL. Cognitive behavioral treatment of older adults with obsessive-compulsive disorder. Cogn Behav Pract. 1999;6:110–9. [Google Scholar]
+171.Taylor DM, Barnes TRE, Young AH. Wiley.com. Wiley; 2025. The Maudsley Prescribing Guidelines in Psychiatry, 15th Edition. Available from: https://www.wiley.com/en-in/The+Maudsley+Prescribing+Guidelines+ in+Psychiatry%2C+15th+Edition-p-9781394238774 . [Last accessed on 2025 Nov 13] [Google Scholar]
+Articles from Indian Journal of Psychiatry are provided here courtesy of Wolters Kluwer -- Medknow Publications
